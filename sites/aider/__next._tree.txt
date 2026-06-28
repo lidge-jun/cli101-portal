@@ -1,0 +1,2 @@
+:HL["/sites/aider/_next/static/chunks/c51641b9b9140561.css","style"]
+0:{"buildId":"NV6_H9xD2xBbn3eKHvKVr","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

@@ -1,0 +1,2 @@
+:HL["/sites/gemini-cli/_next/static/chunks/ee2f50fb9bc11e16.css","style"]
+0:{"buildId":"9ritqC_LcIsH78w5HTwmm","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"lang","paramType":"d","paramKey":"en","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

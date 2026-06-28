@@ -1,0 +1,2 @@
+:HL["/sites/omx/_next/static/chunks/219d6dfc1e0c47c7.css","style"]
+0:{"buildId":"TuNegUOL2o7PfDnr1AybV","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"lang","paramType":"d","paramKey":"en","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

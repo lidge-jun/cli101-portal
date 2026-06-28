@@ -1,0 +1,2 @@
+:HL["/sites/hermes/_next/static/chunks/cd1036751d1597fc.css","style"]
+0:{"buildId":"cNbfyKheWzjFcqZmbpx4q","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
