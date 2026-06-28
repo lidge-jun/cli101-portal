@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CLI 101 — Unified Portal</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f23; color: #e0e0e0; height: 100vh; display: flex; flex-direction: column; }
+.topbar { display: flex; align-items: center; gap: 2px; padding: 8px 16px; background: #1a1a2e; border-bottom: 1px solid #333; overflow-x: auto; flex-shrink: 0; }
+.topbar .logo { font-weight: 700; font-size: 15px; margin-right: 16px; white-space: nowrap; color: #4fc3f7; }
+.tab { padding: 6px 14px; font-size: 12px; border-radius: 6px; cursor: pointer; white-space: nowrap; transition: background .15s; color: #aaa; border: none; background: none; }
+.tab:hover { background: #1e3a5f; color: #ddd; }
+.tab.active { background: #4fc3f7; color: #000; font-weight: 600; }
+iframe { flex: 1; border: none; width: 100%; }
+</style>
+</head>
+<body>
+<nav class="topbar">
+  <span class="logo">CLI 101</span>
+</nav>
+<iframe id="frame" src=""></iframe>
+<script>
+const sites = [
+  { slug: 'aider', label: 'Aider' },
+  { slug: 'codex-cli', label: 'Codex CLI' },
+  { slug: 'gemini-cli', label: 'Gemini CLI' },
+  { slug: 'opencode', label: 'OpenCode' },
+  { slug: 'opencode-current', label: 'OpenCode+' },
+  { slug: 'claude-code', label: 'Claude Code' },
+  { slug: 'copilot-cli', label: 'Copilot CLI' },
+  { slug: 'antigravity', label: 'Antigravity' },
+  { slug: 'hermes', label: 'Hermes' },
+  { slug: 'lazycodex', label: 'LazyCodex' },
+  { slug: 'superpowers', label: 'Superpowers' },
+  { slug: 'omc', label: 'OMC' },
+  { slug: 'omx', label: 'OMX' },
+  { slug: 'omo', label: 'OMO' },
+];
+
+const nav = document.querySelector('.topbar');
+const frame = document.getElementById('frame');
+
+sites.forEach((s, i) => {
+  const btn = document.createElement('button');
+  btn.className = 'tab' + (i === 0 ? ' active' : '');
+  btn.textContent = s.label;
+  btn.dataset.slug = s.slug;
+  btn.onclick = () => switchSite(s.slug, btn);
+  nav.appendChild(btn);
+});
+
+function switchSite(slug, btn) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  frame.src = `sites/${slug}/index.html`;
+  history.replaceState(null, '', `#${slug}`);
+}
+
+// Load from hash or default
+const hash = location.hash.slice(1);
+const initial = sites.find(s => s.slug === hash) || sites[0];
+const initialBtn = document.querySelector(`[data-slug="${initial.slug}"]`);
+switchSite(initial.slug, initialBtn);
+</script>
+</body>
+</html>
