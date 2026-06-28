@@ -53,7 +53,8 @@ sites.forEach((s, i) => {
 function switchSite(slug, btn) {
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   btn.classList.add('active');
-  frame.src = `sites/${slug}/index.html`;
+  const base = location.pathname.replace(/\/index\.html$/, '').replace(/\/$/, '');
+  frame.src = `${base}/sites/${slug}/index.html`;
   history.replaceState(null, '', `#${slug}`);
 }
 
