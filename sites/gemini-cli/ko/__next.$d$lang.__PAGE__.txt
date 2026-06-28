@@ -1,649 +1,11 @@
 1:"$Sreact.fragment"
 2:"$Sreact.suspense"
-3:I[73570,["/cli101-portal/sites/gemini-cli/_next/static/chunks/1569d02568d582a5.js"],"PageClient"]
-2b:I[8038,["/cli101-portal/sites/gemini-cli/_next/static/chunks/1569d02568d582a5.js"],"SectionBlock"]
-4f:I[72949,["/cli101-portal/sites/gemini-cli/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/gemini-cli/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
-0:{"buildId":"RNhxen3KR-3S4DE4DZUgs","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"GE101","tagline":"GE101 developer-grade corpus guide","taglineEn":"GE101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_ge_overview.md","branding":{"slug":"ge101","name":"GE101","tagline_ko":"Gemini CLI 입문 + 코퍼스 심화","tagline_en":"Gemini CLI intro + corpus depth","accentLabel_ko":"000_overview/00_ge_overview.md","accentLabel_en":"000_overview/00_ge_overview.md","heroTitle_ko":"Ink/React 터미널 에이전트","heroTitle_en":"Ink/React terminal agent","heroSubtitle_ko":"개발자 문서 — 37섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 37 sections (000–015 + snippets)","terminalLines":["$$ npm i -g @google/gemini-cli","$$ gemini"],"prompt_ko":"> 이 함수에 단위 테스트 추가해줘","prompt_en":"> add unit tests for this function","ctaHash":"00-before-you-start","officialUrl":"https://github.com/google-gemini/gemini-cli","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"GE101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-gemini","order":2,"tier":"core","slug":"02-what-is-gemini","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/02-what-is-gemini.md","file_en":"en/02-what-is-gemini.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 패키지 구조","title_en":"Overview §1","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. TUI 설계","title_en":"Overview §2","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 에이전트 루프","title_en":"Overview §3","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 도구 런타임","title_en":"Overview §4","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 프롬프트 시스템","title_en":"Overview §5","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 스킬 시스템","title_en":"Overview §6","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. MCP 통합","title_en":"Overview §7","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 정책/가디언","title_en":"Overview §8","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 샌드박스","title_en":"Overview §9","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 모델 라우팅","title_en":"Overview §10","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 훅 시스템","title_en":"Overview §11","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. 확장 시스템","title_en":"Overview §12","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-13","order":19,"tier":"developer","slug":"07-overview-13","title_ko":"13. A2A 서버","title_en":"Overview §13","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-13.md","file_en":"en/07-overview-13.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-14","order":20,"tier":"developer","slug":"07-overview-14","title_ko":"14. 설정 시스템","title_en":"Overview §14","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-14.md","file_en":"en/07-overview-14.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":21,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_ge_tui.md","description_en":"001_tui-design/01_ge_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":22,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_ge_prompt.md","description_en":"002_prompt-context/02_ge_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":23,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_ge_tool.md","description_en":"003_tool-runtime/03_ge_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":24,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_ge_skill.md","description_en":"004_skill-system/04_ge_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":25,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_ge_subagent.md","description_en":"005_subagents-collab/05_ge_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":26,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_ge_surface.md","description_en":"006_app-server-client-surfaces/06_ge_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":27,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_ge_sandbox.md","description_en":"007_sandbox-exec-policy/07_ge_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":28,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_ge_config.md","description_en":"008_config-system/08_ge_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":29,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_ge_mcp.md","description_en":"009_mcp-orchestration/09_ge_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":30,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_ge_memory.md","description_en":"010_memory-pipeline/10_ge_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":31,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_ge_plugin.md","description_en":"011_plugin-system/11_ge_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":32,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_ge_guardian.md","description_en":"012_guardian-approval/12_ge_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":33,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_ge_etc.md","description_en":"013_etc/13_ge_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":34,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_ge_web-search.md","description_en":"014_web-search/14_ge_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":35,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":36,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],["$L29"],"$L2a"]}],"loading":null,"isPartial":false}
-2c:T6045,<h2>GE101 — 개발자 문서</h2>
-<p>P2: <strong>000–015 코퍼스</strong> + <strong>path:line 소스 스니펫</strong> + 기초 설명.</p>
-<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>130_gemini-cli/README.md</code></h3>
-<h2>📦 Installation</h2>
-<p>See
-<a href="https://www.geminicli.com/docs/get-started/installation">Gemini CLI installation, execution, and releases</a>
-for recommended system specifications and a detailed installation guide.</p>
-<h3>Quick Install</h3>
-<h4>Run instantly with npx</h4>
-<pre><code class="language-bash">
-
-## 코퍼스 — 000/ (인덱스·요약)
-
-### `000/01_corpus_navigation_map.md`
-
-# Corpus Navigation Map
-
-This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.
-
-For reversible old-to-new bucket proposals, see `/Users/jun/Developer/codex/000/02_corpus_move_candidates.md`.
-
-For the canonical relationship between `/Users/jun/Developer/codex/000/` and `/Users/jun/Developer/codex/000_overview/`, see `/Users/jun/Developer/codex/000/03_overview_canonical_map.md`.
-
-## Canonical Reading Spine
-
-| Purpose | Path | Classification |
-| --- | --- | --- |
-| Root overview and synthesis | `/Users/jun/Developer/codex/000/` | `overview-index` |
-| Deep harness overview docs | `/Users/jun/Developer/codex/000_overview/` | `deep-overview` |
-| TUI design axis | `/Users/jun/Developer/codex/001_tui-design/` | `canonical-doc-axis` |
-| Prompt/context axis | `/Users/jun/Developer/codex/002_prompt-context/` | `canonical-doc-axis` |
-| Tool/runtime axis | `/Users/jun/Developer/codex/003_tool-runtime/` | `canonical-doc-axis` |
-| Skill system axis | `/Users/jun/Developer/codex/004_skill-system/` | `canonical-doc-axis` |
-| Subagents/collaboration axis | `/Users/jun/Developer/codex/005_subagents-collab/` | `canonical-doc-axis` |
-| App/server/client surfaces axis | `/Users/jun/Developer/codex/006_app-server-client-surfaces/` | `canonical-doc-axis` |
-| Sandbox/exec/policy axis | `/Users/jun/Developer/codex/007_sandbox-exec-policy/` | `canonical-doc-axis` |
-| Config system axis | `/Users/jun/Developer/codex/008_config-system/` | `canonical-doc-axis` |
-| MCP orchestration axis | `/Users/jun/Developer/codex/009_mcp-orchestration/` | `canonical-doc-axis` |
-| Memory pipeline axis | `/Users/jun/Developer/codex/010_memory-pipeline/` | `canonical-doc-axis` |
-| Plugin system axis | `/Users/jun/Developer/codex/011_plugin-system/` | `canonical-doc-axis` |
-| Guardian/approval axis | `/Users/jun/Developer/codex/012_guardian-approval/` | `canonical-doc-axis` |
-| Cross-cutting notes | `/Users/jun/Developer/codex/013_etc/` | `supporting-docs` |
-| Web search notes | `/Users/jun/Developer/codex/014_web-search/` | `supporting-docs` |
-| Reverse engineering notes | `/Users/jun/Developer/codex/015_reverse-engineering/` | `supporting-docs` |
-
-## Reference Repositories and Artifact Sets
-
-| Current Path | Classification | First-Cycle Status |
-| --- | --- | --- |
-| `/Users/jun/Developer/codex/120_codex-cli/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/121_openai-codex/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/110_aider/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/130_gemini-cli/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/140_opencode/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/141_opencode-current/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/161_lazycodex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/160_hermes-agent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/162_superpowers/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/901_autoresearch/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/902_claude-usage-plugin/` | `reference-repo`, `plugin-artifact`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/170_oh-my-claudecode/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/171_oh-my-codex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/172_oh-my-openagent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/030_browser/` | `runtime-tooling`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/023_computer_use/` | `runtime-tooling`, `contains-nested-gitlink` | `blocked-nested-gitlink` |
-| `/Users/jun/Developer/codex/150_claude_code/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/151_copilot_cli/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/152_antigravity/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt` | `binary-or-package-artifact`, `reverse-engineering-evidence` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs` | `binary-or-package-artifact`, `reverse-engineering-tooling` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-
-## Proposed Future Buckets
-
-These are logical buckets only. They are not physical moves in this cycle.
-
-```text
-reference-repos/
-  codex/
-  competitor-harnesses/
-  plugins-and-extensions/
-analysis-artifacts/
-  reverse-engineering/
-  binary-package-reports/
-runtime-tools/
-  browser/
-  computer-use/
-docs/
-  overview-index/
-  deep-overview/
-  axes/
-</code></pre>
-<h2>Physical Rename Rule</h2>
-<p>Before a folder is moved, add an explicit mapping row using:</p>
-<pre><code class="language-text">old_path -> proposed_path | classification | move_status | evidence
-</code></pre>
-<p>For gitlinks, also reconcile <code>.gitmodules</code> before moving.</p>
-<h2>Top-Level Triage</h2>
-<p>Use this when scanning the root directory. Status is intentionally conservative: <code>keep-current</code> means the current path remains the source of truth for now.</p>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Triage</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/03_overview_canonical_map.md</code></h3>
-<h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
-<h2>Canonical Rule</h2>
-<ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
-<li>If the same filename exists in both folders and content differs, keep both:
-<ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
-</ul>
-</li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
-</ul>
-<h2>Paired Overview Files</h2>
-<table>
-<thead>
-<tr>
-<th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
-<th>Equal</th>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>00_ag_overview.md</code></td>
-<td align="right">27224</td>
-<td align="right">15790</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ai_overview.md</code></td>
-<td align="right">25716</td>
-<td align="right">25716</td>
-<td>yes</td>
-<td>duplicate content; defer dedupe until link audit</td>
-</tr>
-<tr>
-<td><code>00_ay_overview.md</code></td>
-<td align="right">3815</td>
-<td align="right">798</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cc_overview.md</code></td>
-<td align="right">25990</td>
-<td align="right">27537</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_co_overview.md</code></td>
-<td align="right">41569</td>
-<td align="right">17061</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cp_overview.md</code></td>
-<td align="right">23525</td>
-<td align="right">6854</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cr_overview.md</code></td>
-<td align="right">3216</td>
-<td align="right">595</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ge_overview.md</code></td>
-<td align="right">47345</td>
-<td align="right">35414</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_gr_overview.md</code></td>
-<td align="right">3310</td>
-<td align="right">546</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ki_overview.md</code></td>
-<td align="right">3360</td>
-<td align="right">692</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_oc_overview.md</code></td>
-<td align="right">43650</td>
-<td align="right">33628</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-</tbody>
-</table>
-<h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
-<pre><code class="language-text">00_hermes_overview.md
-00_lc_overview.md
-00_newharness_vs_cli-jaw_synthesis.md
-00_omc_overview.md
-00_omo_overview.md
-00_omx_overview.md
-00_sp_overview.md
-</code></pre>
-<h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
-<pre><code class="language-text">00_grand_synthesis.md
-00_harness-index.md
-00_harness-index_hermes.md
-00_harness-index_omc.md
-00_harness-index_omo.md
-00_harness-index_omx.md
-00_harness_synthesis_addendum.md
-01_corpus_navigation_map.md
-02_corpus_move_candidates.md
-03_overview_canonical_map.md
-</code></pre>
-<hr>
-<h3><code>000/00_ge_overview.md</code></h3>
-<h1>Gemini CLI 에이전트 엔진 검토 개요</h1>
-<p>이 문서는 <code>google-gemini/gemini-cli</code> 저장소의 코드 구조를 분석한다. 목적은 Codex 분석과 동일한 축(프롬프트 조립, 툴 런타임, 스킬, 서브에이전트, 샌드박스, 정책)으로 Gemini CLI의 내부를 파악하여 비교 분석 자산을 만드는 것이다.</p>
-<p>한 문장 결론: Gemini CLI는 <code>PromptProvider + ToolRegistry + Scheduler + PolicyEngine + HookSystem + SandboxManager + SkillManager + ModelRouter</code>가 이미 분리된 대규모 모노레포 엔진이며, 7개 패키지(<code>cli</code>, <code>core</code>, <code>sdk</code>, <code>a2a-server</code>, <code>devtools</code>, <code>vscode-ide-companion</code>, <code>test-utils</code>)로 구성된다. core 패키지만 379개 비테스트 소스 파일, cli 패키지 510개 파일, TUI 컴포넌트만 371개 파일이다.</p>
-<p>핵심은 열두 갈래다.</p>
-<ol>
-<li><strong>프롬프트 조립</strong>: <code>PromptProvider</code>가 <code>snippets.ts</code>의 렌더 함수 25개를 조합하여 시스템 프롬프트를 생성한다</li>
-<li><strong>턴 루프</strong>: <code>client.ts</code>(1267줄)가 다중 턴을 오케스트레이션하고 <code>turn.ts</code>(447줄)가 단일 턴을 처리한다</li>
-<li><strong>툴 런타임</strong>: <code>ToolRegistry</code> → <code>Scheduler</code> → <code>ToolExecutor</code> → <code>BaseDeclarativeTool.build()</code> → <code>ToolInvocation.execute()</code> 파이프라인</li>
-<li><strong>스킬 시스템</strong>: <code>SkillManager</code>가 Built-in → Extension → User → Workspace 순서로 YAML frontmatter 기반 <code>SKILL.md</code> 파일을 로딩한다</li>
-<li><strong>MCP</strong>: <code>McpClientManager</code> → <code>McpClient</code> → <code>DiscoveredMCPTool</code>로 외부 도구를 내장 도구와 동일 레지스트리에 등록한다</li>
-<li><strong>정책/가디언</strong>: <code>PolicyEngine</code> + <code>SandboxPolicyManager</code>가 TOML 기반 규칙으로 ALLOW/DENY/ASK_USER 삼분 결정을 내린다</li>
-<li><strong>샌드박스</strong>: macOS Seatbelt, Linux Seccomp, Windows AppContainer 세 플랫폼별 구현체</li>
-<li><strong>모델 라우팅</strong>: 8개 전략(<code>default</code>, <code>classifier</code>, <code>composite</code>, <code>fallback</code>, <code>override</code>, <code>approvalMode</code> 등)으로 동적 모델 선택</li>
-<li><strong>훅 시스템</strong>: <code>BeforeTool</code>, <code>AfterTool</code>, <code>BeforeAgent</code>, <code>AfterAgent</code> 등 11개 이벤트의 수명주기 훅</li>
-<li><strong>확장 시스템</strong>: <code>gemini-extension.json</code> 기반으로 MCP 서버, 정책, 스킬, 훅, 테마, 커맨드를 번들링</li>
-<li><strong>안전 검사</strong>: <code>Conseca</code> 기반 정책 생성기 + 외부 체커 프로토콜(<code>SafetyCheckInput</code>)</li>
-<li><strong>A2A 서버</strong>: <code>@a2a-js/sdk</code> 기반 Agent-to-Agent 프로토콜 서버로 HTTP API를 통한 태스크 실행</li>
-</ol>
-<pre><code class="language-mermaid">graph TD
-    A["사용자 입력 / IDE / A2A"] --> B["CLI App (React/Ink)"]
-    B --> C["GeminiClient (client.ts)"]
-    C --> D["Turn (turn.ts)"]
-    D --> E["GeminiChat (geminiChat.ts)"]
-    E --> F["@google/genai API"]
-    
-    D -->|ToolCallRequest| G["Scheduler"]
-    G --> H["PolicyEngine"]
-    H -->|ALLOW| I["ToolExecutor"]
-    H -->|ASK_USER| J["ConfirmationBus → UI"]
-    H -->|DENY| K["거부 응답"]
-    
-    I --> L["ToolRegistry"]
-    L --> M["내장 도구 (shell, read-file, grep...)"]
-    L --> N["MCP 도구 (McpClientManager)"]
-    L --> O["Discovered 도구"]
-    L --> P["Extension 도구"]
-    
-    I -->|shell 실행| Q["SandboxManager"]
-    Q --> R["macOS Seatbelt"]
-    Q --> S["Linux Seccomp"]
-    Q --> T["Windows AppContainer"]
-    
-    C --> U["PromptProvider"]
-    U --> V["snippets.ts (25개 렌더 함수)"]
-    U --> W["SkillManager"]
-    U --> X["HierarchicalMemory"]
-    
-    C --> Y["ModelRouter"]
-    Y --> Z["8개 라우팅 전략"]
-    
-    C --> AA["HookSystem"]
-    AA --> AB["BeforeTool / AfterTool / BeforeAgent / AfterAgent"]
-</code></pre>
-<pre><code class="language-mermaid">sequenceDiagram
-    participant User as 사용자 입력
-    participant CLI as CLI App (Ink)
-    participant Client as GeminiClient
-    participant Turn as Turn
-    participant Chat as GeminiChat
-    participant API as Gemini API
-    participant Sched as Scheduler
-    participant Policy as PolicyEngine
-    participant Exec as ToolExecutor
-    participant Sandbox as SandboxManager
-
-    User->>CLI: 메시지 입력
-    CLI->>Client: sendMessageStream(parts, signal)
-    Client->>Client: processTurn() — 압축 검사, 컨텍스트 검증, 루프 탐지
-    Client->>Turn: run(modelConfigKey, request, signal)
-    Turn->>Chat: sendMessageStream(request)
-    Chat->>API: generateContentStream()
-    API-->>Chat: 스트리밍 청크
-    Chat-->>Turn: StreamEvent (CHUNK | RETRY)
-    Turn-->>Client: Content / Thought / ToolCallRequest 이벤트
-    Client-->>CLI: 스트리밍 텍스트 표시
-
-    Note over CLI,Sched: 도구 호출이 있으면
-    CLI->>Sched: schedule(toolCallRequests, signal)
-    Sched->>Policy: checkPolicy(functionCall, args)
-    Policy-->>Sched: ALLOW / ASK_USER / DENY
-    Sched->>Exec: execute(toolCall, signal)
-    Exec->>Sandbox: prepareCommand() (shell 도구인 경우)
-    Sandbox-->>Exec: SandboxedCommand
-    Exec-->>Sched: CompletedToolCall (functionResponse)
-    Sched-->>CLI: CompletedToolCall[]
-
-    CLI->>Client: sendMessageStream(toolResponseParts)
-    Note over CLI,API: 도구 호출 없을 때까지 반복
-</code></pre>
-<hr>
-<h2>1. 패키지 구조</h2>
-<table>
-<thead>
-<tr>
-<th>패키지</th>
-<th>npm 이름</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>packages/cli</code></td>
-<td><code>@google/gemini-cli</code></td>
-<td>TUI (React/Ink), 커맨드 처리, 인증, 확장 CLI</td>
-</tr>
-<tr>
-<td><code>packages/core</code></td>
-<td><code>@google/gemini-cli-core</code></td>
-<td>에이전트 루프, 도구, 프롬프트, 정책, 샌드박스, MCP, 훅</td>
-</tr>
-<tr>
-<td><code>packages/sdk</code></td>
-<td><code>@google/gemini-cli-sdk</code></td>
-<td>프로그래밍 API (agent, session, tool, skills 내보내기)</td>
-</tr>
-<tr>
-<td><code>packages/a2a-server</code></td>
-<td><code>@google/gemini-cli-a2a-server</code></td>
-<td>Agent-to-Agent HTTP 서버</td>
-</tr>
-<tr>
-<td><code>packages/devtools</code></td>
-<td><code>@google/gemini-cli-devtools</code></td>
-<td>네트워크/콘솔 인스펙터</td>
-</tr>
-<tr>
-<td><code>packages/vscode-ide-companion</code></td>
-<td><code>gemini-cli-vscode-ide-companion</code></td>
-<td>VS Code 확장 — IDE 컨텍스트 주입</td>
-</tr>
-<tr>
-<td><code>packages/test-utils</code></td>
-<td><code>@google/gemini-cli-test-utils</code></td>
-<td>테스트 유틸리티</td>
-</tr>
-</tbody>
-</table>
-<p>파일 규모:</p>
-<table>
-<thead>
-<tr>
-<th>영역</th>
-<th align="right">비테스트 소스 파일 수</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>core 패키지 전체</td>
-<td align="right">379</td>
-</tr>
-<tr>
-<td>cli 패키지 전체</td>
-<td align="right">510</td>
-</tr>
-<tr>
-<td>TUI 컴포넌트 (<code>cli/src/ui/</code>)</td>
-<td align="right">371</td>
-</tr>
-<tr>
-<td>도구 (<code>core/src/tools/</code>)</td>
-<td align="right">~40 (테스트 포함 80)</td>
-</tr>
-<tr>
-<td>설정 (<code>core/src/config/</code>)</td>
-<td align="right">~12 (테스트 포함 25)</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2>2. TUI 설계 — React/Ink 기반 터미널 UI</h2>
-<p>Gemini CLI의 TUI는 <strong>React + Ink</strong> 위에 구축되었다. 371개 비테스트 파일로 구성된 대규모 React 컴포넌트 트리다.</p>
-<h3>진입점과 앱 구조</h3>
-<pre><code class="language-typescript">// packages/cli/src/ui/App.tsx
-export const App = () => {
-  const uiState = useUIState();
-  const isAlternateBuffer = useAlternateBuffer();
-  const isScreenReaderEnabled = useIsScreenReaderEnabled();
-
-  if (uiState.quittingMessages) {
-    if (isAlternateBuffer) {
-      return &#x3C;AlternateBufferQuittingDisplay />;
-    } else {
-      return &#x3C;QuittingDisplay />;
-    }
-  }
-
-  return (
-    &#x3C;StreamingContext.Provider value={uiState.streamingState}>
-      {isScreenReaderEnabled ? &#x3C;ScreenReaderAppLayout /> : &#x3C;DefaultAppLayout />}
-    &#x3C;/StreamingContext.Provider>
-  );
-};
-</code></pre>
-<h3>주요 Context Provider (14개)</h3>
-<table>
-<thead>
-<tr>
-<th>Context</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>SessionContext</code></td>
-<td>세션 상태 관리</td>
-</tr>
-<tr>
-<td><code>ConfigContext</code></td>
-<td>설정 접근</td>
-</tr>
-<tr>
-<td><code>StreamingContext</code></td>
-<td>스트리밍 상태</td>
-</tr>
-<tr>
-<td><code>UIStateContext</code></td>
-<td>UI 전역 상태</td>
-</tr>
-<tr>
-<td><code>UIActionsContext</code></td>
-<td>UI 액션 디스패치</td>
-</tr>
-<tr>
-<td><code>ToolActionsContext</code></td>
-<td>도구 확인/거부 액션</td>
-</tr>
-<tr>
-<td><code>AskUserActionsContext</code></td>
-<td>사용자 질문 응답</td>
-</tr>
-<tr>
-<td><code>TerminalContext</code></td>
-<td>터미널 크기/기능</td>
-</tr>
-<tr>
-<td><code>MouseContext</code></td>
-<td>마우스 이벤트</td>
-</tr>
-<tr>
-<td><code>ShellFocusContext</code></td>
-<td>셸 포커스 상태</td>
-</tr>
-<tr>
-<td><code>VimModeContext</code></td>
-<td>Vim 모드 전환</td>
-</tr>
-<tr>
-<td>`Keypr</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/00_harness-index.md</code> (발췌)</h3>
-<h1>Harness Source Index</h1>
-<p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
-<h2>Routing</h2>
-<table>
-<thead>
-<tr>
-<th>Prefix</th>
-<th>Index stub</th>
-<th>Canonical overview</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
-<td>standalone source-based agent runtime</td>
-</tr>
-<tr>
-<td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
-<td>Claude Code host-dependent orchestration harness</td>
-</tr>
-<tr>
-<td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
-<td>Codex host-dependent control plane</td>
-</tr>
-<tr>
-<td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
-<td>OpenCode host-dependent harness plus Codex Light adapter</td>
-</tr>
-<tr>
-<td><code>lc</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
-<td>LazyCodex / Codex Light distribution wrapper for OmO</td>
-</tr>
-<tr>
-<td><code>sp</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
-<td>Superpowers multi-harness skills/bootstrap methodology layer</td>
-</tr>
-</tbody>
-</table>
-<h2>Related</h2>
-<ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
-</ul>
-<h2>코퍼스 — 000_overview/00_ge_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_ge_tui.md</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_ge_prompt.md</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_ge_tool.md</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_ge_skill.md</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_ge_subagent.md</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_ge_surface.md</code></td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_ge_sandbox.md</code></td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_ge_config.md</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_ge_mcp.md</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_ge_memory.md</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_ge_plugin.md</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_ge_guardian.md</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_ge_web-search.md</code></td>
-</tr>
-</tbody>
-</table>
-4:["$","$L2b","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"000 인덱스 + 축 맵","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2c"}}]}]
-2d:T7702,<h2>기초 설명</h2>
+3:I[73570,["/cli101-portal/sites/gemini-cli/_next/static/chunks/6d299d2b16f93b46.js"],"PageClient"]
+2b:I[8038,["/cli101-portal/sites/gemini-cli/_next/static/chunks/6d299d2b16f93b46.js"],"SectionBlock"]
+4c:I[72949,["/cli101-portal/sites/gemini-cli/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/gemini-cli/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
+0:{"buildId":"huK-q--amejoU5Wsxl8g_","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"GE101","tagline":"GE101 developer-grade corpus guide","taglineEn":"GE101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_ge_overview.md","branding":{"slug":"ge101","name":"GE101","tagline_ko":"Gemini CLI 입문 + 코퍼스 심화","tagline_en":"Gemini CLI intro + corpus depth","accentLabel_ko":"000_overview/00_ge_overview.md","accentLabel_en":"000_overview/00_ge_overview.md","heroTitle_ko":"Ink/React 터미널 에이전트","heroTitle_en":"Ink/React terminal agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 31장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 31 developer docs","terminalLines":["$$ npm i -g @google/gemini-cli","$$ gemini"],"prompt_ko":"> 이 함수에 단위 테스트 추가해줘","prompt_en":"> add unit tests for this function","ctaHash":"00-before-you-start","officialUrl":"https://github.com/google-gemini/gemini-cli","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"GE101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-gemini","order":2,"tier":"core","slug":"02-what-is-gemini","title_ko":"Gemini CLI가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/02-what-is-gemini.md","file_en":"en/02-what-is-gemini.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + 로그인/인증 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 패키지 구조","title_en":"Overview §1","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. TUI 설계","title_en":"Overview §2","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 에이전트 루프","title_en":"Overview §3","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 도구 런타임","title_en":"Overview §4","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 프롬프트 시스템","title_en":"Overview §5","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 스킬 시스템","title_en":"Overview §6","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. MCP 통합","title_en":"Overview §7","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 정책/가디언","title_en":"Overview §8","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 샌드박스","title_en":"Overview §9","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 모델 라우팅","title_en":"Overview §10","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 훅 시스템","title_en":"Overview §11","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. 확장 시스템","title_en":"Overview §12","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-13","order":19,"tier":"developer","slug":"07-overview-13","title_ko":"13. A2A 서버","title_en":"Overview §13","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-13.md","file_en":"en/07-overview-13.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-14","order":20,"tier":"developer","slug":"07-overview-14","title_ko":"14. 설정 시스템","title_en":"Overview §14","description_ko":"000_overview/00_ge_overview.md","description_en":"000_overview/00_ge_overview.md","file_ko":"ko/07-overview-14.md","file_en":"en/07-overview-14.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":21,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_ge_tui.md","description_en":"001_tui-design/01_ge_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":22,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_ge_prompt.md","description_en":"002_prompt-context/02_ge_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":23,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_ge_tool.md","description_en":"003_tool-runtime/03_ge_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":24,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_ge_skill.md","description_en":"004_skill-system/04_ge_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":25,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_ge_subagent.md","description_en":"005_subagents-collab/05_ge_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":26,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_ge_surface.md","description_en":"006_app-server-client-surfaces/06_ge_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":27,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_ge_sandbox.md","description_en":"007_sandbox-exec-policy/07_ge_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":28,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_ge_config.md","description_en":"008_config-system/08_ge_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":29,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_ge_mcp.md","description_en":"009_mcp-orchestration/09_ge_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":30,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_ge_memory.md","description_en":"010_memory-pipeline/10_ge_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":31,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_ge_plugin.md","description_en":"011_plugin-system/11_ge_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":32,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_ge_guardian.md","description_en":"012_guardian-approval/12_ge_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":33,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_ge_etc.md","description_en":"013_etc/13_ge_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":34,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_ge_web-search.md","description_en":"014_web-search/14_ge_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":35,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":36,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}],["$L29"],"$L2a"]}],"loading":null,"isPartial":false}
+4:["$","$L2b","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>코딩은 조금 할 줄 알지만 \"AI한테 코드를 맡긴다\"는 게 어떤 건지 아직 감이 안 오시는 분, Gemini CLI라는 이름은 들어봤는데 어디서부터 시작해야 할지 막막하셨던 분이라면 잘 오셨어요. 어려운 용어는 최대한 풀어서 설명할 테니까 편하게 따라오시면 돼요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>Gemini CLI가 대체 뭘 해주는 도구인지</li>\n<li>5분 만에 첫 코드를 AI한테 고쳐보는 방법</li>\n<li>매일 작업할 때 자연스럽게 쓰는 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>딱 두 가지만 준비되어 있으면 돼요.</p>\n<ol>\n<li>터미널(명령어 입력하는 검은 창)을 열 수 있다 — <code>ls</code> 정도 쳐보신 적 있으면 충분해요.</li>\n<li>작업할 코드 폴더가 git으로 관리되고 있다 — 아직이라면 그 폴더에서 <code>git init</code> 한 번만 해주시면 돼요.</li>\n</ol>\n<p>준비되셨으면 다음 장에서 Gemini CLI가 뭔지부터 천천히 볼게요.</p>\n"}}]}]
+2c:T7702,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1521,529 +883,34 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
 <li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
 </ul>
-5:["$","$L2b","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2d"}}]}]
-2e:T3471,<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
+5:["$","$L2b","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2c"}}]}]
+6:["$","$L2b","02-what-is-gemini",{"id":"02-what-is-gemini","order":2,"tier":"core","title":"Gemini CLI가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>Gemini CLI는 터미널에서 Google의 인공지능 에이전트와 함께 코드를 고쳐나가는 도구예요. 여러분이 \"로그인 화면에 안내 문구를 추가해줘\"라고 요청하면, AI가 실제 파일을 알아서 수정하고 그 내용을 git에 자동으로 저장까지 해줘요.</p>\n<h2>비유로 이해하기</h2>\n<p>옆자리에 앉은 똑똑한 동료에게 \"여기 로그인 화면 문구 좀 바꿔줄래요?\"라고 부탁하는 모습을 떠올려 보세요. 그 동료가 직접 코드를 열어 고치고, 작업 내용을 깔끔하게 기록(commit)까지 해두는 것이죠. Gemini CLI가 바로 그 동료 역할을 맡아줘요. 채팅창에 대화하듯 편하게 말만 하면 코드가 바뀌어 있어요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>\"이 함수에 에러 처리 추가해줘\" 같은 요청으로 여러 파일을 한 번에 수정해요</li>\n<li>변경 내용을 git에 자동으로 저장해 주니까, 마음에 안 들면 쉽게 원래대로 되돌려요</li>\n<li>Google Search(구글 검색) 연동 기능으로 최신 정보를 바탕으로 코딩을 도와줘요</li>\n<li>새로운 기능 개발부터 까다로운 버그 수정, 테스트 코드 작성까지 대화로 진행해요</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>직접 파일을 하나하나 열고, 찾아서 고치고, 저장한 다음 git에 기록하는 번거로운 과정을 말 한마디로 줄일 수 있어요. 덕분에 개발 속도가 엄청나게 빨라져요. 특히 개인 Google 계정으로 로그인하면 하루에 일정 횟수를 무료로 부담 없이 써볼 수 있어 입문하기에 매우 편리해요.</p>\n<blockquote>\n<p>더 깊은 내부 구조(어떻게 코드를 편집하는지, Google Search 연동이 어떻게 작동하는지)가 궁금하시면 상단 메뉴의 <strong>개발자 문서</strong>에서 자세히 다뤄요. 지금은 \"이런 편리한 도구구나\" 정도만 알고 넘어가셔도 충분해요.</p>\n</blockquote>\n"}}]}]
+7:["$","$L2b","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치하고 준비하기","description":"설치 + 로그인/인증 + 막힐 때 팁","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>먼저 설치부터 해볼게요</h2>\n<p>터미널에 아래 명령어 중 본인의 환경에 맞는 방식을 선택해 입력해 주세요.</p>\n<pre><code class=\"language-bash\"># npm을 쓰시는 경우\nnpm install -g @google/gemini-cli\n\n# macOS에서 Homebrew를 쓰시는 경우\nbrew install gemini-cli\n</code></pre>\n<p>설치가 완료되면 터미널에 <code>gemini</code>를 입력해 보세요. 첫 환영 메시지가 나타날 거예요.</p>\n<h2>Google 계정으로 편리하게 시작하기</h2>\n<p>Gemini CLI는 복잡한 API 키 발급 없이도 Google 계정 로그인만으로 간편하게 시작할 수 있어요.</p>\n<pre><code class=\"language-bash\"># 터미널에 입력한 뒤 'Sign in with Google'을 고르세요\ngemini\n</code></pre>\n<p>인증을 묻는 브라우저 창이 열리면 본인의 Google 계정으로 로그인해 주시면 돼요. 개인 계정의 경우 무료 사용 한도(분당 60회, 일 1,000회 요청)를 기본으로 활용할 수 있어요.</p>\n<p>만약 개발자용 API 키를 쓰고 싶다면 아래처럼 키를 등록하고 실행하는 것도 가능해요.</p>\n<pre><code class=\"language-bash\">export GEMINI_API_KEY=\"본인의_API_키\"\ngemini\n</code></pre>\n<h2>막힐 때 팁</h2>\n<ul>\n<li><code>gemini</code> 명령어를 찾을 수 없다고 나오면 터미널 창을 완전히 닫았다가 새로 열어보세요. 새로 설치한 경로가 터미널에 반영돼요.</li>\n<li>브라우저 로그인 과정이 실패하면 인터넷 창의 쿠키나 계정 상태를 확인한 다음 다시 시도해 보세요.</li>\n</ul>\n<p>준비가 끝났으면, 이제 진짜로 첫 코드를 고쳐볼 차례예요.</p>\n"}}]}]
+8:["$","$L2b","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 사용 5분","description":"따라 하면 되는 첫 실습","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>5분이면 충분해요</h2>\n<p>거창한 준비 없이, 작은 변경 하나를 AI한테 맡겨볼게요. 처음 한 번만 해보면 \"아, 이런 느낌이구나\" 하고 바로 감이 와요.</p>\n<h2>따라 해보기</h2>\n<ol>\n<li>작업할 코드 폴더로 이동해요.</li>\n</ol>\n<pre><code class=\"language-bash\">cd 내-프로젝트-폴더\n</code></pre>\n<ol start=\"2\">\n<li>그 폴더에서 Gemini CLI를 실행해요.</li>\n</ol>\n<pre><code class=\"language-bash\">gemini\n</code></pre>\n<ol start=\"3\">\n<li>채팅창이 뜨면, 고치고 싶은 내용을 평소 말하듯 적어요.</li>\n</ol>\n<pre><code class=\"language-text\">> README에 설치 방법 섹션을 추가해줘\n</code></pre>\n<ol start=\"4\">\n<li>잠시 기다리면 에이전트가 파일을 직접 고치고, 바뀐 내용을 보여줘요. 그리고 그 변경을 git에 자동으로 저장(commit)해줘요.</li>\n</ol>\n<h2>결과 확인하기</h2>\n<p><code>git log</code>를 쳐보면 방금 작업이 기록으로 남아 있는 게 보일 거예요. 마음에 안 들면 되돌리면 되니까 부담 없이 이것저것 시켜보세요.</p>\n<h2>자주 쓰는 한 가지</h2>\n<p>특정 폴더나 파일들만 작업 범위에 포함하고 싶을 때는 실행할 때 폴더 경로를 지정해 줄 수 있어요.</p>\n<pre><code class=\"language-bash\">gemini --include-directories src/\n</code></pre>\n<p>이렇게 하면 지정한 영역을 살펴보고 더 정확한 제안을 보내줘요. 첫 세션은 여기까지면 충분해요. 다음 장에서는 매일 어떻게 쓰는지 흐름을 볼게요.</p>\n"}}]}]
+9:["$","$L2b","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"매일 이렇게 써요","description":"실제 일상 사용 흐름과 비결","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>매일 쓰는 흐름은 단순해요</h2>\n<p>익숙해지면 거의 이 네 단계의 반복이에요. 한 번 손에 익으면 생각보다 빠르게 돌아가요.</p>\n<ol>\n<li>고치고 싶은 파일이 있는 폴더에서 <code>gemini</code>를 실행해요.</li>\n<li>하고 싶은 작업을 말로 부탁해요. (\"여기에 입력값 검사 추가해줘\")</li>\n<li>에이전트가 고친 내용을 보고, 마음에 들면 그대로 두고 아니면 다시 부탁해요.</li>\n<li>잘됐으면 다음 작업으로 넘어가요. 변경 사항은 이미 git에 저장돼 있어요.</li>\n</ol>\n<h2>알아두면 편한 기능</h2>\n<p>채팅창에서 다양한 도구를 자동으로 연동할 수 있어서 작업이 훨씬 매끄러워져요.</p>\n<ul>\n<li>Google 검색 연동: AI가 자동으로 최신 문서를 검색해서 참고해줘요.</li>\n<li>파일 읽기/쓰기: 명령어나 파일 편집을 에이전트가 대신 처리해요.</li>\n<li>MCP 도구 연동: 사용자 정의 커스텀 도구를 외부에서 가져와 붙일 수 있어요.</li>\n</ul>\n<h2>작게 부탁하는 게 비결이에요</h2>\n<p>\"앱 전체를 다시 만들어줘\"처럼 큰 부탁보다는, \"이 함수에 로그 한 줄 추가해줘\"처럼 작게 쪼개서 부탁할수록 결과가 정확해요. 사람 동료한테 일을 맡길 때랑 똑같아요. 작은 단위로 부탁하고, 확인하고, 다음으로 넘어가는 리듬을 추천드려요.</p>\n<h2>되돌리기가 자유로워요</h2>\n<p>모든 작업이 git에 기록되니까, 마음에 안 들면 언제든지 이전 상태로 되돌릴 수 있어요. 그래서 \"일단 시켜보고 아니면 되돌리지\" 하는 마음으로 부담 없이 실험해 보셔도 좋아요.</p>\n"}}]}]
+2d:T825,<h2>내 입맛대로 설정하기</h2>
+<p>처음에는 로그인 후 기본 설정만으로도 충분히 쓸 수 있어요. 하지만 조금 더 익숙해지면 본인의 개발 스타일에 맞게 설정을 바꾸고 싶어질 거예요.</p>
+<p>설정 파일은 크게 두 곳에 저장할 수 있어요.</p>
 <ul>
-<li>Corpus axis index</li>
+<li><strong>전체 설정</strong>: 컴퓨터 전체에 적용하고 싶다면 <code>~/.gemini/settings.json</code> 파일을 만들어 설정해요.</li>
+<li><strong>프로젝트별 설정</strong>: 특정 프로젝트 폴더에만 적용하고 싶다면 해당 폴더 안에 <code>.gemini/</code> 폴더를 만들어 설정을 관리해요.</li>
 </ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>130_gemini-cli/README.md</code></h3>
-<h2>📦 Installation</h2>
-<p>See
-<a href="https://www.geminicli.com/docs/get-started/installation">Gemini CLI installation, execution, and releases</a>
-for recommended system specifications and a detailed installation guide.</p>
-<h3>Quick Install</h3>
-<h4>Run instantly with npx</h4>
-<pre><code class="language-bash">
-
-## 코퍼스 — 000/ (인덱스·요약)
-
-# Gemini CLI 에이전트 엔진 검토 개요
-
-이 문서는 `google-gemini/gemini-cli` 저장소의 코드 구조를 분석한다. 목적은 Codex 분석과 동일한 축(프롬프트 조립, 툴 런타임, 스킬, 서브에이전트, 샌드박스, 정책)으로 Gemini CLI의 내부를 파악하여 비교 분석 자산을 만드는 것이다.
-
-한 문장 결론: Gemini CLI는 `PromptProvider + ToolRegistry + Scheduler + PolicyEngine + HookSystem + SandboxManager + SkillManager + ModelRouter`가 이미 분리된 대규모 모노레포 엔진이며, 7개 패키지(`cli`, `core`, `sdk`, `a2a-server`, `devtools`, `vscode-ide-companion`, `test-utils`)로 구성된다. core 패키지만 379개 비테스트 소스 파일, cli 패키지 510개 파일, TUI 컴포넌트만 371개 파일이다.
-
-핵심은 열두 갈래다.
-
-1. **프롬프트 조립**: `PromptProvider`가 `snippets.ts`의 렌더 함수 25개를 조합하여 시스템 프롬프트를 생성한다
-2. **턴 루프**: `client.ts`(1267줄)가 다중 턴을 오케스트레이션하고 `turn.ts`(447줄)가 단일 턴을 처리한다
-3. **툴 런타임**: `ToolRegistry` → `Scheduler` → `ToolExecutor` → `BaseDeclarativeTool.build()` → `ToolInvocation.execute()` 파이프라인
-4. **스킬 시스템**: `SkillManager`가 Built-in → Extension → User → Workspace 순서로 YAML frontmatter 기반 `SKILL.md` 파일을 로딩한다
-5. **MCP**: `McpClientManager` → `McpClient` → `DiscoveredMCPTool`로 외부 도구를 내장 도구와 동일 레지스트리에 등록한다
-6. **정책/가디언**: `PolicyEngine` + `SandboxPolicyManager`가 TOML 기반 규칙으로 ALLOW/DENY/ASK_USER 삼분 결정을 내린다
-7. **샌드박스**: macOS Seatbelt, Linux Seccomp, Windows AppContainer 세 플랫폼별 구현체
-8. **모델 라우팅**: 8개 전략(`default`, `classifier`, `composite`, `fallback`, `override`, `approvalMode` 등)으로 동적 모델 선택
-9. **훅 시스템**: `BeforeTool`, `AfterTool`, `BeforeAgent`, `AfterAgent` 등 11개 이벤트의 수명주기 훅
-10. **확장 시스템**: `gemini-extension.json` 기반으로 MCP 서버, 정책, 스킬, 훅, 테마, 커맨드를 번들링
-11. **안전 검사**: `Conseca` 기반 정책 생성기 + 외부 체커 프로토콜(`SafetyCheckInput`)
-12. **A2A 서버**: `@a2a-js/sdk` 기반 Agent-to-Agent 프로토콜 서버로 HTTP API를 통한 태스크 실행
-
-```mermaid
-graph TD
-    A["사용자 입력 / IDE / A2A"] --> B["CLI App (React/Ink)"]
-    B --> C["GeminiClient (client.ts)"]
-    C --> D["Turn (turn.ts)"]
-    D --> E["GeminiChat (geminiChat.ts)"]
-    E --> F["@google/genai API"]
-    
-    D -->|ToolCallRequest| G["Scheduler"]
-    G --> H["PolicyEngine"]
-    H -->|ALLOW| I["ToolExecutor"]
-    H -->|ASK_USER| J["ConfirmationBus → UI"]
-    H -->|DENY| K["거부 응답"]
-    
-    I --> L["ToolRegistry"]
-    L --> M["내장 도구 (shell, read-file, grep...)"]
-    L --> N["MCP 도구 (McpClientManager)"]
-    L --> O["Discovered 도구"]
-    L --> P["Extension 도구"]
-    
-    I -->|shell 실행| Q["SandboxManager"]
-    Q --> R["macOS Seatbelt"]
-    Q --> S["Linux Seccomp"]
-    Q --> T["Windows AppContainer"]
-    
-    C --> U["PromptProvider"]
-    U --> V["snippets.ts (25개 렌더 함수)"]
-    U --> W["SkillManager"]
-    U --> X["HierarchicalMemory"]
-    
-    C --> Y["ModelRouter"]
-    Y --> Z["8개 라우팅 전략"]
-    
-    C --> AA["HookSystem"]
-    AA --> AB["BeforeTool / AfterTool / BeforeAgent / AfterAgent"]
-</code></pre>
-<pre><code class="language-mermaid">sequenceDiagram
-    participant User as 사용자 입력
-    participant CLI as CLI App (Ink)
-    participant Client as GeminiClient
-    participant Turn as Turn
-    participant Chat as GeminiChat
-    participant API as Gemini API
-    participant Sched as Scheduler
-    participant Policy as PolicyEngine
-    participant Exec as ToolExecutor
-    participant Sandbox as SandboxManager
-
-    User->>CLI: 메시지 입력
-    CLI->>Client: sendMessageStream(parts, signal)
-    Client->>Client: processTurn() — 압축 검사, 컨텍스트 검증, 루프 탐지
-    Client->>Turn: run(modelConfigKey, request, signal)
-    Turn->>Chat: sendMessageStream(request)
-    Chat->>API: generateContentStream()
-    API-->>Chat: 스트리밍 청크
-    Chat-->>Turn: StreamEvent (CHUNK | RETRY)
-    Turn-->>Client: Content / Thought / ToolCallRequest 이벤트
-    Client-->>CLI: 스트리밍 텍스트 표시
-
-    Note over CLI,Sched: 도구 호출이 있으면
-    CLI->>Sched: schedule(toolCallRequests, signal)
-    Sched->>Policy: checkPolicy(functionCall, args)
-    Policy-->>Sched: ALLOW / ASK_USER / DENY
-    Sched->>Exec: execute(toolCall, signal)
-    Exec->>Sandbox: prepareCommand() (shell 도구인 경우)
-    Sandbox-->>Exec: SandboxedCommand
-    Exec-->>Sched: CompletedToolCall (functionResponse)
-    Sched-->>CLI: CompletedToolCall[]
-
-    CLI->>Client: sendMessageStream(toolResponseParts)
-    Note over CLI,API: 도구 호출 없을 때까지 반복
-</code></pre>
-<hr>
-<h2>1. 패키지 구조</h2>
-<table>
-<thead>
-<tr>
-<th>패키지</th>
-<th>npm 이름</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>packages/cli</code></td>
-<td><code>@google/gemini-cli</code></td>
-<td>TUI (React/Ink), 커맨드 처리, 인증, 확장 CLI</td>
-</tr>
-<tr>
-<td><code>packages/core</code></td>
-<td><code>@google/gemini-cli-core</code></td>
-<td>에이전트 루프, 도구, 프롬프트, 정책, 샌드박스, MCP, 훅</td>
-</tr>
-<tr>
-<td><code>packages/sdk</code></td>
-<td><code>@google/gemini-cli-sdk</code></td>
-<td>프로그래밍 API (agent, session, tool, skills 내보내기)</td>
-</tr>
-<tr>
-<td><code>packages/a2a-server</code></td>
-<td><code>@google/gemini-cli-a2a-server</code></td>
-<td>Agent-to-Agent HTTP 서버</td>
-</tr>
-<tr>
-<td><code>packages/devtools</code></td>
-<td><code>@google/gemini-cli-devtools</code></td>
-<td>네트워크/콘솔 인스펙터</td>
-</tr>
-<tr>
-<td><code>packages/vscode-ide-companion</code></td>
-<td><code>gemini-cli-vscode-ide-companion</code></td>
-<td>VS Code 확장 — IDE 컨텍스트 주입</td>
-</tr>
-<tr>
-<td><code>packages/test-utils</code></td>
-<td><code>@google/gemini-cli-test-utils</code></td>
-<td>테스트 유틸리티</td>
-</tr>
-</tbody>
-</table>
-<p>파일 규모:</p>
-<table>
-<thead>
-<tr>
-<th>영역</th>
-<th align="right">비테스트 소스 파일 수</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>core 패키지 전체</td>
-<td align="right">379</td>
-</tr>
-<tr>
-<td>cli 패키지 전체</td>
-<td align="right">510</td>
-</tr>
-<tr>
-<td>TUI 컴포넌트 (<code>cli/src/ui/</code>)</td>
-<td align="right">371</td>
-</tr>
-<tr>
-<td>도구 (<code>core/src/tools/</code>)</td>
-<td align="right">~40 (테스트 포함 80)</td>
-</tr>
-<tr>
-<td>설정 (<code>core/src/config/</code>)</td>
-<td align="right">~12 (테스트 포함 25)</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2>2. TUI 설계 — React/Ink 기반 터미널 UI</h2>
-<p>Gemini CLI의 TUI는 <strong>React + Ink</strong> 위에 구축되었다. 371개 비테스트 파일로 구성된 대규모 React 컴포넌트 트리다.</p>
-<h3>진입점과 앱 구조</h3>
-<pre><code class="language-typescript">// packages/cli/src/ui/App.tsx
-export const App = () => {
-  const uiState = useUIState();
-  const isAlternateBuffer = useAlternateBuffer();
-  const isScreenReaderEnabled = useIsScreenReaderEnabled();
-
-  if (uiState.quittingMessages) {
-    if (isAlternateBuffer) {
-      return &#x3C;AlternateBufferQuittingDisplay />;
-    } else {
-      return &#x3C;QuittingDisplay />;
-    }
-  }
-
-  return (
-    &#x3C;StreamingContext.Provider value={uiState.streamingState}>
-      {isScreenReaderEnabled ? &#x3C;ScreenReaderAppLayout /> : &#x3C;DefaultAppLayout />}
-    &#x3C;/StreamingContext.Provider>
-  );
-};
-</code></pre>
-<h3>주요 Context Provider (14개)</h3>
-<table>
-<thead>
-<tr>
-<th>Context</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>SessionContext</code></td>
-<td>세션 상태 관리</td>
-</tr>
-<tr>
-<td><code>ConfigContext</code></td>
-<td>설정 접근</td>
-</tr>
-<tr>
-<td><code>StreamingContext</code></td>
-<td>스트리밍 상태</td>
-</tr>
-<tr>
-<td><code>UIStateContext</code></td>
-<td>UI 전역 상태</td>
-</tr>
-<tr>
-<td><code>UIActionsContext</code></td>
-<td>UI 액션 디스패치</td>
-</tr>
-<tr>
-<td><code>ToolActionsContext</code></td>
-<td>도구 확인/거부 액션</td>
-</tr>
-<tr>
-<td><code>AskUserActionsContext</code></td>
-<td>사용자 질문 응답</td>
-</tr>
-<tr>
-<td><code>TerminalContext</code></td>
-<td>터미널 크기/기능</td>
-</tr>
-<tr>
-<td><code>MouseContext</code></td>
-<td>마우스 이벤트</td>
-</tr>
-<tr>
-<td><code>ShellFocusContext</code></td>
-<td>셸 포커스 상태</td>
-</tr>
-<tr>
-<td><code>VimModeContext</code></td>
-<td>Vim 모드 전환</td>
-</tr>
-<tr>
-<td><code>KeypressContext</code></td>
-<td>키 입력 처리</td>
-</tr>
-<tr>
-<td><code>OverflowContext</code></td>
-<td>오버플로 스크롤</td>
-</tr>
-<tr>
-<td><code>SettingsContext</code></td>
-<td>런타임 설정</td>
-</tr>
-</tbody>
-</table>
-<h3>레이아웃 및 접근성</h3>
-<ul>
-<li><code>DefaultAppLayout</code>: 표준 터미널 레이아웃</li>
-<li><code>ScreenReaderAppLayout</code>: 스크린 리더 호환 레이아웃</li>
-<li><code>AlternateBufferQuittingDisplay</code>: 대체 버퍼 종료 화면</li>
-</ul>
-<h3>주요 UI 영역</h3>
-<pre><code>ui/
-├── components/       # 재사용 가능 UI 컴포넌트
-├── contexts/         # 14개 React Context
-├── hooks/            # 커스텀 훅 (useAlternateBuffer 등)
-├── layouts/          # 앱 레이아웃 2종
-├── state/            # 상태 관리
-├── themes/           # 테마 시스템
-├── auth/             # 인증 대화상자
-├── privacy/          # 개인정보 고지
-├── editors/          # 에디터 설정
-├── commands/         # 슬래시 커맨드 UI
-├── key/              # 키 바인딩
-├── utils/            # 유틸리티 (마크다운 렌더링, 하이라이팅 등)
-├── noninteractive/   # 비대화형 모드 UI
-└── constants/        # 팁, 문구
-</code></pre>
-<hr>
-<h2>3. 에이전트 루프 — client.ts + turn.ts</h2>
-<h3>GeminiClient (client.ts, 1267줄)</h3>
-<p>다중 턴 오케스트레이터. 핵심 메서드:</p>
-<pre><code class="language-typescript">// packages/core/src/core/client.ts
-async *sendMessageStream(
-  request: PartListUnion,
-  signal: AbortSignal,
-  prompt_id: string,
-  turns: number = MAX_TURNS,    // MAX_TURNS = 100
-  isInvalidStreamRetry: boolean = false,
-  displayContent?: PartListUnion,
-  stopHookActive: boolean = false,
-): AsyncGenerator&#x3C;ServerGeminiStreamEvent, Turn>
-</code></pre>
-<p><code>processTurn()</code> 메서드(584~865줄)가 한 턴을 처리한다:</p>
-<ol>
-<li><strong>압축 검사</strong> — 컨텍스트 윈도우 한계 근접 시 <code>ChatCompressionService</code>로 히스토리 압축</li>
-<li><strong>컨텍스트 윈도우 검증</strong> — 요청이 토큰 한도에 맞는지 확인</li>
-<li><strong>IDE 컨텍스트 주입</strong> — VS Code companion에서 에디터 상태 주입</li>
-<li><strong>루프 탐지</strong> — <code>LoopDetectionService</code>로 무한 루프 방지</li>
-<li><strong>모델 라우팅</strong> — <code>ModelRouter</code>로 적절한 모델 선택</li>
-<li><strong>턴 실행</strong> — <code>Turn.run()</code>으로 API 호출과 이벤트 생성</li>
-<li><strong>AfterAgent 훅</strong> — 정책이 실행을 차단/중지할 수 있음</li>
-</ol>
-<h3>Turn (turn.ts, 447줄)</h3>
-<p>단일 모델 응답 처리:</p>
-<pre><code class="language-typescript">// packages/core/src/core/turn.ts
-export class Turn {
-  private callCounter = 0;
-  readonly pendingToolCalls: ToolCallRequestInfo[] = [];
-
-  async *run(
-    modelConfigKey: ModelConfigKey,
-    req: PartListUnion,
-    signal: AbortSignal,
-    displayContent?: PartListUnion,
-  ): AsyncGenerator&#x3C;ServerGeminiStreamEvent> {
-    // GeminiChat.sendMessa
-
-## 코퍼스 — 000_overview/00_ge_overview.md (심화)
-
-## Corpus axis index
-
-| Axis | Doc |
-| --- | --- |
-| 001 TUI | `001_tui-design/01_ge_tui.md` |
-| 002 Prompt | `002_prompt-context/02_ge_prompt.md` |
-| 003 Tool | `003_tool-runtime/03_ge_tool.md` |
-| 004 Skill | `004_skill-system/04_ge_skill.md` |
-| 005 Subagent | `005_subagents-collab/05_ge_subagent.md` |
-| 006 Surface | `006_app-server-client-surfaces/06_ge_surface.md` |
-| 007 Sandbox | `007_sandbox-exec-policy/07_ge_sandbox.md` |
-| 008 Config | `008_config-system/08_ge_config.md` |
-| 009 MCP | `009_mcp-orchestration/09_ge_mcp.md` |
-| 010 Memory | `010_memory-pipeline/10_ge_memory.md` |
-| 011 Plugin | `011_plugin-system/11_ge_plugin.md` |
-| 012 Guardian | `012_guardian-approval/12_ge_guardian.md` |
-| 014 Web | `014_web-search/14_ge_web-search.md` |
-</code></pre>
-6:["$","$L2b","02-what-is-gemini",{"id":"02-what-is-gemini","order":2,"tier":"core","title":"하네스 한눈에","description":"000_overview/00_ge_overview.md","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
-7:["$","$L2b","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치 & 인증","description":"설치 & 인증","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설치 &#x26; 인증</li>\n<li>📦 Installation</li>\n<li>Quick Install</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>130_gemini-cli/README.md</code></h3>\n<h2>📦 Installation</h2>\n<p>See\n<a href=\"https://www.geminicli.com/docs/get-started/installation\">Gemini CLI installation, execution, and releases</a>\nfor recommended system specifications and a detailed installation guide.</p>\n<h3>Quick Install</h3>\n<h4>Run instantly with npx</h4>\n<pre><code class=\"language-bash\">\n\n## 본문\n\n## 설치 &#x26; 인증\n\n**설치 &#x26; 인증** — 공식 README/문서 발췌 + 코퍼스 교차 참조.\n\n> `130_gemini-cli/README.md`\n\n## 📦 Installation\n\nSee\n[Gemini CLI installation, execution, and releases](https://www.geminicli.com/docs/get-started/installation)\nfor recommended system specifications and a detailed installation guide.\n\n### Quick Install\n\n#### Run instantly with npx\n\n```bash\n</code></pre>\n"}}]}]
-2f:Tbbe,<h2>기초 설명</h2>
-<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>첫 세션</li>
-<li>🚀 Getting Started</li>
-<li>Basic Usage</li>
-<li>Quick Examples</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3>README / docs</h3>
-<pre><code class="language-bash">gemini --include-directories ../lib,../docs
-</code></pre>
-<h3>README / docs</h3>
+<p>이렇게 미리 지정을 해두면 매번 실행 옵션을 길게 적을 필요가 없어서 편리해요.</p>
+<h2>사용할 모델 변경하기</h2>
+<p>기본적으로 제공되는 모델 외에 다른 모델을 사용하고 싶다면 실행할 때 아래처럼 지정해 주시면 돼요.</p>
 <pre><code class="language-bash">gemini -m gemini-2.5-flash
 </code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">gemini -p "Explain the architecture of this codebase"
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">gemini -p "Explain the architecture of this codebase" --output-format json
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">gemini -p "Run tests and deploy" --output-format stream-json
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">cd new-project/
-gemini
-> Write me a Discord bot that answers questions using a FAQ.md file I will provide
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">git clone https://github.com/google-gemini/gemini-cli
-cd gemini-cli
-gemini
-> Give me a summary of all of the changes that went in yesterday
-</code></pre>
-<h2>본문</h2>
-<h2>첫 세션</h2>
-<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>
-<blockquote>
-<p><code>130_gemini-cli/README.md</code></p>
-</blockquote>
-<h2>🚀 Getting Started</h2>
-<h3>Basic Usage</h3>
-<h4>Start in current directory</h4>
-<pre><code class="language-bash">gemini
-</code></pre>
-<h4>Include multiple directories</h4>
-<pre><code class="language-bash">gemini --include-directories ../lib,../docs
-</code></pre>
-<h4>Use specific model</h4>
-<pre><code class="language-bash">gemini -m gemini-2.5-flash
-</code></pre>
-<h4>Non-interactive mode for scripts</h4>
-<p>Get a simple text response:</p>
-<pre><code class="language-bash">gemini -p "Explain the architecture of this codebase"
-</code></pre>
-<p>For more advanced scripting, including how to parse JSON and handle errors, use
-the <code>--output-format json</code> flag to get structured output:</p>
-<pre><code class="language-bash">gemini -p "Explain the architecture of this codebase" --output-format json
-</code></pre>
-<p>For real-time event streaming (useful for monitoring long-running operations),
-use <code>--output-format stream-json</code> to get newline-delimited JSON events:</p>
-<pre><code class="language-bash">gemini -p "Run tests and deploy" --output-format stream-json
-</code></pre>
-<h3>Quick Examples</h3>
-<h4>Start a new project</h4>
-<pre><code class="language-bash">cd new-project/
-gemini
-> Write me a Discord bot that answers questions using a FAQ.md file I will provide
-</code></pre>
-<h4>Analyze existing code</h4>
-<pre><code class="language-bash">git clone https://github.com/google-gemini/gemini-cli
-cd gemini-cli
-gemini
-> Give me a summary of all of the changes that went in yesterday
-</code></pre>
-8:["$","$L2b","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 세션","description":"첫 세션","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2f"}}]}]
-30:Ta13,<h2>기초 설명</h2>
-<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>
-<h2>이 문서에서 다루는 것</h2>
+<h2>다음 단계로</h2>
+<p>여기까지 따라오셨다면 터미널에서 Gemini CLI와 함께 일상적인 코딩을 시작할 준비가 모두 끝났어요. 더 높은 단계로 나아가고 싶다면 이렇게 해보세요.</p>
 <ul>
-<li>에이전트 루프</li>
-<li>📋 Key Features</li>
-<li>Code Understanding &#x26; Generation</li>
-<li>Automation &#x26; Integration</li>
-<li>Advanced Capabilities</li>
-<li>GitHub Integration</li>
-<li>Gemini CLI 루프</li>
+<li>실제 개인 프로젝트에서 아주 작은 리팩토링이나 기능 개발부터 시작해보기</li>
+<li>질문을 구체적이고 명확하게 다듬어가며 AI와 더 부드럽게 협업하는 방법 연습하기</li>
+<li>공식 가이드에서 지원하는 다양한 옵션을 톺아보기</li>
 </ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>130_gemini-cli/README.md</code></h3>
-<h2>📦 Installation</h2>
-<p>See
-<a href="https://www.geminicli.com/docs/get-started/installation">Gemini CLI installation, execution, and releases</a>
-for recommended system specifications and a detailed installation guide.</p>
-<h3>Quick Install</h3>
-<h4>Run instantly with npx</h4>
-<pre><code class="language-bash">
-
-## 본문
-
-## 에이전트 루프
-
-이 하네스의 일상적인 편집·도구·커밋 루프.
-
-> `130_gemini-cli/README.md`
-
-## 📋 Key Features
-
-### Code Understanding &#x26; Generation
-
-- Query and edit large codebases
-- Generate new apps from PDFs, images, or sketches using multimodal capabilities
-- Debug issues and troubleshoot with natural language
-
-### Automation &#x26; Integration
-
-- Automate operational tasks like querying pull requests or handling complex
-  rebases
-- Use MCP servers to connect new capabilities, including
-  [media generation with Imagen, Veo or Lyria](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main/experiments/mcp-genmedia)
-- Run non-interactively in scripts for workflow automation
-
-### Advanced Capabilities
-
-- Ground your queries with built-in
-  [Google Search](https://ai.google.dev/gemini-api/docs/grounding) for real-time
-  information
-- Conversation checkpointing to save and resume complex sessions
-- Custom context files (GEMINI.md) to tailor behavior for your projects
-
-### GitHub Integration
-
-Integrate Gemini CLI directly into your GitHub workflows with
-[**Gemini CLI GitHub Action**](https://github.com/google-github-actions/run-gemini-cli):
-
-- **Pull Request Reviews**: Automated code review with contextual feedback and
-  suggestions
-- **Issue Triage**: Automated labeling and prioritization of GitHub issues based
-  on content analysis
-- **On-demand Assistance**: Mention `@gemini-cli` in issues and pull requests
-  for help with debugging, explanations, or task delegation
-- **Custom Workflows**: Build automated, scheduled and on-demand workflows
-  tailored to your team's needs
-
-## Gemini CLI 루프
-
-`gemini` → turn scheduler → tool/MCP 호출 → 샌드박스 정책.
-
-> `000_overview/00_ge_overview.md` §5
-</code></pre>
-9:["$","$L2b","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"에이전트 루프","description":"에이전트 루프","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
-a:["$","$L2b","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정 & 모델","description":"설정 & 모델","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>CLI / env / 프로젝트 설정 파일 계층.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설정 &#x26; 모델</li>\n<li>설정</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>130_gemini-cli/README.md</code></h3>\n<h2>📦 Installation</h2>\n<p>See\n<a href=\"https://www.geminicli.com/docs/get-started/installation\">Gemini CLI installation, execution, and releases</a>\nfor recommended system specifications and a detailed installation guide.</p>\n<h3>Quick Install</h3>\n<h4>Run instantly with npx</h4>\n<pre><code class=\"language-bash\">\n\n## 본문\n\n## 설정 &#x26; 모델\n\nCLI / env / 프로젝트 설정 파일 계층.\n\n> `130_gemini-cli/README.md`\n\n# Create and activate a new environment\nconda create -y -n gemini_env -c conda-forge nodejs\nconda activate gemini_env\n\n## 설정\n\n`~/.gemini/` + 프로젝트 `.gemini/` — `008_config-system/08_ge_config.md`\n</code></pre>\n"}}]}]
-31:T6b6,<h2>기초 설명</h2>
+<p>그리고 "Gemini CLI가 내부적으로 어떻게 파일을 감시하고 샌드박스를 관리하는지"처럼 깊고 자세한 내용이 궁금해지면, 상단 메뉴의 <strong>개발자 문서</strong>로 넘어가 보세요. 훨씬 더 기술적인 동작 원리와 고성능 튜닝 방법을 배우실 수 있어요.</p>
+<p>여기까지 오시느라 정말 수고 많으셨어요. 이제 터미널을 열고 직접 코드를 고쳐보며 성취감을 느껴보세요! 😊</p>
+a:["$","$L2b","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정하고, 더 배우기","description":"내 입맛대로 설정 + 다음 단계 안내","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2d"}}]}]
+2e:T6b6,<h2>기초 설명</h2>
 <p>파일 규모:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2089,8 +956,8 @@ for recommended system specifications and a detailed installation guide.</p>
 
 ---
 </code></pre>
-b:["$","$L2b","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 패키지 구조","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
-32:T14a9,<h2>기초 설명</h2>
+b:["$","$L2b","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 패키지 구조","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
+2f:T14a9,<h2>기초 설명</h2>
 <p>Gemini CLI의 TUI는 <strong>React + Ink</strong> 위에 구축되었다. 371개 비테스트 파일로 구성된 대규모 React 컴포넌트 트리다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2260,8 +1127,8 @@ export const App = () => {
 └── constants/        # 팁, 문구
 </code></pre>
 <hr>
-c:["$","$L2b","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. TUI 설계","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
-33:T1767,<h2>기초 설명</h2>
+c:["$","$L2b","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. TUI 설계","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2f"}}]}]
+30:T1767,<h2>기초 설명</h2>
 <p>다중 턴 오케스트레이터. 핵심 메서드:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2420,8 +1287,8 @@ const MID_STREAM_RETRY_OPTIONS = {
 };
 </code></pre>
 <hr>
-d:["$","$L2b","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 에이전트 루프","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
-34:T215e,<h2>기초 설명</h2>
+d:["$","$L2b","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 에이전트 루프","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
+31:T215e,<h2>기초 설명</h2>
 <p>// Kind 열거형 — 도구 범주
 enum Kind { Read, Edit, Execute, Search, Fetch, Plan, Other }</p>
 <h2>이 문서에서 다루는 것</h2>
@@ -2700,8 +1567,8 @@ export class Scheduler {
   → 루프 계속
 </code></pre>
 <hr>
-e:["$","$L2b","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 도구 런타임","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-35:T1570,<h2>기초 설명</h2>
+e:["$","$L2b","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 도구 런타임","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
+32:T1570,<h2>기초 설명</h2>
 <p>프롬프트 옵션 구조:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2822,8 +1689,8 @@ export interface SystemPromptOptions {
 <h3>레거시 프롬프트 지원</h3>
 <p><code>snippets.legacy.ts</code>가 구형 모델(<code>gemini-2.0</code> 이전)용 프롬프트를 별도 유지한다. <code>PromptProvider</code>는 모델 버전에 따라 <code>snippets</code> vs <code>legacySnippets</code>를 선택한다.</p>
 <hr>
-f:["$","$L2b","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 프롬프트 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
-36:Tea5,<h2>기초 설명</h2>
+f:["$","$L2b","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 프롬프트 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
+33:Tea5,<h2>기초 설명</h2>
 <p>스킬 파일 형식은 <strong>YAML frontmatter + 마크다운 본문</strong>:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2927,8 +1794,8 @@ export class SkillManager {
 <h3>스킬 활성화 도구</h3>
 <p><code>activate-skill</code> 도구로 런타임에 스킬을 활성화한다. 활성화된 스킬의 <code>body</code>가 시스템 프롬프트에 주입된다.</p>
 <hr>
-10:["$","$L2b","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 스킬 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:Teaf,<h2>기초 설명</h2>
+10:["$","$L2b","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 스킬 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
+34:Teaf,<h2>기초 설명</h2>
 <ol>
 <li><code>ToolRegistry.buildToolInvocation("mcp_server_tool", args)</code></li>
 <li><code>DiscoveredMCPTool.build(args)</code> → <code>DiscoveredMCPToolInvocation</code></li>
@@ -3017,8 +1884,8 @@ export interface MCPServerConfig {
 <h3>프롬프트 및 리소스 레지스트리</h3>
 <p>MCP 서버는 도구 외에 프롬프트(<code>PromptRegistry</code>)와 리소스(<code>ResourceRegistry</code>)도 제공할 수 있다.</p>
 <hr>
-11:["$","$L2b","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. MCP 통합","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
-38:Tf23,<h2>기초 설명</h2>
+11:["$","$L2b","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. MCP 통합","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+35:Tf23,<h2>기초 설명</h2>
 <p>TOML 기반 정책 규칙 시스템:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3154,8 +2021,8 @@ const checkResult = await policyEngine.check(
 // → PolicyDecision.ALLOW | DENY | ASK_USER
 </code></pre>
 <hr>
-12:["$","$L2b","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 정책/가디언","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
-39:T860,<h2>기초 설명</h2>
+12:["$","$L2b","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 정책/가디언","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
+36:T860,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3208,8 +2075,8 @@ export class MacOsSandboxManager implements SandboxManager {
 </code></pre>
 <p><code>seatbeltArgsBuilder.ts</code>가 Seatbelt 프로필을 동적으로 생성하고, <code>commandSafety.ts</code>가 알려진 안전 명령을 판별한다.</p>
 <hr>
-13:["$","$L2b","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 샌드박스","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
-3a:T957,<h2>기초 설명</h2>
+13:["$","$L2b","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 샌드박스","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
+37:T957,<h2>기초 설명</h2>
 <p>export interface RoutingDecision {
 model: string;
 metadata: { source: string; latencyMs: number; reasoning: string; };
@@ -3302,8 +2169,8 @@ export interface RoutingDecision {
 </tbody>
 </table>
 <hr>
-14:["$","$L2b","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 모델 라우팅","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:T945,<h2>기초 설명</h2>
+14:["$","$L2b","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 모델 라우팅","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
+38:T945,<h2>기초 설명</h2>
 <p>export enum ConfigSource {
 Runtime = 'runtime',
 Project = 'project',
@@ -3413,8 +2280,8 @@ export enum ConfigSource {
 </tbody>
 </table>
 <hr>
-15:["$","$L2b","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 훅 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:T104b,<h2>기초 설명</h2>
+15:["$","$L2b","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 훅 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+39:T104b,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3526,8 +2393,8 @@ export class ExtensionIntegrityManager {
   → 정책 적용 (PolicyEngine.addRules)
 </code></pre>
 <hr>
-16:["$","$L2b","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"12. 확장 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
-3d:T8fe,<h2>기초 설명</h2>
+16:["$","$L2b","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"12. 확장 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
+3a:T8fe,<h2>기초 설명</h2>
 <p>구조:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3585,8 +2452,8 @@ class TaskWrapper {
 └── types.ts                 # 타입 정의
 </code></pre>
 <hr>
-17:["$","$L2b","07-overview-13",{"id":"07-overview-13","order":19,"tier":"developer","title":"13. A2A 서버","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
-3e:T1081,<h2>기초 설명</h2>
+17:["$","$L2b","07-overview-13",{"id":"07-overview-13","order":19,"tier":"developer","title":"13. A2A 서버","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+3b:T1081,<h2>기초 설명</h2>
 <p>// 모델 관리
 getModel(): string;
 resolveModel(preferredModel?): string;
@@ -3712,8 +2579,8 @@ export const PREVIEW_GEMINI_MODEL = 'gemini-2.0-flash-preview';
 // 모델 해석 순서: 선호 모델 → 환경변수 → 설정 파일 → 기본값
 </code></pre>
 <hr>
-18:["$","$L2b","07-overview-14",{"id":"07-overview-14","order":20,"tier":"developer","title":"14. 설정 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:Td0be,<h2>기초 설명</h2>
+18:["$","$L2b","07-overview-14",{"id":"07-overview-14","order":20,"tier":"developer","title":"14. 설정 시스템","description":"000_overview/00_ge_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
+3c:Td0be,<h2>기초 설명</h2>
 <p>Gemini CLI의 TUI 계층은 React + Ink 기반의 풀 터미널 애플리케이션이다. TypeScript로 작성되었으며, <code>packages/cli/src/ui/</code> 아래에 <strong>100개 이상의 컴포넌트</strong>, <strong>80개 이상의 커스텀 훅</strong>, <strong>15개의 React Context</strong>가 밀집한 대규모 프런트엔드 런타임이다. 단순한 CLI wrapper가 아니라, 마크다운 렌더링, 가상화 스크롤, vim 모드, 마우스 이벤트, 테마 시스템, diff 뷰어, 다이얼로그 매니저까지 갖춘 완전한 터미널 IDE 수준의 인터페이스를 제공한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4917,8 +3784,8 @@ interface TextBufferState {
 <li>2026-03-26: VirtualizedList 렌더 윈도우 메커니즘(overscan/배치 스크롤/자동 스크롤 정책), TextBuffer 커서/Undo 아키텍처(코드포인트 기반/coalesce), 스트리밍 안전 분할점 알고리즘(findLastSafeSplitPoint) 3개 역공학 섹션 추가.</li>
 <li>2026-03-26: Gemini CLI TUI를 React+Ink 기반 터미널 프런트엔드 런타임으로 분석해 정리했다.</li>
 </ul>
-19:["$","$L2b","20-axis-01-tui",{"id":"20-axis-01-tui","order":21,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_ge_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:T8ec9,<h2>기초 설명</h2>
+19:["$","$L2b","20-axis-01-tui",{"id":"20-axis-01-tui","order":21,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_ge_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+3d:T8ec9,<h2>기초 설명</h2>
 <p>Gemini CLI의 프롬프트 시스템은 Codex와 근본적으로 다른 철학을 취한다. Codex가 developer/user 역할 분리에 집착하는 반면, Gemini CLI는 <strong>단일 system instruction 문자열</strong> 안에서 섹션 렌더러 패턴으로 모든 지시문을 조립한다. 이 문자열은 <code>PromptProvider.getCoreSystemPrompt()</code>에서 생성되며, <code>snippets.ts</code>에 정의된 약 12개의 독립 렌더러 함수가 순서대로 호출되어 하나의 거대한 시스템 프롬프트를 만든다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5776,8 +4643,8 @@ const activeSnippets = isModernModel ? snippets : legacySnippets;
 <ul>
 <li>2026-03-26: 초기 작성. PromptProvider 조립 파이프라인, GEMINI.md 3-tier 계층 로딩, JIT Context, 토큰 관리, 대화 압축, MCP 통합을 정리했다.</li>
 </ul>
-1a:["$","$L2b","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":22,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_ge_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:Tf0bb,<h2>기초 설명</h2>
+1a:["$","$L2b","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":22,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_ge_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+3e:Tf0bb,<h2>기초 설명</h2>
 <p>Gemini CLI의 툴 시스템은 TypeScript로 작성된 선언형(declarative) 아키텍처다. 핵심 구조는 <code>DeclarativeTool</code> → <code>build()</code> → <code>ToolInvocation</code> → <code>execute()</code>의 4단계 파이프라인이며, 각 도구는 스키마 선언, 파라미터 검증, 승인 정책 판정, 실행을 분리된 계층으로 처리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7185,8 +6052,8 @@ if (hookDecision === 'ask') {
 <li>2026-03-26: 초안 작성. 도구 카탈로그, 4단계 파이프라인, 셸 실행, 편집 도구, MCP 통합을 정리했다.</li>
 <li>2026-03-26: Scheduler <code>_processNextItem</code> 상태 머신 루프 역공학 (배치 병렬 조건, queueMicrotask 양보, 요청 큐). 샌드박스 확장 자동 재시도 (실행 실패 → 권한 확장 → 사용자 승인 → 재귀 재실행). 테일 콜 체이닝 (callId 공유, originalRequestName 보존). 정책 업데이트 지속성 (6가지 ToolConfirmationOutcome, MCP 와일드카드 패턴, workspace/user 범위). 클라이언트 발행 자동 승인. Hook 통합 (<code>allow</code>/<code>ask</code>/<code>error</code> + 인자 수정 + <code>inputModifiedByHook</code> 추적).</li>
 </ul>
-1b:["$","$L2b","20-axis-03-tool",{"id":"20-axis-03-tool","order":23,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_ge_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:T7bfe,<h2>기초 설명</h2>
+1b:["$","$L2b","20-axis-03-tool",{"id":"20-axis-03-tool","order":23,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_ge_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
+3f:T7bfe,<h2>기초 설명</h2>
 <p>Gemini CLI의 skill 시스템은 Codex와 근본적으로 다른 설계 철학을 갖는다. Codex가 skill을 "메타데이터 + 정책 + 의존성을 가진 작은 플러그인 패키지"로 다루는 반면, Gemini CLI는 skill을 "YAML frontmatter가 달린 Markdown 문서"로 단순하게 유지하면서도, <strong>tool-call 기반 활성화 메커니즘</strong>을 통해 모델이 스스로 필요한 스킬을 선택하게 만든다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7997,8 +6864,8 @@ description: 스킬의 용도와 트리거 조건을 한 줄로 설명
 <ul>
 <li>2026-03-26: 초안 작성. skillLoader, skillManager, activate-skill 도구, 프롬프트 주입, built-in 스킬, YAML frontmatter 파싱을 상세히 분석했다.</li>
 </ul>
-1c:["$","$L2b","20-axis-04-skill",{"id":"20-axis-04-skill","order":24,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_ge_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:Tade1,<h2>기초 설명</h2>
+1c:["$","$L2b","20-axis-04-skill",{"id":"20-axis-04-skill","order":24,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_ge_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
+40:Tade1,<h2>기초 설명</h2>
 <p>Gemini CLI의 서브에이전트 시스템은 Codex와 완전히 다른 설계 철학을 가진다. Codex가 "부모 thread의 설정을 상속해서 child를 spawn"하는 모노리식 접근이라면, Gemini는 <strong>두 개의 독립된 계층</strong>으로 나뉜다: 내부적으로 LLM 루프를 돌리는 <strong>Local/Remote SubagentTool</strong>과, 외부에서 HTTP로 접근하는 <strong>A2A(Agent-to-Agent) Server</strong>다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -8966,8 +7833,8 @@ const coderAgentCard: AgentCard = {
 <li><code>core/src/utils/historyHardening.ts</code> — hardenHistory 5-패스 히스토리 보정</li>
 <li><code>core/src/agent/types.ts</code> — AgentProtocol, AgentEvent, AgentSend 인터페이스</li>
 </ul>
-1d:["$","$L2b","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":25,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_ge_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:T6d00,<h2>기초 설명</h2>
+1d:["$","$L2b","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":25,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_ge_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
+41:T6d00,<h2>기초 설명</h2>
 <p>Gemini CLI의 프로그래매틱 표면은 세 패키지로 나뉜다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9781,8 +8648,8 @@ import * as acp from '@agentclientprotocol/sdk';
 <ul>
 <li>2026-03-26: A2A 서버, SDK, CLI non-interactive 세 표면을 분석하고 Codex app-server와 구조를 비교했다.</li>
 </ul>
-1e:["$","$L2b","20-axis-06-surface",{"id":"20-axis-06-surface","order":26,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_ge_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:T7e32,<h2>기초 설명</h2>
+1e:["$","$L2b","20-axis-06-surface",{"id":"20-axis-06-surface","order":26,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_ge_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
+42:T7e32,<h2>기초 설명</h2>
 <p>Gemini CLI의 명령 실행 제어는 두 개의 독립적 레이어로 나뉜다. <strong>OS-레벨 샌드박스</strong>(플랫폼별 프로세스 격리)와 <strong>TOML 기반 정책 엔진</strong>(도구별 허용/거부 규칙)이 별개의 시스템으로 작동하면서 교차점에서 결합한다. Codex의 Rust 기반 단일 크레이트 접근과 달리, Gemini CLI는 TypeScript로 작성된 <code>SandboxManager</code> 인터페이스와 TOML 정책 파일의 5-tier 우선순위 시스템을 채택했다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10550,8 +9417,8 @@ export const GOVERNANCE_FILES = [
 <ul>
 <li>2026-03-26: macOS Seatbelt, Linux Bubblewrap, Windows Restricted Token 샌드박스와 TOML 5-tier 정책 엔진을 종합 분석했다.</li>
 </ul>
-1f:["$","$L2b","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":27,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_ge_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-46:T718b,<h2>기초 설명</h2>
+1f:["$","$L2b","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":27,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_ge_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+43:T718b,<h2>기초 설명</h2>
 <p>Gemini CLI의 설정은 5층 레이어 모델로 운영된다. JSON 기반 <code>settings.json</code>이 4개 스코프(System, SystemDefaults, User, Workspace)로 존재하고, 프로젝트 컨텍스트 파일 <code>GEMINI.md</code>가 별도 레이어를 형성한다. 모델 라우팅은 alias → context resolution → classifier 분기 → fallback chain이라는 다단계 파이프라인으로 동작하며, <code>ModelConfigService</code>가 이 전체를 데이터 드리븐으로 제어한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11213,8 +10080,8 @@ if (!validationResult.success &#x26;&#x26; validationResult.error) {
 <ul>
 <li>2026-07-17: Gemini CLI 설정 시스템을 5층 레이어 + 8단계 모델 라우팅 + 스토리지 구조로 정리했다.</li>
 </ul>
-20:["$","$L2b","20-axis-08-config",{"id":"20-axis-08-config","order":28,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_ge_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:T4f66,<h2>기초 설명</h2>
+20:["$","$L2b","20-axis-08-config",{"id":"20-axis-08-config","order":28,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_ge_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
+44:T4f66,<h2>기초 설명</h2>
 <p>Gemini CLI의 MCP는 별도 부속 기능이 아니라 tool runtime 안으로 직접 접속되는 내부 확장층이다. 중심 파일은 <code>130_gemini-cli/packages/core/src/tools/mcp-client-manager.ts</code>, <code>130_gemini-cli/packages/core/src/tools/mcp-client.ts</code>, <code>130_gemini-cli/packages/core/src/tools/mcp-tool.ts</code> 세 개다. 이 셋은 각각 멀티 서버 수명주기, 단일 서버 연결과 프로토콜 처리, 모델에 노출되는 도구 래퍼를 맡는다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11541,8 +10408,8 @@ const excludeTools = [
 </ul>
 <p>이전 문서: [[08_ge_config]]<br>
 다음 문서: [[10_ge_memory]]</p>
-21:["$","$L2b","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":29,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_ge_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
-48:Teb2e,<h2>기초 설명</h2>
+21:["$","$L2b","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":29,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_ge_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
+45:Teb2e,<h2>기초 설명</h2>
 <p>Gemini CLI의 메모리 시스템은 <strong>계층적 GEMINI.md 파일 디스커버리 + 세션 내 ChatCompressionService 대화 압축</strong>의 2축 구조다. <strong>3-tier HierarchicalMemory(Global → Extension → Project)</strong> + <strong>JIT(Just-In-Time) 서브디렉토리 로딩</strong> + <strong>Reverse Token Budget 트렁케이션</strong> + <strong>findCompressSplitPoint 문자 기반 70/30 분할</strong> + <strong>2-phase Probe 검증 LLM 요약</strong> + <strong>Memory Manager Agent</strong> + <strong>SessionSummaryService 세션 종료 요약</strong> 으로 구성된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12841,8 +11708,8 @@ argsPattern = "(^|.*/)\\.gemini/.*"
 </tr>
 </tbody>
 </table>
-22:["$","$L2b","20-axis-10-memory",{"id":"20-axis-10-memory","order":30,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_ge_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:T8041,<h2>기초 설명</h2>
+22:["$","$L2b","20-axis-10-memory",{"id":"20-axis-10-memory","order":30,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_ge_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
+46:T8041,<h2>기초 설명</h2>
 <p>Gemini CLI의 확장 시스템은 "Extension"이라는 단위로 동작한다. Codex의 플러그인이 Rust 기반 manager + marketplace 통합인 반면, Gemini CLI의 Extension은 <strong>TypeScript 기반 ExtensionManager + Git/GitHub Release 설치 + 파일시스템 기반 디스커버리</strong>로 구성된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -13687,8 +12554,8 @@ export interface ExtensionSetting {
 <li>2026-03-26: 역공학 심화 보강 — <code>reverse-engineering</code> 태그 추가, 확장 시스템 구조 분류 태그 확장. 기존 분석은 이미 소스코드 기반이므로 구조 유지.</li>
 <li>2025-07-16: Gemini CLI Extension 시스템을 매니페스트·디스커버리·생명주기·설치·활성화·hooks·settings 구조로 정리했다.</li>
 </ul>
-23:["$","$L2b","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":31,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_ge_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:T8fd8,<h2>기초 설명</h2>
+23:["$","$L2b","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":31,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_ge_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
+47:T8fd8,<h2>기초 설명</h2>
 <p>Gemini CLI의 가디언은 <strong>TOML 기반 정책 엔진 + 확인 메시지 버스</strong>로 구성된다. Codex의 guardian이 LLM(gpt-5.4)으로 risk score를 자동 판정하는 반면, Gemini CLI는 <strong>선언적 규칙 매칭</strong>으로 도구 호출을 ALLOW / DENY / ASK_USER로 분류한다. LLM 판정 없이 결정론적 규칙만으로 작동하므로 레이턴시가 없고, 규칙이 곧 정책이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -14663,8 +13530,8 @@ if (rule.modes?.includes(ApprovalMode.YOLO)) {
 <ul>
 <li>2025-07-15: TOML 정책 엔진 + 5단계 티어 + MessageBus 확인 흐름 + Safety Checker 프로토콜 + 4가지 승인 모드를 중심으로 정리했다.</li>
 </ul>
-24:["$","$L2b","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":32,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_ge_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-4b:Tedeb,<h2>기초 설명</h2>
+24:["$","$L2b","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":32,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_ge_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
+48:Tedeb,<h2>기초 설명</h2>
 <p>Gemini CLI는 Google이 개발한 터미널 기반 AI 코딩 에이전트로, 모노레포 구조(<code>packages/*</code>)에 7개 패키지를 포함한다. 본 문서는 차원 01-12(TUI, Prompt, Tool, Skill, Subagent, Surface, Sandbox, Config, MCP, Memory, Plugin, Guardian)에서 <strong>다루지 않은</strong> 잔여 교차 관심사 12개를 분석한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -16307,8 +15174,8 @@ export async function getExperiments(server?: CodeAssistServer): Promise&#x3C;Ex
 <li><strong>텔레메트리 성숙도</strong>: OTel 전체 스택 + Google Clearcut 이중 파이프라인은 분석 인프라 측면에서 가장 완전한 구현이다.</li>
 <li><strong>가용성/폴백 정책</strong>: 모델별 상태 머신(healthy/transient/terminal) + 정책 체인 기반 자동 폴백은 프로덕션급 복원력을 제공한다.</li>
 </ol>
-25:["$","$L2b","20-axis-13-etc",{"id":"20-axis-13-etc","order":33,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_ge_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
-4c:T530e,<h2>기초 설명</h2>
+25:["$","$L2b","20-axis-13-etc",{"id":"20-axis-13-etc","order":33,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_ge_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
+49:T530e,<h2>기초 설명</h2>
 <p>Gemini CLI exposes web research as two complementary builtins: <strong><code>google_web_search</code></strong> (grounded search synthesis) and <strong><code>web_fetch</code></strong> (multi-URL deep read). Search execution is <strong>API-hosted</strong> — the CLI calls <code>geminiClient.generateContent</code> with model id <code>'web-search'</code> and parses <code>groundingMetadata</code> from the response.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -16830,8 +15697,8 @@ tools: [{ googleSearch: {} }],
 <pre><code class="language-bash">rg -n google_web_search /Users/jun/Developer/codex/130_gemini-cli/
 wc -c /Users/jun/Developer/codex/014_web-search/14_ge_web-search.md  # T2 floor 12288
 </code></pre>
-26:["$","$L2b","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":34,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_ge_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
-4d:T7f32,<h2>기초 설명</h2>
+26:["$","$L2b","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":34,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_ge_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
+4a:T7f32,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -17555,8 +16422,8 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <li>Whether <code>McpBrowserRecordingStopHook</code> sends messages via Agent API only after a live browser/MCP recording session.</li>
 <li>Whether Agent API is stable user-facing contract or internal sidecar contract.</li>
 </ul>
-27:["$","$L2b","25-reverse-engineering",{"id":"25-reverse-engineering","order":35,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
-4e:T3c1f,<h2>기초 설명</h2>
+27:["$","$L2b","25-reverse-engineering",{"id":"25-reverse-engineering","order":35,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
+4b:T3c1f,<h2>기초 설명</h2>
 <ol>
 <li><code>00_ge_overview</code> (이 문서)</li>
 <li>(향후) TUI 설계 분석</li>
@@ -17954,7 +16821,7 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>기술 스택: Python + prompt_toolkit + rich + tree-sitter + Git</li>
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
-28:["$","$L2b","99-next-steps",{"id":"99-next-steps","order":36,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
-29:["$","script","script-0",{"src":"/cli101-portal/sites/gemini-cli/_next/static/chunks/1569d02568d582a5.js","async":true}]
-2a:["$","$L4f",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@50"}]}]
-50:null
+28:["$","$L2b","99-next-steps",{"id":"99-next-steps","order":36,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
+29:["$","script","script-0",{"src":"/cli101-portal/sites/gemini-cli/_next/static/chunks/6d299d2b16f93b46.js","async":true}]
+2a:["$","$L4c",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@4d"}]}]
+4d:null

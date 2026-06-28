@@ -1,525 +1,11 @@
 1:"$Sreact.fragment"
 2:"$Sreact.suspense"
-3:I[27756,["/cli101-portal/sites/opencode/_next/static/chunks/9915c801139d67bd.js"],"PageClient"]
-2f:I[15824,["/cli101-portal/sites/opencode/_next/static/chunks/9915c801139d67bd.js"],"SectionBlock"]
-56:I[59374,["/cli101-portal/sites/opencode/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/opencode/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
-0:{"buildId":"4LvYd5_pA25jc-ZCq9EDE","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"OC101","tagline":"OC101 developer-grade corpus guide","taglineEn":"OC101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"140_opencode/ + 000_overview/00_oc_overview.md","branding":{"slug":"oc101","name":"OC101","tagline_ko":"OpenCode Go 입문 + 코퍼스","tagline_en":"OpenCode Go intro + corpus","accentLabel_ko":"000_overview/00_oc_overview.md","accentLabel_en":"000_overview/00_oc_overview.md","heroTitle_ko":"터미널 AI 코딩 어시스턴트 (Go)","heroTitle_en":"Terminal AI coding assistant (Go)","heroSubtitle_ko":"개발자 문서 — 41섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 41 sections (000–015 + snippets)","terminalLines":["$$ brew install opencode-ai/tap/opencode","$$ opencode"],"prompt_ko":"> 이 패키지에 테스트 추가해줘","prompt_en":"> add tests to this package","ctaHash":"00-before-you-start","officialUrl":"https://opencode.ai","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"OC101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-opencode","order":2,"tier":"core","slug":"02-what-is-opencode","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/02-what-is-opencode.md","file_en":"en/02-what-is-opencode.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 패키지 구조 개요","title_en":"Overview §1","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. Effect-TS 기반 서비스 아키텍처","title_en":"Overview §2","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 에이전트 시스템","title_en":"Overview §3","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 세션 프로세서와 에이전트 루프","title_en":"Overview §4","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 프롬프트 조립 구조","title_en":"Overview §5","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 도구 런타임","title_en":"Overview §6","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 프로바이더 시스템","title_en":"Overview §7","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 이벤트 버스 시스템","title_en":"Overview §8","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 서버 아키텍처","title_en":"Overview §9","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 설정 시스템","title_en":"Overview §10","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 권한 시스템","title_en":"Overview §11","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. 스킬 시스템","title_en":"Overview §12","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-13","order":19,"tier":"developer","slug":"07-overview-13","title_ko":"13. 플러그인 시스템","title_en":"Overview §13","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-13.md","file_en":"en/07-overview-13.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-14","order":20,"tier":"developer","slug":"07-overview-14","title_ko":"14. MCP 통합","title_en":"Overview §14","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-14.md","file_en":"en/07-overview-14.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-15","order":21,"tier":"developer","slug":"07-overview-15","title_ko":"15. 스냅샷과 되돌리기","title_en":"Overview §15","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-15.md","file_en":"en/07-overview-15.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-16","order":22,"tier":"developer","slug":"07-overview-16","title_ko":"16. Worktree 격리","title_en":"Overview §16","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-16.md","file_en":"en/07-overview-16.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-17","order":23,"tier":"developer","slug":"07-overview-17","title_ko":"17. 프론트엔드 아키텍처","title_en":"Overview §17","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-17.md","file_en":"en/07-overview-17.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-18","order":24,"tier":"developer","slug":"07-overview-18","title_ko":"18. 기타 주목할 서브시스템","title_en":"Overview §18","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-18.md","file_en":"en/07-overview-18.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":25,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_oc_tui.md","description_en":"001_tui-design/01_oc_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":26,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_oc_prompt.md","description_en":"002_prompt-context/02_oc_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":27,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_oc_tool.md","description_en":"003_tool-runtime/03_oc_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":28,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_oc_skill.md","description_en":"004_skill-system/04_oc_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":29,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_oc_subagent.md","description_en":"005_subagents-collab/05_oc_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":30,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_oc_surface.md","description_en":"006_app-server-client-surfaces/06_oc_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":31,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_oc_sandbox.md","description_en":"007_sandbox-exec-policy/07_oc_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":32,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_oc_config.md","description_en":"008_config-system/08_oc_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":33,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_oc_mcp.md","description_en":"009_mcp-orchestration/09_oc_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":34,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_oc_memory.md","description_en":"010_memory-pipeline/10_oc_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":35,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_oc_plugin.md","description_en":"011_plugin-system/11_oc_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":36,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_oc_guardian.md","description_en":"012_guardian-approval/12_oc_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":37,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_oc_etc.md","description_en":"013_etc/13_oc_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":38,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_oc_web-search.md","description_en":"014_web-search/14_oc_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":39,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":40,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c"]}]}],["$L2d"],"$L2e"]}],"loading":null,"isPartial":false}
-30:T524e,<h2>OC101 — 개발자 문서</h2>
-<p>P2: <strong>000–015 코퍼스</strong> + <strong>path:line 소스 스니펫</strong> + 기초 설명.</p>
-<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>140_opencode/README.md</code></h3>
-<h2>Installation</h2>
-<h3>Using the Install Script</h3>
-<pre><code class="language-bash">
-
-## 코퍼스 — 000/ (인덱스·요약)
-
-### `000/01_corpus_navigation_map.md`
-
-# Corpus Navigation Map
-
-This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.
-
-For reversible old-to-new bucket proposals, see `/Users/jun/Developer/codex/000/02_corpus_move_candidates.md`.
-
-For the canonical relationship between `/Users/jun/Developer/codex/000/` and `/Users/jun/Developer/codex/000_overview/`, see `/Users/jun/Developer/codex/000/03_overview_canonical_map.md`.
-
-## Canonical Reading Spine
-
-| Purpose | Path | Classification |
-| --- | --- | --- |
-| Root overview and synthesis | `/Users/jun/Developer/codex/000/` | `overview-index` |
-| Deep harness overview docs | `/Users/jun/Developer/codex/000_overview/` | `deep-overview` |
-| TUI design axis | `/Users/jun/Developer/codex/001_tui-design/` | `canonical-doc-axis` |
-| Prompt/context axis | `/Users/jun/Developer/codex/002_prompt-context/` | `canonical-doc-axis` |
-| Tool/runtime axis | `/Users/jun/Developer/codex/003_tool-runtime/` | `canonical-doc-axis` |
-| Skill system axis | `/Users/jun/Developer/codex/004_skill-system/` | `canonical-doc-axis` |
-| Subagents/collaboration axis | `/Users/jun/Developer/codex/005_subagents-collab/` | `canonical-doc-axis` |
-| App/server/client surfaces axis | `/Users/jun/Developer/codex/006_app-server-client-surfaces/` | `canonical-doc-axis` |
-| Sandbox/exec/policy axis | `/Users/jun/Developer/codex/007_sandbox-exec-policy/` | `canonical-doc-axis` |
-| Config system axis | `/Users/jun/Developer/codex/008_config-system/` | `canonical-doc-axis` |
-| MCP orchestration axis | `/Users/jun/Developer/codex/009_mcp-orchestration/` | `canonical-doc-axis` |
-| Memory pipeline axis | `/Users/jun/Developer/codex/010_memory-pipeline/` | `canonical-doc-axis` |
-| Plugin system axis | `/Users/jun/Developer/codex/011_plugin-system/` | `canonical-doc-axis` |
-| Guardian/approval axis | `/Users/jun/Developer/codex/012_guardian-approval/` | `canonical-doc-axis` |
-| Cross-cutting notes | `/Users/jun/Developer/codex/013_etc/` | `supporting-docs` |
-| Web search notes | `/Users/jun/Developer/codex/014_web-search/` | `supporting-docs` |
-| Reverse engineering notes | `/Users/jun/Developer/codex/015_reverse-engineering/` | `supporting-docs` |
-
-## Reference Repositories and Artifact Sets
-
-| Current Path | Classification | First-Cycle Status |
-| --- | --- | --- |
-| `/Users/jun/Developer/codex/120_codex-cli/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/121_openai-codex/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/110_aider/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/130_gemini-cli/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/140_opencode/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/141_opencode-current/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/161_lazycodex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/160_hermes-agent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/162_superpowers/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/901_autoresearch/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/902_claude-usage-plugin/` | `reference-repo`, `plugin-artifact`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/170_oh-my-claudecode/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/171_oh-my-codex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/172_oh-my-openagent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/030_browser/` | `runtime-tooling`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/023_computer_use/` | `runtime-tooling`, `contains-nested-gitlink` | `blocked-nested-gitlink` |
-| `/Users/jun/Developer/codex/150_claude_code/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/151_copilot_cli/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/152_antigravity/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt` | `binary-or-package-artifact`, `reverse-engineering-evidence` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs` | `binary-or-package-artifact`, `reverse-engineering-tooling` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-
-## Proposed Future Buckets
-
-These are logical buckets only. They are not physical moves in this cycle.
-
-```text
-reference-repos/
-  codex/
-  competitor-harnesses/
-  plugins-and-extensions/
-analysis-artifacts/
-  reverse-engineering/
-  binary-package-reports/
-runtime-tools/
-  browser/
-  computer-use/
-docs/
-  overview-index/
-  deep-overview/
-  axes/
-</code></pre>
-<h2>Physical Rename Rule</h2>
-<p>Before a folder is moved, add an explicit mapping row using:</p>
-<pre><code class="language-text">old_path -> proposed_path | classification | move_status | evidence
-</code></pre>
-<p>For gitlinks, also reconcile <code>.gitmodules</code> before moving.</p>
-<h2>Top-Level Triage</h2>
-<p>Use this when scanning the root directory. Status is intentionally conservative: <code>keep-current</code> means the current path remains the source of truth for now.</p>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Triage</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/03_overview_canonical_map.md</code></h3>
-<h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
-<h2>Canonical Rule</h2>
-<ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
-<li>If the same filename exists in both folders and content differs, keep both:
-<ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
-</ul>
-</li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
-</ul>
-<h2>Paired Overview Files</h2>
-<table>
-<thead>
-<tr>
-<th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
-<th>Equal</th>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>00_ag_overview.md</code></td>
-<td align="right">27224</td>
-<td align="right">15790</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ai_overview.md</code></td>
-<td align="right">25716</td>
-<td align="right">25716</td>
-<td>yes</td>
-<td>duplicate content; defer dedupe until link audit</td>
-</tr>
-<tr>
-<td><code>00_ay_overview.md</code></td>
-<td align="right">3815</td>
-<td align="right">798</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cc_overview.md</code></td>
-<td align="right">25990</td>
-<td align="right">27537</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_co_overview.md</code></td>
-<td align="right">41569</td>
-<td align="right">17061</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cp_overview.md</code></td>
-<td align="right">23525</td>
-<td align="right">6854</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cr_overview.md</code></td>
-<td align="right">3216</td>
-<td align="right">595</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ge_overview.md</code></td>
-<td align="right">47345</td>
-<td align="right">35414</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_gr_overview.md</code></td>
-<td align="right">3310</td>
-<td align="right">546</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ki_overview.md</code></td>
-<td align="right">3360</td>
-<td align="right">692</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_oc_overview.md</code></td>
-<td align="right">43650</td>
-<td align="right">33628</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-</tbody>
-</table>
-<h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
-<pre><code class="language-text">00_hermes_overview.md
-00_lc_overview.md
-00_newharness_vs_cli-jaw_synthesis.md
-00_omc_overview.md
-00_omo_overview.md
-00_omx_overview.md
-00_sp_overview.md
-</code></pre>
-<h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
-<pre><code class="language-text">00_grand_synthesis.md
-00_harness-index.md
-00_harness-index_hermes.md
-00_harness-index_omc.md
-00_harness-index_omo.md
-00_harness-index_omx.md
-00_harness_synthesis_addendum.md
-01_corpus_navigation_map.md
-02_corpus_move_candidates.md
-03_overview_canonical_map.md
-</code></pre>
-<hr>
-<h3><code>000/00_oc_overview.md</code></h3>
-<h1>OpenCode 에이전트 엔진 검토 개요</h1>
-<p>이 문서는 <code>opencode</code> 저장소의 내부 아키텍처를 분석한다. OpenCode는 TypeScript + Bun 기반의 오픈소스 AI 코딩 에이전트로, Effect-TS 계층 위에 구축된 서버-클라이언트 분리형 에이전트 엔진이다. 이번 분석의 목적은 Codex 분석과 동일하게, 프롬프트 조립, 툴 런타임, 스킬, 에이전트 루프, 권한, 플러그인 계층을 <strong>어디서 어떻게 뜯어낼 수 있는지</strong>를 코드 기준으로 정리하는 것이다.</p>
-<p>한 문장 결론: OpenCode는 <code>Effect-TS service layer + Hono HTTP server + Vercel AI SDK + Zod-typed event bus + SolidJS frontend</code>가 유기적으로 엮인 풀스택 에이전트 플랫폼이다. 단일 CLI 도구가 아니라, 서버 프로세스 위에서 다수의 프로젝트 인스턴스를 동시에 관리하고, 데스크톱·웹·TUI 클라이언트가 SDK를 통해 접속하는 구조다.</p>
-<p>핵심은 여섯 갈래다. 첫째, 모든 서비스가 Effect-TS의 <code>Layer</code>/<code>Service</code>/<code>Effect</code> 패턴으로 의존성 주입된다. 둘째, <code>BusEvent.define()</code> + <code>GlobalBus</code> 이벤트 시스템이 서버 내부 통신과 SSE 기반 클라이언트 실시간 동기화를 동시에 해결한다. 셋째, Vercel AI SDK가 21개 이상의 LLM 프로바이더를 단일 <code>streamText</code> 인터페이스로 추상화한다. 넷째, <code>Snapshot</code> 시스템이 별도 git 저장소를 이용해 세션 단위 undo/revert를 구현한다. 다섯째, <code>Plugin</code> 시스템이 25개 이상의 hook 포인트로 인증·도구·프롬프트·권한을 외부에서 확장 가능하게 한다. 여섯째, <code>Permission</code> 시스템이 wildcard 패턴 기반 <code>allow/deny/ask</code> 규칙으로 도구별·에이전트별 세밀한 접근 제어를 수행한다.</p>
-<pre><code class="language-mermaid">graph TD
-    CLI["CLI (yargs)"] --> Server["Hono HTTP Server"]
-    Server --> Instance["Instance Context&#x3C;br/>(per-project)"]
-    Instance --> Session["Session Manager"]
-    Instance --> Agent["Agent Service"]
-    Instance --> Config["Config Loader"]
-    Instance --> Snapshot["Snapshot (git)"]
-    Session --> Processor["SessionProcessor&#x3C;br/>(agent loop)"]
-    Processor --> LLM["LLM Module&#x3C;br/>(Vercel AI SDK)"]
-    Processor --> ToolRegistry["Tool Registry"]
-    Processor --> PermSvc["Permission Service"]
-    LLM --> Provider["Provider Service&#x3C;br/>(21+ providers)"]
-    ToolRegistry --> BuiltinTools["24 Built-in Tools"]
-    ToolRegistry --> MCPTools["MCP Bridge Tools"]
-    ToolRegistry --> PluginTools["Plugin Tools"]
-    MCPTools --> MCPClient["MCP Client&#x3C;br/>(stdio/SSE/HTTP)"]
-    Instance --> Bus["Event Bus"]
-    Bus --> GlobalBus["GlobalBus&#x3C;br/>(EventEmitter)"]
-    GlobalBus --> SSE["SSE to Frontend"]
-    SSE --> AppFE["SolidJS App"]
-    SSE --> ConsoleFE["SolidStart Console"]
-    Agent --> SkillSvc["Skill Service"]
-    Config --> PluginSvc["Plugin Service&#x3C;br/>(25+ hooks)"]
-</code></pre>
-<pre><code class="language-mermaid">sequenceDiagram
-    participant User as 사용자 입력
-    participant Server as Hono Server
-    participant Session as Session Manager
-    participant Processor as SessionProcessor
-    participant LLM as LLM (streamText)
-    participant Tools as Tool Registry
-    participant Perm as Permission Service
-    participant Bus as Event Bus
-
-    User->>Server: POST /session/:id/chat
-    Server->>Session: chat(sessionID, input)
-    Session->>Processor: create + process
-    Processor->>LLM: stream(system + messages + tools)
-    LLM-->>Processor: streaming chunks
-    Processor->>Bus: publish(message.updated)
-    Bus-->>User: SSE event
-
-    loop tool calls
-        LLM-->>Processor: tool-call event
-        Processor->>Perm: evaluate(tool, pattern)
-        alt needs approval
-            Perm-->>Bus: permission.asked
-            Bus-->>User: SSE → approval UI
-            User-->>Perm: permission.replied
-        end
-        Processor->>Tools: execute(tool, args)
-        Tools-->>Processor: tool output
-        Processor->>LLM: continue with tool result
-    end
-    Processor->>Session: finalize message
-</code></pre>
-<hr>
-<h2>1. 패키지 구조 개요</h2>
-<p>OpenCode는 Bun workspaces 기반 모노레포로 구성된다.</p>
-<table>
-<thead>
-<tr>
-<th>패키지</th>
-<th>역할</th>
-<th>기술</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>packages/140_opencode/</code></td>
-<td>핵심 에이전트 엔진 (45+ 모듈)</td>
-<td>Bun, Effect-TS, Hono, Vercel AI SDK</td>
-</tr>
-<tr>
-<td><code>packages/app/</code></td>
-<td>웹/데스크톱 프론트엔드</td>
-<td>SolidJS, Vite, TailwindCSS</td>
-</tr>
-<tr>
-<td><code>packages/console/</code></td>
-<td>클라우드 대시보드 (SaaS)</td>
-<td>SolidStart, Nitro, Cloudflare Workers</td>
-</tr>
-<tr>
-<td><code>packages/desktop/</code></td>
-<td>Tauri 데스크톱 셸</td>
-<td>Tauri, Rust</td>
-</tr>
-<tr>
-<td><code>packages/plugin/</code></td>
-<td>플러그인 타입 정의</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td><code>packages/sdk/</code></td>
-<td>외부 연동 SDK</td>
-<td>Generated from OpenAPI</td>
-</tr>
-<tr>
-<td><code>packages/ui/</code></td>
-<td>공유 UI 컴포넌트</td>
-<td>SolidJS</td>
-</tr>
-<tr>
-<td><code>packages/util/</code></td>
-<td>공유 유틸리티</td>
-<td>TypeScript</td>
-</tr>
-</tbody>
-</table>
-<p>핵심 엔진 <code>packages/140_opencode/src/</code>의 주요 모듈:</p>
-<table>
-<thead>
-<tr>
-<th>모듈</th>
-<th>파일</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>agent/</code></td>
-<td><code>agent.ts</code>, prompts</td>
-<td>에이전트 정의, 빌트인 에이전트 4종</td>
-</tr>
-<tr>
-<td><code>tool/</code></td>
-<td>26개 파일</td>
-<td>도구 정의, 레지스트리, 24개 빌트인 도구</td>
-</tr>
-<tr>
-<td><code>session/</code></td>
-<td>17개 파일</td>
-<td>세션 관리, 프로세서 루프, 프롬프트 조립</td>
-</tr>
-<tr>
-<td><code>provider/</code></td>
-<td>7개 파일 + SDK</td>
-<td>LLM 프로바이더 추상화, 21개 프로바이더</td>
-</tr>
-<tr>
-<td><code>server/</code></td>
-<td>14개 라우트</td>
-<td>Hono HTTP/WebSocket 서버</td>
-</tr>
-<tr>
-<td><code>bus/</code></td>
-<td>3개 파일</td>
-<td>Zod 타입 이벤트 버스</td>
-</tr>
-<tr>
-<td><code>config/</code></td>
-<td>6개 파일</td>
-<td>6단계 설정 계층</td>
-</tr>
-<tr>
-<td><code>permission/</code></td>
-<td>4개 파일</td>
-<td>패턴 매칭 권한 시스템</td>
-</tr>
-<tr>
-<td><code>skill/</code></td>
-<td>2개 파일</td>
-<td>SKILL.md 탐색·로딩</td>
-</tr>
-<tr>
-<td><code>mcp/</code></td>
-<td>4개 파일</td>
-<td>MCP 클라이언트 + OAuth</td>
-</tr>
-<tr>
-<td><code>plugin/</code></td>
-<td>3개 파일</td>
-<td>플러그인 로더 + 빌트인 인증</td>
-</tr>
-<tr>
-<td><code>snapshot/</code></td>
-<td>1개 파일</td>
-<td>git 기반 스냅샷/되돌리기</td>
-</tr>
-<tr>
-<td><code>worktree/</code></td>
-<td>1개 파일</td>
-<td>git worktree 격리</td>
-</tr>
-<tr>
-<td><code>lsp/</code></td>
-<td>5개 파일</td>
-<td>언어 서버 프로토콜 통합</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2>2. Effect-TS 기반 서비스 아키텍처</h2>
-<p>OpenCode의 가장 큰 구조적 특징은 모든 핵심 모듈이 Effect-TS의 <code>Service → Layer → Effect</code> 패턴으로 구축된다는 점이다. 이 패턴은 의존성 주입, 에러 핸들링, 동시성 제어를 타입 안전하게 처리한다.</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/agent/agent.ts
-export interface Interface {
-  readonly get: (agent: string) => Effect.Effect&#x3C;Agent.Info>
-  readonly list: () => Effect.Effect&#x3C;Agent.Info[]>
-  readonly defaultAgent: () => Effect.Effect&#x3C;string>
-}
-
-export class Service extends ServiceMap.Service&#x3C;Service, Interface>()("@opencode/Agent") {}
-
-export const layer = Layer.effect(
-  Service,
-  Effect.gen(function* () {
-    const config = () => Effect.promise(() => Config.get())
-    // ... build agent registry
-    return Service.of({ get, list, defaultAgent })
-  }),
-)
-</code></pre>
-<p><code>InstanceState</code>는 프로젝트 인스턴스별로 상태를 격리하는 핵심 메커니즘이다. 같은 서버에서 여러 프로젝트를 동시에 관리할 때, 각 프로젝트의 설정·세션·도구가 독립적으로 초기화된다.</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/effect/instance-state.ts
-// 프로젝트(디렉토리)별 독립 상태 관리
-const state = yield* InstanceState.make&#x3C;State>(
-  Effect.fn("Agent.state")(function* (ctx) {
-    // ctx.directory, ctx.worktree 등 인스턴스 컨텍스트 접근
-    return { get, list, defaultAgent }
-  }),
-)
-</code></pre>
-<hr>
-<h2>3. 에이전트 시스템</h2>
-<h3>3.1 에이전트 정의</h3>
-<p>에이전트는 Zod 스키마로 정의되며, 이름·모드·권한·모델·프롬프트를 포함한다.</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/agent/agent.ts
-export const Info = z.object({
-  name: z.string(),
-  mode: z.enum(["subagent", "primary", "all"]),
-  native: z.boolean().optional(),
-  hidden: z.boolean().optional(),
-  permission: Permission.Ruleset,
-  model: z.object({
-    modelID: ModelID.zod,
-    providerID: Provid
-
-## 코퍼스 — 000_overview/00_oc_overview.md (심화)
-
-## Corpus axis index
-
-| Axis | Doc |
-| --- | --- |
-| 001 TUI | `001_tui-design/01_oc_tui.md` |
-| 002 Prompt | `002_prompt-context/02_oc_prompt.md` |
-| 003 Tool | `003_tool-runtime/03_oc_tool.md` |
-| 004 Skill | `004_skill-system/04_oc_skill.md` |
-| 005 Subagent | `005_subagents-collab/05_oc_subagent.md` |
-| 006 Surface | `006_app-server-client-surfaces/06_oc_surface.md` |
-| 007 Sandbox | `007_sandbox-exec-policy/07_oc_sandbox.md` |
-| 008 Config | `008_config-system/08_oc_config.md` |
-| 009 MCP | `009_mcp-orchestration/09_oc_mcp.md` |
-| 010 Memory | `010_memory-pipeline/10_oc_memory.md` |
-| 011 Plugin | `011_plugin-system/11_oc_plugin.md` |
-| 012 Guardian | `012_guardian-approval/12_oc_guardian.md` |
-| 014 Web | `014_web-search/14_oc_web-search.md` |
-</code></pre>
-4:["$","$L2f","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"000 인덱스 + 축 맵","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
-31:T6c4d,<h2>기초 설명</h2>
+3:I[27756,["/cli101-portal/sites/opencode/_next/static/chunks/632d5794df09229a.js"],"PageClient"]
+2f:I[15824,["/cli101-portal/sites/opencode/_next/static/chunks/632d5794df09229a.js"],"SectionBlock"]
+54:I[59374,["/cli101-portal/sites/opencode/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/opencode/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
+0:{"buildId":"QJxxlELJYl-d4BrLucZq7","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"OC101","tagline":"OC101 developer-grade corpus guide","taglineEn":"OC101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"140_opencode/ + 000_overview/00_oc_overview.md","branding":{"slug":"oc101","name":"OC101","tagline_ko":"OpenCode Go 입문 + 코퍼스","tagline_en":"OpenCode Go intro + corpus","accentLabel_ko":"000_overview/00_oc_overview.md","accentLabel_en":"000_overview/00_oc_overview.md","heroTitle_ko":"터미널 AI 코딩 어시스턴트 (Go)","heroTitle_en":"Terminal AI coding assistant (Go)","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 35장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 35 developer docs","terminalLines":["$$ brew install opencode-ai/tap/opencode","$$ opencode"],"prompt_ko":"> 이 패키지에 테스트 추가해줘","prompt_en":"> add tests to this package","ctaHash":"00-before-you-start","officialUrl":"https://opencode.ai","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"OC101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-opencode","order":2,"tier":"core","slug":"02-what-is-opencode","title_ko":"opencode가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/02-what-is-opencode.md","file_en":"en/02-what-is-opencode.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키/환경변수 설정 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 패키지 구조 개요","title_en":"Overview §1","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. Effect-TS 기반 서비스 아키텍처","title_en":"Overview §2","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 에이전트 시스템","title_en":"Overview §3","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 세션 프로세서와 에이전트 루프","title_en":"Overview §4","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 프롬프트 조립 구조","title_en":"Overview §5","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 도구 런타임","title_en":"Overview §6","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 프로바이더 시스템","title_en":"Overview §7","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 이벤트 버스 시스템","title_en":"Overview §8","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 서버 아키텍처","title_en":"Overview §9","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 설정 시스템","title_en":"Overview §10","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 권한 시스템","title_en":"Overview §11","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. 스킬 시스템","title_en":"Overview §12","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-13","order":19,"tier":"developer","slug":"07-overview-13","title_ko":"13. 플러그인 시스템","title_en":"Overview §13","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-13.md","file_en":"en/07-overview-13.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-14","order":20,"tier":"developer","slug":"07-overview-14","title_ko":"14. MCP 통합","title_en":"Overview §14","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-14.md","file_en":"en/07-overview-14.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-15","order":21,"tier":"developer","slug":"07-overview-15","title_ko":"15. 스냅샷과 되돌리기","title_en":"Overview §15","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-15.md","file_en":"en/07-overview-15.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-16","order":22,"tier":"developer","slug":"07-overview-16","title_ko":"16. Worktree 격리","title_en":"Overview §16","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-16.md","file_en":"en/07-overview-16.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-17","order":23,"tier":"developer","slug":"07-overview-17","title_ko":"17. 프론트엔드 아키텍처","title_en":"Overview §17","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-17.md","file_en":"en/07-overview-17.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-18","order":24,"tier":"developer","slug":"07-overview-18","title_ko":"18. 기타 주목할 서브시스템","title_en":"Overview §18","description_ko":"000_overview/00_oc_overview.md","description_en":"000_overview/00_oc_overview.md","file_ko":"ko/07-overview-18.md","file_en":"en/07-overview-18.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":25,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_oc_tui.md","description_en":"001_tui-design/01_oc_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":26,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_oc_prompt.md","description_en":"002_prompt-context/02_oc_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":27,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_oc_tool.md","description_en":"003_tool-runtime/03_oc_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":28,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_oc_skill.md","description_en":"004_skill-system/04_oc_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":29,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_oc_subagent.md","description_en":"005_subagents-collab/05_oc_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":30,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_oc_surface.md","description_en":"006_app-server-client-surfaces/06_oc_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":31,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_oc_sandbox.md","description_en":"007_sandbox-exec-policy/07_oc_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":32,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_oc_config.md","description_en":"008_config-system/08_oc_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":33,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_oc_mcp.md","description_en":"009_mcp-orchestration/09_oc_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":34,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_oc_memory.md","description_en":"010_memory-pipeline/10_oc_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":35,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_oc_plugin.md","description_en":"011_plugin-system/11_oc_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":36,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_oc_guardian.md","description_en":"012_guardian-approval/12_oc_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":37,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_oc_etc.md","description_en":"013_etc/13_oc_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":38,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_oc_web-search.md","description_en":"014_web-search/14_oc_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":39,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":40,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c"]}]}],["$L2d"],"$L2e"]}],"loading":null,"isPartial":false}
+4:["$","$L2f","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>코딩은 조금 할 줄 알지만 \"AI한테 코드를 맡긴다\"는 게 어떤 건지 아직 감이 안 오시는 분, opencode라는 이름은 들어봤는데 어디서부터 시작해야 할지 막막하셨던 분이라면 잘 오셨어요. 어려운 용어는 최대한 풀어서 설명할 테니까 편하게 따라오시면 돼요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>opencode가 대체 뭘 해주는 도구인지</li>\n<li>5분 만에 첫 코드를 AI한테 고쳐보는 방법</li>\n<li>매일 작업할 때 자연스럽게 쓰는 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>딱 두 가지만 준비되어 있으면 돼요.</p>\n<ol>\n<li>터미널(명령어 입력하는 검은 창)을 열 수 있다 — <code>ls</code> 정도 쳐보신 적 있으면 충분해요.</li>\n<li>작업할 코드 폴더가 git으로 관리되고 있다 — 아직이라면 그 폴더에서 <code>git init</code> 한 번만 해주시면 돼요.</li>\n</ol>\n<p>준비되셨으면 다음 장에서 opencode가 뭔지부터 천천히 볼게요.</p>\n"}}]}]
+30:T6c4d,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1313,680 +799,65 @@ export const Info = z.object({
     modelID: ModelID.zod,
     providerID: Provid
 </code></pre>
-5:["$","$L2f","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
-32:T339a,<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
+5:["$","$L2f","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
+6:["$","$L2f","02-what-is-opencode",{"id":"02-what-is-opencode","order":2,"tier":"core","title":"opencode가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>opencode는 터미널에서 오픈소스 기반의 다양한 AI 모델과 함께 코드를 고쳐나가는 도구예요. 여러분이 \"로그인 버튼을 더 크게 만들어줘\"라고 요청하면, AI가 실제 파일을 알아서 수정하고 그 내용을 git에 자동으로 저장까지 해줘요.</p>\n<h2>비유로 이해하기</h2>\n<p>옆자리에 앉은 똑똑한 동료에게 \"여기 로그인 버튼 크기 좀 키워줄래요?\"라고 부탁하는 모습을 떠올려 보세요. 그 동료가 직접 코드를 열어 고치고, 작업 내용을 깔끔하게 기록(commit)까지 해두는 것이죠. opencode가 바로 그 동료 역할을 맡아줘요. 채팅창에 대화하듯 편하게 말만 하면 코드가 바뀌어 있어요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>\"이 함수에 에러 처리 추가해줘\" 같은 요청으로 여러 파일을 한 번에 수정해요</li>\n<li>변경 내용을 git에 자동으로 저장해 주니까, 마음에 안 들면 쉽게 원래대로 되돌려요</li>\n<li>OpenAI, Anthropic, Google 등 다양한 AI 업체의 모델을 직접 선택해서 연결해 쓸 수 있어요</li>\n<li>새로운 기능 개발부터 까다로운 버그 수정, 테스트 코드 작성까지 대화로 진행해요</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>특정 회사에 종속되지 않고, 자신이 선호하거나 보유한 API 키를 활용해서 여러 AI 모델을 유연하게 바꿔가며 쓸 수 있는 게 가장 큰 장점이에요. 직접 파일을 하나하나 열고, 찾아서 고치고, 저장한 다음 git에 기록하는 번거로운 과정을 말 한마디로 해결할 수 있어요.</p>\n<blockquote>\n<p>더 깊은 내부 구조(어떻게 코드를 편집하는지, 다양한 모델 제공업체를 어떻게 연동하는지)가 궁금하시면 상단 메뉴의 <strong>개발자 문서</strong>에서 자세히 다뤄요. 지금은 \"이런 편리한 도구구나\" 정도만 알고 넘어가셔도 충분해요.</p>\n</blockquote>\n"}}]}]
+31:T6f4,<h2>먼저 설치부터 해볼게요</h2>
+<p>터미널에 아래 명령어 중 본인의 환경에 맞는 방식을 선택해 입력해 주세요.</p>
+<pre><code class="language-bash"># 설치 스크립트를 쓰는 경우
+curl -fsSL https://raw.githubusercontent.com/opencode-ai/opencode/refs/heads/main/install | bash
+
+# macOS에서 Homebrew를 쓰는 경우
+brew install opencode-ai/tap/opencode
+</code></pre>
+<p>설치가 완료되면 터미널에 <code>opencode</code>를 입력해 보세요. 첫 시작 화면을 볼 수 있어요.</p>
+<h2>API 키 설정하기</h2>
+<p>opencode는 다양한 인공지능 제공업체의 모델을 연결해서 쓰는 도구이므로, 본인이 사용하려는 AI 업체의 API 키를 터미널 환경변수로 등록해 주셔야 해요.</p>
+<pre><code class="language-bash"># Claude(Anthropic) 모델을 쓰려는 경우
+export ANTHROPIC_API_KEY="본인의_클로드_API_키"
+
+# OpenAI 모델을 쓰려는 경우
+export OPENAI_API_KEY="본인의_오픈AI_API_키"
+
+# Gemini(Google) 모델을 쓰려는 경우
+export GEMINI_API_KEY="본인의_제미나이_API_키"
+</code></pre>
+<p>키를 터미널에 입력한 뒤에 <code>opencode</code>를 실행하면 해당 AI 모델과 대화를 나눌 수 있어요.</p>
+<h2>막힐 때 팁</h2>
 <ul>
-<li>Corpus axis index</li>
+<li><code>opencode</code> 명령어를 찾을 수 없다고 나오면 터미널 창을 완전히 닫았다가 새로 열어보세요. 새로 설치한 경로가 터미널에 반영돼요.</li>
+<li>API 키가 올바르게 설정되었는지 확인하려면 터미널에 <code>echo $ANTHROPIC_API_KEY</code>(본인이 설정한 키 이름)를 쳐서 설정한 값이 출력되는지 확인해 보세요.</li>
 </ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>140_opencode/README.md</code></h3>
-<h2>Installation</h2>
-<h3>Using the Install Script</h3>
-<pre><code class="language-bash">
-
-## 코퍼스 — 000/ (인덱스·요약)
-
-# OpenCode 에이전트 엔진 검토 개요
-
-이 문서는 `opencode` 저장소의 내부 아키텍처를 분석한다. OpenCode는 TypeScript + Bun 기반의 오픈소스 AI 코딩 에이전트로, Effect-TS 계층 위에 구축된 서버-클라이언트 분리형 에이전트 엔진이다. 이번 분석의 목적은 Codex 분석과 동일하게, 프롬프트 조립, 툴 런타임, 스킬, 에이전트 루프, 권한, 플러그인 계층을 **어디서 어떻게 뜯어낼 수 있는지**를 코드 기준으로 정리하는 것이다.
-
-한 문장 결론: OpenCode는 `Effect-TS service layer + Hono HTTP server + Vercel AI SDK + Zod-typed event bus + SolidJS frontend`가 유기적으로 엮인 풀스택 에이전트 플랫폼이다. 단일 CLI 도구가 아니라, 서버 프로세스 위에서 다수의 프로젝트 인스턴스를 동시에 관리하고, 데스크톱·웹·TUI 클라이언트가 SDK를 통해 접속하는 구조다.
-
-핵심은 여섯 갈래다. 첫째, 모든 서비스가 Effect-TS의 `Layer`/`Service`/`Effect` 패턴으로 의존성 주입된다. 둘째, `BusEvent.define()` + `GlobalBus` 이벤트 시스템이 서버 내부 통신과 SSE 기반 클라이언트 실시간 동기화를 동시에 해결한다. 셋째, Vercel AI SDK가 21개 이상의 LLM 프로바이더를 단일 `streamText` 인터페이스로 추상화한다. 넷째, `Snapshot` 시스템이 별도 git 저장소를 이용해 세션 단위 undo/revert를 구현한다. 다섯째, `Plugin` 시스템이 25개 이상의 hook 포인트로 인증·도구·프롬프트·권한을 외부에서 확장 가능하게 한다. 여섯째, `Permission` 시스템이 wildcard 패턴 기반 `allow/deny/ask` 규칙으로 도구별·에이전트별 세밀한 접근 제어를 수행한다.
-
-```mermaid
-graph TD
-    CLI["CLI (yargs)"] --> Server["Hono HTTP Server"]
-    Server --> Instance["Instance Context&#x3C;br/>(per-project)"]
-    Instance --> Session["Session Manager"]
-    Instance --> Agent["Agent Service"]
-    Instance --> Config["Config Loader"]
-    Instance --> Snapshot["Snapshot (git)"]
-    Session --> Processor["SessionProcessor&#x3C;br/>(agent loop)"]
-    Processor --> LLM["LLM Module&#x3C;br/>(Vercel AI SDK)"]
-    Processor --> ToolRegistry["Tool Registry"]
-    Processor --> PermSvc["Permission Service"]
-    LLM --> Provider["Provider Service&#x3C;br/>(21+ providers)"]
-    ToolRegistry --> BuiltinTools["24 Built-in Tools"]
-    ToolRegistry --> MCPTools["MCP Bridge Tools"]
-    ToolRegistry --> PluginTools["Plugin Tools"]
-    MCPTools --> MCPClient["MCP Client&#x3C;br/>(stdio/SSE/HTTP)"]
-    Instance --> Bus["Event Bus"]
-    Bus --> GlobalBus["GlobalBus&#x3C;br/>(EventEmitter)"]
-    GlobalBus --> SSE["SSE to Frontend"]
-    SSE --> AppFE["SolidJS App"]
-    SSE --> ConsoleFE["SolidStart Console"]
-    Agent --> SkillSvc["Skill Service"]
-    Config --> PluginSvc["Plugin Service&#x3C;br/>(25+ hooks)"]
-</code></pre>
-<pre><code class="language-mermaid">sequenceDiagram
-    participant User as 사용자 입력
-    participant Server as Hono Server
-    participant Session as Session Manager
-    participant Processor as SessionProcessor
-    participant LLM as LLM (streamText)
-    participant Tools as Tool Registry
-    participant Perm as Permission Service
-    participant Bus as Event Bus
-
-    User->>Server: POST /session/:id/chat
-    Server->>Session: chat(sessionID, input)
-    Session->>Processor: create + process
-    Processor->>LLM: stream(system + messages + tools)
-    LLM-->>Processor: streaming chunks
-    Processor->>Bus: publish(message.updated)
-    Bus-->>User: SSE event
-
-    loop tool calls
-        LLM-->>Processor: tool-call event
-        Processor->>Perm: evaluate(tool, pattern)
-        alt needs approval
-            Perm-->>Bus: permission.asked
-            Bus-->>User: SSE → approval UI
-            User-->>Perm: permission.replied
-        end
-        Processor->>Tools: execute(tool, args)
-        Tools-->>Processor: tool output
-        Processor->>LLM: continue with tool result
-    end
-    Processor->>Session: finalize message
-</code></pre>
-<hr>
-<h2>1. 패키지 구조 개요</h2>
-<p>OpenCode는 Bun workspaces 기반 모노레포로 구성된다.</p>
-<table>
-<thead>
-<tr>
-<th>패키지</th>
-<th>역할</th>
-<th>기술</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>packages/140_opencode/</code></td>
-<td>핵심 에이전트 엔진 (45+ 모듈)</td>
-<td>Bun, Effect-TS, Hono, Vercel AI SDK</td>
-</tr>
-<tr>
-<td><code>packages/app/</code></td>
-<td>웹/데스크톱 프론트엔드</td>
-<td>SolidJS, Vite, TailwindCSS</td>
-</tr>
-<tr>
-<td><code>packages/console/</code></td>
-<td>클라우드 대시보드 (SaaS)</td>
-<td>SolidStart, Nitro, Cloudflare Workers</td>
-</tr>
-<tr>
-<td><code>packages/desktop/</code></td>
-<td>Tauri 데스크톱 셸</td>
-<td>Tauri, Rust</td>
-</tr>
-<tr>
-<td><code>packages/plugin/</code></td>
-<td>플러그인 타입 정의</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td><code>packages/sdk/</code></td>
-<td>외부 연동 SDK</td>
-<td>Generated from OpenAPI</td>
-</tr>
-<tr>
-<td><code>packages/ui/</code></td>
-<td>공유 UI 컴포넌트</td>
-<td>SolidJS</td>
-</tr>
-<tr>
-<td><code>packages/util/</code></td>
-<td>공유 유틸리티</td>
-<td>TypeScript</td>
-</tr>
-</tbody>
-</table>
-<p>핵심 엔진 <code>packages/140_opencode/src/</code>의 주요 모듈:</p>
-<table>
-<thead>
-<tr>
-<th>모듈</th>
-<th>파일</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>agent/</code></td>
-<td><code>agent.ts</code>, prompts</td>
-<td>에이전트 정의, 빌트인 에이전트 4종</td>
-</tr>
-<tr>
-<td><code>tool/</code></td>
-<td>26개 파일</td>
-<td>도구 정의, 레지스트리, 24개 빌트인 도구</td>
-</tr>
-<tr>
-<td><code>session/</code></td>
-<td>17개 파일</td>
-<td>세션 관리, 프로세서 루프, 프롬프트 조립</td>
-</tr>
-<tr>
-<td><code>provider/</code></td>
-<td>7개 파일 + SDK</td>
-<td>LLM 프로바이더 추상화, 21개 프로바이더</td>
-</tr>
-<tr>
-<td><code>server/</code></td>
-<td>14개 라우트</td>
-<td>Hono HTTP/WebSocket 서버</td>
-</tr>
-<tr>
-<td><code>bus/</code></td>
-<td>3개 파일</td>
-<td>Zod 타입 이벤트 버스</td>
-</tr>
-<tr>
-<td><code>config/</code></td>
-<td>6개 파일</td>
-<td>6단계 설정 계층</td>
-</tr>
-<tr>
-<td><code>permission/</code></td>
-<td>4개 파일</td>
-<td>패턴 매칭 권한 시스템</td>
-</tr>
-<tr>
-<td><code>skill/</code></td>
-<td>2개 파일</td>
-<td>SKILL.md 탐색·로딩</td>
-</tr>
-<tr>
-<td><code>mcp/</code></td>
-<td>4개 파일</td>
-<td>MCP 클라이언트 + OAuth</td>
-</tr>
-<tr>
-<td><code>plugin/</code></td>
-<td>3개 파일</td>
-<td>플러그인 로더 + 빌트인 인증</td>
-</tr>
-<tr>
-<td><code>snapshot/</code></td>
-<td>1개 파일</td>
-<td>git 기반 스냅샷/되돌리기</td>
-</tr>
-<tr>
-<td><code>worktree/</code></td>
-<td>1개 파일</td>
-<td>git worktree 격리</td>
-</tr>
-<tr>
-<td><code>lsp/</code></td>
-<td>5개 파일</td>
-<td>언어 서버 프로토콜 통합</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2>2. Effect-TS 기반 서비스 아키텍처</h2>
-<p>OpenCode의 가장 큰 구조적 특징은 모든 핵심 모듈이 Effect-TS의 <code>Service → Layer → Effect</code> 패턴으로 구축된다는 점이다. 이 패턴은 의존성 주입, 에러 핸들링, 동시성 제어를 타입 안전하게 처리한다.</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/agent/agent.ts
-export interface Interface {
-  readonly get: (agent: string) => Effect.Effect&#x3C;Agent.Info>
-  readonly list: () => Effect.Effect&#x3C;Agent.Info[]>
-  readonly defaultAgent: () => Effect.Effect&#x3C;string>
-}
-
-export class Service extends ServiceMap.Service&#x3C;Service, Interface>()("@opencode/Agent") {}
-
-export const layer = Layer.effect(
-  Service,
-  Effect.gen(function* () {
-    const config = () => Effect.promise(() => Config.get())
-    // ... build agent registry
-    return Service.of({ get, list, defaultAgent })
-  }),
-)
-</code></pre>
-<p><code>InstanceState</code>는 프로젝트 인스턴스별로 상태를 격리하는 핵심 메커니즘이다. 같은 서버에서 여러 프로젝트를 동시에 관리할 때, 각 프로젝트의 설정·세션·도구가 독립적으로 초기화된다.</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/effect/instance-state.ts
-// 프로젝트(디렉토리)별 독립 상태 관리
-const state = yield* InstanceState.make&#x3C;State>(
-  Effect.fn("Agent.state")(function* (ctx) {
-    // ctx.directory, ctx.worktree 등 인스턴스 컨텍스트 접근
-    return { get, list, defaultAgent }
-  }),
-)
-</code></pre>
-<hr>
-<h2>3. 에이전트 시스템</h2>
-<h3>3.1 에이전트 정의</h3>
-<p>에이전트는 Zod 스키마로 정의되며, 이름·모드·권한·모델·프롬프트를 포함한다.</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/agent/agent.ts
-export const Info = z.object({
-  name: z.string(),
-  mode: z.enum(["subagent", "primary", "all"]),
-  native: z.boolean().optional(),
-  hidden: z.boolean().optional(),
-  permission: Permission.Ruleset,
-  model: z.object({
-    modelID: ModelID.zod,
-    providerID: ProviderID.zod,
-  }).optional(),
-  prompt: z.string().optional(),
-  steps: z.number().int().positive().optional(),
-})
-</code></pre>
-<h3>3.2 빌트인 에이전트 4종</h3>
-<table>
-<thead>
-<tr>
-<th>에이전트</th>
-<th>모드</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>build</code></td>
-<td>primary</td>
-<td>기본 실행 에이전트. 모든 도구 사용 가능</td>
-</tr>
-<tr>
-<td><code>plan</code></td>
-<td>primary</td>
-<td>읽기 전용 계획 에이전트. 편집 도구 차단</td>
-</tr>
-<tr>
-<td><code>general</code></td>
-<td>subagent</td>
-<td>다목적 병렬 작업. todo 도구만 제외</td>
-</tr>
-<tr>
-<td><code>explore</code></td>
-<td>subagent</td>
-<td>코드 탐색 전문. grep/glob/read/bash만 허용</td>
-</tr>
-</tbody>
-</table>
-<p><code>plan</code> 에이전트의 권한 설정이 흥미롭다. 모든 편집을 <code>deny</code>하되 <code>.opencode/plans/*.md</code>만 예외적으로 허용한다:</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/agent/agent.ts
-{
-  name: "plan",
-  mode: "primary",
-  permission: Permission.merge(defaults, Permission.fromConfig({
-    question: "allow",
-    plan_exit: "allow",
-    edit: { "*": "deny", ".opencode/plans/*.md": "allow" },
-  }), user),
-}
-</code></pre>
-<h3>3.3 사용자 정의 에이전트</h3>
-<p>설정 파일에서 에이전트를 추가하거나 기존 에이전트를 재정의할 수 있다:</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/agent/agent.ts — 사용자 설정 병합
-for (const [key, value] of Object.entries(cfg.agent ?? {})) {
-  if (value.disable) { delete agents[key]; continue }
-  let item = agents[key] ?? {
-    name: key, mode: "all",
-    permission: Permission.merge(defaults, user),
-    options: {}, native: false,
-  }
-  item.model = Provider.parseModel(value.model)
-  item.prompt = value.prompt ?? item.prompt
-}
-</code></pre>
-<hr>
-<h2>4. 세션 프로세서와 에이전트 루프</h2>
-<p><code>SessionProcessor</code>가 에이전트 실행 루프의 핵심이다. <code>while(true)</code> 루프 안에서 LLM 스트림을 받아 도구 호출을 처리하고, 도구 결과를 다시 LLM에 넘기는 사이클을 반복한다.</p>
-<pre><code class="language-typescript">// packages/140_opencode/src/session/processor.ts
-export function create(input: {
-  assistantMessage: MessageV2.Assistant
-  sessionID: SessionID
-  model: Provider.Model
-  abort: AbortSignal
-}) {
-  const toolcalls: Record&#x3C;string, MessageV2.ToolPart> = {}
-  let attempt = 0
-
-  return {
-    async process(streamInput: LLM.StreamInput) {
-      while (true) {  // ← 에이전트 루프
-        const stream = await LLM.stream(streamInput)
-        for await (const value of stream.fullStream) {
-          input.abort.throwIfAborted()
-          switch (value.type) {
-            case "tool-call":
-              // doom l
-
-## 코퍼스 — 000_overview/00_oc_overview.md (심화)
-
-## Corpus axis index
-
-| Axis | Doc |
-| --- | --- |
-| 001 TUI | `001_tui-design/01_oc_tui.md` |
-| 002 Prompt | `002_prompt-context/02_oc_prompt.md` |
-| 003 Tool | `003_tool-runtime/03_oc_tool.md` |
-| 004 Skill | `004_skill-system/04_oc_skill.md` |
-| 005 Subagent | `005_subagents-collab/05_oc_subagent.md` |
-| 006 Surface | `006_app-server-client-surfaces/06_oc_surface.md` |
-| 007 Sandbox | `007_sandbox-exec-policy/07_oc_sandbox.md` |
-| 008 Config | `008_config-system/08_oc_config.md` |
-| 009 MCP | `009_mcp-orchestration/09_oc_mcp.md` |
-| 010 Memory | `010_memory-pipeline/10_oc_memory.md` |
-| 011 Plugin | `011_plugin-system/11_oc_plugin.md` |
-| 012 Guardian | `012_guardian-approval/12_oc_guardian.md` |
-| 014 Web | `014_web-search/14_oc_web-search.md` |
-</code></pre>
-6:["$","$L2f","02-what-is-opencode",{"id":"02-what-is-opencode","order":2,"tier":"core","title":"하네스 한눈에","description":"000_overview/00_oc_overview.md","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
-7:["$","$L2f","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치 & 인증","description":"설치 & 인증","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설치 &#x26; 인증</li>\n<li>Installation</li>\n<li>Using the Install Script</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>140_opencode/README.md</code></h3>\n<h2>Installation</h2>\n<h3>Using the Install Script</h3>\n<pre><code class=\"language-bash\">\n\n## 본문\n\n## 설치 &#x26; 인증\n\n**설치 &#x26; 인증** — 공식 README/문서 발췌 + 코퍼스 교차 참조.\n\n> `140_opencode/README.md`\n\n## Installation\n\n### Using the Install Script\n\n```bash\n</code></pre>\n"}}]}]
-8:["$","$L2f","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 세션","description":"첫 세션","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>첫 세션</li>\n<li>Usage</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>140_opencode/README.md</code></h3>\n<h2>Installation</h2>\n<h3>Using the Install Script</h3>\n<pre><code class=\"language-bash\">\n\n## 본문\n\n## 첫 세션\n\n레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.\n\n> `140_opencode/README.md`\n\n## Usage\n\n```bash\n</code></pre>\n"}}]}]
-33:T614,<h2>기초 설명</h2>
-<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>
-<h2>이 문서에서 다루는 것</h2>
+<p>준비가 끝났으면, 이제 진짜로 첫 코드를 고쳐볼 차례예요.</p>
+7:["$","$L2f","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치하고 준비하기","description":"설치 + API 키/환경변수 설정 + 막힐 때 팁","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
+8:["$","$L2f","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 사용 5분","description":"따라 하면 되는 첫 실습","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>5분이면 충분해요</h2>\n<p>거창한 준비 없이, 작은 변경 하나를 AI한테 맡겨볼게요. 처음 한 번만 해보면 \"아, 이런 느낌이구나\" 하고 바로 감이 와요.</p>\n<h2>따라 해보기</h2>\n<ol>\n<li>작업할 코드 폴더로 이동해요.</li>\n</ol>\n<pre><code class=\"language-bash\">cd 내-프로젝트-폴더\n</code></pre>\n<ol start=\"2\">\n<li>그 폴더에서 opencode를 실행해요.</li>\n</ol>\n<pre><code class=\"language-bash\">opencode\n</code></pre>\n<ol start=\"3\">\n<li>채팅창이 뜨면, 고치고 싶은 내용을 평소 말하듯 적어요.</li>\n</ol>\n<pre><code class=\"language-text\">> README에 설치 방법 섹션을 추가해줘\n</code></pre>\n<ol start=\"4\">\n<li>잠시 기다리면 opencode가 파일을 직접 고치고, 바뀐 내용을 보여줘요. 그리고 그 변경을 git에 자동으로 저장(commit)해줘요.</li>\n</ol>\n<h2>결과 확인하기</h2>\n<p><code>git log</code>를 쳐보면 방금 작업이 기록으로 남아 있는 게 보일 거예요. 마음에 안 들면 되돌리면 되니까 부담 없이 이것저것 시켜보세요.</p>\n<h2>자주 쓰는 한 가지</h2>\n<p>특정 프로젝트 폴더를 지정해서 바로 열고 싶다면 실행할 때 <code>-c</code> 옵션과 폴더 경로를 사용해 보세요.</p>\n<pre><code class=\"language-bash\">opencode -c /path/to/project\n</code></pre>\n<p>이렇게 시작하면 해당 위치에서 에이전트와 바로 협업할 수 있어요. 첫 세션은 여기까지면 충분해요. 다음 장에서는 매일 어떻게 쓰는지 흐름을 볼게요.</p>\n"}}]}]
+9:["$","$L2f","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"매일 이렇게 써요","description":"실제 일상 사용 흐름과 비결","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>매일 쓰는 흐름은 단순해요</h2>\n<p>익숙해지면 거의 이 네 단계의 반복이에요. 한 번 손에 익으면 생각보다 빠르게 돌아가요.</p>\n<ol>\n<li>고치고 싶은 파일이 있는 폴더에서 <code>opencode</code>를 실행해요.</li>\n<li>하고 싶은 작업을 말로 부탁해요. (\"여기에 입력값 검사 추가해줘\")</li>\n<li>에이전트가 고친 내용을 보고, 마음에 들면 그대로 두고 아니면 다시 부탁해요.</li>\n<li>잘됐으면 다음 작업으로 넘어가요. 변경 사항은 이미 git에 저장돼 있어요.</li>\n</ol>\n<h2>단축키로 편리하게 작업하기</h2>\n<p>opencode는 터미널 전용 UI가 제공되어서 몇 가지 단축키를 익히면 작업 속도가 매우 빨라져요.</p>\n<ul>\n<li><code>Ctrl+C</code>: 프로그램 종료</li>\n<li><code>Ctrl+?</code> 또는 <code>?</code>: 도움말 보기</li>\n<li><code>Ctrl+O</code>: AI 모델 선택창 열기 (작업 도중에도 다른 회사 AI 모델로 바꿀 수 있어요)</li>\n<li><code>Ctrl+K</code>: 사용자가 미리 정의해둔 커스텀 명령 리스트 실행하기</li>\n</ul>\n<h2>작게 부탁하는 게 비결이에요</h2>\n<p>\"앱 전체를 다시 만들어줘\"처럼 큰 부탁보다는, \"이 함수에 로그 한 줄 추가해줘\"처럼 작게 쪼개서 부탁할수록 결과가 정확해요. 사람 동료한테 일을 맡길 때랑 똑같아요. 작은 단위로 부탁하고, 확인하고, 다음으로 넘어가는 리듬을 추천드려요.</p>\n<h2>되돌리기가 자유로워요</h2>\n<p>모든 작업이 git에 기록되니까, 마음에 안 들면 언제든지 이전 상태로 되돌릴 수 있어요. 그래서 \"일단 시켜보고 아니면 되돌리지\" 하는 마음으로 부담 없이 실험해 보셔도 좋아요.</p>\n"}}]}]
+32:T91a,<h2>내 입맛대로 설정하기</h2>
+<p>처음에는 터미널에 API 키 설정만 등록하면 바로 사용할 수 있어요. 하지만 단축키나 기본으로 실행할 AI 모델을 커스텀하고 싶다면 설정 파일을 만들어 변경할 수 있어요.</p>
+<p>opencode는 실행할 때 아래 세 곳을 차례로 탐색해서 설정 파일을 읽어와요.</p>
 <ul>
-<li>에이전트 루프</li>
-<li>Features</li>
-<li>OpenCode 세션 루프</li>
+<li><code>~/.opencode.json</code></li>
+<li><code>~/.config/opencode/.opencode.json</code> (시스템의 설정 폴더 경로)</li>
+<li><code>./.opencode.json</code> (현재 사용 중인 프로젝트 폴더 아래)</li>
 </ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>140_opencode/README.md</code></h3>
-<h2>Installation</h2>
-<h3>Using the Install Script</h3>
-<pre><code class="language-bash">
-
-## 본문
-
-## 에이전트 루프
-
-이 하네스의 일상적인 편집·도구·커밋 루프.
-
-> `140_opencode/README.md`
-
-## Features
-
-- **Interactive TUI**: Built with [Bubble Tea](https://github.com/charmbracelet/bubbletea) for a smooth terminal experience
-- **Multiple AI Providers**: Support for OpenAI, Anthropic Claude, Google Gemini, AWS Bedrock, Groq, Azure OpenAI, and OpenRouter
-- **Session Management**: Save and manage multiple conversation sessions
-- **Tool Integration**: AI can execute commands, search files, and modify code
-- **Vim-like Editor**: Integrated editor with text input capabilities
-- **Persistent Storage**: SQLite database for storing conversations and sessions
-- **LSP Integration**: Language Server Protocol support for code intelligence
-- **File Change Tracking**: Track and visualize file changes during sessions
-- **External Editor Support**: Open your preferred editor for composing messages
-- **Named Arguments for Custom Commands**: Create powerful custom commands with multiple named placeholders
-
-## OpenCode 세션 루프
-
-SessionProcessor → plugin hooks → GlobalBus.
-
-> `000_overview/00_oc_overview.md`
+<p>프로젝트마다 별도의 규칙을 지정하고 싶다면 프로젝트 폴더에 <code>.opencode.json</code> 파일을 두는 것을 추천해 드려요.</p>
+<h2>유용한 자동 요약(Auto Compact) 설정</h2>
+<p>긴 대화를 나누다 보면 AI가 받아들일 수 있는 용량의 한계에 도달하게 돼요. opencode는 사용량이 95%에 다다르면 자동으로 지금까지의 내용을 요약하여 새 세션을 만들어주는 기능을 제공해요.</p>
+<p>이를 원치 않으시면 설정 파일에서 끌 수도 있어요.</p>
+<pre><code class="language-json">{
+  "autoCompact": false
+}
 </code></pre>
-9:["$","$L2f","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"에이전트 루프","description":"에이전트 루프","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
-34:T180d,<h2>기초 설명</h2>
-<p>CLI / env / 프로젝트 설정 파일 계층.</p>
-<h2>이 문서에서 다루는 것</h2>
+<h2>다음 단계로</h2>
+<p>여기까지 따라오셨다면 터미널에서 opencode와 함께 일상적인 코딩을 시작할 준비가 모두 끝났어요. 더 높은 단계로 나아가고 싶다면 이렇게 해보세요.</p>
 <ul>
-<li>설정 &#x26; 모델</li>
-<li>Configuration</li>
-<li>Auto Compact Feature</li>
-<li>Environment Variables</li>
-<li>Shell Configuration</li>
-<li>Configuration File Structure</li>
+<li>실제 개인 프로젝트에서 아주 작은 리팩토링이나 기능 개발부터 시작해보기</li>
+<li>자주 쓰는 복잡한 질의는 커스텀 마크다운 명령 파일로 작성하여 <code>Ctrl+K</code>로 호출해 보기</li>
+<li>공식 가이드에서 제공하는 LSP(언어 서버) 연동이나 자동 점검 기능 톺아보기</li>
 </ul>
-<h2>소스 코드 스니펫</h2>
-<h3>README / docs</h3>
-<pre><code class="language-json">{
-  "autoCompact": true // default is true
-}
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-json">{
-  "shell": {
-    "path": "/bin/zsh",
-    "args": ["-l"]
-  }
-}
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-json">{
-  "data": {
-    "directory": ".opencode"
-  },
-  "providers": {
-    "openai": {
-      "apiKey": "your-api-key",
-      "disabled": false
-    },
-    "anthropic": {
-      "apiKey": "your-api-key",
-      "disabled": false
-    },
-    "copilot": {
-      "disabled": false
-    },
-    "groq": {
-      "apiKey": "your-api-key",
-      "disabled": false
-    },
-    "openrouter": {
-      "apiKey": "your-api-key",
-      "disabled": false
-    }
-  },
-  "agents": {
-    "coder": {
-      "model": "claude-3.7-sonnet",
-      "maxTokens": 5000
-    },
-    "task": {
-      "model": "claude-3.7-sonnet",
-      "maxTokens": 5000
-    },
-    "title": {
-      "model": "claude-3.7-sonnet",
-      "maxTokens": 80
-    }
-  },
-  "shell": {
-    "path": "/bin/bash",
-    "args": ["-l"]
-  },
-  "mcpServers": {
-    "example": {
-      "type": "stdio",
-      "command": "path/to/mcp-server",
-      "env": [],
-      "args": []
-    }
-  },
-  "lsp": {
-    "go": {
-      "disabled": false,
-      "command": "gopls"
-    }
-  },
-  "debug": false,
-  "debugLSP": false,
-  "autoCompact": true
-}
-</code></pre>
-<h2>본문</h2>
-<h2>설정 &#x26; 모델</h2>
-<p>CLI / env / 프로젝트 설정 파일 계층.</p>
-<blockquote>
-<p><code>140_opencode/README.md</code></p>
-</blockquote>
-<h2>Configuration</h2>
-<p>OpenCode looks for configuration in the following locations:</p>
-<ul>
-<li><code>$HOME/.opencode.json</code></li>
-<li><code>$XDG_CONFIG_HOME/opencode/.opencode.json</code></li>
-<li><code>./.opencode.json</code> (local directory)</li>
-</ul>
-<h3>Auto Compact Feature</h3>
-<p>OpenCode includes an auto compact feature that automatically summarizes your conversation when it approaches the model's context window limit. When enabled (default setting), this feature:</p>
-<ul>
-<li>Monitors token usage during your conversation</li>
-<li>Automatically triggers summarization when usage reaches 95% of the model's context window</li>
-<li>Creates a new session with the summary, allowing you to continue your work without losing context</li>
-<li>Helps prevent "out of context" errors that can occur with long conversations</li>
-</ul>
-<p>You can enable or disable this feature in your configuration file:</p>
-<pre><code class="language-json">{
-  "autoCompact": true // default is true
-}
-</code></pre>
-<h3>Environment Variables</h3>
-<p>You can configure OpenCode using environment variables:</p>
-<table>
-<thead>
-<tr>
-<th>Environment Variable</th>
-<th>Purpose</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>ANTHROPIC_API_KEY</code></td>
-<td>For Claude models</td>
-</tr>
-<tr>
-<td><code>OPENAI_API_KEY</code></td>
-<td>For OpenAI models</td>
-</tr>
-<tr>
-<td><code>GEMINI_API_KEY</code></td>
-<td>For Google Gemini models</td>
-</tr>
-<tr>
-<td><code>GITHUB_TOKEN</code></td>
-<td>For Github Copilot models (see <a href="#using-github-copilot">Using Github Copilot</a>)</td>
-</tr>
-<tr>
-<td><code>VERTEXAI_PROJECT</code></td>
-<td>For Google Cloud VertexAI (Gemini)</td>
-</tr>
-<tr>
-<td><code>VERTEXAI_LOCATION</code></td>
-<td>For Google Cloud VertexAI (Gemini)</td>
-</tr>
-<tr>
-<td><code>GROQ_API_KEY</code></td>
-<td>For Groq models</td>
-</tr>
-<tr>
-<td><code>AWS_ACCESS_KEY_ID</code></td>
-<td>For AWS Bedrock (Claude)</td>
-</tr>
-<tr>
-<td><code>AWS_SECRET_ACCESS_KEY</code></td>
-<td>For AWS Bedrock (Claude)</td>
-</tr>
-<tr>
-<td><code>AWS_REGION</code></td>
-<td>For AWS Bedrock (Claude)</td>
-</tr>
-<tr>
-<td><code>AZURE_OPENAI_ENDPOINT</code></td>
-<td>For Azure OpenAI models</td>
-</tr>
-<tr>
-<td><code>AZURE_OPENAI_API_KEY</code></td>
-<td>For Azure OpenAI models (optional when using Entra ID)</td>
-</tr>
-<tr>
-<td><code>AZURE_OPENAI_API_VERSION</code></td>
-<td>For Azure OpenAI models</td>
-</tr>
-<tr>
-<td><code>LOCAL_ENDPOINT</code></td>
-<td>For self-hosted models</td>
-</tr>
-<tr>
-<td><code>SHELL</code></td>
-<td>Default shell to use (if not specified in config)</td>
-</tr>
-</tbody>
-</table>
-<h3>Shell Configuration</h3>
-<p>OpenCode allows you to configure the shell used by the bash tool. By default, it uses the shell specified in the <code>SHELL</code> environment variable, or falls back to <code>/bin/bash</code> if not set.</p>
-<p>You can override this in your configuration file:</p>
-<pre><code class="language-json">{
-  "shell": {
-    "path": "/bin/zsh",
-    "args": ["-l"]
-  }
-}
-</code></pre>
-<p>This is useful if you want to use a different shell than your default system shell, or if you need to pass specific arguments to the shell.</p>
-<h3>Configuration File Structure</h3>
-<pre><code class="language-json">{
-  "data": {
-    "directory": ".opencode"
-  },
-  "providers": {
-    "openai": {
-      "apiKey": "your-api-key",
-      "disabled": false
-    },
-    "anthropic": {
-      "apiKey": "your-api-key",
-      "disabled": false
-    },
-    "copilot": {
-      "disabled": false
-    },
-    "groq": {
-      "apiKey": "your-api-key",
-      "disabled": false
-    },
-    "openrouter": {
-      "apiKey": "your-api-key",
-      "disabled": false
-    }
-  },
-  "agents": {
-    "coder": {
-      "model": "claude-3.7-sonnet",
-      "maxTokens": 5000
-    },
-    "task": {
-      "model": "claude-3.7-sonnet",
-      "maxTokens": 5000
-    },
-    "title": {
-      "model": "claude-3.7-sonnet",
-      "maxTokens": 80
-    }
-  },
-  "shell": {
-    "path": "/bin/bash",
-    "args": ["-l"]
-  },
-  "mcpServers": {
-    "example": {
-      "type": "stdio",
-      "command": "path/to/mcp-server",
-      "env": [],
-      "args": []
-    }
-  },
-  "lsp": {
-    "go": {
-      "disabled": false,
-      "command": "gopls"
-    }
-  },
-  "debug": false,
-  "debugLSP": false,
-  "autoCompact": true
-}
-</code></pre>
-a:["$","$L2f","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정 & 모델","description":"설정 & 모델","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-35:T8bf,<h2>기초 설명</h2>
+<p>그리고 "opencode가 내부적으로 어떻게 파일을 감시하고 데이터베이스를 연동하는지"처럼 깊고 자세한 내용이 궁금해지면, 상단 메뉴의 <strong>개발자 문서</strong>로 넘어가 보세요. 훨씬 더 기술적인 동작 원리와 고성능 튜닝 방법을 배우실 수 있어요.</p>
+<p>여기까지 오시느라 정말 수고 많으셨어요. 이제 터미널을 열고 직접 코드를 고쳐보며 성취감을 느껴보세요! 😊</p>
+a:["$","$L2f","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정하고, 더 배우기","description":"내 입맛대로 설정 + 다음 단계 안내","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
+33:T8bf,<h2>기초 설명</h2>
 <p>OpenCode는 Bun workspaces 기반 모노레포로 구성된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2040,8 +911,8 @@ OpenCode는 Bun workspaces 기반 모노레포로 구성된다.
 
 ---
 </code></pre>
-b:["$","$L2f","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 패키지 구조 개요","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
-36:Tc72,<h2>기초 설명</h2>
+b:["$","$L2f","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 패키지 구조 개요","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
+34:Tc72,<h2>기초 설명</h2>
 <p>OpenCode의 가장 큰 구조적 특징은 모든 핵심 모듈이 Effect-TS의 <code>Service → Layer → Effect</code> 패턴으로 구축된다는 점이다. 이 패턴은 의존성 주입, 에러 핸들링, 동시성 제어를 타입 안전하게 처리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2113,8 +984,8 @@ const state = yield* InstanceState.make&#x3C;State>(
 )
 </code></pre>
 <hr>
-c:["$","$L2f","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. Effect-TS 기반 서비스 아키텍처","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:T1094,<h2>기초 설명</h2>
+c:["$","$L2f","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. Effect-TS 기반 서비스 아키텍처","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+35:T1094,<h2>기초 설명</h2>
 <p>에이전트는 Zod 스키마로 정의되며, 이름·모드·권한·모델·프롬프트를 포함한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2247,8 +1118,8 @@ for (const [key, value] of Object.entries(cfg.agent ?? {})) {
 }
 </code></pre>
 <hr>
-d:["$","$L2f","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 에이전트 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
-38:Te79,<h2>기초 설명</h2>
+d:["$","$L2f","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 에이전트 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
+36:Te79,<h2>기초 설명</h2>
 <p>return {
 async process(streamInput: LLM.StreamInput) {
 while (true) {  // ← 에이전트 루프
@@ -2362,8 +1233,8 @@ export function create(input: {
 <p><strong>Doom loop 방어</strong>: 동일한 도구 호출이 3회 반복되면 자동 차단한다 (<code>DOOM_LOOP_THRESHOLD = 3</code>).</p>
 <p><strong>컨텍스트 압축</strong>: 토큰 한도 초과 시 <code>SessionCompaction</code>이 자동으로 대화를 요약한다.</p>
 <hr>
-e:["$","$L2f","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 세션 프로세서와 에이전트 루프","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
-39:T9d9,<h2>기초 설명</h2>
+e:["$","$L2f","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 세션 프로세서와 에이전트 루프","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
+37:T9d9,<h2>기초 설명</h2>
 <p>시스템 프롬프트는 모델별로 분기되며, 환경 정보와 스킬 목록이 추가된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2425,8 +1296,8 @@ export namespace SystemPrompt {
 <li><strong>플러그인 변형</strong> (<code>experimental.chat.system.transform</code> 훅)</li>
 </ol>
 <hr>
-f:["$","$L2f","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 프롬프트 조립 구조","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
-3a:T13b9,<h2>기초 설명</h2>
+f:["$","$L2f","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 프롬프트 조립 구조","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
+38:T13b9,<h2>기초 설명</h2>
 <p>모든 도구는 <code>Tool.define()</code> 헬퍼로 정의된다. <code>init</code> 함수가 에이전트 컨텍스트를 받아 파라미터 스키마와 실행 함수를 반환한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2562,8 +1433,8 @@ export type Context = {
 }
 </code></pre>
 <hr>
-10:["$","$L2f","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 도구 런타임","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:Td7a,<h2>기초 설명</h2>
+10:["$","$L2f","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 도구 런타임","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+39:Td7a,<h2>기초 설명</h2>
 <p>21개 이상의 LLM 프로바이더를 <code>@ai-sdk/*</code> 패키지로 통합한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2664,8 +1535,8 @@ export const Model = z.object({
 <li><code>.well-known/opencode</code> 원격 설정</li>
 </ol>
 <hr>
-11:["$","$L2f","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. 프로바이더 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:Tc61,<h2>기초 설명</h2>
+11:["$","$L2f","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. 프로바이더 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
+3a:Tc61,<h2>기초 설명</h2>
 <p>// discriminated union으로 모든 이벤트의 타입 안전한 union 생성
 export function payloads() {
 return z.discriminatedUnion("type",
@@ -2754,8 +1625,8 @@ export async function publish(def, properties) {
 </code></pre>
 <p>이벤트 유형: <code>session.updated</code>, <code>message.updated</code>, <code>permission.asked</code>, <code>permission.replied</code>, <code>mcp.tools.changed</code>, <code>worktree.ready</code>, <code>server.instance.disposed</code> 등.</p>
 <hr>
-12:["$","$L2f","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 이벤트 버스 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
-3d:Tb99,<h2>기초 설명</h2>
+12:["$","$L2f","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 이벤트 버스 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+3b:Tb99,<h2>기초 설명</h2>
 <p>모든 요청은 <code>directory</code> 헤더/쿼리를 통해 프로젝트 인스턴스에 바인딩된다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2870,8 +1741,8 @@ export function listen(opts) {
 })
 </code></pre>
 <hr>
-13:["$","$L2f","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 서버 아키텍처","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
-3e:T120e,<h2>기초 설명</h2>
+13:["$","$L2f","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 서버 아키텍처","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
+3c:T120e,<h2>기초 설명</h2>
 <ol>
 <li><strong>원격 <code>.well-known/opencode</code></strong> — 조직 기본값</li>
 <li><strong>글로벌 설정</strong> — <code>~/.config/140_opencode/opencode.json</code></li>
@@ -2970,8 +1841,8 @@ export const Info = z.object({
 })
 </code></pre>
 <hr>
-14:["$","$L2f","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 설정 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:Tc33,<h2>기초 설명</h2>
+14:["$","$L2f","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 설정 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+3d:Tc33,<h2>기초 설명</h2>
 <p>권한 평가는 도구 이름과 파일 패턴을 wildcard로 매칭한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3040,8 +1911,8 @@ export const Reply = z.enum(["once", "always", "reject"])
 <h3>11.3 Bash 명령 Arity</h3>
 <p><code>arity.ts</code>는 bash 명령의 위험도를 판단하기 위한 명령어 사전을 제공한다. 각 명령에 대해 "이 명령이 파일을 수정하는가"를 판단하는 데 사용된다.</p>
 <hr>
-15:["$","$L2f","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 권한 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:Tbe5,<h2>기초 설명</h2>
+15:["$","$L2f","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 권한 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+3e:Tbe5,<h2>기초 설명</h2>
 <p>스킬은 <code>SKILL.md</code> 파일의 YAML frontmatter에서 정의된다. 탐색 경로:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3122,8 +1993,8 @@ export function fmt(list: Info[], opts: { verbose: boolean }) {
 </code></pre>
 <p>에이전트가 <code>skill</code> 도구를 호출하면 SKILL.md 본문이 컨텍스트에 주입된다.</p>
 <hr>
-16:["$","$L2f","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"12. 스킬 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:T1048,<h2>기초 설명</h2>
+16:["$","$L2f","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"12. 스킬 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
+3f:T1048,<h2>기초 설명</h2>
 <p>플러그인은 함수로 정의되며, SDK 클라이언트와 프로젝트 정보를 받아 Hook 집합을 반환한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3254,8 +2125,8 @@ await Plugin.trigger("experimental.chat.system.transform",
 )
 </code></pre>
 <hr>
-17:["$","$L2f","07-overview-13",{"id":"07-overview-13","order":19,"tier":"developer","title":"13. 플러그인 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:T688,<h2>기초 설명</h2>
+17:["$","$L2f","07-overview-13",{"id":"07-overview-13","order":19,"tier":"developer","title":"13. 플러그인 시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
+40:T688,<h2>기초 설명</h2>
 <p>세 가지 전송을 지원한다: stdio, SSE, Streamable HTTP.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3289,8 +2160,8 @@ import { StreamableHTTPClientTransport } from "@modelcontextprotocol/sdk/client/
 <h3>14.3 도구 브릿지</h3>
 <p>MCP 도구는 Vercel AI SDK의 <code>dynamicTool</code>로 변환되어 <code>ToolRegistry</code>에 등록된다. <code>ToolsChangedNotification</code>을 구독하여 도구 목록이 실시간으로 업데이트된다.</p>
 <hr>
-18:["$","$L2f","07-overview-14",{"id":"07-overview-14","order":20,"tier":"developer","title":"14. MCP 통합","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T8f6,<h2>기초 설명</h2>
+18:["$","$L2f","07-overview-14",{"id":"07-overview-14","order":20,"tier":"developer","title":"14. MCP 통합","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
+41:T8f6,<h2>기초 설명</h2>
 <ol>
 <li><strong>track</strong>: 현재 작업 디렉토리 상태를 <code>git write-tree</code>로 기록</li>
 <li><strong>patch</strong>: 특정 스냅샷과 현재 상태의 차이를 파일 목록으로 반환</li>
@@ -3338,9 +2209,9 @@ const state = {
 </ol>
 <p>2MB 이상의 대용량 파일은 자동으로 제외된다 (<code>limit = 2 * 1024 * 1024</code>).</p>
 <hr>
-19:["$","$L2f","07-overview-15",{"id":"07-overview-15","order":21,"tier":"developer","title":"15. 스냅샷과 되돌리기","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
+19:["$","$L2f","07-overview-15",{"id":"07-overview-15","order":21,"tier":"developer","title":"15. 스냅샷과 되돌리기","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
 1a:["$","$L2f","07-overview-16",{"id":"07-overview-16","order":22,"tier":"developer","title":"16. Worktree 격리","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<hr>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>\n<ol start=\"16\">\n<li>Worktree 격리</li>\n</ol>\n</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3>README / docs</h3>\n<pre><code class=\"language-typescript\">// packages/140_opencode/src/worktree/index.ts\nexport const Info = z.object({\n  name: z.string(),\n  branch: z.string(),\n  directory: z.string(),\n})\n</code></pre>\n<h2>코퍼스 — 000_overview/00_oc_overview.md (심화)</h2>\n<h2>16. Worktree 격리</h2>\n<p><code>Worktree</code> 시스템은 git worktree를 이용하여 독립된 작업 환경을 생성한다. 세션별로 별도의 브랜치에서 작업할 수 있으며, <code>worktree.ready</code>/<code>worktree.failed</code> 이벤트로 상태를 알린다.</p>\n<pre><code class=\"language-typescript\">// packages/140_opencode/src/worktree/index.ts\nexport const Info = z.object({\n  name: z.string(),\n  branch: z.string(),\n  directory: z.string(),\n})\n</code></pre>\n<hr>\n"}}]}]
-44:T88c,<h2>기초 설명</h2>
+42:T88c,<h2>기초 설명</h2>
 <ul>
 <li><strong>프레임워크</strong>: SolidJS + Vite</li>
 <li><strong>상태 관리</strong>: 30개 이상의 Context Provider 중첩</li>
@@ -3402,8 +2273,8 @@ schedule()  // 16ms 배치 윈도우
 <li>App 패키지를 Tauri webview에서 렌더링</li>
 </ul>
 <hr>
-1b:["$","$L2f","07-overview-17",{"id":"07-overview-17","order":23,"tier":"developer","title":"17. 프론트엔드 아키텍처","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:T5c4,<h2>기초 설명</h2>
+1b:["$","$L2f","07-overview-17",{"id":"07-overview-17","order":23,"tier":"developer","title":"17. 프론트엔드 아키텍처","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+43:T5c4,<h2>기초 설명</h2>
 <p>프로젝트 언어에 맞는 Language Server를 자동 감지·실행하여 diagnostics, hover, goto-definition 등을 도구로 제공한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3450,8 +2321,8 @@ VS Code 등 IDE와의 연동 지점을 제공한다.
 
 ---
 </code></pre>
-1c:["$","$L2f","07-overview-18",{"id":"07-overview-18","order":24,"tier":"developer","title":"18. 기타 주목할 서브시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-46:Tb985,<h2>기초 설명</h2>
+1c:["$","$L2f","07-overview-18",{"id":"07-overview-18","order":24,"tier":"developer","title":"18. 기타 주목할 서브시스템","description":"000_overview/00_oc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
+44:Tb985,<h2>기초 설명</h2>
 <p>OpenCode의 UI 계층은 여타 터미널 코딩 에이전트와 달리 SolidJS 기반 풀 웹 애플리케이션이다. <code>packages/app</code>이 핵심 UI 라이브러리이고, <code>packages/desktop</code>이 Tauri v2 래퍼로 같은 코드를 네이티브 데스크톱 앱으로 감싼다. 별도로 <code>packages/console</code>은 SaaS 관리 콘솔(워크스페이스·결제·인증)을 담당하며, 에이전트 UI와는 분리된 표면이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4710,8 +3581,8 @@ const loadGhostty = () => {
 <li>2026-03-26: GlobalSyncProvider 역공학(상태 구조/4개 캐시/영속화/SSE 디스패치/child store/세션 트리밍/reload 상태 머신), PromptInput 합성 파이프라인(4종 입력/Dock 전환), PermissionProvider 승인 흐름, ghostty-web 터미널(싱글톤 로딩/PTY 관리) 역공학 섹션 추가.</li>
 <li>2026-03-26: SolidJS 기반 웹/데스크톱 이중 표면 UI를 패키지·Provider·라우팅·세션 뷰·Platform 추상화 중심으로 분석했다.</li>
 </ul>
-1d:["$","$L2f","20-axis-01-tui",{"id":"20-axis-01-tui","order":25,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_oc_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:T9f8b,<h2>기초 설명</h2>
+1d:["$","$L2f","20-axis-01-tui",{"id":"20-axis-01-tui","order":25,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_oc_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
+45:T9f8b,<h2>기초 설명</h2>
 <p>OpenCode의 프롬프트 시스템은 Codex의 Rust 단일 바이너리 모놀리스와 근본적으로 다른 구조를 갖는다. TypeScript + Effect-TS 기반이며, <code>models.dev</code> 레지스트리를 통해 21개 이상의 프로바이더를 동적으로 로드하고, 모델 ID 패턴 매칭으로 프로바이더별 시스템 프롬프트를 분기한다. Codex가 developer instructions 채널과 user contextual fragment 채널을 명확히 분리한 것과 달리, OpenCode는 <strong>모든 지시문을 system role 메시지 배열로 합산</strong>한 뒤 LLM에 전달하는 단일 채널 구조를 채택했다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5663,8 +4534,8 @@ export const OUTPUT_TOKEN_MAX = Flag.OPENCODE_EXPERIMENTAL_OUTPUT_TOKEN_MAX || 3
 <ul>
 <li>2026-03-26: system 채널 조립 순서, 모델별 프롬프트 분기, AGENTS.md 로딩, provider 추상화, compaction 파이프라인을 정리했다.</li>
 </ul>
-1e:["$","$L2f","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":26,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_oc_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
-48:Tdd6c,<h2>기초 설명</h2>
+1e:["$","$L2f","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":26,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_oc_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
+46:Tdd6c,<h2>기초 설명</h2>
 <p>OpenCode의 툴 시스템은 Effect-TS 서비스 계층 위에 구축된 정적 레지스트리 + 동적 확장 구조다. Codex-RS가 Rust enum 기반 <code>ToolRouter → ToolRegistry → ToolCallRuntime</code> 삼단 파이프라인을 쓴 것과 달리, OpenCode는 TypeScript의 <code>Tool.define()</code> 팩토리와 Effect <code>ServiceMap</code> 패턴으로 동일한 문제를 해결한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -6917,8 +5788,8 @@ export const webSocketRoute = Route.make({ id: "openai-responses-websocket", tra
 <li><code>packages/140_opencode/src/tool/repo_overview.ts</code> — 리포지토리 개요 도구 (신규)</li>
 <li><code>packages/140_opencode/src/cli/cmd/run/stream.transport.ts</code> — CLI 세션 이벤트 구독·턴 조율</li>
 </ul>
-1f:["$","$L2f","20-axis-03-tool",{"id":"20-axis-03-tool","order":27,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_oc_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:T8cf1,<h2>기초 설명</h2>
+1f:["$","$L2f","20-axis-03-tool",{"id":"20-axis-03-tool","order":27,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_oc_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
+47:T8cf1,<h2>기초 설명</h2>
 <p>OpenCode의 skill 시스템은 Codex(Rust)에 비해 훨씬 단순하지만, 그 단순함 안에서도 명확한 계층 구조를 갖추고 있다. <code>SKILL.md</code> 파일을 디스크에서 찾아 파싱하고, 도구(tool)로 노출하며, 시스템 프롬프트에 카탈로그를 주입하고, 에이전트별 퍼미션으로 접근을 제어하는 4단계 파이프라인이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7833,8 +6704,8 @@ GET {base_url}/{skill_name}/{file}
 <ul>
 <li>2026-03-26: 초기 작성. skill/index.ts, skill/discovery.ts, tool/skill.ts, session/system.ts, agent/agent.ts, command/index.ts 분석을 통합했다.</li>
 </ul>
-20:["$","$L2f","20-axis-04-skill",{"id":"20-axis-04-skill","order":28,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_oc_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:T8d38,<h2>기초 설명</h2>
+20:["$","$L2f","20-axis-04-skill",{"id":"20-axis-04-skill","order":28,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_oc_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
+48:T8d38,<h2>기초 설명</h2>
 <p>OpenCode의 에이전트 시스템은 Codex(Rust)와 달리 <strong>TypeScript + Effect-TS</strong> 위에서 동작하며, 서브에이전트를 별도 프로세스가 아닌 <strong>child session</strong> 으로 구현한다. 핵심 아이디어는 간단하다: 에이전트는 <code>Agent.Info</code> 레코드로 정의되고, 서브에이전트 호출은 <code>TaskTool</code>이 새 <code>Session</code>을 만들어 <code>SessionPrompt.prompt()</code>를 재귀적으로 실행하는 구조다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -8755,8 +7626,8 @@ export const layer = Layer.effect(Service, Effect.gen(function* () {
 <ul>
 <li>2025-07-18: OpenCode 에이전트 시스템의 정의 구조, TaskTool 기반 서브에이전트 호출, Permission 메커니즘, Effect-TS 패턴을 분석·정리했다.</li>
 </ul>
-21:["$","$L2f","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":29,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_oc_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-4b:T7eb3,<h2>기초 설명</h2>
+21:["$","$L2f","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":29,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_oc_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
+49:T7eb3,<h2>기초 설명</h2>
 <p>OpenCode의 client surface는 <strong>단일 HTTP 서버 + 다중 클라이언트</strong> 구조다. 코어 패키지 <code>opencode</code>가 Hono 기반 REST+SSE 서버를 올리면, SDK(<code>@opencode-ai/sdk</code>)가 OpenAPI 코드생성 클라이언트를 제공하고, 그 위에 TUI·데스크톱·웹 UI가 동일한 HTTP 경계를 통해 붙는다. Codex의 <code>app-server-protocol</code>처럼 별도 wire schema 계층을 뽑아내지 않았고, 대신 Hono 라우트에 Zod 스키마를 선언하면 <code>hono-openapi</code>가 OpenAPI 3.1 스펙을 자동 생성하고, <code>@hey-api/openapi-ts</code>가 타입 안전 SDK를 뽑아내는 원스톱 파이프라인이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9589,8 +8460,8 @@ pub fn spawn_local_server(
 <ul>
 <li>2026-03-26: OpenCode의 서버/클라이언트 표면을 분석했다. Hono REST+SSE 서버, OpenAPI 코드생성 SDK, 이중 데스크톱 래퍼(Tauri+Electron), 웹 문서 사이트 구조를 정리했다.</li>
 </ul>
-22:["$","$L2f","20-axis-06-surface",{"id":"20-axis-06-surface","order":30,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_oc_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
-4c:T86ae,<h2>기초 설명</h2>
+22:["$","$L2f","20-axis-06-surface",{"id":"20-axis-06-surface","order":30,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_oc_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
+4a:T86ae,<h2>기초 설명</h2>
 <p>OpenCode에는 전용 <code>sandbox/</code> 디렉토리가 없다. 실행 격리는 세 모듈에 분산돼 있다: <strong>Project</strong>(프로젝트 경계와 sandbox 디렉토리 관리), <strong>Permission</strong>(룰셋 기반 실행 허가 엔진), <strong>Pty</strong>(PTY 프로세스 실행). 거기에 <strong>Worktree</strong>(git worktree 격리)와 <strong>Instance</strong>(경로 경계 판정)가 보조 레이어로 작동한다. Codex의 OS-레벨 격리(seatbelt/landlock)와 달리, OpenCode는 <strong>애플리케이션-레벨 권한 게이트</strong>로 실행을 제어한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10491,8 +9362,8 @@ if (["cd", "rm", "cp", "mv", "mkdir", ...].includes(command[0])) {
 <ul>
 <li>2025-07-15: 전용 sandbox 디렉토리 없는 분산 구현을 분석했다. Permission 시스템, BashTool 실행 흐름, Worktree 격리, PTY 세션 관리를 정리했다.</li>
 </ul>
-23:["$","$L2f","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":31,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_oc_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
-4d:T8a28,<h2>기초 설명</h2>
+23:["$","$L2f","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":31,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_oc_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
+4b:T8a28,<h2>기초 설명</h2>
 <p>OpenCode의 설정은 6층 레이어 모델로 운영된다. JSONC(JSON with Comments) 형식을 사용하며, 각 레이어를 <code>remeda.mergeDeep</code>로 재귀 병합한다. Zod 스키마가 모든 설정의 형태와 유효성을 보장하고, <code>{env:VAR}</code> / <code>{file:path}</code> 치환 시스템이 동적 값 주입을 처리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11464,8 +10335,8 @@ export const Permission = z.preprocess(
 <ul>
 <li>2026-03-26: OpenCode 설정 시스템을 6층 JSONC layering + 21+ provider + feature flags 구조로 정리했다.</li>
 </ul>
-24:["$","$L2f","20-axis-08-config",{"id":"20-axis-08-config","order":32,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_oc_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
-4e:T5f2e,<h2>기초 설명</h2>
+24:["$","$L2f","20-axis-08-config",{"id":"20-axis-08-config","order":32,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_oc_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
+4c:T5f2e,<h2>기초 설명</h2>
 <p>OpenCode의 MCP는 거대한 전용 매니저 클래스로 분리되어 있지 않다. 대신 <code>140_opencode/packages/140_opencode/src/mcp/index.ts</code>의 <code>MCP</code> 네임스페이스가 연결 생성, 상태 보관, OAuth, tool 변환, prompt/resource 노출을 한곳에 묶고, 나머지 계층은 이 파사드를 호출하는 방식으로 붙는다. 따라서 구조는 단순하지만, 실제 동작 표면은 <code>session/prompt.ts</code>, <code>command/index.ts</code>, <code>server/routes/mcp.ts</code>까지 넓게 퍼져 있다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11860,8 +10731,8 @@ export const McpRemote = z.object({
 <ul>
 <li>2026-03-26: <code>mcp/index.ts</code>, <code>auth.ts</code>, <code>oauth-provider.ts</code>, <code>oauth-callback.ts</code> 중심으로 OpenCode MCP 문서를 신규 작성했다.</li>
 </ul>
-25:["$","$L2f","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":33,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_oc_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
-4f:T9ffb,<h2>기초 설명</h2>
+25:["$","$L2f","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":33,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_oc_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
+4d:T9ffb,<h2>기초 설명</h2>
 <p>OpenCode의 메모리 시스템은 <strong>SQLite 기반 세션 영속화 + Git 기반 스냅샷 + 2단계 컴팩션(prune → LLM 요약) 파이프라인</strong>으로 구성된다. Codex의 2-phase extraction/consolidation과 달리, OpenCode는 세션 자체를 1급 객체로 관리하며 대화 내역을 DB에 직접 저장하고 파일 변경을 별도 Git 저장소로 추적한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12975,8 +11846,8 @@ export const RETRY_MAX_DELAY_NO_HEADERS = 30_000
 <li>2026-03-26 (v1): SQLite 영속화, Git 스냅샷, 컴팩션, revert 시스템을 포함한 초기 분석 문서 작성.</li>
 <li>2026-03-26 (v2): 역공학 보강 — prune 역방향 순회 알고리즘 전체 코드 재구성 (<code>compacted</code> 타임스탬프 마킹, PRUNE_PROTECT/MINIMUM 상수, 보호 도구·턴 메커니즘), 컴팩션 에이전트 프롬프트 템플릿 (Goal/Instructions/Discoveries/Accomplished/Relevant files), <code>experimental.session.compacting</code> 플러그인 훅, overflow replay 로직, 컴팩션 결과 분기 테이블 추가.</li>
 </ul>
-26:["$","$L2f","20-axis-10-memory",{"id":"20-axis-10-memory","order":34,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_oc_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4f"}}]}]
-50:T866a,<h2>기초 설명</h2>
+26:["$","$L2f","20-axis-10-memory",{"id":"20-axis-10-memory","order":34,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_oc_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
+4e:T866a,<h2>기초 설명</h2>
 <p>OpenCode의 플러그인은 <strong>Hook 기반 확장 모델</strong>이다. 플러그인은 <code>Hooks</code> 인터페이스를 구현한 순수 TypeScript 함수로, 초기화 시 <code>PluginInput</code>(SDK 클라이언트, 프로젝트 경로, Bun shell 등)을 받고 <code>Hooks</code> 객체를 반환한다. 이 Hook 객체가 채팅, 도구, 셸, 인증 등 런타임의 거의 모든 확장점에 끼어든다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -13804,8 +12675,8 @@ export type ProviderHook = {
 <li class="task-list-item"><input type="checkbox" disabled> TUI 플러그인 API가 61개 타입으로 팽창 — 안정화 전 breaking change 위험</li>
 <li class="task-list-item"><input type="checkbox" disabled> <code>PluginLoader</code>의 3단계 해석(plan → resolve → load)은 견고하나 복잡도 상승</li>
 </ul>
-27:["$","$L2f","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":35,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_oc_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$50"}}]}]
-51:T67de,<h2>기초 설명</h2>
+27:["$","$L2f","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":35,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_oc_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
+4f:T67de,<h2>기초 설명</h2>
 <p>OpenCode의 permission 시스템은 Codex의 guardian과 완전히 다른 설계 철학을 갖는다. Codex가 별도 LLM 세션(gpt-5.4)으로 위험도를 자동 평가하는 반면, OpenCode는 <strong>규칙 기반 평가 엔진</strong>으로 동작한다. LLM 호출 없이 wildcard 패턴 매칭과 ruleset 우선순위만으로 allow/deny/ask를 결정하고, ask일 때 Effect.ts의 <code>Deferred</code>로 사용자 응답을 비동기 대기한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -14430,8 +13301,8 @@ export function disabled(tools: string[], ruleset: Ruleset): Set&#x3C;string> {
 <ul>
 <li>2025-07-24: OpenCode permission 시스템을 규칙 기반 평가 + Deferred 비동기 승인 + 일괄 처리 구조로 정리했다.</li>
 </ul>
-28:["$","$L2f","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":36,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_oc_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$51"}}]}]
-52:T142fc,<h2>기초 설명</h2>
+28:["$","$L2f","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":36,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_oc_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4f"}}]}]
+50:T142fc,<h2>기초 설명</h2>
 <p>이 문서는 OpenCode 코딩 에이전트에서 1~12차원(TUI, Prompt, Tool, Skill, Subagent, Surface, Sandbox, Config, MCP, Memory, Plugin, Guardian)에 포함되지 않는 **잔여 교차 관심사(cross-cutting concerns)**를 분석한다. OpenCode는 <code>packages/140_opencode/src/</code> 아래에 40개 이상의 하위 디렉터리를 갖고 있으며, 그 중 <code>bus/</code>, <code>acp/</code>, <code>flag/</code>, <code>lsp/</code>, <code>snapshot/</code>, <code>worktree/</code>, <code>ide/</code> 등은 독자적인 아키텍처적 의미를 갖는다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -16790,8 +15661,8 @@ export const make = &#x3C;A>(init) => Effect.gen(function* () {
 </tr>
 </tbody>
 </table>
-29:["$","$L2f","20-axis-13-etc",{"id":"20-axis-13-etc","order":37,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_oc_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$52"}}]}]
-53:T5991,<h2>기초 설명</h2>
+29:["$","$L2f","20-axis-13-etc",{"id":"20-axis-13-etc","order":37,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_oc_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$50"}}]}]
+51:T5991,<h2>기초 설명</h2>
 <p>OpenCode implements the corpus's <strong>most layered</strong> web/search stack: a first-party <strong><code>websearch</code></strong> tool calling remote MCP endpoints, a companion <strong><code>webfetch</code></strong> URL reader, and GitHub-Copilot Responses API provider tools for models that support hosted search.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -17386,8 +16257,8 @@ case "openai.web_search": return { type: "web_search", /* filters, searchContext
 </tr>
 </tbody>
 </table>
-2a:["$","$L2f","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":38,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_oc_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$53"}}]}]
-54:T2ba3,<h2>기초 설명</h2>
+2a:["$","$L2f","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":38,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_oc_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$51"}}]}]
+52:T2ba3,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -17673,8 +16544,8 @@ tip: to pass '-y' as a value, use '-- -y'
 <li>Remote source discovery includes <code>grok.com</code>, but it is skipped without login in this trace.</li>
 <li>Remaining MCP gaps are model-session tool invocation, OAuth/HTTP flows, project precedence layering, and plugin-provided MCP activation.</li>
 </ul>
-2b:["$","$L2f","25-reverse-engineering",{"id":"25-reverse-engineering","order":39,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$54"}}]}]
-55:T3d64,<h2>기초 설명</h2>
+2b:["$","$L2f","25-reverse-engineering",{"id":"25-reverse-engineering","order":39,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$52"}}]}]
+53:T3d64,<h2>기초 설명</h2>
 <p>OpenCode 분석에서 확인한 핵심 네 가지:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -18011,7 +16882,7 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>기술 스택: Python + prompt_toolkit + rich + tree-sitter + Git</li>
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
-2c:["$","$L2f","99-next-steps",{"id":"99-next-steps","order":40,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$55"}}]}]
-2d:["$","script","script-0",{"src":"/cli101-portal/sites/opencode/_next/static/chunks/9915c801139d67bd.js","async":true}]
-2e:["$","$L56",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@57"}]}]
-57:null
+2c:["$","$L2f","99-next-steps",{"id":"99-next-steps","order":40,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$53"}}]}]
+2d:["$","script","script-0",{"src":"/cli101-portal/sites/opencode/_next/static/chunks/632d5794df09229a.js","async":true}]
+2e:["$","$L54",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@55"}]}]
+55:null

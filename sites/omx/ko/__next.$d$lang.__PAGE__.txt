@@ -1,635 +1,11 @@
 1:"$Sreact.fragment"
 2:"$Sreact.suspense"
-3:I[73570,["/cli101-portal/sites/omx/_next/static/chunks/1569d02568d582a5.js"],"PageClient"]
-27:I[8038,["/cli101-portal/sites/omx/_next/static/chunks/1569d02568d582a5.js"],"SectionBlock"]
-49:I[72949,["/cli101-portal/sites/omx/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/omx/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
-0:{"buildId":"FLlb8h5H5Kj6OePCS9cc0","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"OMX101","tagline":"OMX101 developer-grade corpus guide","taglineEn":"OMX101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_omx_overview.md","branding":{"slug":"omx101","name":"OMX101","tagline_ko":"Codex orchestration","tagline_en":"Codex orchestration","accentLabel_ko":"000_overview/00_omx_overview.md","accentLabel_en":"000_overview/00_omx_overview.md","heroTitle_ko":"Codex 워크플로우 제어","heroTitle_en":"Codex 워크플로우 제어","heroSubtitle_ko":"개발자 문서 — 33섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 33 sections (000–015 + snippets)","terminalLines":["$$ omx setup","$$ codex"],"prompt_ko":"> 계획 세워줘","prompt_en":"> plan this","ctaHash":"00-before-you-start","officialUrl":"https://github.com/Yeachan-Heo/oh-my-codex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"OMX101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-omx","order":2,"tier":"core","slug":"02-what-is-omx","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/02-what-is-omx.md","file_en":"en/02-what-is-omx.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 프롬프트/계약 조립 (AGENTS.md 중심)","title_en":"Overview §2","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구/MCP 시스템","title_en":"Overview §3","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. Hook 시스템","title_en":"Overview §4","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. `$`-명령(워크플로우 스킬)","title_en":"Overview §5","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 역할 프롬프트(에이전트) ~34종","title_en":"Overview §6","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Rust 런타임 크레이트","title_en":"Overview §7","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 상태 영속화","title_en":"Overview §8","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 전체 동작 흐름","title_en":"Overview §9","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. cli-jaw 비교 시사점","title_en":"Overview §10","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":17,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_omx_tui.md","description_en":"001_tui-design/01_omx_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":18,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_omx_prompt.md","description_en":"002_prompt-context/02_omx_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":19,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_omx_tool.md","description_en":"003_tool-runtime/03_omx_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":20,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_omx_skill.md","description_en":"004_skill-system/04_omx_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":21,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_omx_subagent.md","description_en":"005_subagents-collab/05_omx_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":22,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_omx_surface.md","description_en":"006_app-server-client-surfaces/06_omx_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":23,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_omx_sandbox.md","description_en":"007_sandbox-exec-policy/07_omx_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":24,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_omx_config.md","description_en":"008_config-system/08_omx_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":25,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_omx_mcp.md","description_en":"009_mcp-orchestration/09_omx_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":26,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_omx_memory.md","description_en":"010_memory-pipeline/10_omx_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":27,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_omx_plugin.md","description_en":"011_plugin-system/11_omx_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":28,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_omx_guardian.md","description_en":"012_guardian-approval/12_omx_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":29,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_omx_etc.md","description_en":"013_etc/13_omx_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":30,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_omx_web-search.md","description_en":"014_web-search/14_omx_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":31,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":32,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}],["$L25"],"$L26"]}],"loading":null,"isPartial":false}
-28:T5974,<h2>OMX101 — 개발자 문서</h2>
-<p>P2: <strong>000–015 코퍼스</strong> + <strong>path:line 소스 스니펫</strong> + 기초 설명.</p>
-<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>171_oh-my-codex/README.md</code></h3>
-<h2>Quick start</h2>
-<h3>Requirements</h3>
-<ul>
-<li>Node.js 20+</li>
-<li>Codex CLI installed, verified with <code>codex --version</code>, and authenticated (Homebrew or npm are both fine; do not reinstall <code>@openai/codex</code> with npm if Homebrew already owns <code>codex</code>)</li>
-<li>Codex auth configured and visible in the same shell/profile that will run OMX</li>
-<li><code>tmux</code> on macOS/Linux if you want the recommended durable team runtime</li>
-<li><code>psmux</code> on native Windows only if you intentionally want the less-supported Windows team path</li>
-</ul>
-<h3>A good first session</h3>
-<p>After install, check both boundaries:</p>
-<pre><code class="language-bash">omx doctor
-codex login status
-omx exec --skip-git-repo-check -C . "Reply with exactly OMX-EXEC-OK"
-</code></pre>
-<p><code>omx doctor</code> catches missing OMX files, hooks, and runtime prerequisites. The real smoke test catches auth, profile, and provider/base-URL problems that only appear when Codex performs an actual request.</p>
-<p>Launch OMX the recommended way from a git project:</p>
-<pre><code class="language-bash">omx --worktree=feat/task --madmax --high
-</code></pre>
-<p>On macOS/Linux interactive terminals with <code>tmux</code> available, this starts the
-leader in OMX-managed detached tmux by default so the HUD/runtime panes can be
-created and recovered. <code>--worktree</code> also moves the launch into a separate git
-checkout, which is the safer default when using <code>--madmax</code>. Replace
-<code>feat/task</code> with a branch-like name for the task.</p>
-<h3>Madmax and worktree launch safety</h3>
-<p><code>--madmax</code> is OMX shorthand for Codex
-<code>--dangerously-bypass-approvals-and-sandbox</code>. It removes the normal approval and
-sandbox guardrails, so only use it in trusted repositories and environments.
-<code>--high</code> is shorthand for <code>-c model_reasoning_effort="high"</code>.</p>
-<p>When you use <code>--madmax</code> from a git repository, prefer a worktree launch instead
-of running directly in the current checkout. For repeatable or concurrent work,
-use a named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-</code></pre>
-<p>If you are outside a git repository, omit <code>--worktree</code>; worktree launches
-require Git.</p>
-<p>For concurrent <code>--madmax</code> sessions, do <strong>not</strong> run them all in the same
-directory. Give each session its own named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-omx --worktree=fix/flaky-tests --madmax --high
-</code></pre>
-<p><code>--worktree</code> / <code>-w</code> with no name creates or reuses a detached launch worktree at
-<code>../.omx-worktrees/launch-detached</code>. <code>--worktree=</code>,
-<code>--worktree </code>, or <code>-w </code> creates or reuses a named launch worktree
-under <code>../.omx-worktrees/</code> and checks out that branch name. OMX consumes
-the worktree flag before starting Codex; it is not forwarded to Codex itself.
-Treat the unnamed detached form as a one-off convenience: if the source checkout
-advances after that worktree is created, a later unnamed launch can fail with
-<code>worktree_target_mismatch</code> because <code>launch-detached</code> still points at the old
-HEAD. Use a named worktree for repeated work, or remove the old detached
-worktree before retrying.
-If the target launch worktree is already dirty, OMX warns and launches as-is, so
-clean, commit, or stash that worktree before relying on it for isolation.</p>
-<p>For <code>omx team</code>, workers already use dedicated worktrees automatically by
-default; <code>--worktree</code> on <code>omx team</code> is only a legacy-compatible override.</p>
-<p>If you want a one-off launch with no OMX tmux/HUD management, use <code>--direct</code>:</p>
-<pre><code class="language-bash">omx --direct --yolo
-</code></pre>
-<p>For a persistent shell/profile preference, set an environment policy:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --yolo
-</code></pre>
-<p>Return to the auto/default behavior with:</p>
-<pre><code class="language-bash">unset OMX_LAUNCH_POLICY
-</code></pre>
-<p>CLI policy flags win over the environment, and the last CLI policy flag before
-<code>--</code> wins:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --tmux --yolo
-</code></pre>
-<p>Use <code>OMX_LAUNCH_POLICY=direct|tmux|detached-tmux|auto</code>. This iteration only
-adds CLI and environment controls; it intentionally does not add a config-file
-setting. If you run <code>--direct</code> from inside an existing tmux pane, OMX will not
-create HUD splits, enable mouse mode, or wrap extended-key handling, but the
-process still runs inside that already-open terminal pane.</p>
-<p>Then try the canonical workflow:</p>
-<pre><code class="language-text">$deep-interview "clarify the authentication change"
-$ralplan "approve the safest implementation path"
-$ultragoal "turn the approved path into durable Codex goals"
-</code></pre>
-<p>Use <code>$team</code> when an active Ultragoal story needs coordinated parallel work, or <code>$ralph</code> when one persistent owner should keep pushing to completion without a multi-goal ledger.</p>
-<h2>코퍼스 — 000/ (인덱스·요약)</h2>
-<h3><code>000/01_corpus_navigation_map.md</code></h3>
-<h1>Corpus Navigation Map</h1>
-<p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
-<h2>Canonical Reading Spine</h2>
-<table>
-<thead>
-<tr>
-<th>Purpose</th>
-<th>Path</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
-<td><code>overview-index</code></td>
-</tr>
-<tr>
-<td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
-<td><code>deep-overview</code></td>
-</tr>
-<tr>
-<td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-<tr>
-<td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-<tr>
-<td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-</tbody>
-</table>
-<h2>Reference Repositories and Artifact Sets</h2>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Classification</th>
-<th>First-Cycle Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
-<td><code>reference-repo</code>, <code>codex-rs-source</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
-<td><code>reference-repo</code>, <code>codex-rs-source</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
-<td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
-<td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
-<td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
-<td><code>blocked-nested-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
-<td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
-<td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-</tbody>
-</table>
-<h2>Proposed Future Buckets</h2>
-<p>These are logical buckets only. They are not physical moves in this cycle.</p>
-<pre><code class="language-text">reference-repos/
-  codex/
-  competitor-harnesses/
-  plugins-and-extensions/
-analysis-artifacts/
-  reverse-engineering/
-  binary-package-reports/
-runtime-tools/
-  browser/
-  computer-use/
-docs/
-  overview-index/
-  deep-overview/
-  axes/
-</code></pre>
-<h2>Physical Rename Rule</h2>
-<p>Before a folder is moved, add an explicit mapping row using:</p>
-<pre><code class="language-text">old_path -> proposed_path | classification | move_status | evidence
-</code></pre>
-<p>For gitlinks, also reconcile <code>.gitmodules</code> before moving.</p>
-<h2>Top-Level Triage</h2>
-<p>Use this when scanning the root directory. Status is intentionally conservative: <code>keep-current</code> means the current path remains the source of truth for now.</p>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Triage</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/03_overview_canonical_map.md</code></h3>
-<h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
-<h2>Canonical Rule</h2>
-<ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
-<li>If the same filename exists in both folders and content differs, keep both:
-<ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
-</ul>
-</li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
-</ul>
-<h2>Paired Overview Files</h2>
-<table>
-<thead>
-<tr>
-<th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
-<th>Equal</th>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>00_ag_overview.md</code></td>
-<td align="right">27224</td>
-<td align="right">15790</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ai_overview.md</code></td>
-<td align="right">25716</td>
-<td align="right">25716</td>
-<td>yes</td>
-<td>duplicate content; defer dedupe until link audit</td>
-</tr>
-<tr>
-<td><code>00_ay_overview.md</code></td>
-<td align="right">3815</td>
-<td align="right">798</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cc_overview.md</code></td>
-<td align="right">25990</td>
-<td align="right">27537</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_co_overview.md</code></td>
-<td align="right">41569</td>
-<td align="right">17061</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cp_overview.md</code></td>
-<td align="right">23525</td>
-<td align="right">6854</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cr_overview.md</code></td>
-<td align="right">3216</td>
-<td align="right">595</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ge_overview.md</code></td>
-<td align="right">47345</td>
-<td align="right">35414</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_gr_overview.md</code></td>
-<td align="right">3310</td>
-<td align="right">546</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ki_overview.md</code></td>
-<td align="right">3360</td>
-<td align="right">692</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_oc_overview.md</code></td>
-<td align="right">43650</td>
-<td align="right">33628</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-</tbody>
-</table>
-<h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
-<pre><code class="language-text">00_hermes_overview.md
-00_lc_overview.md
-00_newharness_vs_cli-jaw_synthesis.md
-00_omc_overview.md
-00_omo_overview.md
-00_omx_overview.md
-00_sp_overview.md
-</code></pre>
-<h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
-<pre><code class="language-text">00_grand_synthesis.md
-00_harness-index.md
-00_harness-index_hermes.md
-00_harness-index_omc.md
-00_harness-index_omo.md
-00_harness-index_omx.md
-00_harness_synthesis_addendum.md
-01_corpus_navigation_map.md
-02_corpus_move_candidates.md
-03_overview_canonical_map.md
-</code></pre>
-<hr>
-<h3><code>000/00_harness-index.md</code> (발췌)</h3>
-<h1>Harness Source Index</h1>
-<p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
-<h2>Routing</h2>
-<table>
-<thead>
-<tr>
-<th>Prefix</th>
-<th>Index stub</th>
-<th>Canonical overview</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
-<td>standalone source-based agent runtime</td>
-</tr>
-<tr>
-<td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
-<td>Claude Code host-dependent orchestration harness</td>
-</tr>
-<tr>
-<td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
-<td>Codex host-dependent control plane</td>
-</tr>
-<tr>
-<td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
-<td>OpenCode host-dependent harness plus Codex Light adapter</td>
-</tr>
-<tr>
-<td><code>lc</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
-<td>LazyCodex / Codex Light distribution wrapper for OmO</td>
-</tr>
-<tr>
-<td><code>sp</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
-<td>Superpowers multi-harness skills/bootstrap methodology layer</td>
-</tr>
-</tbody>
-</table>
-<h2>Related</h2>
-<ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
-</ul>
-<h2>코퍼스 — 000_overview/00_omx_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_omx_tui.md</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_omx_prompt.md</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_omx_tool.md</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_omx_skill.md</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_omx_subagent.md</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_omx_surface.md</code></td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_omx_sandbox.md</code></td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_omx_config.md</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_omx_mcp.md</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_omx_memory.md</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_omx_plugin.md</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_omx_guardian.md</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_omx_web-search.md</code></td>
-</tr>
-</tbody>
-</table>
-4:["$","$L27","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"000 인덱스 + 축 맵","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]}]
-29:T44ae,<h2>기초 설명</h2>
+3:I[73570,["/cli101-portal/sites/omx/_next/static/chunks/6d299d2b16f93b46.js"],"PageClient"]
+27:I[8038,["/cli101-portal/sites/omx/_next/static/chunks/6d299d2b16f93b46.js"],"SectionBlock"]
+43:I[72949,["/cli101-portal/sites/omx/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/omx/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
+0:{"buildId":"BRypDn_b5u-I_tgbDvkHu","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"OMX101","tagline":"OMX101 developer-grade corpus guide","taglineEn":"OMX101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_omx_overview.md","branding":{"slug":"omx101","name":"OMX101","tagline_ko":"Codex orchestration","tagline_en":"Codex orchestration","accentLabel_ko":"000_overview/00_omx_overview.md","accentLabel_en":"000_overview/00_omx_overview.md","heroTitle_ko":"Codex 워크플로우 제어","heroTitle_en":"Codex 워크플로우 제어","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 27장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 27 developer docs","terminalLines":["$$ omx setup","$$ codex"],"prompt_ko":"> 계획 세워줘","prompt_en":"> plan this","ctaHash":"00-before-you-start","officialUrl":"https://github.com/Yeachan-Heo/oh-my-codex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"OMX101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-omx","order":2,"tier":"core","slug":"02-what-is-omx","title_ko":"OMX가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/02-what-is-omx.md","file_en":"en/02-what-is-omx.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + 준비 단계 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 프롬프트/계약 조립 (AGENTS.md 중심)","title_en":"Overview §2","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구/MCP 시스템","title_en":"Overview §3","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. Hook 시스템","title_en":"Overview §4","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. `$`-명령(워크플로우 스킬)","title_en":"Overview §5","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 역할 프롬프트(에이전트) ~34종","title_en":"Overview §6","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Rust 런타임 크레이트","title_en":"Overview §7","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 상태 영속화","title_en":"Overview §8","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 전체 동작 흐름","title_en":"Overview §9","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. cli-jaw 비교 시사점","title_en":"Overview §10","description_ko":"000_overview/00_omx_overview.md","description_en":"000_overview/00_omx_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":17,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_omx_tui.md","description_en":"001_tui-design/01_omx_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":18,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_omx_prompt.md","description_en":"002_prompt-context/02_omx_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":19,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_omx_tool.md","description_en":"003_tool-runtime/03_omx_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":20,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_omx_skill.md","description_en":"004_skill-system/04_omx_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":21,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_omx_subagent.md","description_en":"005_subagents-collab/05_omx_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":22,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_omx_surface.md","description_en":"006_app-server-client-surfaces/06_omx_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":23,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_omx_sandbox.md","description_en":"007_sandbox-exec-policy/07_omx_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":24,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_omx_config.md","description_en":"008_config-system/08_omx_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":25,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_omx_mcp.md","description_en":"009_mcp-orchestration/09_omx_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":26,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_omx_memory.md","description_en":"010_memory-pipeline/10_omx_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":27,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_omx_plugin.md","description_en":"011_plugin-system/11_omx_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":28,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_omx_guardian.md","description_en":"012_guardian-approval/12_omx_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":29,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_omx_etc.md","description_en":"013_etc/13_omx_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":30,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_omx_web-search.md","description_en":"014_web-search/14_omx_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":31,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":32,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}],["$L25"],"$L26"]}],"loading":null,"isPartial":false}
+4:["$","$L27","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>코딩을 할 줄 알지만 \"AI랑 터미널에서 협업한다\"는 느낌을 더 제대로 경험하고 싶으신 분, OpenAI Codex CLI를 쓰고 있는데 더 체계적인 워크플로우로 개발하고 싶으신 분이라면 잘 오셨어요. OMX(oh-my-codex)가 어떻게 여러분의 개발을 도와주는지 어려운 용어 없이 차근차근 설명해 드릴게요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>OMX가 대체 무엇을 해주는 도구인지</li>\n<li>5분 만에 첫 작업을 AI에게 시켜보는 방법</li>\n<li>매일 개발할 때 자연스럽게 쓰는 핵심 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>딱 두 가지만 알고 계시면 돼요.</p>\n<ol>\n<li>터미널(명령어를 치는 검은 창)을 열고 간단한 명령어를 입력할 수 있어요.</li>\n<li>작업하려는 폴더가 git으로 관리되고 있어요. 만약 아직이라면 그 폴더 안에서 <code>git init</code> 명령어를 한 번 실행해 주세요.</li>\n</ol>\n<p>준비가 다 되었으면 다음 장에서 OMX가 어떤 도구인지 자세히 알아볼게요.</p>\n"}}]}]
+28:T44ae,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1158,527 +534,13 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
 <li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
 </ul>
-5:["$","$L27","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$29"}}]}]
-2a:T1ae7,<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>171_oh-my-codex/README.md</code></h3>
-<h2>Quick start</h2>
-<h3>Requirements</h3>
-<ul>
-<li>Node.js 20+</li>
-<li>Codex CLI installed, verified with <code>codex --version</code>, and authenticated (Homebrew or npm are both fine; do not reinstall <code>@openai/codex</code> with npm if Homebrew already owns <code>codex</code>)</li>
-<li>Codex auth configured and visible in the same shell/profile that will run OMX</li>
-<li><code>tmux</code> on macOS/Linux if you want the recommended durable team runtime</li>
-<li><code>psmux</code> on native Windows only if you intentionally want the less-supported Windows team path</li>
-</ul>
-<h3>A good first session</h3>
-<p>After install, check both boundaries:</p>
-<pre><code class="language-bash">omx doctor
-codex login status
-omx exec --skip-git-repo-check -C . "Reply with exactly OMX-EXEC-OK"
-</code></pre>
-<p><code>omx doctor</code> catches missing OMX files, hooks, and runtime prerequisites. The real smoke test catches auth, profile, and provider/base-URL problems that only appear when Codex performs an actual request.</p>
-<p>Launch OMX the recommended way from a git project:</p>
-<pre><code class="language-bash">omx --worktree=feat/task --madmax --high
-</code></pre>
-<p>On macOS/Linux interactive terminals with <code>tmux</code> available, this starts the
-leader in OMX-managed detached tmux by default so the HUD/runtime panes can be
-created and recovered. <code>--worktree</code> also moves the launch into a separate git
-checkout, which is the safer default when using <code>--madmax</code>. Replace
-<code>feat/task</code> with a branch-like name for the task.</p>
-<h3>Madmax and worktree launch safety</h3>
-<p><code>--madmax</code> is OMX shorthand for Codex
-<code>--dangerously-bypass-approvals-and-sandbox</code>. It removes the normal approval and
-sandbox guardrails, so only use it in trusted repositories and environments.
-<code>--high</code> is shorthand for <code>-c model_reasoning_effort="high"</code>.</p>
-<p>When you use <code>--madmax</code> from a git repository, prefer a worktree launch instead
-of running directly in the current checkout. For repeatable or concurrent work,
-use a named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-</code></pre>
-<p>If you are outside a git repository, omit <code>--worktree</code>; worktree launches
-require Git.</p>
-<p>For concurrent <code>--madmax</code> sessions, do <strong>not</strong> run them all in the same
-directory. Give each session its own named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-omx --worktree=fix/flaky-tests --madmax --high
-</code></pre>
-<p><code>--worktree</code> / <code>-w</code> with no name creates or reuses a detached launch worktree at
-<code>../.omx-worktrees/launch-detached</code>. <code>--worktree=</code>,
-<code>--worktree </code>, or <code>-w </code> creates or reuses a named launch worktree
-under <code>../.omx-worktrees/</code> and checks out that branch name. OMX consumes
-the worktree flag before starting Codex; it is not forwarded to Codex itself.
-Treat the unnamed detached form as a one-off convenience: if the source checkout
-advances after that worktree is created, a later unnamed launch can fail with
-<code>worktree_target_mismatch</code> because <code>launch-detached</code> still points at the old
-HEAD. Use a named worktree for repeated work, or remove the old detached
-worktree before retrying.
-If the target launch worktree is already dirty, OMX warns and launches as-is, so
-clean, commit, or stash that worktree before relying on it for isolation.</p>
-<p>For <code>omx team</code>, workers already use dedicated worktrees automatically by
-default; <code>--worktree</code> on <code>omx team</code> is only a legacy-compatible override.</p>
-<p>If you want a one-off launch with no OMX tmux/HUD management, use <code>--direct</code>:</p>
-<pre><code class="language-bash">omx --direct --yolo
-</code></pre>
-<p>For a persistent shell/profile preference, set an environment policy:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --yolo
-</code></pre>
-<p>Return to the auto/default behavior with:</p>
-<pre><code class="language-bash">unset OMX_LAUNCH_POLICY
-</code></pre>
-<p>CLI policy flags win over the environment, and the last CLI policy flag before
-<code>--</code> wins:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --tmux --yolo
-</code></pre>
-<p>Use <code>OMX_LAUNCH_POLICY=direct|tmux|detached-tmux|auto</code>. This iteration only
-adds CLI and environment controls; it intentionally does not add a config-file
-setting. If you run <code>--direct</code> from inside an existing tmux pane, OMX will not
-create HUD splits, enable mouse mode, or wrap extended-key handling, but the
-process still runs inside that already-open terminal pane.</p>
-<p>Then try the canonical workflow:</p>
-<pre><code class="language-text">$deep-interview "clarify the authentication change"
-$ralplan "approve the safest implementation path"
-$ultragoal "turn the approved path into durable Codex goals"
-</code></pre>
-<p>Use <code>$team</code> when an active Ultragoal story needs coordinated parallel work, or <code>$ralph</code> when one persistent owner should keep pushing to completion without a multi-goal ledger.</p>
-<h2>코퍼스 — 000_overview/00_omx_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_omx_tui.md</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_omx_prompt.md</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_omx_tool.md</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_omx_skill.md</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_omx_subagent.md</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_omx_surface.md</code></td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_omx_sandbox.md</code></td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_omx_config.md</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_omx_mcp.md</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_omx_memory.md</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_omx_plugin.md</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_omx_guardian.md</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_omx_web-search.md</code></td>
-</tr>
-</tbody>
-</table>
-6:["$","$L27","02-what-is-omx",{"id":"02-what-is-omx","order":2,"tier":"core","title":"하네스 한눈에","description":"000_overview/00_omx_overview.md","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2a"}}]}]
-2b:T1b14,<h2>기초 설명</h2>
-<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>설치 &#x26; 인증</li>
-<li>Quick start</li>
-<li>Requirements</li>
-<li>A good first session</li>
-<li>Madmax and worktree launch safety</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3>README / docs</h3>
-<pre><code class="language-bash">omx doctor
-codex login status
-omx exec --skip-git-repo-check -C . "Reply with exactly OMX-EXEC-OK"
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">omx --worktree=feat/task --madmax --high
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-omx --worktree=fix/flaky-tests --madmax --high
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --yolo
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">unset OMX_LAUNCH_POLICY
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --tmux --yolo
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-text">$deep-interview "clarify the authentication change"
-$ralplan "approve the safest implementation path"
-$ultragoal "turn the approved path into durable Codex goals"
-</code></pre>
-<h2>본문</h2>
-<h2>설치 &#x26; 인증</h2>
-<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>
-<blockquote>
-<p><code>171_oh-my-codex/README.md</code></p>
-</blockquote>
-<h2>Quick start</h2>
-<h3>Requirements</h3>
-<ul>
-<li>Node.js 20+</li>
-<li>Codex CLI installed, verified with <code>codex --version</code>, and authenticated (Homebrew or npm are both fine; do not reinstall <code>@openai/codex</code> with npm if Homebrew already owns <code>codex</code>)</li>
-<li>Codex auth configured and visible in the same shell/profile that will run OMX</li>
-<li><code>tmux</code> on macOS/Linux if you want the recommended durable team runtime</li>
-<li><code>psmux</code> on native Windows only if you intentionally want the less-supported Windows team path</li>
-</ul>
-<h3>A good first session</h3>
-<p>After install, check both boundaries:</p>
-<pre><code class="language-bash">omx doctor
-codex login status
-omx exec --skip-git-repo-check -C . "Reply with exactly OMX-EXEC-OK"
-</code></pre>
-<p><code>omx doctor</code> catches missing OMX files, hooks, and runtime prerequisites. The real smoke test catches auth, profile, and provider/base-URL problems that only appear when Codex performs an actual request.</p>
-<p>Launch OMX the recommended way from a git project:</p>
-<pre><code class="language-bash">omx --worktree=feat/task --madmax --high
-</code></pre>
-<p>On macOS/Linux interactive terminals with <code>tmux</code> available, this starts the
-leader in OMX-managed detached tmux by default so the HUD/runtime panes can be
-created and recovered. <code>--worktree</code> also moves the launch into a separate git
-checkout, which is the safer default when using <code>--madmax</code>. Replace
-<code>feat/task</code> with a branch-like name for the task.</p>
-<h3>Madmax and worktree launch safety</h3>
-<p><code>--madmax</code> is OMX shorthand for Codex
-<code>--dangerously-bypass-approvals-and-sandbox</code>. It removes the normal approval and
-sandbox guardrails, so only use it in trusted repositories and environments.
-<code>--high</code> is shorthand for <code>-c model_reasoning_effort="high"</code>.</p>
-<p>When you use <code>--madmax</code> from a git repository, prefer a worktree launch instead
-of running directly in the current checkout. For repeatable or concurrent work,
-use a named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-</code></pre>
-<p>If you are outside a git repository, omit <code>--worktree</code>; worktree launches
-require Git.</p>
-<p>For concurrent <code>--madmax</code> sessions, do <strong>not</strong> run them all in the same
-directory. Give each session its own named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-omx --worktree=fix/flaky-tests --madmax --high
-</code></pre>
-<p><code>--worktree</code> / <code>-w</code> with no name creates or reuses a detached launch worktree at
-<code>../.omx-worktrees/launch-detached</code>. <code>--worktree=</code>,
-<code>--worktree </code>, or <code>-w </code> creates or reuses a named launch worktree
-under <code>../.omx-worktrees/</code> and checks out that branch name. OMX consumes
-the worktree flag before starting Codex; it is not forwarded to Codex itself.
-Treat the unnamed detached form as a one-off convenience: if the source checkout
-advances after that worktree is created, a later unnamed launch can fail with
-<code>worktree_target_mismatch</code> because <code>launch-detached</code> still points at the old
-HEAD. Use a named worktree for repeated work, or remove the old detached
-worktree before retrying.
-If the target launch worktree is already dirty, OMX warns and launches as-is, so
-clean, commit, or stash that worktree before relying on it for isolation.</p>
-<p>For <code>omx team</code>, workers already use dedicated worktrees automatically by
-default; <code>--worktree</code> on <code>omx team</code> is only a legacy-compatible override.</p>
-<p>If you want a one-off launch with no OMX tmux/HUD management, use <code>--direct</code>:</p>
-<pre><code class="language-bash">omx --direct --yolo
-</code></pre>
-<p>For a persistent shell/profile preference, set an environment policy:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --yolo
-</code></pre>
-<p>Return to the auto/default behavior with:</p>
-<pre><code class="language-bash">unset OMX_LAUNCH_POLICY
-</code></pre>
-<p>CLI policy flags win over the environment, and the last CLI policy flag before
-<code>--</code> wins:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --tmux --yolo
-</code></pre>
-<p>Use <code>OMX_LAUNCH_POLICY=direct|tmux|detached-tmux|auto</code>. This iteration only
-adds CLI and environment controls; it intentionally does not add a config-file
-setting. If you run <code>--direct</code> from inside an existing tmux pane, OMX will not
-create HUD splits, enable mouse mode, or wrap extended-key handling, but the
-process still runs inside that already-open terminal pane.</p>
-<p>Then try the canonical workflow:</p>
-<pre><code class="language-text">$deep-interview "clarify the authentication change"
-$ralplan "approve the safest implementation path"
-$ultragoal "turn the approved path into durable Codex goals"
-</code></pre>
-<p>Use <code>$team</code> when an active Ultragoal story needs coordinated parallel work, or <code>$ralph</code> when one persistent owner should keep pushing to completion without a multi-goal ledger.</p>
-7:["$","$L27","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치 & 인증","description":"설치 & 인증","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2b"}}]}]
-2c:T6ab,<h2>기초 설명</h2>
-<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>첫 세션</li>
-<li>A good first session</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3>README / docs</h3>
-<pre><code class="language-bash">omx doctor
-codex login status
-omx exec --skip-git-repo-check -C . "Reply with exactly OMX-EXEC-OK"
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">omx --worktree=feat/task --madmax --high
-</code></pre>
-<h2>본문</h2>
-<h2>첫 세션</h2>
-<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>
-<blockquote>
-<p><code>171_oh-my-codex/README.md</code></p>
-</blockquote>
-<h3>A good first session</h3>
-<p>After install, check both boundaries:</p>
-<pre><code class="language-bash">omx doctor
-codex login status
-omx exec --skip-git-repo-check -C . "Reply with exactly OMX-EXEC-OK"
-</code></pre>
-<p><code>omx doctor</code> catches missing OMX files, hooks, and runtime prerequisites. The real smoke test catches auth, profile, and provider/base-URL problems that only appear when Codex performs an actual request.</p>
-<p>Launch OMX the recommended way from a git project:</p>
-<pre><code class="language-bash">omx --worktree=feat/task --madmax --high
-</code></pre>
-<p>On macOS/Linux interactive terminals with <code>tmux</code> available, this starts the
-leader in OMX-managed detached tmux by default so the HUD/runtime panes can be
-created and recovered. <code>--worktree</code> also moves the launch into a separate git
-checkout, which is the safer default when using <code>--madmax</code>. Replace
-<code>feat/task</code> with a branch-like name for the task.</p>
-8:["$","$L27","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 세션","description":"첫 세션","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2c"}}]}]
-2d:T1ab6,<h2>기초 설명</h2>
-<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>에이전트 루프</li>
-<li>Recommended workflow</li>
-<li>OMX 오케스트레이션</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>171_oh-my-codex/README.md</code></h3>
-<h2>Quick start</h2>
-<h3>Requirements</h3>
-<ul>
-<li>Node.js 20+</li>
-<li>Codex CLI installed, verified with <code>codex --version</code>, and authenticated (Homebrew or npm are both fine; do not reinstall <code>@openai/codex</code> with npm if Homebrew already owns <code>codex</code>)</li>
-<li>Codex auth configured and visible in the same shell/profile that will run OMX</li>
-<li><code>tmux</code> on macOS/Linux if you want the recommended durable team runtime</li>
-<li><code>psmux</code> on native Windows only if you intentionally want the less-supported Windows team path</li>
-</ul>
-<h3>A good first session</h3>
-<p>After install, check both boundaries:</p>
-<pre><code class="language-bash">omx doctor
-codex login status
-omx exec --skip-git-repo-check -C . "Reply with exactly OMX-EXEC-OK"
-</code></pre>
-<p><code>omx doctor</code> catches missing OMX files, hooks, and runtime prerequisites. The real smoke test catches auth, profile, and provider/base-URL problems that only appear when Codex performs an actual request.</p>
-<p>Launch OMX the recommended way from a git project:</p>
-<pre><code class="language-bash">omx --worktree=feat/task --madmax --high
-</code></pre>
-<p>On macOS/Linux interactive terminals with <code>tmux</code> available, this starts the
-leader in OMX-managed detached tmux by default so the HUD/runtime panes can be
-created and recovered. <code>--worktree</code> also moves the launch into a separate git
-checkout, which is the safer default when using <code>--madmax</code>. Replace
-<code>feat/task</code> with a branch-like name for the task.</p>
-<h3>Madmax and worktree launch safety</h3>
-<p><code>--madmax</code> is OMX shorthand for Codex
-<code>--dangerously-bypass-approvals-and-sandbox</code>. It removes the normal approval and
-sandbox guardrails, so only use it in trusted repositories and environments.
-<code>--high</code> is shorthand for <code>-c model_reasoning_effort="high"</code>.</p>
-<p>When you use <code>--madmax</code> from a git repository, prefer a worktree launch instead
-of running directly in the current checkout. For repeatable or concurrent work,
-use a named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-</code></pre>
-<p>If you are outside a git repository, omit <code>--worktree</code>; worktree launches
-require Git.</p>
-<p>For concurrent <code>--madmax</code> sessions, do <strong>not</strong> run them all in the same
-directory. Give each session its own named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-omx --worktree=fix/flaky-tests --madmax --high
-</code></pre>
-<p><code>--worktree</code> / <code>-w</code> with no name creates or reuses a detached launch worktree at
-<code>../.omx-worktrees/launch-detached</code>. <code>--worktree=</code>,
-<code>--worktree </code>, or <code>-w </code> creates or reuses a named launch worktree
-under <code>../.omx-worktrees/</code> and checks out that branch name. OMX consumes
-the worktree flag before starting Codex; it is not forwarded to Codex itself.
-Treat the unnamed detached form as a one-off convenience: if the source checkout
-advances after that worktree is created, a later unnamed launch can fail with
-<code>worktree_target_mismatch</code> because <code>launch-detached</code> still points at the old
-HEAD. Use a named worktree for repeated work, or remove the old detached
-worktree before retrying.
-If the target launch worktree is already dirty, OMX warns and launches as-is, so
-clean, commit, or stash that worktree before relying on it for isolation.</p>
-<p>For <code>omx team</code>, workers already use dedicated worktrees automatically by
-default; <code>--worktree</code> on <code>omx team</code> is only a legacy-compatible override.</p>
-<p>If you want a one-off launch with no OMX tmux/HUD management, use <code>--direct</code>:</p>
-<pre><code class="language-bash">omx --direct --yolo
-</code></pre>
-<p>For a persistent shell/profile preference, set an environment policy:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --yolo
-</code></pre>
-<p>Return to the auto/default behavior with:</p>
-<pre><code class="language-bash">unset OMX_LAUNCH_POLICY
-</code></pre>
-<p>CLI policy flags win over the environment, and the last CLI policy flag before
-<code>--</code> wins:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --tmux --yolo
-</code></pre>
-<p>Use <code>OMX_LAUNCH_POLICY=direct|tmux|detached-tmux|auto</code>. This iteration only
-adds CLI and environment controls; it intentionally does not add a config-file
-setting. If you run <code>--direct</code> from inside an existing tmux pane, OMX will not
-create HUD splits, enable mouse mode, or wrap extended-key handling, but the
-process still runs inside that already-open terminal pane.</p>
-<p>Then try the canonical workflow:</p>
-<pre><code class="language-text">$deep-interview "clarify the authentication change"
-$ralplan "approve the safest implementation path"
-$ultragoal "turn the approved path into durable Codex goals"
-</code></pre>
-<p>Use <code>$team</code> when an active Ultragoal story needs coordinated parallel work, or <code>$ralph</code> when one persistent owner should keep pushing to completion without a multi-goal ledger.</p>
-<h2>본문</h2>
-<h2>에이전트 루프</h2>
-<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>
-<blockquote>
-<p><code>171_oh-my-codex/README.md</code></p>
-</blockquote>
-<h2>Recommended workflow</h2>
-<ol>
-<li><code>$deep-interview</code> — clarify scope when the request or boundaries are still vague.</li>
-<li><code>$ralplan</code> — turn that clarified scope into an approved architecture and implementation plan.</li>
-<li><code>$ultragoal</code> — make the approved plan durable as sequential Codex goals with <code>.omx/ultragoal</code> ledger checkpoints.</li>
-</ol>
-<p><code>$ralplan</code> stops at planning artifacts and a durable consensus handoff. Code changes require an explicit execution lane (<code>$ultragoal</code>, <code>$team</code>, or an intentional <code>$ralph</code> fallback); ralplan does not implement directly.</p>
-<p>Inside an Ultragoal story, use <code>$team</code> only when that story benefits from coordinated parallel execution. Use <code>$ralph</code> as an intentional alternate completion loop when you do not need a durable multi-goal ledger.</p>
-<h2>OMX 오케스트레이션</h2>
-<p>Codex 위 tmux + MCP + <code>.omx/</code>.</p>
-<blockquote>
-<p><code>000_overview/00_omx_overview.md</code></p>
-</blockquote>
-9:["$","$L27","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"에이전트 루프","description":"에이전트 루프","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2d"}}]}]
-2e:T163c,<h2>기초 설명</h2>
-<p>CLI / env / 프로젝트 설정 파일 계층.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>설정 &#x26; 모델</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>171_oh-my-codex/README.md</code></h3>
-<h2>Quick start</h2>
-<h3>Requirements</h3>
-<ul>
-<li>Node.js 20+</li>
-<li>Codex CLI installed, verified with <code>codex --version</code>, and authenticated (Homebrew or npm are both fine; do not reinstall <code>@openai/codex</code> with npm if Homebrew already owns <code>codex</code>)</li>
-<li>Codex auth configured and visible in the same shell/profile that will run OMX</li>
-<li><code>tmux</code> on macOS/Linux if you want the recommended durable team runtime</li>
-<li><code>psmux</code> on native Windows only if you intentionally want the less-supported Windows team path</li>
-</ul>
-<h3>A good first session</h3>
-<p>After install, check both boundaries:</p>
-<pre><code class="language-bash">omx doctor
-codex login status
-omx exec --skip-git-repo-check -C . "Reply with exactly OMX-EXEC-OK"
-</code></pre>
-<p><code>omx doctor</code> catches missing OMX files, hooks, and runtime prerequisites. The real smoke test catches auth, profile, and provider/base-URL problems that only appear when Codex performs an actual request.</p>
-<p>Launch OMX the recommended way from a git project:</p>
-<pre><code class="language-bash">omx --worktree=feat/task --madmax --high
-</code></pre>
-<p>On macOS/Linux interactive terminals with <code>tmux</code> available, this starts the
-leader in OMX-managed detached tmux by default so the HUD/runtime panes can be
-created and recovered. <code>--worktree</code> also moves the launch into a separate git
-checkout, which is the safer default when using <code>--madmax</code>. Replace
-<code>feat/task</code> with a branch-like name for the task.</p>
-<h3>Madmax and worktree launch safety</h3>
-<p><code>--madmax</code> is OMX shorthand for Codex
-<code>--dangerously-bypass-approvals-and-sandbox</code>. It removes the normal approval and
-sandbox guardrails, so only use it in trusted repositories and environments.
-<code>--high</code> is shorthand for <code>-c model_reasoning_effort="high"</code>.</p>
-<p>When you use <code>--madmax</code> from a git repository, prefer a worktree launch instead
-of running directly in the current checkout. For repeatable or concurrent work,
-use a named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-</code></pre>
-<p>If you are outside a git repository, omit <code>--worktree</code>; worktree launches
-require Git.</p>
-<p>For concurrent <code>--madmax</code> sessions, do <strong>not</strong> run them all in the same
-directory. Give each session its own named worktree:</p>
-<pre><code class="language-bash">omx --worktree=feature/auth --madmax --high
-omx --worktree=fix/flaky-tests --madmax --high
-</code></pre>
-<p><code>--worktree</code> / <code>-w</code> with no name creates or reuses a detached launch worktree at
-<code>../.omx-worktrees/launch-detached</code>. <code>--worktree=</code>,
-<code>--worktree </code>, or <code>-w </code> creates or reuses a named launch worktree
-under <code>../.omx-worktrees/</code> and checks out that branch name. OMX consumes
-the worktree flag before starting Codex; it is not forwarded to Codex itself.
-Treat the unnamed detached form as a one-off convenience: if the source checkout
-advances after that worktree is created, a later unnamed launch can fail with
-<code>worktree_target_mismatch</code> because <code>launch-detached</code> still points at the old
-HEAD. Use a named worktree for repeated work, or remove the old detached
-worktree before retrying.
-If the target launch worktree is already dirty, OMX warns and launches as-is, so
-clean, commit, or stash that worktree before relying on it for isolation.</p>
-<p>For <code>omx team</code>, workers already use dedicated worktrees automatically by
-default; <code>--worktree</code> on <code>omx team</code> is only a legacy-compatible override.</p>
-<p>If you want a one-off launch with no OMX tmux/HUD management, use <code>--direct</code>:</p>
-<pre><code class="language-bash">omx --direct --yolo
-</code></pre>
-<p>For a persistent shell/profile preference, set an environment policy:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --yolo
-</code></pre>
-<p>Return to the auto/default behavior with:</p>
-<pre><code class="language-bash">unset OMX_LAUNCH_POLICY
-</code></pre>
-<p>CLI policy flags win over the environment, and the last CLI policy flag before
-<code>--</code> wins:</p>
-<pre><code class="language-bash">OMX_LAUNCH_POLICY=direct omx --tmux --yolo
-</code></pre>
-<p>Use <code>OMX_LAUNCH_POLICY=direct|tmux|detached-tmux|auto</code>. This iteration only
-adds CLI and environment controls; it intentionally does not add a config-file
-setting. If you run <code>--direct</code> from inside an existing tmux pane, OMX will not
-create HUD splits, enable mouse mode, or wrap extended-key handling, but the
-process still runs inside that already-open terminal pane.</p>
-<p>Then try the canonical workflow:</p>
-<pre><code class="language-text">$deep-interview "clarify the authentication change"
-$ralplan "approve the safest implementation path"
-$ultragoal "turn the approved path into durable Codex goals"
-</code></pre>
-<p>Use <code>$team</code> when an active Ultragoal story needs coordinated parallel work, or <code>$ralph</code> when one persistent owner should keep pushing to completion without a multi-goal ledger.</p>
-<h2>본문</h2>
-<h2>설정 &#x26; 모델</h2>
-<p>CLI / env / 프로젝트 설정 파일 계층.</p>
-<blockquote>
-<p>See <code>000_overview/00_omx_overview.md</code> and official docs.</p>
-</blockquote>
-a:["$","$L27","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정 & 모델","description":"설정 & 모델","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
-2f:T285f,<h2>기초 설명</h2>
+5:["$","$L27","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$28"}}]}]
+6:["$","$L27","02-what-is-omx",{"id":"02-what-is-omx","order":2,"tier":"core","title":"OMX가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>OMX는 OpenAI Codex CLI 위에 작동하는 워크플로우 레이어로, 복잡한 설계부터 검증까지 하나의 흐름으로 이어지게 돕는 도구예요.</p>\n<h2>비유로 이해하기</h2>\n<p>Codex가 지시대로 코딩하는 유능한 프리랜서 개발자라면, OMX는 그 개발자에게 명확한 업무 지시서(기획안)를 써주고 작업이 끝나면 제대로 되었는지 검토까지 해주는 매니저 역할을 해요. \"이 기능 만들어줘\"라고 부탁하면, OMX가 먼저 물어보고 기획을 세운 뒤에 작업에 들어가므로 엉뚱한 결과가 나오는 일을 막아줘요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>설계 단계부터 인터뷰(<code>$deep-interview</code>)를 거쳐 의도를 먼저 명확하게 다듬어요.</li>\n<li>작성한 기획안을 바탕으로 안전하고 꼼꼼한 구현 계획(<code>$ralplan</code>)을 승인해요.</li>\n<li>실제 구현 단계에서 목표들을 차례대로 달성(<code>$ultragoal</code>)하게 관리해요.</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>무작정 코드를 고치기 전에 먼저 질문을 던져 의도를 파악하고 계획을 다듬으므로 불필요한 시행착오를 줄일 수 있어요. 작업 내용과 계획이 <code>.omx/</code> 폴더에 고스란히 저장되므로 언제든 진행 상황을 파악하고 이전 작업으로 되돌리기 편리해요.</p>\n<blockquote>\n<p>더 세밀한 동작 원리나 설계 방식이 궁금하신 분은 상단 메뉴에 있는 <strong>개발자 문서</strong>를 확인해 보세요. 지금은 이 도구가 대략 어떤 역할을 하는지 감만 잡으셔도 충분해요.</p>\n</blockquote>\n"}}]}]
+7:["$","$L27","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치하고 준비하기","description":"설치 + 준비 단계 + 막힐 때 팁","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>먼저 설치부터 해볼게요</h2>\n<p>설치하려면 터미널에 아래 명령어들을 한 줄씩 차례로 입력해 주세요. OpenAI Codex CLI와 OMX를 함께 설치하는 과정이에요.</p>\n<pre><code class=\"language-bash\">npm install -g @openai/codex\nnpm install -g oh-my-codex\n</code></pre>\n<h2>준비하기</h2>\n<p>설치가 끝나면 초기 설정을 진행해요. 터미널에 아래 명령어를 입력해 주세요.</p>\n<pre><code class=\"language-bash\">omx setup\n</code></pre>\n<p>이제 여러분의 로컬 컴퓨터에 OMX 개발 환경이 마련되었어요.</p>\n<h2>막힐 때 팁</h2>\n<ul>\n<li>만약 맥(macOS)이나 리눅스 환경에서 다중 에이전트 작업을 실행하려는데 막힌다면 터미널에 <code>tmux</code>가 잘 설치되어 있는지 확인해 보세요.</li>\n<li>명령어를 찾을 수 없다는 에러가 나면 터미널 창을 완전히 껐다 켜보시면 해결돼요.</li>\n</ul>\n"}}]}]
+8:["$","$L27","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 사용 5분","description":"따라 하면 되는 첫 실습","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>5분이면 충분해요</h2>\n<p>직접 코드를 고치는 세션을 열어서 감을 잡아볼게요. 안전한 격리 환경에서 실행해 보는 방법을 알아봐요.</p>\n<h2>따라 해보기</h2>\n<ol>\n<li>작업하려는 git 코드 폴더로 이동해요.</li>\n</ol>\n<pre><code class=\"language-bash\">cd 내-프로젝트-폴더\n</code></pre>\n<ol start=\"2\">\n<li>해당 폴더에서 안전하게 작업용 브랜치를 만드는 옵션과 함께 OMX를 실행해요.</li>\n</ol>\n<pre><code class=\"language-bash\">omx --worktree=feat/task --madmax --high\n</code></pre>\n<ol start=\"3\">\n<li>대화창이 켜지면 아래와 같이 지시를 입력해요.</li>\n</ol>\n<pre><code class=\"language-text\">$deep-interview \"이 프로젝트에 기본 사용법 안내 README를 보강하고 싶어\"\n</code></pre>\n<ol start=\"4\">\n<li>질문이 나오면 편하게 답변하면서 계획을 구체화해요.</li>\n</ol>\n<h2>결과 확인하기</h2>\n<p>인터뷰가 끝나면 계획서가 작성되고, 그다음 단계로 넘어가서 차례대로 변경 작업을 완료할 수 있어요. 마음에 들지 않으면 변경 내용을 삭제하거나 이전 커밋으로 되돌리면 되므로 부담 없이 시작해 보세요.</p>\n"}}]}]
+9:["$","$L27","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"매일 이렇게 써요","description":"실제 일상 사용 흐름과 비결","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>매일 쓰는 흐름은 단순해요</h2>\n<p>보통 다음과 같은 3단계 구성원으로 협업하게 돼요.</p>\n<ol>\n<li>질문과 답을 통해 무엇을 만들지 구체화해요 (<code>$deep-interview</code>).</li>\n<li>완성된 설계와 주의할 점들을 담은 구현 계획을 검토하고 승인해요 (<code>$ralplan</code>).</li>\n<li>승인된 계획에 따라 하나씩 목표를 달성하며 완성해 나가요 (<code>$ultragoal</code>).</li>\n</ol>\n<h2>알아두면 유용한 키워드들</h2>\n<p>대화창에서 달러($) 표시로 시작하는 명령어들을 입력해서 실행할 수 있어요.</p>\n<ul>\n<li><code>$deep-interview \"의도\"</code> — 만들고 싶은 기능의 뼈대를 질문을 통해 명확히 해요.</li>\n<li><code>$ralplan \"계획\"</code> — 아키텍처와 트레이드오프(trade-off, 장단점)를 점검하고 계획을 세워요.</li>\n<li><code>$ultragoal \"목표\"</code> — 계획을 바탕으로 실제 변경 작업을 진행하고 검증을 완료해요.</li>\n<li><code>$team</code> — 여러 작업자가 병렬로 나누어 해야 하는 규모가 큰 작업에 써요.</li>\n<li><code>$ralph</code> — 복잡한 수동 단계를 거치지 않고 하나의 비서가 끝까지 완성하도록 시킬 때 써요.</li>\n</ul>\n<h2>일은 작게 쪼개서 주는 게 비결이에요</h2>\n<p>한 번에 너무 많은 파일을 대규모로 고치게 하면 AI도 헷갈릴 수 있어요. 한 번 실행할 때 하나의 세부 목표를 잡고 해결한 다음, 단계별로 다음 목표로 넘어가는 방식이 결과물을 깨끗하게 유지하는 최고의 비결이에요.</p>\n"}}]}]
+a:["$","$L27","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정하고, 더 배우기","description":"내 입맛대로 설정 + 다음 단계 안내","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>내 입맛대로 설정하기</h2>\n<p>초기 설정 이후 필요에 따라 다양한 옵션을 조정할 수 있어요. 예를 들어 모델의 판단 깊이를 조절하거나 특정 작업 디렉토리를 다르게 지정할 수 있어요.</p>\n<p>실행할 때 뒤에 붙이는 옵션을 통해 매번 세부 설정을 바꿀 수 있어요.</p>\n<pre><code class=\"language-bash\"># reasoning 성능을 높여 실행하고 싶을 때\nomx --high\n</code></pre>\n<h2>안전하게 실험하기</h2>\n<p><code>--madmax</code> 옵션을 쓰면 번거로운 중간 승인 과정이 생략되어 편리하지만, 파일이 바로 수정되므로 반드시 git 브랜치나 별도 작업 공간(<code>--worktree</code>) 안에서 실행하시는 것을 추천해 드려요.</p>\n<h2>다음 단계로</h2>\n<p>이제 일상적인 업무에 OMX를 녹여낼 모든 준비가 끝났어요. 앞으로 이렇게 활용해 보세요.</p>\n<ul>\n<li>아주 단순한 버그 수정이나 문서 작성부터 직접 시켜보기</li>\n<li>질문을 구체적으로 수정해 가며 원하는 답변을 유도해 보기</li>\n<li>공식 깃허브의 가이드에 나온 다양한 인테그레이션 연동 방법 찾아보기</li>\n</ul>\n<p>내부 구조와 MCP 서버 구성원들이 어떻게 움직이는지 등 고도화된 설정 방법이 궁금해진다면, 상단 메뉴의 <strong>개발자 문서</strong>로 넘어가서 하나씩 읽어보시는 것을 권해드려요.</p>\n<p>이제 직접 터미널을 열고 여러분의 첫 OMX 세션을 시작해 보세요! 😊</p>\n"}}]}]
+29:T285f,<h2>기초 설명</h2>
 <p>OMX는 npm 글로벌 패키지로 <code>omx</code> 단일 바이너리를 노출한다. <code>package.json</code>:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1895,8 +757,8 @@ Check 4.25 네이티브 훅 커버리지 (checkNativeHooks → getMissingManaged
 </ul>
 <p>이 분류가 §5.2의 런타임 가용성 게이트를 구동한다. 예컨대 <code>launcher: "native"</code> + <code>transport: "outside-tmux"</code>이면 tmux 의존 워크플로우(<code>$team</code>)를 직접 활성화하지 않고 App-safe 표면으로 폴백한다. <code>nativeSessionId</code>와 영속 세션(<code>persistedSession.native_session_id</code>)을 비교해 네이티브/CLI를 판별한다.</p>
 <hr>
-b:["$","$L27","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 시스템 기동","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2f"}}]}]
-30:T14ca,<h2>기초 설명</h2>
+b:["$","$L27","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 시스템 기동","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$29"}}]}]
+2a:T14ca,<h2>기초 설명</h2>
 <p>OMX는 시스템 프롬프트를 직접 만들지 않는다. 대신 Codex가 읽는 <strong><code>AGENTS.md</code>를 최상위 운영 계약</strong>으로 설치하고, 그 안에 마커-바운드 오버레이를 주입한다. 원본은 <code>templates/AGENTS.md</code>(347줄).</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1963,8 +825,8 @@ b:["$","$L27","07-overview-01",{"id":"07-overview-01","order":7,"tier":"develope
 </code></pre>
 <p>훅이 워크플로우 상태에 따라 이 영역만 갱신하므로, 사용자가 직접 작성한 AGENTS.md 본문은 보존된다. 이것이 [[Claude Code]]의 <code>CLAUDE.md</code> 병합과 대비되는 OMX의 핵심: <strong>계약은 정적 파일이지만 오버레이는 런타임이 소유</strong>한다.</p>
 <hr>
-c:["$","$L27","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 프롬프트/계약 조립 (AGENTS.md 중심)","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
-31:T30d0,<h2>기초 설명</h2>
+c:["$","$L27","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 프롬프트/계약 조립 (AGENTS.md 중심)","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2a"}}]}]
+2b:T30d0,<h2>기초 설명</h2>
 <p><code>Claude Code</code>가 20여 개 내장 도구를 단일 번들에 하드코딩하는 것과 달리, OMX는 도구 루프를 직접 소유하지 않는다. Codex가 자체 내장 도구(파일 읽기/쓰기/셸/검색/서브에이전트 <code>spawn_agent</code> 등)와 도구 루프를 갖고, OMX는 그 위에 <strong>MCP 서버로 도구를 추가</strong>하고 <strong>AGENTS.md/프롬프트로 라우팅을 형성</strong>한다. 따라서 OMX의 "도구 기여"는 6개 1st-party MCP 서버의 도구 집합 + sparkshell/explore 같은 CLI 표면이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2137,8 +999,8 @@ omx_hermes (hermes-server.ts →     hermes_{start_session,send_prompt,report_st
 </ol>
 <p><strong>판정:</strong> 리드는 <em>방향성은 맞고 표현은 과장.</em> OMX는 검색 신뢰성 문제를 (a) MCP 기반 code-intel(AST/LSP) 보강과 (b) explore 하니스의 명령 화이트리스트/폴백으로 다뤘으나, 현재 권장 경로는 네이티브 검색 + 보조 MCP다. grep을 통째로 MCP로 갈아끼운 흔적은 소스에 없다.</p>
 <hr>
-d:["$","$L27","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 도구/MCP 시스템","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
-32:Tf0f,<h2>기초 설명</h2>
+d:["$","$L27","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 도구/MCP 시스템","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2b"}}]}]
+2c:Tf0f,<h2>기초 설명</h2>
 <p>OMX는 Codex의 네이티브 훅 라이프사이클에 단 하나의 <code>.mjs</code> 디스패처를 모든 이벤트에 등록한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2190,8 +1052,8 @@ child.stdout.pipe(process.stdout);
 <h3>4.3 키워드 라우팅</h3>
 <p><code>UserPromptSubmit</code> 훅이 라우팅의 1차 결정 표면이다(<code>templates/AGENTS.md:180</code>). 키워드 테이블은 <code>src/hooks/keyword-registry.ts</code>가 단일 소스다. AGENTS.md는 폴백만 기술한다: 명시적 <code>$name</code> 호출이 좌→우로 키워드를 override, 베어 스킬명은 활성화하지 않음. 키워드가 매칭되지 않으면 <strong>triage</strong>가 "advisory prompt-routing context"(개발자 컨텍스트 문자열)만 주입한다(권고일 뿐 활성화 아님). <code>no workflow</code>/<code>just chat</code>/<code>plain answer</code>로 옵트아웃 가능.</p>
 <hr>
-e:["$","$L27","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. Hook 시스템","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
-33:T1309,<h2>기초 설명</h2>
+e:["$","$L27","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. Hook 시스템","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2c"}}]}]
+2d:T1309,<h2>기초 설명</h2>
 <p>키워드 레지스트리가 노출하는 <code>$</code>-명령(<code>src/hooks/keyword-registry.ts</code>):</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2301,8 +1163,8 @@ $ralplan $team $ultragoal $ultraqa $ultrawork $visual-ralph $wiki
 <h3>5.2 런타임 가용성 게이트</h3>
 <p><code>autopilot</code>/<code>ralph</code>/<code>ultrawork</code>/<code>ultraqa</code>/<code>team</code>/<code>swarm</code>/<code>ecomode</code>는 <em>OMX 런타임 워크플로우</em>이지 일반 프롬프트 별칭이 아니다(<code>templates/AGENTS.md:188</code>). Codex App이나 plain Codex 세션(OMX 런타임 없음)에서는 키워드만으로 활성화되지 않고, App-safe 표면(<code>deep-interview</code>/<code>ralplan</code>/<code>plan</code>/네이티브 서브에이전트)으로 폴백한다.</p>
 <hr>
-f:["$","$L27","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. `$`-명령(워크플로우 스킬)","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
-34:T15d5,<h2>기초 설명</h2>
+f:["$","$L27","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. `$`-명령(워크플로우 스킬)","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2d"}}]}]
+2e:T15d5,<h2>기초 설명</h2>
 <ul>
 <li><strong>prometheus-strict 3종</strong>(<code>metis</code>/<code>momus</code>/<code>oracle</code>): <code>$prometheus-strict</code> 워크플로우(<code>skills/prometheus-strict</code>)의 엄격 검증 트리오. 서로 다른 관점(설계/비판/예지)으로 산출물을 교차 검증한다.</li>
 <li><strong>scholastic</strong>: 온톨로지·분류·정책 구분이 중요한 요구사항 의미론 리뷰의 자문 페르소나. <code>$ralplan</code>의 합의 게이트(Architect→Critic)에는 포함되지 않는 별도 advisory다(<code>skills/ralplan/SKILL.md</code>).</li>
@@ -2353,8 +1215,8 @@ coordination: team-orchestrator, team-executor
 <h3>6.2 모델 라우팅 규약</h3>
 <p><code>&#x3C;model_routing></code>(<code>templates/AGENTS.md:142-150</code>)은 역할을 작업 난이도에 매핑한다: 저복잡도(<code>explore</code>/<code>style-reviewer</code>/<code>writer</code>), 연구/탐색(<code>explore</code>→repo, <code>researcher</code>→docs, <code>dependency-expert</code>→SDK), 표준(<code>executor</code>/<code>debugger</code>/<code>test-engineer</code>), 고복잡도(<code>architect</code>/<code>executor</code>/<code>critic</code>). 네이티브 child agent는 명시적 이유 없이는 모델을 상속하고, frontier 기본값은 하드코딩이 아니라 <code>OMX_DEFAULT_FRONTIER_MODEL</code>(현재 <code>gpt-5.5</code>)·<code>OMX_DEFAULT_SPARK_MODEL</code>에서 가져온다(<code>templates/AGENTS.md:132,246</code>). 모델 강제보다 <code>reasoning_effort</code> 조정을 선호한다.</p>
 <hr>
-10:["$","$L27","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 역할 프롬프트(에이전트) ~34종","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-35:T2070,<h2>기초 설명</h2>
+10:["$","$L27","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 역할 프롬프트(에이전트) ~34종","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
+2f:T2070,<h2>기초 설명</h2>
 <p>워크스페이스 6개 크레이트(<code>Cargo.toml</code>, 모두 v0.18.6):</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2452,8 +1314,8 @@ RUNTIME_EVENT_NAMES:
 <h3>7.5 autoresearch — validator-gated 연구 산출물</h3>
 <p><code>$autoresearch</code>(<code>src/901_autoresearch/</code>)는 연구 결과를 검증 게이트로 채점한다. <code>src/901_autoresearch/contracts.ts</code>의 <code>AutoresearchEvaluatorContract</code>는 <code>command</code>(외부 평가 명령), <code>format: 'json'</code>, <code>keep_policy: 'score_improvement' | 'pass_only'</code>를 정의한다. 즉 각 연구 반복 산출물을 사용자 정의 evaluator로 실행해 점수가 개선될 때만(또는 통과할 때만) 유지한다 — 이는 [[Claude Code]]의 자유서술 메모리와 달리 <em>검증 가능한 산출물</em>을 강제하는 OMX 특유의 패턴이다. <code>$autoresearch-goal</code>은 목표 모드 변형이고, <code>$best-practice-research</code>는 평소 사전계획용 공식/업스트림 증거 수집이다(<code>README.md:109</code>).</p>
 <hr>
-11:["$","$L27","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. Rust 런타임 크레이트","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
-36:T11fe,<h2>기초 설명</h2>
+11:["$","$L27","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. Rust 런타임 크레이트","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2f"}}]}]
+30:T11fe,<h2>기초 설명</h2>
 <p>경로 해석은 <code>src/mcp/state-paths.ts</code>: <code>OMX_ROOT</code> override → cwd 기준 <code>.omx/state</code>. 정리 시 stale MCP 엔트리포인트는 <code>src/cli/cleanup.ts</code>의 정규식으로 식별·제거.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2501,8 +1363,8 @@ RUNTIME_EVENT_NAMES:
 <p><code>src/team/</code> 모듈은 이 런타임을 떠받친다: <code>dag-schema.ts</code>(작업 DAG), <code>allocation-policy.ts</code>/<code>delegation-policy.ts</code>(워커 배분), <code>approved-execution.ts</code>(승인된 실행 게이트), <code>delivery-log.ts</code>(전달 로그), <code>commit-hygiene.ts</code>(커밋 위생), <code>api-interop.ts</code>(<code>omx team api ...</code> CLI interop), <code>current-task-baseline.ts</code>. 워커 상태는 <code>.omx/state/team/...</code>에, 워커 간 메시지는 §3.2.1의 <code>omx_hermes</code> 브리지 + §7.1의 MailboxLog로 흐른다.</p>
 <p>캐노니컬 파이프라인은 <code>team-plan → team-prd → team-exec → team-verify → team-fix(loop)</code>이며 종료 상태는 <code>complete</code>/<code>failed</code>/<code>cancelled</code>다(<code>templates/AGENTS.md:230-233</code>). 호출 계약은 <code>omx team [N:agent-type] "&#x3C;task>"</code>(예: <code>omx team 3:executor "..."</code>)다. <code>omx team ralph ...</code>는 제거되었고, 지속 단일소유 루프가 필요하면 별도 <code>omx ralph ...</code>를 띄운다.</p>
 <hr>
-12:["$","$L27","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 상태 영속화","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:T11f2,<h2>기초 설명</h2>
+12:["$","$L27","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 상태 영속화","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
+31:T11f2,<h2>기초 설명</h2>
 <p>subgraph CodexSession["Codex CLI 세션"]
 Prompt["사용자 프롬프트"]
 UPS["UserPromptSubmit 훅"]
@@ -2630,8 +1492,8 @@ end</p>
 </code></pre>
 <p>흐름 요약: <code>omx setup</code>이 Codex 표면에 OMX 자산을 심는다 → 사용자 프롬프트는 <code>UserPromptSubmit</code> 훅 → <code>keyword-registry</code> 라우팅(미매칭 시 triage 권고) → Codex 루프가 6개 MCP와 <code>.omx/</code> 상태를 활용 → <code>$ralph</code>/<code>$team</code> 같은 런타임 워크플로우는 Rust <code>omx-runtime-core</code>가 tmux 위에서 권한 리스·디스패치·메일박스·리플레이로 다중 워커를 조정하고 상태를 영속화 → Stop 훅과 Ralph 게이트가 미완 종료를 차단.</p>
 <hr>
-13:["$","$L27","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 전체 동작 흐름","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
-38:T2488,<h2>기초 설명</h2>
+13:["$","$L27","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 전체 동작 흐름","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
+32:T2488,<h2>기초 설명</h2>
 <ul>
 <li><strong>(검색/grep/MCP 레이어)</strong> OMX는 검색 불안정 문제를 <em>교체</em>가 아니라 <em>계층화</em>로 풀었다: <code>omx_code_intel</code> MCP가 tsc 진단·ast-grep·grep을 구조화된 도구(<code>lsp_*</code>/<code>ast_grep_*</code>) 뒤에 감싸되, 권장 1차 표면은 여전히 네이티브 검색이다(<code>omx explore</code> deprecated). <code>cli-jaw</code>가 자체 grep/search 도구를 보강한다면, "네이티브를 신뢰하되 LSP/AST를 MCP로 추가"하는 이 <em>additive</em> 패턴(폴백 화이트리스트 포함, <code>crates/omx-explore</code>)이 통째 교체보다 운영 안정적이다.</li>
 </ul>
@@ -2750,8 +1612,8 @@ $ultragoal "turn the approved path into durable Codex goals"
 </li>
 </ul>
 <hr>
-14:["$","$L27","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. cli-jaw 비교 시사점","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
-39:Ta5f2,<h2>기초 설명</h2>
+14:["$","$L27","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. cli-jaw 비교 시사점","description":"000_overview/00_omx_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
+33:Ta5f2,<h2>기초 설명</h2>
 <p>전체 시스템 맥락은 <code>00_omx_overview</code>를 참조한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3476,8 +2338,8 @@ argvs.push(['send-keys', '-t', paneId, 'C-m']);   // 중복 C-m (전송 보장)
 <ul>
 <li>2026-05-29: omx v0.18.6 소스 기반 최초 작성. TUI/입력 표면 차원 — 대화형 TUI의 의도적 부재(deps 3종, ink/react/ratatui 전무), HUD ANSI statusline 컴포저(<code>src/hud/render.ts</code>), sidecar 패널 렌더러(<code>src/sidecar/render.ts</code>), 유일한 raw-mode 입력 UI인 <code>omx question --ui</code>(<code>src/question/ui.ts</code>)와 렌더러 전략/<code>unsupported</code> 폴백(<code>src/question/renderer.ts</code>), tmux send-keys 입력 주입(<code>buildSendPaneArgvs</code>), 슬래시 커맨드 부재 vs <code>$</code>-키워드 훅 감지, AGENTS.md 표면 위임 계약(:191,:280), Claude Code TUI 대비표, cli-jaw 시사점 4항 포함.</li>
 </ul>
-15:["$","$L27","20-axis-01-tui",{"id":"20-axis-01-tui","order":17,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_omx_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
-3a:Tb7ff,<h2>기초 설명</h2>
+15:["$","$L27","20-axis-01-tui",{"id":"20-axis-01-tui","order":17,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_omx_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
+34:Tb7ff,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4169,8 +3031,8 @@ DEFAULT_SPARK_MODEL    = 'gpt-5.3-codex-spark' (:95)
 <ul>
 <li>2026-05-29: oh-my-codex v0.18.6 소스 기반 최초 작성. 시스템 프롬프트 조립의 "의도적 부재/호스트 위임"(시스템 프롬프트 빌더 부재, <code>model_instructions_file</code> 우회), AGENTS.md 마커 4종 분류와 소유자 매핑(<code>prompt-guidance-contract.ts:279-300</code>), <code>omx setup</code> 3-모드 병합(신규/<code>--merge-agents</code>/모델테이블 갱신, <code>setup.ts:2408-2520</code>)과 3종 안전 가드, fragment provenance 3단(<code>docs/prompt-guidance-fragments</code> → <code>sync-prompt-guidance-fragments.ts</code> → <code>prompt-guidance-contract.ts</code>), 세션 AGENTS.md 합성·config 주입(<code>writeSessionModelInstructionsFile</code>/<code>injectModelInstructionsBypassArgs</code>), 런타임 오버레이 9섹션 + 결정적 overflow + 파일 락(<code>agents-overlay.ts</code>), 모델 테이블 동적 생성(<code>agents-model-table.ts</code>, <code>models.ts</code>), PreCompact/PostCompact 압축 생존 구조 정리. cli-jaw 비교 시사점 4항 포함.</li>
 </ul>
-16:["$","$L27","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":18,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_omx_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:Taf64,<h2>기초 설명</h2>
+16:["$","$L27","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":18,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_omx_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+35:Taf64,<h2>기초 설명</h2>
 <p>subgraph Hooks["OMX 훅 (7 이벤트)"]
 Pre["PreToolUse(Bash)명령 정규화/차단"]
 Post["PostToolUseexit/transport 신호"]
@@ -4898,8 +3760,8 @@ pub fn build_capture_pane_args(target, visible_lines) -> Vec&#x3C;String> {
 </tr>
 </tbody>
 </table>
-17:["$","$L27","20-axis-03-tool",{"id":"20-axis-03-tool","order":19,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_omx_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:Ta269,<h2>기초 설명</h2>
+17:["$","$L27","20-axis-03-tool",{"id":"20-axis-03-tool","order":19,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_omx_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
+36:Ta269,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5528,8 +4390,8 @@ Check 6.5 Legacy/current 스킬 루트 중복 → checkLegacySkillRootOverlap()
 <ul>
 <li>2026-05-29: oh-my-codex v0.18.6 소스 기반 최초 작성. 핵심 판정 = 스킬 런타임(발견/로딩/인자치환/실행)은 호스트 Codex 위임, OMX는 정의·설치·카탈로그 게이트·키워드 라우팅만 소유. <code>parseSkillFrontmatter</code>(name/description 2필드, <code>setup.ts:446</code>), <code>installSkills</code>/stale 제거(<code>setup.ts:3175</code>), <code>getSetupInstallableSkillNames</code>+<code>catalog-manifest.json</code> status 게이트, legacy/plugin 디스커버리 모드(<code>plugin.json</code> <code>skills</code> 포인터), <code>{{PROMPT}}</code>/<code>{{ITERATION}}</code> 토큰의 호스트 치환(OMX <code>src</code> 치환기 부재 grep 검증), keyword-registry 라우팅, 스킬-MCP 결합(본문 지시 + CLI 패리티, <code>wiki</code>/<code>ralph</code> 예), 메타-스킬 <code>skill</code>, CC 대비표, cli-jaw 시사점 4항 포함.</li>
 </ul>
-18:["$","$L27","20-axis-04-skill",{"id":"20-axis-04-skill","order":20,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_omx_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
-3d:Tbb1c,<h2>기초 설명</h2>
+18:["$","$L27","20-axis-04-skill",{"id":"20-axis-04-skill","order":20,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_omx_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
+37:Tbb1c,<h2>기초 설명</h2>
 <p><code>Claude Code</code>가 단일 <code>Agent</code> 도구(내부명 <code>Task</code>)에 fork/teammate/worktree를 모두 욱여넣고, <code>Codex</code>가 <code>spawn_agent</code>/<code>send_input</code>/<code>wait_agent</code> 같은 child-thread 제어 도구를 내장 번들에 두는 것과 달리, <strong>oh-my-codex(omx)는 자체 에이전트 루프를 갖지 않는다.</strong> omx는 OpenAI Codex CLI 위에 얹는 <strong>오케스트레이션 컨트롤 플레인</strong>으로, 협업을 세 층위로 분리해 구현한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -6279,8 +5141,8 @@ pub fn record_event(&#x26;mut self, event_id) -> bool {
 <ul>
 <li>2026-05-29: oh-my-codex(omx) v0.18.6 소스 기반 최초 작성. 34개 <code>AgentDefinition</code>(posture/modelClass/routingRole/tools)과 네이티브 TOML 컴파일(<code>generateAgentToml</code>/<code>composeRoleInstructions</code> 오버레이 합성), AGENTS.md 협업 계약(<code>delegation_rules</code>/<code>child_agent_protocol</code> Max 6 concurrent/leader↔worker), <code>$autopilot→$ralph→$ultrawork</code>/<code>$team</code> 실행 위계와 spawn/coordinate 방식, PRD+test-spec 게이트와 Stop 훅 차단, <code>$team N:executor</code> tmux 병렬 팀(워커 부트스트랩·이종 CLI 혼합), 이벤트 소싱 Rust 런타임(AuthorityLease/DispatchLog/MailboxLog/ReplayState/RuntimeEngine 파일 락), omx-mux tmux 트랜스포트(send-keys/capture-pane), Claude Code/Codex 협업 비교, cli-jaw dispatch 비교 시사점 4항.</li>
 </ul>
-19:["$","$L27","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":21,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_omx_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
-3e:Ta992,<h2>기초 설명</h2>
+19:["$","$L27","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":21,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_omx_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
+38:Ta992,<h2>기초 설명</h2>
 <p>subgraph OmxControl["OMX 컨트롤 플레인 (omx 바이너리)"]
 CLI["omx CLI 디스패처\n(src/cli/index.ts switch)"]
 Hooks["codex-native-hook 디스패처"]
@@ -7051,8 +5913,8 @@ end</p>
 <ul>
 <li>2026-05-29: OMX v0.18.6 앱-서버/클라이언트/세션 표면을 소스 기반 최초 작성. 외부 wire protocol/SDK/웹·IDE 표면의 의도적 부재(호스트 위임)를 핵심으로 정리하고, 실재하는 표면 3종을 문서화: stdio MCP 6종(<code>bootstrap.ts</code>), opt-in loopback OpenAI-호환 HTTP 게이트웨이 <code>omx-api</code>(<code>crates/omx-api/src/lib.rs</code>, port 14510, mock/real-private, loopback 강제+redaction), Discord/Telegram→tmux 회신 리스너(<code>reply-listener.ts</code>). 세션 표면은 native↔omx id 매핑(<code>hooks/session.ts</code>), 실행 표면 분류(<code>codex-execution-surface.ts</code>), <code>.omx/</code>+<code>~/.codex</code> 파일 영속/검색(<code>session-history/search.ts</code>), tmux 와이어로 정리. 5개 에이전트 표면 비교·재사용 seam·결합 리스크·cli-jaw 시사점 4항 포함.</li>
 </ul>
-1a:["$","$L27","20-axis-06-surface",{"id":"20-axis-06-surface","order":22,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_omx_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:Ta91a,<h2>기초 설명</h2>
+1a:["$","$L27","20-axis-06-surface",{"id":"20-axis-06-surface","order":22,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_omx_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+39:Ta91a,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7737,8 +6599,8 @@ count += redact_secret_markers(&#x26;mut redacted);           // sk-/ghp_/xoxb- 
 </tr>
 </tbody>
 </table>
-1b:["$","$L27","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":23,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_omx_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:T9ea1,<h2>기초 설명</h2>
+1b:["$","$L27","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":23,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_omx_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
+3a:T9ea1,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -8522,8 +7384,8 @@ export function getModelForMode(mode, codexHomeOverride?) {
 <ul>
 <li>2026-05-29: OMX v0.18.6 소스 기반 최초 작성. 설정 SoT의 호스트 위임 구조, TOML(config.toml)/JSON(.omx-config.json, hooks.json) 포맷 비대칭, managed-strip 비파괴 병합(deep-merge 부재), 모델 3레인(frontier/standard/spark) 우선순위 체인(<code>models.ts</code>), <code>agentReasoning</code>/모드별 오버라이드, AGENTS.md OMX:MODELS 마커 표, 프로필/프로바이더 의도적 부재(호스트 위임 + env_key 패스스루), 100+ OMX_* env(쉘 우선·json fallback), MCP 등록 2경로 + Codex 훅 feature flag 자동 감지, fail-soft 설계 원칙, Claude Code/Codex 3자 비교, cli-jaw 시사점 4항 포함.</li>
 </ul>
-1c:["$","$L27","20-axis-08-config",{"id":"20-axis-08-config","order":24,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_omx_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:Tc4ce,<h2>기초 설명</h2>
+1c:["$","$L27","20-axis-08-config",{"id":"20-axis-08-config","order":24,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_omx_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+3b:Tc4ce,<h2>기초 설명</h2>
 <p>핵심 명제 세 줄:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9312,8 +8174,8 @@ if (mcpTransportFailure) {
 </ul>
 <p>이전 문서: [[09_cc_mcp]]
 다음 문서: [[00_omx_overview]]</p>
-1d:["$","$L27","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":25,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_omx_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:Tc153,<h2>기초 설명</h2>
+1d:["$","$L27","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":25,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_omx_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
+3c:Tc153,<h2>기초 설명</h2>
 <p><code>Claude Code</code>가 <em>에이전트가 직접 markdown 파일에 쓰는 자율형 메모리</em> + <em>API-level 서버사이드 compaction</em> 조합인 것과 달리, OMX의 메모리는 <strong>이벤트 로그를 단일 진실원천으로 두고, 스냅샷·뷰·markdown은 그로부터 파생</strong>되는 구조다. 모든 상태 전이는 append-only <code>RuntimeEvent</code>로 기록되고, 재기동 시 그 이벤트를 처음부터 재생(replay)해 인메모리 상태를 재구성한다. 즉 "메모리"가 LLM 요약본이 아니라 <em>결정론적으로 재생 가능한 사실의 로그</em>다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10011,8 +8873,8 @@ pub fn record_event(&#x26;mut self, event_id: impl Into&#x3C;String>) -> bool {
 </tr>
 </tbody>
 </table>
-1e:["$","$L27","20-axis-10-memory",{"id":"20-axis-10-memory","order":26,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_omx_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:Ta22f,<h2>기초 설명</h2>
+1e:["$","$L27","20-axis-10-memory",{"id":"20-axis-10-memory","order":26,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_omx_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+3d:Ta22f,<h2>기초 설명</h2>
 <p><code>Claude Code</code>의 플러그인이 "hooks를 라이프사이클 이벤트에 바인딩하는 경량 시스템 + plugin manifest의 <code>hooksConfig</code>"인 것과 OMX는 구조적으로 닮았다(<code>11_cc_plugin</code> 참조). 차이는 OMX가 그 시스템을 <em>직접 구현하지 않고 Codex 호스트의 것을 빌려 쓰는 소비자</em> 라는 점이다. 즉 OMX의 플러그인 코드는 훅 엔진이 아니라 <strong>호스트 확장점에 자기 자산을 설치·머지하는 설치자(installer)</strong> 와 <strong>얇은 디스패치 shim</strong>이 전부다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10631,8 +9493,8 @@ source = "&#x3C;packageRoot>"
 <ul>
 <li>2026-05-29: oh-my-codex v0.18.6 소스 기반 최초 작성. OMX가 Codex 호스트의 plugin manifest(<code>plugins/171_oh-my-codex/.codex-plugin/plugin.json</code>)·7개 네이티브 라이프사이클 훅(<code>hooks/hooks.json</code>)·6개 MCP(<code>.mcp.json</code>)에 자기를 설치하는 "확장 레이어"임을 정리. <code>.mjs</code> shim → <code>omx codex-native-hook</code> 파이프(<code>codex-native-hook.mjs</code>), 비파괴 훅 머지/trusted_hash 엔진(<code>src/config/codex-hooks.ts</code>), native↔OMX 이벤트 매핑 매트릭스(<code>docs/codex-native-hooks.md</code>), 두 번째 확장점인 사용자 플러그인 호스트(<code>.omx/hooks/*.mjs</code>, <code>src/hooks/extensibility/</code>)의 디스커버리/SDK/격리 러너/team-safety 게이트, MCP 매니페스트 생성(<code>omx-first-party-mcp.ts</code>), plugin vs legacy 설치 모드 + 로컬 marketplace 등록(<code>src/cli/plugin-marketplace.ts</code>), cli-jaw 비교 시사점 4항 포함.</li>
 </ul>
-1f:["$","$L27","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":27,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_omx_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:T9cd0,<h2>기초 설명</h2>
+1f:["$","$L27","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":27,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_omx_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+3e:T9cd0,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11282,8 +10144,8 @@ const ALLOWED_DIRECT_COMMANDS: &#x26;[&#x26;str] = &#x26;[
 <ul>
 <li>2026-05-29: oh-my-codex(omx) v0.18.6 소스 기반 최초 작성. 가디언/승인 차원이 <em>의도적 호스트 위임</em>임을 확정(approval_policy/sandbox_mode 미강제, 테스트 픽스처상 <em>보존</em>만), AUTONOMY DIRECTIVE로 승인 감소 방향 명시. OMX 고유 가디언 = 훅 기반 워크플로우/품질 게이트(PreToolUse Lore 커밋 가드·런타임 가용성·sloppy/destructive advisory / PostToolUse MCP·실패 재작업 / Stop Ralph·team 완료 게이트, 모두 <code>decision:"block"</code> 2-state), 셸 격리(explore 명령 화이트리스트+환경 스크럽+자원 한도, sparkshell 3-패스 redaction), team approved-execution 4-상태 승인 바인딩, 훅 trusted_hash 정리. Codex/Claude Code guardian 비교표 + cli-jaw 시사점 4항 포함.</li>
 </ul>
-20:["$","$L27","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":28,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_omx_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:Tb806,<h2>기초 설명</h2>
+20:["$","$L27","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":28,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_omx_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
+3f:Tb806,<h2>기초 설명</h2>
 <p>본 문서는 oh-my-codex(OMX) 코드베이스에서 앞선 차원 문서(<code>00_omx_overview</code> 기준: CLI/setup, AGENTS.md 계약, MCP, 훅, <code>$</code>-워크플로우, 역할 프롬프트, Rust 런타임, <code>.omx/</code> 상태)에 충분히 다루지 못한 **잔여 교차 관심사(cross-cutting concerns)**를 소스 기반으로 분석한다. 분석 대상은 <code>/Users/jun/developer/codex/oh-my-codex</code>의 실제 소스다: TypeScript <code>src/</code>(40여 모듈), Rust <code>crates/</code>(6개), <code>prompts/</code>·<code>skills/</code>·<code>templates/</code>. 패키지 버전은 <code>0.18.6</code>(<code>package.json</code>).</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12020,8 +10882,8 @@ x86_64-apple-darwin, x86_64-pc-windows-msvc, x86_64-unknown-linux-{gnu,musl}
 <li>2026-05-29: oh-my-codex v0.18.6 소스 기반 최초 작성. Git/VCS(<code>team/worktree.ts</code>·<code>commit-hygiene.ts</code>·<code>git-master.md</code>), 3-레인 모델 라우팅(<code>config/models.ts</code>), 분산 에러 advisory(<code>codex-native-pre-post.ts</code>·<code>quota-detector.ts</code>), 로컬 관측성(<code>trace-server.ts</code>·HUD, 원격 텔레메트리 부재 명시), 5채널 알림+OpenClaw 양방향 이벤트(<code>notifications/</code>·<code>openclaw/</code>), 멀티슬롯 쿼터 로테이션 인증(<code>auth/hotswap.ts</code>·<code>storage.ts</code>·<code>rotation.ts</code>·<code>redact.ts</code>), imagegen continuation 멀티모달(<code>imagegen/continuation.ts</code>·<code>visual/</code>), Codex 호환 피처 플래그(<code>codex-feature-flags.ts</code>), npm+cargo-dist 하이브리드 패키징, 346 테스트+커버리지 게이트, i18n 부재 확인 포함. CC 대비 비대칭(원격 텔레메트리 부재 vs 멀티슬롯 인증·다채널 알림 풍부) 분석.</li>
 </ul>
 <pre><code></code></pre>
-21:["$","$L27","20-axis-13-etc",{"id":"20-axis-13-etc","order":29,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_omx_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-46:T501e,<h2>기초 설명</h2>
+21:["$","$L27","20-axis-13-etc",{"id":"20-axis-13-etc","order":29,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_omx_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
+40:T501e,<h2>기초 설명</h2>
 <p>OMX is a Codex workflow/plugin layer. Its six first-party MCP servers cover state, memory, code intelligence, trace, wiki, and Hermes coordination — <strong>none</strong> implement HTTP crawl or search indexing. Web research is a <strong>host concern</strong> (OpenAI Codex <code>ToolSpec::WebSearch</code>) plus optional user MCPs configured outside OMX.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12521,8 +11383,8 @@ startupTimeoutSec: spec.startupTimeoutSec, // 5-10s per server
 <pre><code class="language-bash">rg -n web_search /Users/jun/Developer/codex/171_oh-my-codex/src/
 wc -c /Users/jun/Developer/codex/014_web-search/14_omx_web-search.md  # T2 floor 12288
 </code></pre>
-22:["$","$L27","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":30,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_omx_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:T2ea2,<h2>기초 설명</h2>
+22:["$","$L27","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":30,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_omx_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
+41:T2ea2,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12751,8 +11613,8 @@ $ultragoal "turn the approved path into durable Codex goals"
 <li><code>bundle-key</code> or <code>binary-string</code> confirms a module exists.</li>
 <li><code>runtime-trace</code> is still required for exact precedence, scheduling, isolation, merge, and permission behavior.</li>
 </ul>
-23:["$","$L27","25-reverse-engineering",{"id":"25-reverse-engineering","order":31,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
-48:T290b,<h2>기초 설명</h2>
+23:["$","$L27","25-reverse-engineering",{"id":"25-reverse-engineering","order":31,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
+42:T290b,<h2>기초 설명</h2>
 <ul>
 <li>2026-05-29: oh-my-codex(omx) v0.18.6 소스 기반 최초 작성. CLI 진입점(<code>src/cli/omx.ts</code>/<code>index.ts</code>), <code>omx setup</code> 설치 표면, <code>templates/AGENTS.md</code> 운영 계약 + 마커 오버레이, 6종 1st-party MCP(<code>omx-first-party-mcp.ts</code>)와 <code>omx_code_intel</code> 9도구, 7종 Codex 네이티브 훅(<code>hooks.json</code>/<code>codex-native-hook.mjs</code>/<code>codex-native-pre-post.ts</code>), 19개 <code>$</code>-워크플로우 + 위계/게이트, 34개 역할 프롬프트(<code>agents/definitions.ts</code>), 6개 Rust 크레이트(이벤트 소싱 <code>omx-runtime-core</code>, <code>omx-sparkshell</code>, <code>omx-explore</code>), <code>.omx/</code> 상태 레이아웃, grep/MCP 리드 검증(부분 사실: code-intel MCP 보강 실재 + explore 화이트리스트, 단 네이티브 검색 교체는 아님), cli-jaw 비교 시사점 6항 포함.</li>
 </ul>
@@ -12909,7 +11771,7 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>기술 스택: Python + prompt_toolkit + rich + tree-sitter + Git</li>
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
-24:["$","$L27","99-next-steps",{"id":"99-next-steps","order":32,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-25:["$","script","script-0",{"src":"/cli101-portal/sites/omx/_next/static/chunks/1569d02568d582a5.js","async":true}]
-26:["$","$L49",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@4a"}]}]
-4a:null
+24:["$","$L27","99-next-steps",{"id":"99-next-steps","order":32,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+25:["$","script","script-0",{"src":"/cli101-portal/sites/omx/_next/static/chunks/6d299d2b16f93b46.js","async":true}]
+26:["$","$L43",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@44"}]}]
+44:null

@@ -1,608 +1,11 @@
 1:"$Sreact.fragment"
 2:"$Sreact.suspense"
-3:I[73570,["/cli101-portal/sites/codex-cli/_next/static/chunks/1569d02568d582a5.js"],"PageClient"]
-28:I[8038,["/cli101-portal/sites/codex-cli/_next/static/chunks/1569d02568d582a5.js"],"SectionBlock"]
-46:I[72949,["/cli101-portal/sites/codex-cli/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/codex-cli/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
-0:{"buildId":"lJ-4faYtgoLAniGtplOwJ","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"CO101","tagline":"CO101 developer-grade corpus guide","taglineEn":"CO101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_co_overview.md","branding":{"slug":"co101","name":"CO101","tagline_ko":"Codex 입문 + 코퍼스 심화","tagline_en":"Codex intro + corpus depth","accentLabel_ko":"000_overview/00_co_overview.md","accentLabel_en":"000_overview/00_co_overview.md","heroTitle_ko":"로컬 Rust 코딩 에이전트","heroTitle_en":"Local Rust coding agent","heroSubtitle_ko":"개발자 문서 — 34섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 34 sections (000–015 + snippets)","terminalLines":["$$ npm i -g @openai/codex","$$ codex"],"prompt_ko":"> apply_patch로 테스트 추가해줘","prompt_en":"> add tests with apply_patch","ctaHash":"00-before-you-start","officialUrl":"https://github.com/openai/codex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"CO101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-codex","order":2,"tier":"core","slug":"02-what-is-codex","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/02-what-is-codex.md","file_en":"en/02-what-is-codex.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 프롬프트 조립","title_en":"Overview §2","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 라우팅과 실행","title_en":"Overview §3","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 샌드박스 실행","title_en":"Overview §4","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 에이전트 루프","title_en":"Overview §5","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 서브에이전트 시스템","title_en":"Overview §6","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. MCP 통합","title_en":"Overview §7","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 피처 플래그와 설정","title_en":"Overview §8","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 에러 처리","title_en":"Overview §9","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 텔레메트리","title_en":"Overview §10","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 전체 아키텍처 다이어그램","title_en":"Overview §11","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_co_tui.md","description_en":"001_tui-design/01_co_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_co_prompt.md","description_en":"002_prompt-context/02_co_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_co_tool.md","description_en":"003_tool-runtime/03_co_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_co_skill.md","description_en":"004_skill-system/04_co_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_co_subagent.md","description_en":"005_subagents-collab/05_co_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_co_surface.md","description_en":"006_app-server-client-surfaces/06_co_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_co_sandbox.md","description_en":"007_sandbox-exec-policy/07_co_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_co_config.md","description_en":"008_config-system/08_co_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_co_mcp.md","description_en":"009_mcp-orchestration/09_co_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_co_memory.md","description_en":"010_memory-pipeline/10_co_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_co_plugin.md","description_en":"011_plugin-system/11_co_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_co_guardian.md","description_en":"012_guardian-approval/12_co_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_co_etc.md","description_en":"013_etc/13_co_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_co_web-search.md","description_en":"014_web-search/14_co_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],["$L26"],"$L27"]}],"loading":null,"isPartial":false}
-29:T5fab,<h2>CO101 — 개발자 문서</h2>
-<p>P2: <strong>000–015 코퍼스</strong> + <strong>path:line 소스 스니펫</strong> + 기초 설명.</p>
-<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>120_codex-cli/README.md</code></h3>
-<h2>Quickstart</h2>
-<h3>Installing and running Codex CLI</h3>
-<p>Install globally with your preferred package manager:</p>
-<pre><code class="language-shell">
-
-## 코퍼스 — 000/ (인덱스·요약)
-
-### `000/01_corpus_navigation_map.md`
-
-# Corpus Navigation Map
-
-This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.
-
-For reversible old-to-new bucket proposals, see `/Users/jun/Developer/codex/000/02_corpus_move_candidates.md`.
-
-For the canonical relationship between `/Users/jun/Developer/codex/000/` and `/Users/jun/Developer/codex/000_overview/`, see `/Users/jun/Developer/codex/000/03_overview_canonical_map.md`.
-
-## Canonical Reading Spine
-
-| Purpose | Path | Classification |
-| --- | --- | --- |
-| Root overview and synthesis | `/Users/jun/Developer/codex/000/` | `overview-index` |
-| Deep harness overview docs | `/Users/jun/Developer/codex/000_overview/` | `deep-overview` |
-| TUI design axis | `/Users/jun/Developer/codex/001_tui-design/` | `canonical-doc-axis` |
-| Prompt/context axis | `/Users/jun/Developer/codex/002_prompt-context/` | `canonical-doc-axis` |
-| Tool/runtime axis | `/Users/jun/Developer/codex/003_tool-runtime/` | `canonical-doc-axis` |
-| Skill system axis | `/Users/jun/Developer/codex/004_skill-system/` | `canonical-doc-axis` |
-| Subagents/collaboration axis | `/Users/jun/Developer/codex/005_subagents-collab/` | `canonical-doc-axis` |
-| App/server/client surfaces axis | `/Users/jun/Developer/codex/006_app-server-client-surfaces/` | `canonical-doc-axis` |
-| Sandbox/exec/policy axis | `/Users/jun/Developer/codex/007_sandbox-exec-policy/` | `canonical-doc-axis` |
-| Config system axis | `/Users/jun/Developer/codex/008_config-system/` | `canonical-doc-axis` |
-| MCP orchestration axis | `/Users/jun/Developer/codex/009_mcp-orchestration/` | `canonical-doc-axis` |
-| Memory pipeline axis | `/Users/jun/Developer/codex/010_memory-pipeline/` | `canonical-doc-axis` |
-| Plugin system axis | `/Users/jun/Developer/codex/011_plugin-system/` | `canonical-doc-axis` |
-| Guardian/approval axis | `/Users/jun/Developer/codex/012_guardian-approval/` | `canonical-doc-axis` |
-| Cross-cutting notes | `/Users/jun/Developer/codex/013_etc/` | `supporting-docs` |
-| Web search notes | `/Users/jun/Developer/codex/014_web-search/` | `supporting-docs` |
-| Reverse engineering notes | `/Users/jun/Developer/codex/015_reverse-engineering/` | `supporting-docs` |
-
-## Reference Repositories and Artifact Sets
-
-| Current Path | Classification | First-Cycle Status |
-| --- | --- | --- |
-| `/Users/jun/Developer/codex/120_codex-cli/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/121_openai-codex/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/110_aider/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/130_gemini-cli/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/140_opencode/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/141_opencode-current/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/161_lazycodex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/160_hermes-agent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/162_superpowers/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/901_autoresearch/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/902_claude-usage-plugin/` | `reference-repo`, `plugin-artifact`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/170_oh-my-claudecode/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/171_oh-my-codex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/172_oh-my-openagent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/030_browser/` | `runtime-tooling`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/023_computer_use/` | `runtime-tooling`, `contains-nested-gitlink` | `blocked-nested-gitlink` |
-| `/Users/jun/Developer/codex/150_claude_code/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/151_copilot_cli/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/152_antigravity/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt` | `binary-or-package-artifact`, `reverse-engineering-evidence` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs` | `binary-or-package-artifact`, `reverse-engineering-tooling` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-
-## Proposed Future Buckets
-
-These are logical buckets only. They are not physical moves in this cycle.
-
-```text
-reference-repos/
-  codex/
-  competitor-harnesses/
-  plugins-and-extensions/
-analysis-artifacts/
-  reverse-engineering/
-  binary-package-reports/
-runtime-tools/
-  browser/
-  computer-use/
-docs/
-  overview-index/
-  deep-overview/
-  axes/
-</code></pre>
-<h2>Physical Rename Rule</h2>
-<p>Before a folder is moved, add an explicit mapping row using:</p>
-<pre><code class="language-text">old_path -> proposed_path | classification | move_status | evidence
-</code></pre>
-<p>For gitlinks, also reconcile <code>.gitmodules</code> before moving.</p>
-<h2>Top-Level Triage</h2>
-<p>Use this when scanning the root directory. Status is intentionally conservative: <code>keep-current</code> means the current path remains the source of truth for now.</p>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Triage</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/03_overview_canonical_map.md</code></h3>
-<h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
-<h2>Canonical Rule</h2>
-<ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
-<li>If the same filename exists in both folders and content differs, keep both:
-<ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
-</ul>
-</li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
-</ul>
-<h2>Paired Overview Files</h2>
-<table>
-<thead>
-<tr>
-<th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
-<th>Equal</th>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>00_ag_overview.md</code></td>
-<td align="right">27224</td>
-<td align="right">15790</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ai_overview.md</code></td>
-<td align="right">25716</td>
-<td align="right">25716</td>
-<td>yes</td>
-<td>duplicate content; defer dedupe until link audit</td>
-</tr>
-<tr>
-<td><code>00_ay_overview.md</code></td>
-<td align="right">3815</td>
-<td align="right">798</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cc_overview.md</code></td>
-<td align="right">25990</td>
-<td align="right">27537</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_co_overview.md</code></td>
-<td align="right">41569</td>
-<td align="right">17061</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cp_overview.md</code></td>
-<td align="right">23525</td>
-<td align="right">6854</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cr_overview.md</code></td>
-<td align="right">3216</td>
-<td align="right">595</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ge_overview.md</code></td>
-<td align="right">47345</td>
-<td align="right">35414</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_gr_overview.md</code></td>
-<td align="right">3310</td>
-<td align="right">546</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ki_overview.md</code></td>
-<td align="right">3360</td>
-<td align="right">692</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_oc_overview.md</code></td>
-<td align="right">43650</td>
-<td align="right">33628</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-</tbody>
-</table>
-<h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
-<pre><code class="language-text">00_hermes_overview.md
-00_lc_overview.md
-00_newharness_vs_cli-jaw_synthesis.md
-00_omc_overview.md
-00_omo_overview.md
-00_omx_overview.md
-00_sp_overview.md
-</code></pre>
-<h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
-<pre><code class="language-text">00_grand_synthesis.md
-00_harness-index.md
-00_harness-index_hermes.md
-00_harness-index_omc.md
-00_harness-index_omo.md
-00_harness-index_omx.md
-00_harness_synthesis_addendum.md
-01_corpus_navigation_map.md
-02_corpus_move_candidates.md
-03_overview_canonical_map.md
-</code></pre>
-<hr>
-<h3><code>000/00_co_overview.md</code></h3>
-<h1>코덱스 에이전트 엔진 검토 개요</h1>
-<p>이 시리즈는 더 이상 "Codex로 MVP를 만들 수 있나"를 넓게 설명하는 문서가 아니다. 이번 버전의 목적은 훨씬 좁고 실전적이다. <code>openai/codex</code> 저장소에서 실제로 우리에게 필요한 부분, 즉 프롬프트 조립, 컨텍스트 주입, 툴 실행 루프, 스킬 로딩, 서브에이전트 협업면을 <strong>어디서 어떻게 뜯어낼 수 있는지</strong>를 코드 기준으로 분석하는 것이다.</p>
-<p>이번에 읽은 결론을 한 문장으로 줄이면 이렇다. Codex는 단순한 CLI가 아니라, <code>prompt assembly + tool router + skill injector + app-server control plane + subagent runtime</code>이 이미 분리된 거대한 엔진이다. 그래서 "그대로 쓴다"보다 "필요한 층만 뽑아 우리 엔진으로 재조립한다"가 훨씬 정확한 접근이다.</p>
-<p>핵심은 다섯 갈래다. 첫째, 기본 지시문과 개발자 지시문은 서로 다른 채널에서 합쳐진다. 둘째, <code>AGENTS.md</code>와 <code>SKILL.md</code>는 개발자 메시지가 아니라 <strong>contextual user fragment</strong>로 들어간다. 셋째, 툴 실행은 <code>ToolRouter -> ToolRegistry -> handler</code> 구조로 돌아가며, 동적 도구와 MCP 도구가 같은 이벤트 계층으로 수렴한다. 넷째, 스킬은 로딩과 주입이 분리되어 있고, 명시적 언급만 실제 본문 주입으로 이어진다. 다섯째, 서브에이전트는 별도 런타임이 아니라 현재 turn의 설정을 상속한 하위 thread다.</p>
-<p>이 문서 묶음은 이제 축별 폴더 구조로 정리되어 있다. 먼저 [[001_tui-design/00-개요]]에서 TUI와 로컬 클라이언트 런타임을 본다. 다음으로 [[002_prompt-context/00-개요]]에서 base instructions, developer instructions, <code>AGENTS.md</code>, skills, plugin hints가 어떤 순서로 섞이는지 본다. 이어서 [[003_tool-runtime/00-개요]]에서 모델이 호출한 tool item이 실제 handler까지 어떻게 흘러가는지 본다. 그 다음 [[004_skill-system/00-개요]]에서 skill root, trigger, explicit injection, implicit invocation의 차이를 정리한다. [[005_subagents-collab/00-개요]]에서는 <code>spawn_agent</code>, <code>send_input</code>, <code>wait_agent</code> 계열의 상속 구조와 delegate bridge를 보고, 마지막으로 [[006_app-server-client-surfaces/00-개요]]에서 app-server, protocol, SDK 표면을 묶어 본다.</p>
-<hr>
-<h2>코드베이스 규모</h2>
-<p>Codex Rust 워크스페이스(<code>codex-rs/</code>)는 <strong>83개 크레이트</strong>로 구성된 대규모 모노레포다. 주요 그룹은 다음과 같다.</p>
-<table>
-<thead>
-<tr>
-<th>그룹</th>
-<th>대표 크레이트</th>
-<th align="right">수량</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>핵심 런타임</td>
-<td><code>codex-core</code>, <code>codex-protocol</code>, <code>codex-config</code>, <code>codex-connectors</code></td>
-<td align="right">4</td>
-</tr>
-<tr>
-<td>툴 &#x26; 실행</td>
-<td><code>codex-exec</code>, <code>codex-exec-server</code>, <code>codex-shell-command</code>, <code>codex-apply-patch</code></td>
-<td align="right">4</td>
-</tr>
-<tr>
-<td>스킬 &#x26; 플러그인</td>
-<td><code>codex-skills</code>, <code>codex-plugins</code> (core 내장)</td>
-<td align="right">2</td>
-</tr>
-<tr>
-<td>서버·프로토콜·클라이언트</td>
-<td><code>codex-app-server</code>, <code>codex-app-server-protocol</code>, <code>codex-app-server-client</code></td>
-<td align="right">3</td>
-</tr>
-<tr>
-<td>MCP</td>
-<td><code>codex-mcp-server</code>, <code>codex-rmcp-client</code></td>
-<td align="right">2</td>
-</tr>
-<tr>
-<td>CLI &#x26; TUI</td>
-<td><code>codex-cli</code>, <code>codex-tui</code>, <code>codex-tui-app-server</code></td>
-<td align="right">3</td>
-</tr>
-<tr>
-<td>모델 백엔드</td>
-<td><code>codex-backend-client</code>, <code>codex-lmstudio</code>, <code>codex-ollama</code>, <code>codex-chatgpt</code></td>
-<td align="right">4</td>
-</tr>
-<tr>
-<td>보안·샌드박스</td>
-<td><code>codex-sandboxing</code>, <code>codex-linux-sandbox</code>, <code>codex-windows-sandbox</code>, <code>codex-execpolicy</code></td>
-<td align="right">4+</td>
-</tr>
-<tr>
-<td>유틸리티 (<code>utils/*</code>)</td>
-<td><code>codex-utils-path</code>, <code>codex-utils-image</code>, <code>codex-utils-pty</code> 등</td>
-<td align="right">19</td>
-</tr>
-<tr>
-<td>인프라·기타</td>
-<td><code>codex-otel</code>, <code>codex-rollout</code>, <code>codex-hooks</code>, <code>codex-features</code> 등</td>
-<td align="right">38+</td>
-</tr>
-</tbody>
-</table>
-<p><code>codex-core</code> 단일 크레이트의 <code>src/</code> 디렉토리에만 <strong>43개 pub 모듈</strong>이 선언되어 있다.</p>
-<hr>
-<h2>아키텍처 다이어그램</h2>
-<h3>전체 계층 구조</h3>
-<pre><code class="language-mermaid">graph TD
-    subgraph Surface["표면 계층"]
-        TUI["codex-tui"]
-        CLI["codex-cli"]
-        AppServer["codex-app-server"]
-    end
-
-    subgraph Core["codex-core (43 pub modules)"]
-        Session["Session (codex.rs)"]
-        CtxAssembly["context assembly&#x3C;br/>instructions · skills · plugins"]
-        ToolRouter["ToolRouter&#x3C;br/>router.rs"]
-        ToolRegistry["ToolRegistry&#x3C;br/>registry.rs · 37 handler .rs"]
-        SkillsMgr["SkillsManager&#x3C;br/>skills/manager.rs"]
-        PluginsMgr["PluginsManager&#x3C;br/>plugins/manager.rs"]
-        ModelsMgr["ModelsManager&#x3C;br/>models_manager/"]
-        McpMgr["McpManager&#x3C;br/>mcp/mod.rs · auth.rs"]
-        AgentCtrl["AgentControl&#x3C;br/>agent/control.rs"]
-        UnifiedExec["UnifiedExecRuntime&#x3C;br/>unified_exec/"]
-    end
-
-    subgraph Protocol["프로토콜 계층"]
-        Proto["codex-protocol"]
-        AppProto["codex-app-server-protocol"]
-        AppClient["codex-app-server-client"]
-    end
-
-    subgraph Exec["실행 계층"]
-        ExecServer["codex-exec-server"]
-        Sandbox["codex-sandboxing"]
-        ShellCmd["codex-shell-command"]
-    end
-
-    TUI --> Session
-    CLI --> Session
-    AppServer --> AppProto
-    AppServer --> Session
-
-    Session --> CtxAssembly
-    Session --> ToolRouter
-    Session --> AgentCtrl
-    CtxAssembly --> SkillsMgr
-    CtxAssembly --> PluginsMgr
-    CtxAssembly --> ModelsMgr
-    ToolRouter --> ToolRegistry
-    ToolRegistry --> McpMgr
-    ToolRegistry --> UnifiedExec
-    ToolRegistry --> AgentCtrl
-    AgentCtrl -->|"spawn · send · wait · close"| Session
-
-    UnifiedExec --> ExecServer
-    ExecServer --> Sandbox
-    ExecServer --> ShellCmd
-
-    AppClient --> AppProto
-</code></pre>
-<h3>턴 처리 시퀀스</h3>
-<pre><code class="language-mermaid">sequenceDiagram
-    participant User as 사용자 입력
-    participant Session as Session (codex.rs)
-    participant Skills as SkillsManager
-    participant Plugins as PluginsManager
-    participant Router as ToolRouter
-    participant Registry as ToolRegistry
-    participant Handler as handler (37종)
-    participant Agent as AgentControl
-    participant Exec as UnifiedExecRuntime
-
-    User->>Session: turn input
-    Session->>Skills: load_skills_from_roots → injection
-    Session->>Plugins: startup_sync → injection
-    Session->>Router: model tool call dispatch
-    Router->>Registry: resolve handler by name
-    alt shell · apply_patch · unified_exec
-        Registry->>Exec: ShellRuntime / ApplyPatchRuntime / UnifiedExecRuntime
-        Exec-->>Registry: ToolOutput
-    else mcp tool
-        Registry->>Handler: mcp.rs → McpManager
-        Handler-->>Registry: ToolOutput
-    else subagent tool
-        Registry->>Agent: spawn_agent / send_input / wait_agent
-        Agent-->>Session: 하위 thread 상태와 이벤트 반환
-        Agent-->>Registry: ToolOutput
-    end
-    Registry-->>Router: AnyToolResult
-    Router-->>Session: tool output 반환
-</code></pre>
-<hr>
-<h2>기술 참조</h2>
-<h3>핵심 구조체와 소스 위치</h3>
-<p>아래 표는 Codex 엔진의 중추를 이루는 구조체와 해당 소스 파일을 정리한 것이다.</p>
-<table>
-<thead>
-<tr>
-<th>구조체</th>
-<th>파일</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>Session</code></td>
-<td><code>core/src/codex.rs</code></td>
-<td>메인 오케스트레이터. 턴 입력부터 출력까지 전체 흐름을 제어한다</td>
-</tr>
-<tr>
-<td><code>ToolRouter</code></td>
-<td><code>core/src/tools/router.rs</code></td>
-<td>모델이 요청한 tool call을 적절한 handler로 라우팅한다</td>
-</tr>
-<tr>
-<td><code>ToolRegistry</code></td>
-<td><code>core/src/tools/registry.rs</code></td>
-<td>모든 도구의 spec과 handler를 중앙 등록·관리한다</td>
-</tr>
-<tr>
-<td><code>SkillsManager</code></td>
-<td><code>core/src/skills/manager.rs</code></td>
-<td>스킬 탐색·로딩·캐싱·주입을 관리한다</td>
-</tr>
-<tr>
-<td><code>PluginsManager</code></td>
-<td><code>core/src/plugins/manager.rs</code></td>
-<td>플러그인 마켓플레이스·설치·동기화를 관리한다</td>
-</tr>
-<tr>
-<td><code>ModelsManager</code></td>
-<td><code>core/src/models_manager/manager.rs</code></td>
-<td>모델 프리셋·설정·협업 모드를 관리한다</td>
-</tr>
-<tr>
-<td><code>McpManager</code></td>
-<td><code>core/src/mcp/mod.rs</code></td>
-<td>MCP 서버 연결·인증·도구 등록을 관리한다</td>
-</tr>
-<tr>
-<td><code>AgentControl</code></td>
-<td><code>core/src/agent/control.rs</code></td>
-<td>서브에이전트 spawn·send·wait·close 생명주</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/00_harness-index.md</code> (발췌)</h3>
-<h1>Harness Source Index</h1>
-<p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
-<h2>Routing</h2>
-<table>
-<thead>
-<tr>
-<th>Prefix</th>
-<th>Index stub</th>
-<th>Canonical overview</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
-<td>standalone source-based agent runtime</td>
-</tr>
-<tr>
-<td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
-<td>Claude Code host-dependent orchestration harness</td>
-</tr>
-<tr>
-<td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
-<td>Codex host-dependent control plane</td>
-</tr>
-<tr>
-<td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
-<td>OpenCode host-dependent harness plus Codex Light adapter</td>
-</tr>
-<tr>
-<td><code>lc</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
-<td>LazyCodex / Codex Light distribution wrapper for OmO</td>
-</tr>
-<tr>
-<td><code>sp</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
-<td>Superpowers multi-harness skills/bootstrap methodology layer</td>
-</tr>
-</tbody>
-</table>
-<h2>Related</h2>
-<ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
-</ul>
-<h2>코퍼스 — 000_overview/00_co_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_co_tui.md</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_co_prompt.md</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_co_tool.md</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_co_skill.md</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_co_subagent.md</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_co_surface.md</code></td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_co_sandbox.md</code></td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_co_config.md</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_co_mcp.md</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_co_memory.md</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_co_plugin.md</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_co_guardian.md</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_co_web-search.md</code></td>
-</tr>
-</tbody>
-</table>
-4:["$","$L28","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"000 인덱스 + 축 맵","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$29"}}]}]
-2a:T75dc,<h2>기초 설명</h2>
+3:I[73570,["/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js"],"PageClient"]
+28:I[8038,["/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js"],"SectionBlock"]
+44:I[72949,["/cli101-portal/sites/codex-cli/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/codex-cli/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
+0:{"buildId":"4hDHBOZt0hOvoXHeIYDPn","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"CO101","tagline":"CO101 developer-grade corpus guide","taglineEn":"CO101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_co_overview.md","branding":{"slug":"co101","name":"CO101","tagline_ko":"Codex 입문 + 코퍼스 심화","tagline_en":"Codex intro + corpus depth","accentLabel_ko":"000_overview/00_co_overview.md","accentLabel_en":"000_overview/00_co_overview.md","heroTitle_ko":"로컬 Rust 코딩 에이전트","heroTitle_en":"Local Rust coding agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ npm i -g @openai/codex","$$ codex"],"prompt_ko":"> apply_patch로 테스트 추가해줘","prompt_en":"> add tests with apply_patch","ctaHash":"00-before-you-start","officialUrl":"https://github.com/openai/codex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"CO101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-codex","order":2,"tier":"core","slug":"02-what-is-codex","title_ko":"Codex가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_co_overview.md","file_ko":"ko/02-what-is-codex.md","file_en":"en/02-what-is-codex.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + 로그인/인증 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 프롬프트 조립","title_en":"Overview §2","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 라우팅과 실행","title_en":"Overview §3","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 샌드박스 실행","title_en":"Overview §4","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 에이전트 루프","title_en":"Overview §5","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 서브에이전트 시스템","title_en":"Overview §6","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. MCP 통합","title_en":"Overview §7","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 피처 플래그와 설정","title_en":"Overview §8","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 에러 처리","title_en":"Overview §9","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 텔레메트리","title_en":"Overview §10","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 전체 아키텍처 다이어그램","title_en":"Overview §11","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_co_tui.md","description_en":"001_tui-design/01_co_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_co_prompt.md","description_en":"002_prompt-context/02_co_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_co_tool.md","description_en":"003_tool-runtime/03_co_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_co_skill.md","description_en":"004_skill-system/04_co_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_co_subagent.md","description_en":"005_subagents-collab/05_co_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_co_surface.md","description_en":"006_app-server-client-surfaces/06_co_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_co_sandbox.md","description_en":"007_sandbox-exec-policy/07_co_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_co_config.md","description_en":"008_config-system/08_co_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_co_mcp.md","description_en":"009_mcp-orchestration/09_co_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_co_memory.md","description_en":"010_memory-pipeline/10_co_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_co_plugin.md","description_en":"011_plugin-system/11_co_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_co_guardian.md","description_en":"012_guardian-approval/12_co_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_co_etc.md","description_en":"013_etc/13_co_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_co_web-search.md","description_en":"014_web-search/14_co_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],["$L26"],"$L27"]}],"loading":null,"isPartial":false}
+4:["$","$L28","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>코딩은 조금 할 줄 알지만 \"AI한테 코드를 맡긴다\"는 게 어떤 건지 아직 감이 안 오시는 분, Codex라는 이름은 들어봤는데 어디서부터 시작해야 할지 막막하셨던 분이라면 잘 오셨어요. 어려운 용어는 최대한 풀어서 설명할 테니까 편하게 따라오시면 돼요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>Codex가 대체 뭘 해주는 도구인지</li>\n<li>5분 만에 첫 코드를 AI한테 고쳐보는 방법</li>\n<li>매일 작업할 때 자연스럽게 쓰는 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>딱 두 가지만 준비되어 있으면 돼요.</p>\n<ol>\n<li>터미널(명령어 입력하는 검은 창)을 열 수 있다 — <code>ls</code> 정도 쳐보신 적 있으면 충분해요.</li>\n<li>작업할 코드 폴더가 git으로 관리되고 있다 — 아직이라면 그 폴더에서 <code>git init</code> 한 번만 해주시면 돼요.</li>\n</ol>\n<p>준비되셨으면 다음 장에서 Codex가 뭔지부터 천천히 볼게요.</p>\n"}}]}]
+29:T75dc,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1434,285 +837,13 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
 <li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
 </ul>
-5:["$","$L28","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2a"}}]}]
-2b:T3098,<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>120_codex-cli/README.md</code></h3>
-<h2>Quickstart</h2>
-<h3>Installing and running Codex CLI</h3>
-<p>Install globally with your preferred package manager:</p>
-<pre><code class="language-shell">
-
-## 코퍼스 — 000/ (인덱스·요약)
-
-# 코덱스 에이전트 엔진 검토 개요
-
-이 시리즈는 더 이상 "Codex로 MVP를 만들 수 있나"를 넓게 설명하는 문서가 아니다. 이번 버전의 목적은 훨씬 좁고 실전적이다. `openai/codex` 저장소에서 실제로 우리에게 필요한 부분, 즉 프롬프트 조립, 컨텍스트 주입, 툴 실행 루프, 스킬 로딩, 서브에이전트 협업면을 **어디서 어떻게 뜯어낼 수 있는지**를 코드 기준으로 분석하는 것이다.
-
-이번에 읽은 결론을 한 문장으로 줄이면 이렇다. Codex는 단순한 CLI가 아니라, `prompt assembly + tool router + skill injector + app-server control plane + subagent runtime`이 이미 분리된 거대한 엔진이다. 그래서 "그대로 쓴다"보다 "필요한 층만 뽑아 우리 엔진으로 재조립한다"가 훨씬 정확한 접근이다.
-
-핵심은 다섯 갈래다. 첫째, 기본 지시문과 개발자 지시문은 서로 다른 채널에서 합쳐진다. 둘째, `AGENTS.md`와 `SKILL.md`는 개발자 메시지가 아니라 **contextual user fragment**로 들어간다. 셋째, 툴 실행은 `ToolRouter -> ToolRegistry -> handler` 구조로 돌아가며, 동적 도구와 MCP 도구가 같은 이벤트 계층으로 수렴한다. 넷째, 스킬은 로딩과 주입이 분리되어 있고, 명시적 언급만 실제 본문 주입으로 이어진다. 다섯째, 서브에이전트는 별도 런타임이 아니라 현재 turn의 설정을 상속한 하위 thread다.
-
-이 문서 묶음은 이제 축별 폴더 구조로 정리되어 있다. 먼저 [[001_tui-design/00-개요]]에서 TUI와 로컬 클라이언트 런타임을 본다. 다음으로 [[002_prompt-context/00-개요]]에서 base instructions, developer instructions, `AGENTS.md`, skills, plugin hints가 어떤 순서로 섞이는지 본다. 이어서 [[003_tool-runtime/00-개요]]에서 모델이 호출한 tool item이 실제 handler까지 어떻게 흘러가는지 본다. 그 다음 [[004_skill-system/00-개요]]에서 skill root, trigger, explicit injection, implicit invocation의 차이를 정리한다. [[005_subagents-collab/00-개요]]에서는 `spawn_agent`, `send_input`, `wait_agent` 계열의 상속 구조와 delegate bridge를 보고, 마지막으로 [[006_app-server-client-surfaces/00-개요]]에서 app-server, protocol, SDK 표면을 묶어 본다.
-
----
-
-## 코드베이스 규모
-
-Codex Rust 워크스페이스(`codex-rs/`)는 **83개 크레이트**로 구성된 대규모 모노레포다. 주요 그룹은 다음과 같다.
-
-| 그룹 | 대표 크레이트 | 수량 |
-| --- | --- | ---: |
-| 핵심 런타임 | `codex-core`, `codex-protocol`, `codex-config`, `codex-connectors` | 4 |
-| 툴 &#x26; 실행 | `codex-exec`, `codex-exec-server`, `codex-shell-command`, `codex-apply-patch` | 4 |
-| 스킬 &#x26; 플러그인 | `codex-skills`, `codex-plugins` (core 내장) | 2 |
-| 서버·프로토콜·클라이언트 | `codex-app-server`, `codex-app-server-protocol`, `codex-app-server-client` | 3 |
-| MCP | `codex-mcp-server`, `codex-rmcp-client` | 2 |
-| CLI &#x26; TUI | `codex-cli`, `codex-tui`, `codex-tui-app-server` | 3 |
-| 모델 백엔드 | `codex-backend-client`, `codex-lmstudio`, `codex-ollama`, `codex-chatgpt` | 4 |
-| 보안·샌드박스 | `codex-sandboxing`, `codex-linux-sandbox`, `codex-windows-sandbox`, `codex-execpolicy` | 4+ |
-| 유틸리티 (`utils/*`) | `codex-utils-path`, `codex-utils-image`, `codex-utils-pty` 등 | 19 |
-| 인프라·기타 | `codex-otel`, `codex-rollout`, `codex-hooks`, `codex-features` 등 | 38+ |
-
-`codex-core` 단일 크레이트의 `src/` 디렉토리에만 **43개 pub 모듈**이 선언되어 있다.
-
----
-
-## 아키텍처 다이어그램
-
-### 전체 계층 구조
-
-```mermaid
-graph TD
-    subgraph Surface["표면 계층"]
-        TUI["codex-tui"]
-        CLI["codex-cli"]
-        AppServer["codex-app-server"]
-    end
-
-    subgraph Core["codex-core (43 pub modules)"]
-        Session["Session (codex.rs)"]
-        CtxAssembly["context assembly&#x3C;br/>instructions · skills · plugins"]
-        ToolRouter["ToolRouter&#x3C;br/>router.rs"]
-        ToolRegistry["ToolRegistry&#x3C;br/>registry.rs · 37 handler .rs"]
-        SkillsMgr["SkillsManager&#x3C;br/>skills/manager.rs"]
-        PluginsMgr["PluginsManager&#x3C;br/>plugins/manager.rs"]
-        ModelsMgr["ModelsManager&#x3C;br/>models_manager/"]
-        McpMgr["McpManager&#x3C;br/>mcp/mod.rs · auth.rs"]
-        AgentCtrl["AgentControl&#x3C;br/>agent/control.rs"]
-        UnifiedExec["UnifiedExecRuntime&#x3C;br/>unified_exec/"]
-    end
-
-    subgraph Protocol["프로토콜 계층"]
-        Proto["codex-protocol"]
-        AppProto["codex-app-server-protocol"]
-        AppClient["codex-app-server-client"]
-    end
-
-    subgraph Exec["실행 계층"]
-        ExecServer["codex-exec-server"]
-        Sandbox["codex-sandboxing"]
-        ShellCmd["codex-shell-command"]
-    end
-
-    TUI --> Session
-    CLI --> Session
-    AppServer --> AppProto
-    AppServer --> Session
-
-    Session --> CtxAssembly
-    Session --> ToolRouter
-    Session --> AgentCtrl
-    CtxAssembly --> SkillsMgr
-    CtxAssembly --> PluginsMgr
-    CtxAssembly --> ModelsMgr
-    ToolRouter --> ToolRegistry
-    ToolRegistry --> McpMgr
-    ToolRegistry --> UnifiedExec
-    ToolRegistry --> AgentCtrl
-    AgentCtrl -->|"spawn · send · wait · close"| Session
-
-    UnifiedExec --> ExecServer
-    ExecServer --> Sandbox
-    ExecServer --> ShellCmd
-
-    AppClient --> AppProto
-</code></pre>
-<h3>턴 처리 시퀀스</h3>
-<pre><code class="language-mermaid">sequenceDiagram
-    participant User as 사용자 입력
-    participant Session as Session (codex.rs)
-    participant Skills as SkillsManager
-    participant Plugins as PluginsManager
-    participant Router as ToolRouter
-    participant Registry as ToolRegistry
-    participant Handler as handler (37종)
-    participant Agent as AgentControl
-    participant Exec as UnifiedExecRuntime
-
-    User->>Session: turn input
-    Session->>Skills: load_skills_from_roots → injection
-    Session->>Plugins: startup_sync → injection
-    Session->>Router: model tool call dispatch
-    Router->>Registry: resolve handler by name
-    alt shell · apply_patch · unified_exec
-        Registry->>Exec: ShellRuntime / ApplyPatchRuntime / UnifiedExecRuntime
-        Exec-->>Registry: ToolOutput
-    else mcp tool
-        Registry->>Handler: mcp.rs → McpManager
-        Handler-->>Registry: ToolOutput
-    else subagent tool
-        Registry->>Agent: spawn_agent / send_input / wait_agent
-        Agent-->>Session: 하위 thread 상태와 이벤트 반환
-        Agent-->>Registry: ToolOutput
-    end
-    Registry-->>Router: AnyToolResult
-    Router-->>Session: tool output 반환
-</code></pre>
-<hr>
-<h2>기술 참조</h2>
-<h3>핵심 구조체와 소스 위치</h3>
-<p>아래 표는 Codex 엔진의 중추를 이루는 구조체와 해당 소스 파일을 정리한 것이다.</p>
-<table>
-<thead>
-<tr>
-<th>구조체</th>
-<th>파일</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>Session</code></td>
-<td><code>core/src/codex.rs</code></td>
-<td>메인 오케스트레이터. 턴 입력부터 출력까지 전체 흐름을 제어한다</td>
-</tr>
-<tr>
-<td><code>ToolRouter</code></td>
-<td><code>core/src/tools/router.rs</code></td>
-<td>모델이 요청한 tool call을 적절한 handler로 라우팅한다</td>
-</tr>
-<tr>
-<td><code>ToolRegistry</code></td>
-<td><code>core/src/tools/registry.rs</code></td>
-<td>모든 도구의 spec과 handler를 중앙 등록·관리한다</td>
-</tr>
-<tr>
-<td><code>SkillsManager</code></td>
-<td><code>core/src/skills/manager.rs</code></td>
-<td>스킬 탐색·로딩·캐싱·주입을 관리한다</td>
-</tr>
-<tr>
-<td><code>PluginsManager</code></td>
-<td><code>core/src/plugins/manager.rs</code></td>
-<td>플러그인 마켓플레이스·설치·동기화를 관리한다</td>
-</tr>
-<tr>
-<td><code>ModelsManager</code></td>
-<td><code>core/src/models_manager/manager.rs</code></td>
-<td>모델 프리셋·설정·협업 모드를 관리한다</td>
-</tr>
-<tr>
-<td><code>McpManager</code></td>
-<td><code>core/src/mcp/mod.rs</code></td>
-<td>MCP 서버 연결·인증·도구 등록을 관리한다</td>
-</tr>
-<tr>
-<td><code>AgentControl</code></td>
-<td><code>core/src/agent/control.rs</code></td>
-<td>서브에이전트 spawn·send·wait·close 생명주기를 관리한다</td>
-</tr>
-<tr>
-<td><code>UnifiedExecRuntime</code></td>
-<td><code>core/src/unified_exec/</code></td>
-<td>셸·패치·실행을 통합 프로세스 관리자로 실행한다</td>
-</tr>
-<tr>
-<td><code>AgentRegistry</code></td>
-<td><code>core/src/agent/registry.rs</code></td>
-<td>에이전트 메타데이터와 역할 설정을 등록한다</td>
-</tr>
-</tbody>
-</table>
-<h3>핵심 코드 스니펫</h3>
-<p><strong>ToolRouter — 도구 라우팅의 시작점</strong> (<code>core/src/tools/router.rs</code>):</p>
-<pre><code class="language-rust">pub struct ToolRouter {
-    registry: ToolRegistry,
-    specs: Vec&#x3C;ConfiguredToolSpec>,
-    model_visible_specs: Vec&#x3C;ToolSpec>,
-}
-
-impl ToolRouter {
-    pub fn from_config(config: &#x26;ToolsConfig, params: ToolRouterParams&#x3C;'_>) -> Self {
-        let builder = build_specs_with_discoverable_tools(
-            config, mcp_tools, app_tools, discoverable_tools, dynamic_tools,
-        );
-        let (specs, registry) = builder.build();
-        // ...
-    }
-}
-</code></pre>
-<p><strong>ToolHandler trait — 모든 도구 handler의 공통 인터페이스</strong> (<code>core/src/tools/registry.rs</code>):</p>
-<pre><code class="language-rust">#[async_trait]
-pub trait ToolHandler: Send + Sync {
-    type Output: ToolOutput + 'static;
-    fn kind(&#x26;self) -> ToolKind;             // Function | Mcp
-    async fn is_mutating(&#x26;self, _invocation: &#x26;ToolInvocation) -> bool;
-    async fn call(&#x26;self, invocation: ToolInvocation) -> Result&#x3C;Self::Output>;
-}
-</code></pre>
-<p><strong>SkillsManager — 스킬 로딩과 캐싱</strong> (<code>core/src/skills/manager.rs</code>):</p>
-<pre><code class="language-rust">pub struct SkillsManager {
-    codex_home: PathBuf,
-    plugins_manager: Arc&#x3C;PluginsManager>,
-    restriction_product: Option&#x3C;Product>,
-    cache_by_cwd: RwLock&#x3C;HashMap&#x3C;PathBuf, SkillLoadOutcome>>,
-    cache_by_config: RwLock&#x3C;HashMap&#x3C;ConfigSkillsCacheKey, SkillLoadOutcome>>,
-}
-</code></pre>
-<p><strong>McpManager — MCP 인증과 스킬 의존성</strong> (<code>core/src/mcp/mod.rs</code>):</p>
-<pre><code class="language-rust">// mcp/mod.rs — McpManager가 MCP 서버 연결과 인증을 관리한다
-pub mod auth;                // auth.rs: compute_auth_statuses
-mod skill_dependencies;      // skill_dependencies.rs: maybe_prompt_and_install_mcp_dependencies
-pub(crate) use skill_dependencies::maybe_prompt_and_install_mcp_dependencies;
-</code></pre>
-<p><strong>AgentControl — 서브에이전트 생명주기</strong> (<code>core/src/agent/control.rs</code>):</p>
-<pre><code class="language-rust">// multi_agents/ 하위의 실제 handler 구성:
-// ├── spawn.rs        — spawn_agent
-// ├── send_input.rs   — send_input
-/
-
-## 코퍼스 — 000_overview/00_co_overview.md (심화)
-
-## Corpus axis index
-
-| Axis | Doc |
-| --- | --- |
-| 001 TUI | `001_tui-design/01_co_tui.md` |
-| 002 Prompt | `002_prompt-context/02_co_prompt.md` |
-| 003 Tool | `003_tool-runtime/03_co_tool.md` |
-| 004 Skill | `004_skill-system/04_co_skill.md` |
-| 005 Subagent | `005_subagents-collab/05_co_subagent.md` |
-| 006 Surface | `006_app-server-client-surfaces/06_co_surface.md` |
-| 007 Sandbox | `007_sandbox-exec-policy/07_co_sandbox.md` |
-| 008 Config | `008_config-system/08_co_config.md` |
-| 009 MCP | `009_mcp-orchestration/09_co_mcp.md` |
-| 010 Memory | `010_memory-pipeline/10_co_memory.md` |
-| 011 Plugin | `011_plugin-system/11_co_plugin.md` |
-| 012 Guardian | `012_guardian-approval/12_co_guardian.md` |
-| 014 Web | `014_web-search/14_co_web-search.md` |
-</code></pre>
-6:["$","$L28","02-what-is-codex",{"id":"02-what-is-codex","order":2,"tier":"core","title":"하네스 한눈에","description":"000_overview/00_co_overview.md","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2b"}}]}]
-7:["$","$L28","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치 & 인증","description":"설치 & 인증","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설치 &#x26; 인증</li>\n<li>Quickstart</li>\n<li>Installing and running Codex CLI</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>120_codex-cli/README.md</code></h3>\n<h2>Quickstart</h2>\n<h3>Installing and running Codex CLI</h3>\n<p>Install globally with your preferred package manager:</p>\n<pre><code class=\"language-shell\">\n\n## 본문\n\n## 설치 &#x26; 인증\n\n**설치 &#x26; 인증** — 공식 README/문서 발췌 + 코퍼스 교차 참조.\n\n> `120_codex-cli/README.md`\n\n## Quickstart\n\n### Installing and running Codex CLI\n\nInstall globally with your preferred package manager:\n\n```shell\n</code></pre>\n"}}]}]
-8:["$","$L28","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 세션","description":"첫 세션","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>첫 세션</li>\n<li>Installing and running Codex CLI</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>120_codex-cli/README.md</code></h3>\n<h2>Quickstart</h2>\n<h3>Installing and running Codex CLI</h3>\n<p>Install globally with your preferred package manager:</p>\n<pre><code class=\"language-shell\">\n\n## 본문\n\n## 첫 세션\n\n레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.\n\n> `120_codex-cli/README.md`\n\n### Installing and running Codex CLI\n\nInstall globally with your preferred package manager:\n\n```shell\n</code></pre>\n"}}]}]
-9:["$","$L28","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"에이전트 루프","description":"에이전트 루프","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>에이전트 루프</li>\n<li>Codex 에이전트 루프 (요약)</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>120_codex-cli/README.md</code></h3>\n<h2>Quickstart</h2>\n<h3>Installing and running Codex CLI</h3>\n<p>Install globally with your preferred package manager:</p>\n<pre><code class=\"language-shell\">\n\n## 본문\n\n## 에이전트 루프\n\n이 하네스의 일상적인 편집·도구·커밋 루프.\n\n> `120_codex-cli/docs/install.md`\n\n# Avoid `--all-features` for routine local runs because it increases build\n\n## Codex 에이전트 루프 (요약)\n\n`codex` 실행 → 샌드박스 내 도구 호출 → 승인/자동 적용 → git/worktree 반영.\n\n> 코퍼스 `00_co_overview.md` §5 + `003_tool-runtime/03_co_tool.md`\n</code></pre>\n"}}]}]
-a:["$","$L28","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정 & 모델","description":"설정 & 모델","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>CLI / env / 프로젝트 설정 파일 계층.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설정 &#x26; 모델</li>\n<li>설정</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>120_codex-cli/README.md</code></h3>\n<h2>Quickstart</h2>\n<h3>Installing and running Codex CLI</h3>\n<p>Install globally with your preferred package manager:</p>\n<pre><code class=\"language-shell\">\n\n## 본문\n\n## 설정 &#x26; 모델\n\nCLI / env / 프로젝트 설정 파일 계층.\n\n## 설정\n\n- `~/.codex/config.toml` + 프로젝트 `.codex/`  \n- ChatGPT 로그인 또는 API 키 (`docs/install.md`)\n\n> 코퍼스 `008_config-system/08_co_config.md`\n</code></pre>\n"}}]}]
-2c:T264d,<h2>기초 설명</h2>
+5:["$","$L28","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$29"}}]}]
+6:["$","$L28","02-what-is-codex",{"id":"02-what-is-codex","order":2,"tier":"core","title":"Codex가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>Codex는 터미널에서 OpenAI의 인공지능과 함께 코드를 고쳐나가는 도구예요. 여러분이 \"로그인 버튼을 파란색으로 변경해줘\"라고 말하면, AI가 실제 파일을 알아서 수정하고 그 내용을 git에 자동으로 저장까지 해줘요.</p>\n<h2>비유로 이해하기</h2>\n<p>옆자리에 앉은 꼼꼼한 동료에게 \"여기 로그인 버튼 색 좀 바꿔줄래요?\"라고 부탁하는 모습을 생각해보세요. 그 동료가 직접 코드를 열어 고치고, 작업 내용을 깔끔하게 기록(commit)까지 해두는 것이죠. Codex가 바로 그 동료 역할을 맡아줘요. 채팅창에 대화하듯 편하게 말만 하면 코드가 바뀌어 있어요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>\"이 함수에 에러 처리 추가해줘\" 같은 요청으로 여러 파일을 한 번에 수정해요</li>\n<li>변경 내용을 git에 자동으로 저장해 주니까, 마음에 안 들면 쉽게 원래대로 되돌려요</li>\n<li>새로운 기능 개발부터 까다로운 버그 수정, 테스트 코드 작성까지 대화로 진행해요</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>직접 파일을 하나하나 열고, 찾아서 고치고, 저장한 다음 git에 기록하는 번거로운 과정을 말 한마디로 줄일 수 있어요. 덕분에 개발 속도가 몰라보게 빨라져요. 게다가 매번 알아서 git에 기록을 남겨주므로 실수해도 언제든 돌아갈 수 있어 든든해요.</p>\n<blockquote>\n<p>더 깊은 내부 구조(어떻게 코드를 편집하는지, 내부 프롬프트는 어떻게 작동하는지)가 궁금하시면 상단 메뉴의 <strong>개발자 문서</strong>에서 자세히 다뤄요. 지금은 \"이런 편리한 도구구나\" 정도만 알고 넘어가셔도 충분해요.</p>\n</blockquote>\n"}}]}]
+7:["$","$L28","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치하고 준비하기","description":"설치 + 로그인/인증 + 막힐 때 팁","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>먼저 설치부터 해볼게요</h2>\n<p>터미널에 아래 명령어 중 편한 방식을 골라 입력해 주세요.</p>\n<pre><code class=\"language-bash\"># npm을 쓰시는 경우\nnpm install -g @openai/codex\n\n# macOS에서 Homebrew를 쓰시는 경우\nbrew install --cask codex\n</code></pre>\n<p>설치가 끝나면 터미널에서 <code>codex</code>라고 쳤을 때 시작 화면이 보일 거예요.</p>\n<h2>ChatGPT 계정으로 로그인하기</h2>\n<p>Codex는 똑똑한 인공지능 모델을 사용하므로, 본인의 계정 인증이 필요해요.</p>\n<p>가장 추천해 드리는 방법은 평소 쓰시는 ChatGPT 계정으로 로그인하는 것이에요. 플러스(Plus), 프로(Pro), 비즈니스(Business) 등 기존 요금제 설정을 그대로 활용해서 쓸 수 있어요.</p>\n<pre><code class=\"language-bash\"># 터미널에 입력하고 'Sign in with ChatGPT'를 선택하세요\ncodex\n</code></pre>\n<p>그러면 웹 브라우저가 열리면서 간편하게 로그인을 진행할 수 있어요. 만약 API 키를 직접 써서 인증하고 싶다면 몇 가지 추가 설정이 필요한데, 이에 관한 상세한 가이드는 공식 사이트나 개발자 문서에서 확인할 수 있어요.</p>\n<h2>막힐 때 팁</h2>\n<ul>\n<li><code>codex</code> 명령어를 찾을 수 없다고 나오면 터미널 창을 완전히 닫았다가 새로 열어보세요. 새로 설치한 경로가 터미널에 반영돼요.</li>\n<li>로그인 과정에서 브라우저 창이 안 뜬다면 터미널에 출력된 주소를 직접 복사해서 인터넷 창에 붙여넣어 보세요.</li>\n</ul>\n<p>준비가 끝났으면, 이제 진짜로 첫 코드를 고쳐볼 차례예요.</p>\n"}}]}]
+8:["$","$L28","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 사용 5분","description":"따라 하면 되는 첫 실습","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>5분이면 충분해요</h2>\n<p>거창한 준비 없이, 작은 변경 하나를 AI한테 맡겨볼게요. 처음 한 번만 해보면 \"아, 이런 느낌이구나\" 하고 바로 감이 와요.</p>\n<h2>따라 해보기</h2>\n<ol>\n<li>작업할 코드 폴더로 이동해요.</li>\n</ol>\n<pre><code class=\"language-bash\">cd 내-프로젝트-폴더\n</code></pre>\n<ol start=\"2\">\n<li>그 폴더에서 Codex를 실행해요.</li>\n</ol>\n<pre><code class=\"language-bash\">codex\n</code></pre>\n<ol start=\"3\">\n<li>채팅창이 뜨면, 고치고 싶은 내용을 평소 말하듯 적어요.</li>\n</ol>\n<pre><code class=\"language-text\">> README에 설치 방법 섹션을 추가해줘\n</code></pre>\n<ol start=\"4\">\n<li>잠시 기다리면 Codex가 파일을 직접 고치고, 바뀐 내용을 보여줘요. 그리고 그 변경을 git에 자동으로 저장(commit)해줘요.</li>\n</ol>\n<h2>결과 확인하기</h2>\n<p><code>git log</code>를 쳐보면 방금 작업이 기록으로 남아 있는 게 보일 거예요. 마음에 안 들면 되돌리면 되니까 부담 없이 이것저것 시켜보세요.</p>\n<h2>자주 쓰는 한 가지</h2>\n<p>특정 파일만 콕 집어 고치고 싶을 땐, 실행할 때 파일 이름을 같이 적어주면 돼요.</p>\n<pre><code class=\"language-bash\">codex src/main.py\n</code></pre>\n<p>이렇게 하면 Codex가 그 파일을 먼저 살펴보고 작업을 시작해요. 첫 세션은 여기까지면 충분해요. 다음 장에서는 매일 어떻게 쓰는지 흐름을 볼게요.</p>\n"}}]}]
+9:["$","$L28","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"매일 이렇게 써요","description":"실제 일상 사용 흐름과 비결","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>매일 쓰는 흐름은 단순해요</h2>\n<p>익숙해지면 거의 이 네 단계의 반복이에요. 한 번 손에 익으면 생각보다 빠르게 돌아가요.</p>\n<ol>\n<li>고치고 싶은 파일이 있는 폴더에서 <code>codex</code>를 실행해요.</li>\n<li>하고 싶은 작업을 말로 부탁해요. (\"여기에 입력값 검사 추가해줘\")</li>\n<li>Codex가 고친 내용을 보고, 마음에 들면 그대로 두고 아니면 다시 부탁해요.</li>\n<li>잘됐으면 다음 작업으로 넘어가요. 변경 사항은 이미 git에 저장돼 있어요.</li>\n</ol>\n<h2>안전한 도구 실행과 승인</h2>\n<p>Codex는 파일 수정이나 명령 실행 전에 여러분에게 승인을 요청해요.</p>\n<ul>\n<li>화면에 어떤 변경이 일어날지 표시되면 찬찬히 확인해 보세요.</li>\n<li>안전하다고 판단되면 승인(Approve)을 선택해서 실제 파일에 반영해요.</li>\n<li>마음에 들지 않으면 언제든 취소하고 다른 방향으로 다시 말해볼 수 있어요.</li>\n</ul>\n<h2>작게 부탁하는 게 비결이에요</h2>\n<p>\"앱 전체를 다시 만들어줘\"처럼 큰 부탁보다는, \"이 함수에 로그 한 줄 추가해줘\"처럼 작게 쪼개서 부탁할수록 결과가 정확해요. 사람 동료한테 일을 맡길 때랑 똑같아요. 작은 단위로 부탁하고, 확인하고, 다음으로 넘어가는 리듬을 추천드려요.</p>\n<h2>되돌리기가 자유로워요</h2>\n<p>모든 작업이 git에 기록되니까, 마음에 안 들면 언제든지 이전 상태로 되돌릴 수 있어요. 그래서 \"일단 시켜보고 아니면 되돌리지\" 하는 마음으로 부담 없이 실험해 보셔도 좋아요.</p>\n"}}]}]
+a:["$","$L28","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정하고, 더 배우기","description":"내 입맛대로 설정 + 다음 단계 안내","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>내 입맛대로 설정하기</h2>\n<p>처음에는 로그인 후 기본 설정만으로도 충분히 쓸 수 있어요. 하지만 조금 더 익숙해지면 본인의 개발 스타일에 맞게 설정을 바꾸고 싶어질 거예요.</p>\n<p>설정 파일은 크게 두 곳에 저장할 수 있어요.</p>\n<ul>\n<li><strong>전체 설정</strong>: 컴퓨터 전체에 적용하고 싶다면 <code>~/.codex/config.toml</code> 파일을 만들어 설정해요.</li>\n<li><strong>프로젝트별 설정</strong>: 특정 프로젝트 폴더에만 적용하고 싶다면 해당 폴더 안에 <code>.codex/</code> 폴더를 만들고 그 안에 설정을 저장해요.</li>\n</ul>\n<p>이렇게 지정해두면 매번 번거롭게 설정을 입력할 필요가 없어서 무척 편리해요.</p>\n<h2>비용과 모델 선택하기</h2>\n<p>Codex는 필요에 따라 사용하는 인공지능 모델을 자유롭게 고를 수 있어요. 똑똑하지만 비용이 더 드는 모델과 빠르고 저렴한 모델 중에서 작업의 크기에 맞춰 적절히 선택하는 방식을 추천드려요.</p>\n<h2>다음 단계로</h2>\n<p>여기까지 따라오셨다면 터미널에서 Codex와 함께 일상적인 코딩을 시작할 준비가 모두 끝났어요. 더 높은 단계로 나아가고 싶다면 이렇게 해보세요.</p>\n<ul>\n<li>실제 개인 프로젝트에서 아주 작은 리팩토링이나 기능 개발부터 시작해보기</li>\n<li>질문을 구체적이고 명확하게 다듬어가며 AI와 더 부드럽게 협업하는 방법 연습하기</li>\n<li>공식 가이드에서 지원하는 다양한 옵션을 톺아보기</li>\n</ul>\n<p>그리고 \"Codex가 내부적으로 어떻게 파일을 감시하고 샌드박스를 관리하는지\"처럼 깊고 자세한 내용이 궁금해지면, 상단 메뉴의 <strong>개발자 문서</strong>로 넘어가 보세요. 훨씬 더 기술적인 동작 원리와 고성능 튜닝 방법을 배우실 수 있어요.</p>\n<p>여기까지 오시느라 정말 수고 많으셨어요. 이제 터미널을 열고 직접 코드를 고쳐보며 성취감을 느껴보세요! 😊</p>\n"}}]}]
+2a:T264d,<h2>기초 설명</h2>
 <p>Codex CLI는 Rust로 작성된 네이티브 바이너리다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1958,8 +1089,8 @@ SessionSource enum:
   CLI          → 로컬 CLI
 </code></pre>
 <hr>
-b:["$","$L28","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 시스템 기동","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2c"}}]}]
-2d:T1bec,<h2>기초 설명</h2>
+b:["$","$L28","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 시스템 기동","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2a"}}]}]
+2b:T1bec,<h2>기초 설명</h2>
 <p>Codex의 프롬프트는 명확하게 3층으로 분리된다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2094,8 +1225,8 @@ Phase 2: 스킬 주입 (조건부 실행)
   → marketplace.rs에서 원격 카탈로그 동기화
 </code></pre>
 <hr>
-c:["$","$L28","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 프롬프트 조립","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2d"}}]}]
-2e:T2d82,<h2>기초 설명</h2>
+c:["$","$L28","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 프롬프트 조립","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2b"}}]}]
+2c:T2d82,<h2>기초 설명</h2>
 <p>Note over Session,Config: ── 초기화 단계 ──
 Session->>Config: 도구 설정 로드
 Config->>Builder: build_specs_with_discoverable_tools()
@@ -2403,8 +1534,8 @@ UnifiedExecRuntime (unified_exec/):
   → 장시간 실행 프로세스 관리
 </code></pre>
 <hr>
-d:["$","$L28","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 도구 라우팅과 실행","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
-2f:T1bb1,<h2>기초 설명</h2>
+d:["$","$L28","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 도구 라우팅과 실행","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2c"}}]}]
+2d:T1bb1,<h2>기초 설명</h2>
 <p>Codex는 <strong>실제 OS 커널 레벨의 격리</strong>를 제공한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2564,8 +1695,8 @@ Ghost Commit의 장점:
 관련: codex-rs/utils/codex-utils-git/
 </code></pre>
 <hr>
-e:["$","$L28","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 샌드박스 실행","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2f"}}]}]
-30:T214c,<h2>기초 설명</h2>
+e:["$","$L28","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 샌드박스 실행","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2d"}}]}]
+2e:T214c,<h2>기초 설명</h2>
 <p>User->>Session: turn input (텍스트 + 파일)</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2807,8 +1938,8 @@ pub enum ThreadEvent {
 // tokio::sync::watch로 상태 변경 구독
 </code></pre>
 <hr>
-f:["$","$L28","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 에이전트 루프","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
-31:T1491,<h2>기초 설명</h2>
+f:["$","$L28","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 에이전트 루프","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
+2f:T1491,<h2>기초 설명</h2>
 <p>서브에이전트는 독립 프로세스가 아니라 <strong>현재 Session의 설정을 상속한 하위 thread</strong>다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2952,8 +2083,8 @@ AgentRole {
 //   awaiter.toml → 대기자 역할
 </code></pre>
 <hr>
-10:["$","$L28","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 서브에이전트 시스템","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
-32:Tc1a,<h2>기초 설명</h2>
+10:["$","$L28","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 서브에이전트 시스템","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2f"}}]}]
+30:Tc1a,<h2>기초 설명</h2>
 <p>초기화:
 1. 설정에서 MCP 서버 목록 로드
 → config.toml의 [mcp.servers] 섹션
@@ -3049,8 +2180,8 @@ AgentRole {
     → 필요한 MCP 서버 자동 설치/시작
 </code></pre>
 <hr>
-11:["$","$L28","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. MCP 통합","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
-33:Tf11,<h2>기초 설명</h2>
+11:["$","$L28","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. MCP 통합","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
+31:Tf11,<h2>기초 설명</h2>
 <p>// 50+ 피처 예시:
 //   SpawnCsv          → CSV 기반 에이전트 생성
 //   Collab            → 협업 모드
@@ -3156,8 +2287,8 @@ pub enum FeatureStage {
   legacy.rs → 이전 버전의 설정 키를 새 키로 매핑
 </code></pre>
 <hr>
-12:["$","$L28","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 피처 플래그와 설정","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
-34:Tf8e,<h2>기초 설명</h2>
+12:["$","$L28","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 피처 플래그와 설정","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
+32:Tf8e,<h2>기초 설명</h2>
 <p>// 실행 에러
 SandboxViolation { path: String, action: String },
 ToolExecutionFailed { tool: String, error: String },
@@ -3284,9 +2415,9 @@ pub enum CodexErr {
 구현: codex-rs/core/src/model_provider_info.rs
 </code></pre>
 <hr>
-13:["$","$L28","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 에러 처리","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+13:["$","$L28","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 에러 처리","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
 14:["$","$L28","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 텔레메트리","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>trace_safe 타겟:\n→ 외부로 전송해도 안전한 데이터만\n→ 모델명, 도구명, 지연시간 등</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>\n<ol start=\"10\">\n<li>텔레메트리</li>\n</ol>\n</li>\n<li>10.1 OTel 통합</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3>README / docs</h3>\n<pre><code class=\"language-text\">codex-rs/otel/ 크레이트:\n  \n  trace_safe 타겟:\n    → 외부로 전송해도 안전한 데이터만\n    → 모델명, 도구명, 지연시간 등\n  \n  log_only 타겟:\n    → 로컬 디버깅용\n    → 프롬프트 내용, API 응답 등 (민감 정보 포함 가능)\n  \n  Statsig OTLP HTTP:\n    → 메트릭 전송 엔드포인트\n    → codex.feature.state: 피처 플래그 상태\n    → W3C Trace Context 전파 지원\n</code></pre>\n<h2>코퍼스 — 000_overview/00_co_overview.md (심화)</h2>\n<h2>10. 텔레메트리</h2>\n<h3>10.1 OTel 통합</h3>\n<pre><code>codex-rs/otel/ 크레이트:\n  \n  trace_safe 타겟:\n    → 외부로 전송해도 안전한 데이터만\n    → 모델명, 도구명, 지연시간 등\n  \n  log_only 타겟:\n    → 로컬 디버깅용\n    → 프롬프트 내용, API 응답 등 (민감 정보 포함 가능)\n  \n  Statsig OTLP HTTP:\n    → 메트릭 전송 엔드포인트\n    → codex.feature.state: 피처 플래그 상태\n    → W3C Trace Context 전파 지원\n</code></pre>\n<hr>\n"}}]}]
-35:T1293,<h2>기초 설명</h2>
+33:T1293,<h2>기초 설명</h2>
 <p>subgraph Core["codex-core (43 pub modules)"]
 Session["Session(codex.rs)"]
 CtxAssembly["Context Assemblyinstructions · AGENTS.mdskills · plugins · MCP"]
@@ -3440,8 +2571,8 @@ end</p>
     AppClient --> AppProto
 </code></pre>
 <hr>
-15:["$","$L28","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 전체 아키텍처 다이어그램","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
-36:Tbc9d,<h2>기초 설명</h2>
+15:["$","$L28","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 전체 아키텍처 다이어그램","description":"000_overview/00_co_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
+34:Tbc9d,<h2>기초 설명</h2>
 <p>핵심 구조는 세 덩어리다. 메인 transcript viewport는 <code>ChatWidget</code>이 담당하고, 입력과 상태와 승인 UI는 <code>bottom_pane</code>이 맡으며, overlay 계층은 transcript pager, 승인 모달, 모델 선택, 플러그인 팝업, 파일 검색, <code>request_user_input</code> 폼 같은 보조 화면을 얹는다. <code>tui.rs</code>는 raw mode, alt screen, 이벤트 스트림, frame scheduling을 담당하는 터미널 런타임이고, <code>app.rs</code>는 사실상 전체 UI 상태 머신이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4431,8 +3562,8 @@ active_cell_revision: u64,
 <li>2026-03-26: TUI를 protocol-aware local client runtime으로 분석해 정리했다.</li>
 <li>2025-07-19: overlay/popup 컴포넌트 6종 상세 추가, 스트리밍 파이프라인(StreamState → AdaptiveChunkingPolicy → commit_tick) 코드 스니펫 포함 분석, tui_app_server 평행 구현 비교, EventBroker 구조 추가, mermaid 다이어그램 확장.</li>
 </ul>
-16:["$","$L28","20-axis-01-tui",{"id":"20-axis-01-tui","order":18,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_co_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:Tca86,<h2>기초 설명</h2>
+16:["$","$L28","20-axis-01-tui",{"id":"20-axis-01-tui","order":18,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_co_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+35:Tca86,<h2>기초 설명</h2>
 <p>Codex의 프롬프트 시스템을 보면서 가장 먼저 버려야 할 오해는 모든 지시문이 한 군데에서 한 번에 붙는다는 생각이다. 실제 코드는 적어도 네 개의 별도 채널을 쓴다. 기본 base instructions, 동적으로 조립되는 developer instructions, <code>AGENTS.md</code>와 스킬 같은 contextual user fragment, 그리고 plugin이나 collaboration mode가 추가하는 부가 힌트가 서로 다른 형식으로 들어간다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5647,8 +4778,8 @@ pub(crate) fn model_context_window(&#x26;self) -> Option&#x3C;i64> {
 <li>2026-03-26: 요약본과 상세본을 통합했다.</li>
 <li>2026-03-27: 대폭 보강 — <code>build_initial_context()</code> 11단계 조립 순서를 코드 기반으로 재정리, AGENTS.md 계층적 탐색·래핑 메커니즘 상세화, SKILL.md 2단계 주입(목록→본문) 분석 추가, contextual user fragment 6종 마커 테이블과 메모리 제외 규칙 코드 첨부, EnvironmentContext XML 직렬화 구조 추가, guardian prompt 파이프라인(policy.md + transcript 예산 + 분리 developer message) 상세 문서화, memory 템플릿(read_path/stage_one_input) 분석 추가, context compaction(inline/remote) 프롬프트와 토큰 관리 추가, context window 유효 계산식과 자동 compaction 트리거 플로우 추가, custom prompts frontmatter 파싱과 review prompts 템플릿 추가, 전체 파이프라인 mermaid flowchart 추가, developer vs system instructions 분리 설명 추가, 핵심 파일 목록을 테이블로 확장.</li>
 </ul>
-17:["$","$L28","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":19,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_co_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
-38:T107d0,<h2>기초 설명</h2>
+17:["$","$L28","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":19,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_co_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
+36:T107d0,<h2>기초 설명</h2>
 <p>Codex의 툴 시스템은 "모델이 함수 이름을 말하면 handler 하나가 바로 실행된다" 같은 단순 구조가 아니다. 실제로는 <code>ResponseItem</code>을 <code>ToolCall</code>로 바꾸는 라우터가 있고, 그 라우터가 registry를 통해 적절한 handler를 찾고, 실행 중에는 pre-tool hook, mutating 판정, metrics, cancellation, parallel gating까지 함께 처리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7163,8 +6294,8 @@ pub trait ToolContributor: Send + Sync {
 📁 <code>codex-rs/ext/goal/src/runtime.rs</code> (<code>inject_active_turn_steering()</code>, <code>account_active_goal_progress()</code>)
 📁 <code>codex-rs/ext/goal/src/steering.rs</code> (<code>budget_limit_steering_item()</code>)</p>
 </blockquote>
-18:["$","$L28","20-axis-03-tool",{"id":"20-axis-03-tool","order":20,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_co_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
-39:Tf816,<h2>기초 설명</h2>
+18:["$","$L28","20-axis-03-tool",{"id":"20-axis-03-tool","order":20,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_co_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
+37:Tf816,<h2>기초 설명</h2>
 <p>Codex의 skill 시스템은 겉보기보다 층이 많다. 보통은 "<code>SKILL.md</code>를 읽어서 프롬프트에 넣는다" 정도로 이해하기 쉬운데, 실제 구현은 <code>root 선택</code>, <code>metadata 로드</code>, <code>enabled or disabled 판정</code>, <code>explicit mention 선택</code>, <code>dependency 설치</code>, <code>본문 주입</code>, <code>implicit invocation telemetry</code>까지 따로 분리되어 있다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -8681,8 +7812,8 @@ pub struct SkillToolDependency {
 <li>2026-03-26: skill root, metadata, explicit injection, implicit invocation, dependency 설치 경로를 상세히 정리했다.</li>
 <li>2026-03-26: 요약본과 상세본을 통합했다.</li>
 </ul>
-19:["$","$L28","20-axis-04-skill",{"id":"20-axis-04-skill","order":21,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_co_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
-3a:T113bc,<h2>기초 설명</h2>
+19:["$","$L28","20-axis-04-skill",{"id":"20-axis-04-skill","order":21,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_co_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
+38:T113bc,<h2>기초 설명</h2>
 <p>Codex의 서브에이전트는 생각보다 제품 기능처럼 노출되어 있지만, 내부를 보면 사실상 "현재 turn을 기반으로 새 thread를 spawn하는 협업 툴 세트"다. 즉 독립된 에이전트 프레임워크가 따로 있는 것이 아니라, 기존 <code>Session</code>과 <code>TurnContext</code>를 확장해서 하위 conversation을 만드는 방식이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10353,8 +9484,8 @@ parent_thread.inject_user_message_without_turn(message).await;
 <li>2026-03-26: 요약본과 상세본을 통합했다.</li>
 <li>2025-07-18: <code>agent/</code> 디렉토리 소스 코드 기반 대폭 보강. AgentControl 제어 평면 구조, AgentRegistry의 CAS 슬롯 관리·RAII SpawnReservation 패턴, agent_resolver 경로 해석, Role 시스템(내장 역할·config layer 적용·preservation policy), AgentStatus 상태 머신, depth 제한 메커니즘, completion watcher, Inter-Agent Communication V2, resume BFS 트리 복원 등 코드 스니펫과 Mermaid 다이어그램 추가.</li>
 </ul>
-1a:["$","$L28","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":22,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_co_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:T10655,<h2>기초 설명</h2>
+1a:["$","$L28","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":22,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_co_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+39:T10655,<h2>기초 설명</h2>
 <p>Codex의 rich client 표면은 CLI 하나로 끝나지 않는다. 실제 중심은 <code>app-server</code>, <code>app-server-protocol</code>, <code>app-server-client</code> 삼각형이고, TypeScript SDK와 Python SDK는 그 위나 바깥에서 각각 다른 철학으로 붙는다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12104,8 +11235,8 @@ class Codex:
 <li>2026-03-26: 기존 MVP 판단 문서를 걷어내고, 우리식 포크 추출 우선순위와 단계별 전략을 정리했다.</li>
 <li>2026-03-26: app-server surface 문서와 포크 추출 전략 문서를 통합했다.</li>
 </ul>
-1b:["$","$L28","20-axis-06-surface",{"id":"20-axis-06-surface","order":23,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_co_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:Tca30,<h2>기초 설명</h2>
+1b:["$","$L28","20-axis-06-surface",{"id":"20-axis-06-surface","order":23,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_co_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
+3a:Tca30,<h2>기초 설명</h2>
 <p>Codex의 명령 실행 제어는 단순히 "허용/거부"가 아니다. 실제 구조는 세 겹이다. <strong>샌드박스</strong>(OS-레벨 격리), <strong>exec-policy</strong>(Starlark 기반 명령 규칙 엔진), <strong>approval routing</strong>(사용자 승인과 guardian 자동 판정)이 겹겹이 쌓여 있다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -13235,8 +12366,8 @@ fn configure_rule(rule: &#x26;INetFwRule3, /* ... */) -> Result&#x3C;()> {
 </tr>
 </tbody>
 </table>
-1c:["$","$L28","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":24,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_co_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
-3d:Tb85a,<h2>기초 설명</h2>
+1c:["$","$L28","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":24,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_co_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+3b:Tb85a,<h2>기초 설명</h2>
 <p>Codex의 설정은 단일 파일이 아니다. 7층 레이어 모델이 운영되고, 각 레이어는 TOML 형식으로 재귀 병합된다. 레이어 간 우선순위 충돌을 해결하는 방식, per-key origin 추적, 그리고 requirements에 의한 정책 제약이 핵심이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -14368,8 +13499,8 @@ pub(crate) fn features_schema(schema_gen: &#x26;mut SchemaGenerator) -> Schema {
 <li>2025-07-15: 전면 개정. 7층 레이어 구조 반영, permissions/features/model provider/edit/agent roles/schema/service 섹션 추가, 핵심 코드 스니펫과 Mermaid 다이어그램 보강.</li>
 <li>2026-03-26: config layering을 4층 TOML merge + requirements overlay 구조로 정리했다.</li>
 </ul>
-1d:["$","$L28","20-axis-08-config",{"id":"20-axis-08-config","order":25,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_co_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
-3e:T7778,<h2>기초 설명</h2>
+1d:["$","$L28","20-axis-08-config",{"id":"20-axis-08-config","order":25,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_co_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
+3c:T7778,<h2>기초 설명</h2>
 <p>Codex의 MCP 레이어는 단순한 "외부 도구 연결"이 아니다. 설정 로더가 여러 config layer에서 MCP 서버 정의를 모으고, <code>McpManager</code>가 plugin이 내놓는 서버와 <code>codex_apps</code>를 다시 합치며, <code>McpConnectionManager</code>가 실제 연결과 listing과 sandbox 상태 전파를 담당한다. 그 위에서 <code>mcp_tool_call.rs</code>가 승인, Guardian 연계, 결과 정규화, telemetry까지 감싼다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -14761,8 +13892,8 @@ pub(crate) fn features_schema(schema_gen: &#x26;mut SchemaGenerator) -> Schema {
 </ul>
 <p>이전 문서: [[08_co_config]]
 다음 문서: [[10_co_memory]]</p>
-1e:["$","$L28","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":26,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_co_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:T113c9,<h2>기초 설명</h2>
+1e:["$","$L28","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":26,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_co_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+3d:T113c9,<h2>기초 설명</h2>
 <p>Codex의 메모리 시스템은 세션 간 학습을 위한 비동기 2단계 파이프라인이다. 단순 "대화 기록 저장"이 아니라, <strong>롤아웃에서 구조화된 기억을 추출하고 통합하는 에이전트 기반 파이프라인</strong>이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -16522,8 +15653,8 @@ pub(crate) async fn clear_memory_root_contents(memory_root: &#x26;Path) -> std::
 <li>2026-03-26: memory를 2-phase extraction/consolidation 파이프라인으로 정리했다.</li>
 <li>2025-07-25: 소스 코드 기반으로 전면 확장. Phase 1/2 상세 흐름, AGENTS.md 로딩, ContextManager, compaction, citation, state DB 스키마, 메트릭스, memory trace 경로 추가.</li>
 </ul>
-1f:["$","$L28","20-axis-10-memory",{"id":"20-axis-10-memory","order":27,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_co_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:Tb4be,<h2>기초 설명</h2>
+1f:["$","$L28","20-axis-10-memory",{"id":"20-axis-10-memory","order":27,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_co_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+3e:Tb4be,<h2>기초 설명</h2>
 <p>Codex의 플러그인은 skill보다 훨씬 무거운 확장 단위다. skill이 <code>SKILL.md</code> 본문 주입이라면, plugin은 <strong>MCP 서버 + app connector + marketplace 배포 + OAuth 인증 + 런타임 동기화</strong>까지 포함하는 패키지다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -17643,8 +16774,8 @@ python3 scripts/create_basic_plugin.py my-plugin \
 <li>2025-07-16: 소스 코드 기반 대폭 강화 — 라이프사이클 상태 다이어그램, PluginId/PluginStore 코드 스니펫, marketplace 정책 모델·resolve 흐름, discoverable 발견 로직, manifest 구조와 plugin.json 전체 스키마, curated sync 시퀀스 다이어그램(git/HTTP 폴백), injection/render 코드 스니펫, remote API 엔드포인트 정리, toggles config edit 패턴, plugin-creator 스캐폴딩 도구 추가. Mermaid 다이어그램 5개 추가.</li>
 <li>2026-03-26: plugin을 marketplace + manifest + manager + injection 구조로 정리했다.</li>
 </ul>
-20:["$","$L28","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":28,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_co_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:T10b7a,<h2>기초 설명</h2>
+20:["$","$L28","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":28,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_co_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
+3f:T10b7a,<h2>기초 설명</h2>
 <p>Codex의 guardian은 "사용자에게 묻기 전에 자동으로 판단할 수 있는지" 결정하는 독립 리뷰어다. <code>on-request</code> approval 정책일 때, 매번 사용자에게 승인을 요청하는 대신 guardian이 위험도를 평가해 자동으로 허용하거나 사용자에게 넘긴다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -19247,8 +18378,8 @@ pub(crate) struct GuardianEvidence {
 <li>2026-03-26: guardian을 transcript 복원 + gpt-5.4 기반 risk scoring + fail-closed 자동 판정 시스템으로 정리했다.</li>
 <li>2026-03-26: 역공학 문서 보강 — review session 이벤트 루프(§6.4), interrupt/drain 프로토콜(§6.5), EphemeralReviewCleanup RAII(§6.6), 25-field reuse key(§6.7), 모델 fallback/네트워크 상속(§6.8), 토큰 truncation 알고리즘(§3.4), guardian 이벤트 프로토콜(§5.4) 추가.</li>
 </ul>
-21:["$","$L28","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_co_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:Tb9a5,<h2>기초 설명</h2>
+21:["$","$L28","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_co_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
+40:Tb9a5,<h2>기초 설명</h2>
 <p>Codex(OpenAI)는 Rust 기반 코딩 에이전트로, 핵심 12개 분석 차원(TUI, Prompt, Tool, Skill, Subagent, Surface, Sandbox, Config, MCP, Memory, Plugin, Guardian) 외에도 Git 통합, 모델 프로바이더 추상화, 에러 처리, 텔레메트리(OpenTelemetry), 피처 플래그, 인증, 음성/멀티모달, 패키징/배포, 테스트 인프라 등 다양한 교차 관심사를 포함한다. 특히 <code>git-utils</code>, <code>otel</code>, <code>features</code>, <code>login</code> 크레이트가 독립된 관심사 영역으로 설계되어 있으며, 이벤트 기반 비동기 아키텍처(<code>async_channel</code> + <code>tokio::sync::watch</code>)가 전체를 관통한다. 국제화(i18n)와 접근성(a11y)은 현재 구현되어 있지 않다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -20439,8 +19570,8 @@ let local_reset = resets_at.with_timezone(&#x26;Local);
 <p><strong>5초 git 타임아웃</strong>: 대형 모노레포에서의 행 방지를 위해 모든 비동기 git 명령에 5초 하드 타임아웃이 적용된다.</p>
 </li>
 </ol>
-22:["$","$L28","20-axis-13-etc",{"id":"20-axis-13-etc","order":30,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_co_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T5af6,<h2>기초 설명</h2>
+22:["$","$L28","20-axis-13-etc",{"id":"20-axis-13-etc","order":30,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_co_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
+41:T5af6,<h2>기초 설명</h2>
 <p>Codex는 OpenAI Responses API의 <strong>내장 <code>web_search</code> 도구</strong>를 사용한다. Rust 코어에서 <code>ToolSpec::WebSearch</code> 변형으로 정의되며, API 서버 측에서 검색을 수행하고 결과를 스트리밍으로 반환한다. 3단계 모드(<code>live</code>/<code>cached</code>/<code>disabled</code>)로 비용과 속도를 제어할 수 있으며, 도메인 필터링, 지리적 위치, 컨텍스트 크기 등 세밀한 설정을 지원한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -21040,8 +20171,8 @@ pub(crate) struct CodexWebSearchEventParams {
 </tr>
 </tbody>
 </table>
-23:["$","$L28","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_co_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:T55d6,<h2>기초 설명</h2>
+23:["$","$L28","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_co_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
+42:T55d6,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -21536,8 +20667,8 @@ pub(crate) struct CodexWebSearchEventParams {
 <li>Kiro agent-specific MCP routing with a custom synthetic agent is tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code>; actual server startup and protocol handshake remain separate gaps.</li>
 <li>AGY MCP activation requires either hidden <code>agentapi</code> knowledge, plugin import, or model/session trace.</li>
 </ul>
-24:["$","$L28","25-reverse-engineering",{"id":"25-reverse-engineering","order":32,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:T26b1,<h2>기초 설명</h2>
+24:["$","$L28","25-reverse-engineering",{"id":"25-reverse-engineering","order":32,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+43:T26b1,<h2>기초 설명</h2>
 <ul>
 <li>2026-03-26: Codex 에이전트 시스템 동작 원리를 11개 섹션으로 상세 확장. CLI 진입 → Session 초기화 (43 pub 모듈) → 3층 프롬프트 조립 (AGENTS.md contextual fragment, 스킬 2단계 주입) → ToolRouter/Registry/Handler 37+ 3단 디스패치 → OS-level 샌드박스 (Seatbelt/Landlock/Windows) → Ghost Commit 체크포인팅 → Responses API 단일 와이어 → 서브에이전트 thread 상속 (v1/v2 API 비교) → MCP 통합 (auth + skill_dependencies) → 피처 플래그 5단계 (50+, 의존성 정규화) → CodexErr 20변형 재시도 → OTel trace_safe/log_only 포함.</li>
 </ul>
@@ -21695,7 +20826,7 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>기술 스택: Python + prompt_toolkit + rich + tree-sitter + Git</li>
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
-25:["$","$L28","99-next-steps",{"id":"99-next-steps","order":33,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-26:["$","script","script-0",{"src":"/cli101-portal/sites/codex-cli/_next/static/chunks/1569d02568d582a5.js","async":true}]
-27:["$","$L46",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@47"}]}]
-47:null
+25:["$","$L28","99-next-steps",{"id":"99-next-steps","order":33,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
+26:["$","script","script-0",{"src":"/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js","async":true}]
+27:["$","$L44",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@45"}]}]
+45:null

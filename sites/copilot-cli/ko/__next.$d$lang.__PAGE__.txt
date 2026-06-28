@@ -1,684 +1,11 @@
 1:"$Sreact.fragment"
 2:"$Sreact.suspense"
-3:I[27756,["/cli101-portal/sites/copilot-cli/_next/static/chunks/9915c801139d67bd.js"],"PageClient"]
-2d:I[15824,["/cli101-portal/sites/copilot-cli/_next/static/chunks/9915c801139d67bd.js"],"SectionBlock"]
-51:I[59374,["/cli101-portal/sites/copilot-cli/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/copilot-cli/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
-0:{"buildId":"H6-H780iLkSLkwsHzUYHC","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"CP101","tagline":"CP101 developer-grade corpus guide","taglineEn":"CP101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_cp_overview.md","branding":{"slug":"cp101","name":"CP101","tagline_ko":"Copilot CLI 입문 + decoded/","tagline_en":"Copilot CLI intro + decoded/","accentLabel_ko":"000_overview/00_cp_overview.md","accentLabel_en":"000_overview/00_cp_overview.md","heroTitle_ko":"GitHub Copilot 터미널 에이전트","heroTitle_en":"GitHub Copilot terminal agent","heroSubtitle_ko":"개발자 문서 — 39섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 39 sections (000–015 + snippets)","terminalLines":["$$ npm i -g @github/copilot","$$ copilot"],"prompt_ko":"> 이 PR에 대한 리뷰 코멘트 작성해줘","prompt_en":"> write review comments for this PR","ctaHash":"00-before-you-start","officialUrl":"https://docs.github.com/copilot","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"CP101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-copilot","order":2,"tier":"core","slug":"02-what-is-copilot","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/02-what-is-copilot.md","file_en":"en/02-what-is-copilot.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 분석 입력물과 복원 파이프라인","title_en":"Overview §1","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 시스템 기동","title_en":"Overview §2","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. TUI 설계","title_en":"Overview §3","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 프롬프트 조립과 컨텍스트 관리","title_en":"Overview §4","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 도구 런타임 (ACP)","title_en":"Overview §5","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 에이전트 시스템 (YAML 선언)","title_en":"Overview §6","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 서브에이전트와 원격 위임","title_en":"Overview §7","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 설정 시스템","title_en":"Overview §8","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. MCP 통합","title_en":"Overview §9","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 메모리와 세션 관리","title_en":"Overview §10","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 보안과 승인","title_en":"Overview §11","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. 검색과 코드 인텔리전스","title_en":"Overview §12","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-13","order":19,"tier":"developer","slug":"07-overview-13","title_ko":"13. 에이전트 루프 요약","title_en":"Overview §13","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-13.md","file_en":"en/07-overview-13.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-14","order":20,"tier":"developer","slug":"07-overview-14","title_ko":"14. 3사 비교 분석: Codex CLI vs Claude Code vs Copilot CLI","title_en":"Overview §14","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-14.md","file_en":"en/07-overview-14.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-15","order":21,"tier":"developer","slug":"07-overview-15","title_ko":"15. 종합 평가","title_en":"Overview §15","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-15.md","file_en":"en/07-overview-15.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-16","order":22,"tier":"developer","slug":"07-overview-16","title_ko":"16. 문서 네비게이션","title_en":"Overview §16","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-16.md","file_en":"en/07-overview-16.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":23,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_cp_tui.md","description_en":"001_tui-design/01_cp_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":24,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_cp_prompt.md","description_en":"002_prompt-context/02_cp_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":25,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_cp_tool.md","description_en":"003_tool-runtime/03_cp_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":26,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_cp_skill.md","description_en":"004_skill-system/04_cp_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":27,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_cp_subagent.md","description_en":"005_subagents-collab/05_cp_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":28,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_cp_surface.md","description_en":"006_app-server-client-surfaces/06_cp_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":29,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_cp_sandbox.md","description_en":"007_sandbox-exec-policy/07_cp_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":30,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_cp_config.md","description_en":"008_config-system/08_cp_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":31,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_cp_mcp.md","description_en":"009_mcp-orchestration/09_cp_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":32,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_cp_memory.md","description_en":"010_memory-pipeline/10_cp_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":33,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_cp_plugin.md","description_en":"011_plugin-system/11_cp_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":34,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_cp_guardian.md","description_en":"012_guardian-approval/12_cp_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":35,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_cp_etc.md","description_en":"013_etc/13_cp_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":36,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_cp_web-search.md","description_en":"014_web-search/14_cp_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":37,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":38,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}],["$L2b"],"$L2c"]}],"loading":null,"isPartial":false}
-2e:T5f5a,<h2>CP101 — 개발자 문서</h2>
-<p>P2: <strong>000–015 코퍼스</strong> + <strong>path:line 소스 스니펫</strong> + 기초 설명.</p>
-<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<blockquote>
-<p>path:line 또는 fenced block 없음 — 아래 심화 본문 참조.</p>
-</blockquote>
-<h2>코퍼스 — 000/ (인덱스·요약)</h2>
-<h3><code>000/01_corpus_navigation_map.md</code></h3>
-<h1>Corpus Navigation Map</h1>
-<p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
-<h2>Canonical Reading Spine</h2>
-<table>
-<thead>
-<tr>
-<th>Purpose</th>
-<th>Path</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
-<td><code>overview-index</code></td>
-</tr>
-<tr>
-<td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
-<td><code>deep-overview</code></td>
-</tr>
-<tr>
-<td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-<tr>
-<td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-<tr>
-<td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-</tbody>
-</table>
-<h2>Reference Repositories and Artifact Sets</h2>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Classification</th>
-<th>First-Cycle Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
-<td><code>reference-repo</code>, <code>codex-rs-source</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
-<td><code>reference-repo</code>, <code>codex-rs-source</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
-<td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
-<td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
-<td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
-<td><code>blocked-nested-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
-<td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
-<td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-</tbody>
-</table>
-<h2>Proposed Future Buckets</h2>
-<p>These are logical buckets only. They are not physical moves in this cycle.</p>
-<pre><code class="language-text">reference-repos/
-  codex/
-  competitor-harnesses/
-  plugins-and-extensions/
-analysis-artifacts/
-  reverse-engineering/
-  binary-package-reports/
-runtime-tools/
-  browser/
-  computer-use/
-docs/
-  overview-index/
-  deep-overview/
-  axes/
-</code></pre>
-<h2>Physical Rename Rule</h2>
-<p>Before a folder is moved, add an explicit mapping row using:</p>
-<pre><code class="language-text">old_path -> proposed_path | classification | move_status | evidence
-</code></pre>
-<p>For gitlinks, also reconcile <code>.gitmodules</code> before moving.</p>
-<h2>Top-Level Triage</h2>
-<p>Use this when scanning the root directory. Status is intentionally conservative: <code>keep-current</code> means the current path remains the source of truth for now.</p>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Triage</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/03_overview_canonical_map.md</code></h3>
-<h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
-<h2>Canonical Rule</h2>
-<ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
-<li>If the same filename exists in both folders and content differs, keep both:
-<ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
-</ul>
-</li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
-</ul>
-<h2>Paired Overview Files</h2>
-<table>
-<thead>
-<tr>
-<th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
-<th>Equal</th>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>00_ag_overview.md</code></td>
-<td align="right">27224</td>
-<td align="right">15790</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ai_overview.md</code></td>
-<td align="right">25716</td>
-<td align="right">25716</td>
-<td>yes</td>
-<td>duplicate content; defer dedupe until link audit</td>
-</tr>
-<tr>
-<td><code>00_ay_overview.md</code></td>
-<td align="right">3815</td>
-<td align="right">798</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cc_overview.md</code></td>
-<td align="right">25990</td>
-<td align="right">27537</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_co_overview.md</code></td>
-<td align="right">41569</td>
-<td align="right">17061</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cp_overview.md</code></td>
-<td align="right">23525</td>
-<td align="right">6854</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cr_overview.md</code></td>
-<td align="right">3216</td>
-<td align="right">595</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ge_overview.md</code></td>
-<td align="right">47345</td>
-<td align="right">35414</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_gr_overview.md</code></td>
-<td align="right">3310</td>
-<td align="right">546</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ki_overview.md</code></td>
-<td align="right">3360</td>
-<td align="right">692</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_oc_overview.md</code></td>
-<td align="right">43650</td>
-<td align="right">33628</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-</tbody>
-</table>
-<h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
-<pre><code class="language-text">00_hermes_overview.md
-00_lc_overview.md
-00_newharness_vs_cli-jaw_synthesis.md
-00_omc_overview.md
-00_omo_overview.md
-00_omx_overview.md
-00_sp_overview.md
-</code></pre>
-<h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
-<pre><code class="language-text">00_grand_synthesis.md
-00_harness-index.md
-00_harness-index_hermes.md
-00_harness-index_omc.md
-00_harness-index_omo.md
-00_harness-index_omx.md
-00_harness_synthesis_addendum.md
-01_corpus_navigation_map.md
-02_corpus_move_candidates.md
-03_overview_canonical_map.md
-</code></pre>
-<hr>
-<h3><code>000/00_cp_overview.md</code></h3>
-<h1>GitHub Copilot CLI 분석 개요</h1>
-<blockquote>
-<p><strong>분석 대상</strong>: <code>@github/copilot</code> v1.0.7 npm 배포물 + 공개 저장소 <code>github/copilot-cli</code> 태그 <code>v1.0.7</code>
-<strong>분석 방식</strong>: 공개 저장소와 npm 배포물을 비교한 뒤, 실제 런타임은 번들 <code>app.js</code>를 기준으로 디컴파일/구조 분해
-<strong>신뢰도</strong>: 공개 저장소에 앱 소스 트리가 없으므로, 내부 동작에 관한 세부 내용은 <strong>decompiled bundle analysis</strong>에 기반한다.</p>
-</blockquote>
-<p>Copilot CLI는 공개 저장소만 보면 설치 스크립트와 문서만 보이지만, 실제 제품 런타임은 npm 패키지 <code>@github/copilot</code>에 번들된 형태로 배포된다. 즉 Codex처럼 공개 소스 기반으로 읽을 수 있는 프로젝트가 아니라, Claude Code와 비슷하게 <strong>배포 산출물 중심 역분석 대상</strong>에 가깝다.</p>
-<p>핵심 구조를 한 문장으로 줄이면 이렇다. Copilot CLI는 <code>npm-loader.js -> index.js -> app.js</code> 3단 부트스트랩, <code>sdk/</code>와 <code>copilot-sdk/</code>의 공개 SDK 표면, <code>definitions/*.agent.yaml</code>의 내장 역할 프로파일, 그리고 <code>tree-sitter</code>/<code>ripgrep</code>/<code>prebuilds</code> 네이티브 자산이 결합된 단일 배포형 에이전트 CLI다.</p>
-<h2>1. 입력물</h2>
-<h3>1.1 공개 저장소</h3>
-<ul>
-<li>경로: <code>151_copilot_cli/upstream-source/</code></li>
-<li>태그/커밋: <code>v1.0.7</code> / <code>941002e717f5a3ee3ae84e2b6843c5f26ab4963c</code></li>
-<li>관찰 결과:
-<ul>
-<li><code>README.md</code>, <code>install.sh</code>, <code>changelog.md</code>, GitHub workflow만 존재</li>
-<li><code>src/</code>, <code>package.json</code>, <code>tsconfig.json</code> 같은 앱 소스 트리는 없음</li>
-</ul>
-</li>
-</ul>
-<p>즉 공개 저장소는 <strong>배포 안내 저장소</strong>에 가깝고, 제품 원본이 그대로 공개된 형태는 아니다.</p>
-<h3>1.2 npm 배포물</h3>
-<ul>
-<li>경로: <code>151_copilot_cli/npm-package/</code></li>
-<li>버전: <code>@github/copilot@1.0.7</code></li>
-<li>엔트리 체인:
-<ul>
-<li><code>npm-loader.js</code></li>
-<li><code>index.js</code></li>
-<li><code>app.js</code></li>
-</ul>
-</li>
-</ul>
-<p>패키지에는 다음 자산이 함께 들어 있다.</p>
-<ul>
-<li><code>definitions/</code>: <code>task</code>, <code>explore</code>, <code>research</code>, <code>code-review</code>, <code>configure-copilot</code> 에이전트 정의</li>
-<li><code>sdk/</code>, <code>copilot-sdk/</code>: 확장/세션/extension용 공개 SDK</li>
-<li><code>preloads/</code>, <code>worker/</code>: preload bootstrap과 worker 표면</li>
-<li><code>prebuilds/</code>: <code>pty</code>, <code>keytar</code>, <code>conpty</code> 등 플랫폼별 네이티브 모듈</li>
-<li><code>ripgrep/</code>, <code>tree-sitter*.wasm</code>, <code>queries/</code>: 검색/구문 분석 런타임 자산</li>
-<li><code>schemas/</code>: API/session-events JSON schema</li>
-</ul>
-<h3>1.3 설치본 검증</h3>
-<p>현재 환경의 전역 설치본 <code>@github/copilot@1.0.7</code>과 <code>151_copilot_cli/npm-package/app.js</code>는 SHA-256이 일치한다. 따라서 <code>npm-package/</code>를 canonical artifact로 삼아도 된다.</p>
-<h2>2. 부트스트랩 구조</h2>
-<p>Copilot CLI의 시작 흐름은 세 단계다.</p>
-<ol>
-<li>
-<p><code>npm-loader.js</code></p>
-<ul>
-<li>먼저 <code>@github/copilot-${platform}-${arch}</code> 네이티브 실행 파일을 시도한다.</li>
-<li>실패 시 Node.js 24+를 요구하고 <code>index.js</code>로 넘어간다.</li>
-</ul>
-</li>
-<li>
-<p><code>index.js</code></p>
-<ul>
-<li>auto-update cache 탐색</li>
-<li>restart 파일 처리</li>
-<li>signal forwarding</li>
-<li>preload/extension bootstrap 분기</li>
-<li>최종적으로 <code>app.js</code> import</li>
-</ul>
-</li>
-<li>
-<p><code>app.js</code></p>
-<ul>
-<li>실제 제품 런타임 단일 번들</li>
-<li>CommonJS-style wrapper <code>k((...))</code>, initializer <code>W(() => {})</code>, interop import <code>Me(...)</code>, export preamble <code>var X = {}; ac(X, ...)</code> 패턴 포함</li>
-</ul>
-</li>
-</ol>
-<h2>3. 복원 파이프라인</h2>
-<p><code>151_copilot_cli/PLAN.md</code>에 고정한 현재 decode 경로는 다음이다.</p>
-<p><code>npm-package/app.js -> extracted/app.pretty.js -> reconstructed/ -> reconstructed_v2/ -> decoded/</code></p>
-<p>구성은 다음과 같다.</p>
-<ul>
-<li>
-<p><code>151_copilot_cli/extracted/app.pretty.js</code></p>
-<ul>
-<li><code>app.js</code>를 prettier로 정리한 읽기용 번들</li>
-<li>총 <code>519,812</code> 줄</li>
-</ul>
-</li>
-<li>
-<p><code>151_copilot_cli/reconstructed/</code></p>
-<ul>
-<li><code>k((...))</code> 기준 1차 분해</li>
-<li>총 <code>1,087</code> 청크</li>
-<li><code>prelude 1</code>, <code>cjs_module 1086</code></li>
-</ul>
-</li>
-<li>
-<p><code>151_copilot_cli/reconstructed_v2/</code></p>
-<ul>
-<li><code>export</code>, <code>cjs_module</code>, <code>init_wrapper</code>, <code>esm_import</code> 기준 2차 분해</li>
-<li>총 <code>1,800</code> 청크</li>
-<li><code>prelude 1</code></li>
-<li><code>export 33</code></li>
-<li><code>cjs_module 1086</code></li>
-<li><code>init_wrapper 410</code></li>
-<li><code>esm_import 270</code></li>
-<li><code>features.json</code>에 <code>semanticName</code>, <code>canonicalPackage</code>, <code>canonicalSourcePath</code> 저장</li>
-</ul>
-</li>
-<li>
-<p><code>151_copilot_cli/vendor-sources/</code></p>
-<ul>
-<li><code>undici</code>, <code>yaml</code>, <code>commander</code>, <code>signal-exit</code> 원본 후보 패키지 동기화</li>
-<li>semantic token overlap 기반 vendor fingerprint 매칭 입력</li>
-<li>예: <code>0034_cjs_module_rfn.js</code> → <code>undici/lib/dispatcher/balanced-pool.js</code></li>
-</ul>
-</li>
-<li>
-<p><code>151_copilot_cli/decoded/</code></p>
-<ul>
-<li><code>features.json</code> 기반 휴리스틱 분류 + package/semantic name 추론 트리</li>
-<li>상위 디렉터리:
-<ul>
-<li><code>00_bootstrap</code>, <code>01_core</code>, <code>02_session</code>, <code>03_agents</code>, <code>05_tui</code>, <code>06_auth</code>, <code>07_config</code>, <code>08_mcp</code>, <code>09_lsp</code>, <code>10_sdk</code>, <code>11_search</code>, <code>12_worker</code>, <code>13_export_surface</code>, <code>90_native</code>, <code>90_vendor</code>, <code>91_vendor</code>, <code>98_unclassified</code></li>
-</ul>
-</li>
-<li>현재 vendor 하위 패키지 분리:
-<ul>
-<li><code>90_vendor/undici</code></li>
-<li><code>90_vendor/signal-exit</code></li>
-<li><code>90_vendor/commander</code></li>
-<li><code>90_vendor/yaml</code></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2>4. 현재까지 읽히는 제품 성격</h2>
-<p>복원된 패키지 표면만 봐도 몇 가지는 확실하다.</p>
-<ul>
-<li>
-<p><strong>bundle-first 제품</strong>이다.</p>
-<ul>
-<li>앱 로직은 공개 repo보다 npm artifact에 더 많이 드러난다.</li>
-</ul>
-</li>
-<li>
-<p><strong>에이전트 역할이 내장 정의 파일로 노출</strong>된다.</p>
-<ul>
-<li><code>definitions/task.agent.yaml</code></li>
-<li><code>definitions/explore.agent.yaml</code></li>
-<li><code>definitions/research.agent.yaml</code></li>
-<li><code>definitions/code-review.agent.yaml</code></li>
-</ul>
-</li>
-<li>
-<p><strong>확장 표면이 SDK로 별도 노출</strong>된다.</p>
-<ul>
-<li><code>sdk/index.js</code></li>
-<li><code>copilot-sdk/index.js</code></li>
-<li><code>preloads/extension_bootstrap.mjs</code></li>
-</ul>
-</li>
-<li>
-<p><strong>검색과 코드 인텔리전스 자산을 패키지에 동봉</strong>한다.</p>
-<ul>
-<li>ripgrep 바이너리</li>
-<li>tree-sitter wasm</li>
-<li>highlight query <code>.scm</code></li>
-<li>LSP 설정 문서 표면</li>
-</ul>
-</li>
-<li>
-<p><strong>네이티브/플랫폼 결합이 강하다.</strong></p>
-<ul>
-<li><code>pty</code>, <code>keytar</code>, <code>conpty</code>, clipboard, sharp wasm/native 자산이 함께 배포된다.</li>
-</ul>
-</li>
-</ul>
-<h2>5. 한계</h2>
-<p>이 분석에는 분명한 한계가 있다.</p>
-<ul>
-<li>공개 저장소에 실제 앱 소스가 없으므로, 원본 디렉터리 구조를 정확히 재현할 수는 없다.</li>
-<li>변수명과 모듈명 다수가 번들 난독화된 심볼이다.</li>
-<li>현재 <code>decoded/</code>는 완전한 원본 복원이 아니라, 읽기 쉬운 스캐폴드에 가깝다.</li>
-</ul>
-<p>그럼에도 구조적 가치는 충분하다. 공개 저장소만 봐서는 보이지 않던 제품의 실제 표면, 부트스트랩, SDK, 내장 에이전트 정의, 네이티브 의존성, 검색/파서 자산을 <code>151_copilot_cli/</code> 트리에서 직접 읽을 수 있게 만들었기 때문이다.</p>
-<p>현재는 단순 split을 넘어, 예를 들어 다음처럼 패키지/의미 이름까지 복원된다.</p>
-<ul>
-<li><code>0034</code> → <code>91_vendor/undici/0034_cjs_module_undici_BalancedPool.js</code></li>
-<li><code>0035</code> → <code>91_vendor/undici/0035_cjs_module_undici_Agent.js</code></li>
-<li><code>0848</code> → <code>91_vendor/http-proxy-agent/0848_cjs_module_http-proxy-agent_HttpProxyAgent.js</code></li>
-<li><code>1225</code>, <code>1241</code> → <code>91_vendor/signal-exit/*_signal-exit_index.js</code></li>
-</ul>
-<h2>코퍼스 — 000_overview/00_cp_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_cp_tui.md</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_cp_prompt.md</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_cp_tool.md</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_cp_skill.md</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_cp_subagent.md</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_cp_surface.md</code></td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_cp_sandbox.md</code></td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_cp_config.md</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_cp_mcp.md</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_cp_memory.md</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_cp_plugin.md</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_cp_guardian.md</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_cp_web-search.md</code></td>
-</tr>
-</tbody>
-</table>
-4:["$","$L2d","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"000 인덱스 + 축 맵","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
-2f:T5ee3,<h2>기초 설명</h2>
+3:I[27756,["/cli101-portal/sites/copilot-cli/_next/static/chunks/632d5794df09229a.js"],"PageClient"]
+2d:I[15824,["/cli101-portal/sites/copilot-cli/_next/static/chunks/632d5794df09229a.js"],"SectionBlock"]
+50:I[59374,["/cli101-portal/sites/copilot-cli/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/copilot-cli/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
+0:{"buildId":"peHdhSTaec1CesD2OSjhF","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"CP101","tagline":"CP101 developer-grade corpus guide","taglineEn":"CP101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_cp_overview.md","branding":{"slug":"cp101","name":"CP101","tagline_ko":"Copilot CLI 입문 + decoded/","tagline_en":"Copilot CLI intro + decoded/","accentLabel_ko":"000_overview/00_cp_overview.md","accentLabel_en":"000_overview/00_cp_overview.md","heroTitle_ko":"GitHub Copilot 터미널 에이전트","heroTitle_en":"GitHub Copilot terminal agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 33장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 33 developer docs","terminalLines":["$$ npm i -g @github/copilot","$$ copilot"],"prompt_ko":"> 이 PR에 대한 리뷰 코멘트 작성해줘","prompt_en":"> write review comments for this PR","ctaHash":"00-before-you-start","officialUrl":"https://docs.github.com/copilot","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"CP101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-copilot","order":2,"tier":"core","slug":"02-what-is-copilot","title_ko":"Copilot이 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/02-what-is-copilot.md","file_en":"en/02-what-is-copilot.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + 로그인 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 분석 입력물과 복원 파이프라인","title_en":"Overview §1","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 시스템 기동","title_en":"Overview §2","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. TUI 설계","title_en":"Overview §3","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 프롬프트 조립과 컨텍스트 관리","title_en":"Overview §4","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 도구 런타임 (ACP)","title_en":"Overview §5","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 에이전트 시스템 (YAML 선언)","title_en":"Overview §6","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 서브에이전트와 원격 위임","title_en":"Overview §7","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 설정 시스템","title_en":"Overview §8","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. MCP 통합","title_en":"Overview §9","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 메모리와 세션 관리","title_en":"Overview §10","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 보안과 승인","title_en":"Overview §11","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. 검색과 코드 인텔리전스","title_en":"Overview §12","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-13","order":19,"tier":"developer","slug":"07-overview-13","title_ko":"13. 에이전트 루프 요약","title_en":"Overview §13","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-13.md","file_en":"en/07-overview-13.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-14","order":20,"tier":"developer","slug":"07-overview-14","title_ko":"14. 3사 비교 분석: Codex CLI vs Claude Code vs Copilot CLI","title_en":"Overview §14","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-14.md","file_en":"en/07-overview-14.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-15","order":21,"tier":"developer","slug":"07-overview-15","title_ko":"15. 종합 평가","title_en":"Overview §15","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-15.md","file_en":"en/07-overview-15.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-16","order":22,"tier":"developer","slug":"07-overview-16","title_ko":"16. 문서 네비게이션","title_en":"Overview §16","description_ko":"000_overview/00_cp_overview.md","description_en":"000_overview/00_cp_overview.md","file_ko":"ko/07-overview-16.md","file_en":"en/07-overview-16.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":23,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_cp_tui.md","description_en":"001_tui-design/01_cp_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":24,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_cp_prompt.md","description_en":"002_prompt-context/02_cp_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":25,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_cp_tool.md","description_en":"003_tool-runtime/03_cp_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":26,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_cp_skill.md","description_en":"004_skill-system/04_cp_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":27,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_cp_subagent.md","description_en":"005_subagents-collab/05_cp_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":28,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_cp_surface.md","description_en":"006_app-server-client-surfaces/06_cp_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":29,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_cp_sandbox.md","description_en":"007_sandbox-exec-policy/07_cp_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":30,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_cp_config.md","description_en":"008_config-system/08_cp_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":31,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_cp_mcp.md","description_en":"009_mcp-orchestration/09_cp_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":32,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_cp_memory.md","description_en":"010_memory-pipeline/10_cp_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":33,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_cp_plugin.md","description_en":"011_plugin-system/11_cp_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":34,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_cp_guardian.md","description_en":"012_guardian-approval/12_cp_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":35,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_cp_etc.md","description_en":"013_etc/13_cp_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":36,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_cp_web-search.md","description_en":"014_web-search/14_cp_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":37,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":38,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}],["$L2b"],"$L2c"]}],"loading":null,"isPartial":false}
+4:["$","$L2d","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>터미널에서 명령어가 도무지 기억나지 않아 매번 인터넷 검색창을 뒤적거리셨던 분, 복잡한 깃(git) 옵션이나 클라우드 배포 명령어를 눈 감고도 뚝딱 입력하고 싶으신 분들을 위해 준비했어요. 터미널 명령어를 아주 친절하게 알려주는 든든한 동반자를 만나보세요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>Copilot CLI가 어떤 쓰임새를 지닌 도구인지</li>\n<li>5분 만에 내가 원하는 명령어를 AI에게 물어보고 터미널에서 바로 실행하는 법</li>\n<li>매일 컴퓨터로 개발 작업을 할 때 자연스럽게 깃(git)과 터미널을 다루는 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>딱 두 가지만 챙겨두면 준비 완료예요.</p>\n<ol>\n<li>터미널(명령어를 직접 입력하는 어두운 화면)을 기본적으로 사용할 수 있어요.</li>\n<li>유효한 GitHub 계정이 필요해요. 로그인할 때 이 계정 정보가 쓰여요.</li>\n</ol>\n<p>이제 모든 준비가 끝났으니, 다음 장에서 Copilot CLI가 무엇인지부터 차분히 살펴볼게요.</p>\n"}}]}]
+2e:T5ee3,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1333,278 +660,39 @@ docs/
 <li><code>0848</code> → <code>91_vendor/http-proxy-agent/0848_cjs_module_http-proxy-agent_HttpProxyAgent.js</code></li>
 <li><code>1225</code>, <code>1241</code> → <code>91_vendor/signal-exit/*_signal-exit_index.js</code></li>
 </ul>
-5:["$","$L2d","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2f"}}]}]
-30:T2b19,<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<blockquote>
-<p>path:line 또는 fenced block 없음 — 아래 심화 본문 참조.</p>
-</blockquote>
-<h2>코퍼스 — 000/ (인덱스·요약)</h2>
-<h1>GitHub Copilot CLI 분석 개요</h1>
-<blockquote>
-<p><strong>분석 대상</strong>: <code>@github/copilot</code> v1.0.7 npm 배포물 + 공개 저장소 <code>github/copilot-cli</code> 태그 <code>v1.0.7</code>
-<strong>분석 방식</strong>: 공개 저장소와 npm 배포물을 비교한 뒤, 실제 런타임은 번들 <code>app.js</code>를 기준으로 디컴파일/구조 분해
-<strong>신뢰도</strong>: 공개 저장소에 앱 소스 트리가 없으므로, 내부 동작에 관한 세부 내용은 <strong>decompiled bundle analysis</strong>에 기반한다.</p>
-</blockquote>
-<p>Copilot CLI는 공개 저장소만 보면 설치 스크립트와 문서만 보이지만, 실제 제품 런타임은 npm 패키지 <code>@github/copilot</code>에 번들된 형태로 배포된다. 즉 Codex처럼 공개 소스 기반으로 읽을 수 있는 프로젝트가 아니라, Claude Code와 비슷하게 <strong>배포 산출물 중심 역분석 대상</strong>에 가깝다.</p>
-<p>핵심 구조를 한 문장으로 줄이면 이렇다. Copilot CLI는 <code>npm-loader.js -> index.js -> app.js</code> 3단 부트스트랩, <code>sdk/</code>와 <code>copilot-sdk/</code>의 공개 SDK 표면, <code>definitions/*.agent.yaml</code>의 내장 역할 프로파일, 그리고 <code>tree-sitter</code>/<code>ripgrep</code>/<code>prebuilds</code> 네이티브 자산이 결합된 단일 배포형 에이전트 CLI다.</p>
-<h2>1. 입력물</h2>
-<h3>1.1 공개 저장소</h3>
-<ul>
-<li>경로: <code>151_copilot_cli/upstream-source/</code></li>
-<li>태그/커밋: <code>v1.0.7</code> / <code>941002e717f5a3ee3ae84e2b6843c5f26ab4963c</code></li>
-<li>관찰 결과:
-<ul>
-<li><code>README.md</code>, <code>install.sh</code>, <code>changelog.md</code>, GitHub workflow만 존재</li>
-<li><code>src/</code>, <code>package.json</code>, <code>tsconfig.json</code> 같은 앱 소스 트리는 없음</li>
-</ul>
-</li>
-</ul>
-<p>즉 공개 저장소는 <strong>배포 안내 저장소</strong>에 가깝고, 제품 원본이 그대로 공개된 형태는 아니다.</p>
-<h3>1.2 npm 배포물</h3>
-<ul>
-<li>경로: <code>151_copilot_cli/npm-package/</code></li>
-<li>버전: <code>@github/copilot@1.0.7</code></li>
-<li>엔트리 체인:
-<ul>
-<li><code>npm-loader.js</code></li>
-<li><code>index.js</code></li>
-<li><code>app.js</code></li>
-</ul>
-</li>
-</ul>
-<p>패키지에는 다음 자산이 함께 들어 있다.</p>
-<ul>
-<li><code>definitions/</code>: <code>task</code>, <code>explore</code>, <code>research</code>, <code>code-review</code>, <code>configure-copilot</code> 에이전트 정의</li>
-<li><code>sdk/</code>, <code>copilot-sdk/</code>: 확장/세션/extension용 공개 SDK</li>
-<li><code>preloads/</code>, <code>worker/</code>: preload bootstrap과 worker 표면</li>
-<li><code>prebuilds/</code>: <code>pty</code>, <code>keytar</code>, <code>conpty</code> 등 플랫폼별 네이티브 모듈</li>
-<li><code>ripgrep/</code>, <code>tree-sitter*.wasm</code>, <code>queries/</code>: 검색/구문 분석 런타임 자산</li>
-<li><code>schemas/</code>: API/session-events JSON schema</li>
-</ul>
-<h3>1.3 설치본 검증</h3>
-<p>현재 환경의 전역 설치본 <code>@github/copilot@1.0.7</code>과 <code>151_copilot_cli/npm-package/app.js</code>는 SHA-256이 일치한다. 따라서 <code>npm-package/</code>를 canonical artifact로 삼아도 된다.</p>
-<h2>2. 부트스트랩 구조</h2>
-<p>Copilot CLI의 시작 흐름은 세 단계다.</p>
+5:["$","$L2d","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
+6:["$","$L2d","02-what-is-copilot",{"id":"02-what-is-copilot","order":2,"tier":"core","title":"Copilot이 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>Copilot CLI는 터미널에 익숙하지 않거나 명령어가 기억나지 않을 때, 내가 원하는 바를 자연스럽게 말하면 알맞은 터미널 명령어를 즉석에서 찾아주고 설명까지 해주는 AI 가이드예요.</p>\n<h2>비유로 이해하기</h2>\n<p>두꺼운 컴퓨터 리눅스/유닉스 명령어 사전과 깃(git) 옵션 설명서를 통째로 머릿속에 집어넣은 친절한 멘토가 내 터미널 바로 뒤에 서 있는 장면을 상상해보세요. \"지난주 수요일부터 지금까지 작성한 git 커밋들을 요약해서 보여주는 명령어가 뭐였더라?\" 하고 물어보면 바로 정답을 알려주고 터미널 창에 입력까지 알아서 해주는 든든한 조력자예요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>\"포트 8080번을 쓰고 있는 프로세스 다 꺼줘\"처럼 평소 언어로 명령어를 물어봐요</li>\n<li>AI가 제안해 준 명령어가 정확히 무슨 역할을 하는지 한 단계씩 설명을 읽고 검증해요</li>\n<li>제안받은 명령어를 수동으로 복사해 붙여넣을 필요 없이 엔터 키 한 번으로 곧바로 실행해요</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>검색 포털을 헤매거나 긴 설명 페이지(man page)를 일일이 분석하며 시간 낭비할 필요가 없어요. 복잡한 단축키나 옵션들을 외우지 않아도 되기 때문에 실수로 엉뚱한 폴더를 지우거나 시스템 설정을 망가뜨릴 위험도 획기적으로 줄어들어요.</p>\n<blockquote>\n<p>Copilot CLI의 쉘 연동 원리나 터미널 확장 기능의 심도 있는 기술적 명세가 궁금하시면 상단 메뉴의 <strong>개발자 문서</strong>를 확인해 보세요. 처음에는 명령어 도우미로 가볍게 다루는 것부터 추천해 드려요.</p>\n</blockquote>\n"}}]}]
+2f:T76b,<h2>먼저 설치부터 해볼게요</h2>
+<p>터미널을 열고 아래 명령어를 입력해 주세요. 이 명령어 한 줄만 실행하면 컴퓨터에 손쉽게 설치할 수 있어요.</p>
+<pre><code class="language-bash">npm install -g @github/copilot
+</code></pre>
+<p>설치가 다 끝나면 터미널에 <code>copilot</code>이라고 치면 코파일럿 대화 세션이 시작돼요. (Node.js 22 버전 이상, npm 10 버전 이상이 필요하고, 깃허브 코파일럿 구독이 있어야 해요.)</p>
+<h2>로그인하기</h2>
+<p>Copilot CLI는 깃허브(GitHub)의 코파일럿 구독 정보가 필요해서, 처음 한 번 로그인을 해줘야 해요. 로그인은 <code>copilot</code> 세션 안에서 진행돼요.</p>
 <ol>
-<li>
-<p><code>npm-loader.js</code></p>
-<ul>
-<li>먼저 <code>@github/copilot-${platform}-${arch}</code> 네이티브 실행 파일을 시도한다.</li>
-<li>실패 시 Node.js 24+를 요구하고 <code>index.js</code>로 넘어간다.</li>
-</ul>
-</li>
-<li>
-<p><code>index.js</code></p>
-<ul>
-<li>auto-update cache 탐색</li>
-<li>restart 파일 처리</li>
-<li>signal forwarding</li>
-<li>preload/extension bootstrap 분기</li>
-<li>최종적으로 <code>app.js</code> import</li>
-</ul>
-</li>
-<li>
-<p><code>app.js</code></p>
-<ul>
-<li>실제 제품 런타임 단일 번들</li>
-<li>CommonJS-style wrapper <code>k((...))</code>, initializer <code>W(() => {})</code>, interop import <code>Me(...)</code>, export preamble <code>var X = {}; ac(X, ...)</code> 패턴 포함</li>
-</ul>
-</li>
+<li>터미널에서 작업할 폴더로 이동한 뒤 <code>copilot</code>을 실행해요.</li>
 </ol>
-<h2>3. 복원 파이프라인</h2>
-<p><code>151_copilot_cli/PLAN.md</code>에 고정한 현재 decode 경로는 다음이다.</p>
-<p><code>npm-package/app.js -> extracted/app.pretty.js -> reconstructed/ -> reconstructed_v2/ -> decoded/</code></p>
-<p>구성은 다음과 같다.</p>
+<pre><code class="language-bash">copilot
+</code></pre>
+<ol start="2">
+<li>아직 로그인 전이라면 "<code>/login</code> 명령으로 로그인하라"는 안내가 떠요. 그대로 채팅창에 <code>/login</code>을 입력해 주세요.</li>
+</ol>
+<pre><code class="language-text">> /login
+</code></pre>
+<ol start="3">
+<li>화면 안내에 따라 웹 브라우저에서 깃허브 계정으로 로그인하면 인증이 끝나요. 한 번 해두면 다음부터는 다시 묻지 않아요.</li>
+</ol>
+<p>구독이 유효한 계정이라면 로그인 직후 바로 터미널에서 코파일럿에게 부탁할 수 있어요.</p>
+<h2>막힐 때 팁</h2>
 <ul>
-<li>
-<p><code>151_copilot_cli/extracted/app.pretty.js</code></p>
-<ul>
-<li><code>app.js</code>를 prettier로 정리한 읽기용 번들</li>
-<li>총 <code>519,812</code> 줄</li>
+<li><code>npm</code> 명령을 실행할 수 없다고 나올 때는 Node.js(자바스크립트 실행 환경) 프로그램이 제대로 깔려 있는지 점검해 주세요.</li>
+<li>만약 구버전 경로(GitHub CLI 확장 기능)를 이미 쓰고 계신다면, 공식 가이드를 참조해서 최신 전용 패키지로 업데이트해 보시는 것을 적극 권장해요.</li>
 </ul>
-</li>
-<li>
-<p><code>151_copilot_cli/reconstructed/</code></p>
-<ul>
-<li><code>k((...))</code> 기준 1차 분해</li>
-<li>총 <code>1,087</code> 청크</li>
-<li><code>prelude 1</code>, <code>cjs_module 1086</code></li>
-</ul>
-</li>
-<li>
-<p><code>151_copilot_cli/reconstructed_v2/</code></p>
-<ul>
-<li><code>export</code>, <code>cjs_module</code>, <code>init_wrapper</code>, <code>esm_import</code> 기준 2차 분해</li>
-<li>총 <code>1,800</code> 청크</li>
-<li><code>prelude 1</code></li>
-<li><code>export 33</code></li>
-<li><code>cjs_module 1086</code></li>
-<li><code>init_wrapper 410</code></li>
-<li><code>esm_import 270</code></li>
-<li><code>features.json</code>에 <code>semanticName</code>, <code>canonicalPackage</code>, <code>canonicalSourcePath</code> 저장</li>
-</ul>
-</li>
-<li>
-<p><code>151_copilot_cli/vendor-sources/</code></p>
-<ul>
-<li><code>undici</code>, <code>yaml</code>, <code>commander</code>, <code>signal-exit</code> 원본 후보 패키지 동기화</li>
-<li>semantic token overlap 기반 vendor fingerprint 매칭 입력</li>
-<li>예: <code>0034_cjs_module_rfn.js</code> → <code>undici/lib/dispatcher/balanced-pool.js</code></li>
-</ul>
-</li>
-<li>
-<p><code>151_copilot_cli/decoded/</code></p>
-<ul>
-<li><code>features.json</code> 기반 휴리스틱 분류 + package/semantic name 추론 트리</li>
-<li>상위 디렉터리:
-<ul>
-<li><code>00_bootstrap</code>, <code>01_core</code>, <code>02_session</code>, <code>03_agents</code>, <code>05_tui</code>, <code>06_auth</code>, <code>07_config</code>, <code>08_mcp</code>, <code>09_lsp</code>, <code>10_sdk</code>, <code>11_search</code>, <code>12_worker</code>, <code>13_export_surface</code>, <code>90_native</code>, <code>90_vendor</code>, <code>91_vendor</code>, <code>98_unclassified</code></li>
-</ul>
-</li>
-<li>현재 vendor 하위 패키지 분리:
-<ul>
-<li><code>90_vendor/undici</code></li>
-<li><code>90_vendor/signal-exit</code></li>
-<li><code>90_vendor/commander</code></li>
-<li><code>90_vendor/yaml</code></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h2>4. 현재까지 읽히는 제품 성격</h2>
-<p>복원된 패키지 표면만 봐도 몇 가지는 확실하다.</p>
-<ul>
-<li>
-<p><strong>bundle-first 제품</strong>이다.</p>
-<ul>
-<li>앱 로직은 공개 repo보다 npm artifact에 더 많이 드러난다.</li>
-</ul>
-</li>
-<li>
-<p><strong>에이전트 역할이 내장 정의 파일로 노출</strong>된다.</p>
-<ul>
-<li><code>definitions/task.agent.yaml</code></li>
-<li><code>definitions/explore.agent.yaml</code></li>
-<li><code>definitions/research.agent.yaml</code></li>
-<li><code>definitions/code-review.agent.yaml</code></li>
-</ul>
-</li>
-<li>
-<p><strong>확장 표면이 SDK로 별도 노출</strong>된다.</p>
-<ul>
-<li><code>sdk/index.js</code></li>
-<li><code>copilot-sdk/index.js</code></li>
-<li><code>preloads/extension_bootstrap.mjs</code></li>
-</ul>
-</li>
-<li>
-<p><strong>검색과 코드 인텔리전스 자산을 패키지에 동봉</strong>한다.</p>
-<ul>
-<li>ripgrep 바이너리</li>
-<li>tree-sitter wasm</li>
-<li>highlight query <code>.scm</code></li>
-<li>LSP 설정 문서 표면</li>
-</ul>
-</li>
-<li>
-<p><strong>네이티브/플랫폼 결합이 강하다.</strong></p>
-<ul>
-<li><code>pty</code>, <code>keytar</code>, <code>conpty</code>, clipboard, sharp wasm/native 자산이 함께 배포된다.</li>
-</ul>
-</li>
-</ul>
-<h2>5. 한계</h2>
-<p>이 분석에는 분명한 한계가 있다.</p>
-<ul>
-<li>공개 저장소에 실제 앱 소스가 없으므로, 원본 디렉터리 구조를 정확히 재현할 수는 없다.</li>
-<li>변수명과 모듈명 다수가 번들 난독화된 심볼이다.</li>
-<li>현재 <code>decoded/</code>는 완전한 원본 복원이 아니라, 읽기 쉬운 스캐폴드에 가깝다.</li>
-</ul>
-<p>그럼에도 구조적 가치는 충분하다. 공개 저장소만 봐서는 보이지 않던 제품의 실제 표면, 부트스트랩, SDK, 내장 에이전트 정의, 네이티브 의존성, 검색/파서 자산을 <code>151_copilot_cli/</code> 트리에서 직접 읽을 수 있게 만들었기 때문이다.</p>
-<p>현재는 단순 split을 넘어, 예를 들어 다음처럼 패키지/의미 이름까지 복원된다.</p>
-<ul>
-<li><code>0034</code> → <code>91_vendor/undici/0034_cjs_module_undici_BalancedPool.js</code></li>
-<li><code>0035</code> → <code>91_vendor/undici/0035_cjs_module_undici_Agent.js</code></li>
-<li><code>0848</code> → <code>91_vendor/http-proxy-agent/0848_cjs_module_http-proxy-agent_HttpProxyAgent.js</code></li>
-<li><code>1225</code>, <code>1241</code> → <code>91_vendor/signal-exit/*_signal-exit_index.js</code></li>
-</ul>
-<h2>코퍼스 — 000_overview/00_cp_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_cp_tui.md</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_cp_prompt.md</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_cp_tool.md</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_cp_skill.md</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_cp_subagent.md</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_cp_surface.md</code></td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_cp_sandbox.md</code></td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_cp_config.md</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_cp_mcp.md</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_cp_memory.md</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_cp_plugin.md</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_cp_guardian.md</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_cp_web-search.md</code></td>
-</tr>
-</tbody>
-</table>
-6:["$","$L2d","02-what-is-copilot",{"id":"02-what-is-copilot","order":2,"tier":"core","title":"하네스 한눈에","description":"000_overview/00_cp_overview.md","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
-7:["$","$L2d","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치 & 인증","description":"설치 & 인증","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설치 &#x26; 인증</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<blockquote>\n<p>path:line 또는 fenced block 없음 — 아래 심화 본문 참조.</p>\n</blockquote>\n<h2>본문</h2>\n<h2>설치 &#x26; 인증</h2>\n<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>\n<blockquote>\n<p>See <code>000_overview/00_cp_overview.md</code> and official docs.</p>\n</blockquote>\n"}}]}]
-8:["$","$L2d","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 세션","description":"첫 세션","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>첫 세션</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<blockquote>\n<p>path:line 또는 fenced block 없음 — 아래 심화 본문 참조.</p>\n</blockquote>\n<h2>본문</h2>\n<h2>첫 세션</h2>\n<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>\n<blockquote>\n<p>See <code>000_overview/00_cp_overview.md</code> and official docs.</p>\n</blockquote>\n"}}]}]
-9:["$","$L2d","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"에이전트 루프","description":"에이전트 루프","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>에이전트 루프</li>\n<li>Copilot CLI 루프</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<blockquote>\n<p>path:line 또는 fenced block 없음 — 아래 심화 본문 참조.</p>\n</blockquote>\n<h2>본문</h2>\n<h2>에이전트 루프</h2>\n<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>\n<h2>Copilot CLI 루프</h2>\n<p>Ink TUI → bootstrap chain → MCP/tools.</p>\n<blockquote>\n<p><code>000_overview/00_cp_overview.md</code></p>\n</blockquote>\n"}}]}]
-a:["$","$L2d","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정 & 모델","description":"설정 & 모델","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>CLI / env / 프로젝트 설정 파일 계층.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설정 &#x26; 모델</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<blockquote>\n<p>path:line 또는 fenced block 없음 — 아래 심화 본문 참조.</p>\n</blockquote>\n<h2>본문</h2>\n<h2>설정 &#x26; 모델</h2>\n<p>CLI / env / 프로젝트 설정 파일 계층.</p>\n<blockquote>\n<p>See <code>000_overview/00_cp_overview.md</code> and official docs.</p>\n</blockquote>\n"}}]}]
-31:T14e3,<h2>기초 설명</h2>
+7:["$","$L2d","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치하고 준비하기","description":"설치 + 로그인 준비 + 막힐 때 팁","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2f"}}]}]
+8:["$","$L2d","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 사용 5분","description":"따라 하면 되는 첫 실습","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>5분이면 충분해요</h2>\n<p>따분하게 길게 배울 필요 없이, 평소에 가장 많이 헷갈려하는 깃(git) 명령어를 코파일럿에게 물어보고 실제로 작동시켜 볼게요.</p>\n<h2>따라 해보기</h2>\n<ol>\n<li>내 깃 저장소나 테스트 폴더로 이동해요.</li>\n</ol>\n<pre><code class=\"language-bash\">cd 내-코드-폴더\n</code></pre>\n<ol start=\"2\">\n<li>터미널 창에 <code>copilot</code>이라고 치고 그 뒤에 한글로 물어볼 말을 적어주세요.</li>\n</ol>\n<pre><code class=\"language-bash\">copilot \"마지막 커밋 메시지 수정하는 명령어 알려줘\"\n</code></pre>\n<ol start=\"3\">\n<li>코파일럿이 추천 명령어를 탐색한 뒤 화면에 깔끔하게 보여줘요. 그 명령어가 어떤 역할을 하는지도 한글로 요약해서 친절하게 설명해 줘요.</li>\n<li>화면 아래에 선택 메뉴가 나타나면 키보드 방향키로 <code>Execute command</code>(명령어 실행)를 선택하고 엔터 키를 누르면 바로 실행돼요.</li>\n</ol>\n<h2>결과 확인하기</h2>\n<p><code>git log</code>를 쳐보면 마지막 커밋 메시지를 적는 편집 창이 새로 열리거나 수정된 결과를 곧바로 확인해 볼 수 있어요. 직접 복사하거나 칠 필요가 없어서 오타 걱정도 없어요.</p>\n<h2>자주 쓰는 한 가지</h2>\n<p>특정 쉘 환경(bash, zsh 등)에서 더 편하게 쓰기 위해 별칭(alias)을 등록하면 물어보는 과정이 훨씬 단축돼요.</p>\n<pre><code class=\"language-bash\"># zsh를 쓰신다면 이런 별칭을 등록해서 써보세요\nalias ??=\"copilot\"\n</code></pre>\n<p>이렇게 등록해 두면 터미널 창에 <code>?? \"원하는 명령어\"</code> 형식으로 정말 빠르게 물어볼 수 있어요. 다음 장에서는 매일 쓰는 흐름과 꿀팁을 알아볼게요.</p>\n"}}]}]
+9:["$","$L2d","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"매일 이렇게 써요","description":"실제 일상 사용 흐름과 비결","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>매일 쓰는 흐름은 단순해요</h2>\n<p>업무 중에 터미널 명령어를 다룰 때면 자연스럽게 이 세 단계를 거치게 돼요.</p>\n<ol>\n<li>기억나지 않는 복잡한 명령어(예: 특정 확장자 파일만 찾아서 압축하기 등)를 말로 질문해요.</li>\n<li>코파일럿이 알려준 명령어 스크립트와 주석(설명글)을 꼼꼼하게 읽어봐요.</li>\n<li>안전하다고 판단되면 실행 키(Execute)를 눌러서 작업을 완료해요.</li>\n</ol>\n<h2>알아두면 편한 메뉴 선택</h2>\n<p>명령어를 제안받은 직후 하단에 표시되는 3가지 선택지를 활용해 보세요.</p>\n<ul>\n<li><code>Execute command</code> — 설명글대로 터미널에서 명령을 즉시 동작시켜요</li>\n<li><code>Copy command to clipboard</code> — 클립보드에 임시 저장해서 원하는 곳에 수동으로 붙여넣어요</li>\n<li><code>Revise command</code> — 인공지능에게 질문을 다시 해서 명령을 조금 수정해 달라고 요청해요</li>\n</ul>\n<h2>명확한 맥락을 주면 대답을 잘해요</h2>\n<p>단순히 \"삭제 명령어\"라고 묻는 것보다 \"하위 폴더에 있는 모든 log 확장자 파일만 다 삭제하는 명령어\"처럼 목적을 명확히 명시하면 코파일럿이 더 정확하고 안전한 유틸리티 옵션을 찾아서 가르쳐 줘요.</p>\n<h2>실행 전에 꼭 확인해 보세요</h2>\n<p>코파일럿은 가이드일 뿐이에요. 특히 서버를 포맷하거나 모든 디렉토리를 지우는 민감한 유틸리티 명령어는 실행을 수락하기 전에 화면에 적힌 한국어 주석 설명을 정독하는 방식을 추천해 드려요.</p>\n"}}]}]
+a:["$","$L2d","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정하고, 더 배우기","description":"내 입맛대로 설정 + 다음 단계 안내","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>내 입맛대로 설정하기</h2>\n<p>Copilot CLI는 쉘의 성격에 맞춰 설정을 바꿀 수 있어요. 특히 단축 명령어 지정이나 제안 언어 등을 취향에 맞게 조정할 수 있는 설정 파일들을 제공해요.</p>\n<pre><code class=\"language-bash\"># 기본적으로 코파일럿 기능이 어떤 설정을 쓰는지 요약해서 보려면 아래 명령을 이용하세요\ncopilot --help\n</code></pre>\n<p>깃허브 계정에 연동된 구독 만료 기한이나 결제 플랜을 확인하고 싶다면 GitHub 계정 설정 페이지에서 관리할 수 있어요.</p>\n<h2>토큰 사용량 아끼기</h2>\n<p>너무 광범위하고 모호한 말로 매번 호출하는 것보다는, 쉘 이력을 똑똑하게 관리하고 검색을 보조하는 용도로 명확히 범위를 좁혀 사용할 때 응답 속도가 훨씬 빠르고 쾌적해요.</p>\n<h2>다음 단계로</h2>\n<p>여기까지 공부하셨다면 일상적인 터미널 작업에서 든든한 AI 비서를 확보하신 셈이에요. 더 앞으로 나아가려면 아래 단계를 추천드려요.</p>\n<ul>\n<li>매일 작성하는 git 명령어 헬퍼로 지정해서 실무 효율을 높여요</li>\n<li>오류가 터졌을 때 콘솔 로그를 그대로 복사해서 코파일럿에게 해결책을 물어봐요</li>\n<li>쉘 단축 별칭을 여러 개 등록해서 터미널 사용 속도를 극대화해요</li>\n</ul>\n<p>만약 \"쉘 환경에서 코파일럿이 세션을 중간에 가로채고(interceptor), 실행 제어권을 운영체제(OS)와 어떻게 유기적으로 주고받는지\"와 같은 심층 메커니즘이 궁금하시다면 상단 메뉴의 <strong>개발자 문서</strong>를 참고해 보세요.</p>\n<p>여기까지 따라오시느라 고생하셨어요. 이제 나만의 스마트한 터미널 환경을 맘껏 즐겨보세요! 😊</p>\n"}}]}]
+30:T14e3,<h2>기초 설명</h2>
 <p>Copilot CLI는 공개 저장소(<code>github/copilot-cli</code>)에 앱 소스가 없다. 실제 런타임은 npm 패키지 <code>@github/copilot</code>에 번들된 형태로만 배포된다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1722,8 +810,8 @@ npm 배포물 (151_copilot_cli/npm-package/):
 └── INDEX.json          → 전체 인덱스 (896KB)
 </code></pre>
 <hr>
-b:["$","$L2d","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 분석 입력물과 복원 파이프라인","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
-32:Tda6,<h2>기초 설명</h2>
+b:["$","$L2d","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 분석 입력물과 복원 파이프라인","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
+31:Tda6,<h2>기초 설명</h2>
 <p>User->>NL: copilot 실행
 NL->>NL: 네이티브 바이너리 시도 (@github/copilot-${platform}-${arch})
 alt 네이티브 바이너리 존재
@@ -1826,8 +914,8 @@ sequenceDiagram
   yaml, commander, http-proxy-agent, https-proxy-agent
 </code></pre>
 <hr>
-c:["$","$L2d","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 시스템 기동","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
-33:Ta11,<h2>기초 설명</h2>
+c:["$","$L2d","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 시스템 기동","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
+32:Ta11,<h2>기초 설명</h2>
 <p>Copilot CLI는 표준 Ink가 아닌 <strong>커스텀 Ink 런타임</strong>(<code>k4e</code> 클래스)을 사용한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1885,8 +973,8 @@ c:["$","$L2d","07-overview-02",{"id":"07-overview-02","order":8,"tier":"develope
   → 색상 모드 전환 시 모든 토큰이 동시에 변경
 </code></pre>
 <hr>
-d:["$","$L2d","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. TUI 설계","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
-34:T1061,<h2>기초 설명</h2>
+d:["$","$L2d","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. TUI 설계","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
+33:T1061,<h2>기초 설명</h2>
 <p>Truncation 3단계:
 Stage 1: 비필수 tool_call 메시지 제거
 Stage 2: 오래된 user 메시지 제거
@@ -2005,8 +1093,8 @@ Truncation 3단계:
   → 토큰 카운트에서 reasoning은 별도 관리
 </code></pre>
 <hr>
-e:["$","$L2d","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 프롬프트 조립과 컨텍스트 관리","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-35:Tf50,<h2>기초 설명</h2>
+e:["$","$L2d","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 프롬프트 조립과 컨텍스트 관리","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
+34:Tf50,<h2>기초 설명</h2>
 <p>이벤트 분류:
 핵심:       session.start, session.end, message.create
 도구:       tool.call, tool.result, tool.execution_progress
@@ -2113,8 +1201,8 @@ ACP 프로토콜:
   possiblePaths: 영향받는 파일 경로
 </code></pre>
 <hr>
-f:["$","$L2d","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 도구 런타임 (ACP)","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
-36:T13d7,<h2>기초 설명</h2>
+f:["$","$L2d","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 도구 런타임 (ACP)","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+35:T13d7,<h2>기초 설명</h2>
 <p>에이전트는 <code>definitions/*.agent.yaml</code>에 선언적으로 정의된다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2252,8 +1340,8 @@ prompt: |
   {{mcpSchema}}   → MCP 서버 스키마
 </code></pre>
 <hr>
-10:["$","$L2d","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 에이전트 시스템 (YAML 선언)","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:Td32,<h2>기초 설명</h2>
+10:["$","$L2d","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 에이전트 시스템 (YAML 선언)","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
+36:Td32,<h2>기초 설명</h2>
 <ol start="2">
 <li>Git Push:
 → 자동 브랜치 생성 (copilot/)
@@ -2354,8 +1442,8 @@ agent.selected   → 에이전트 선택 (UI 포커스)
 agent.deselected → 에이전트 선택 해제
 </code></pre>
 <hr>
-11:["$","$L2d","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. 서브에이전트와 원격 위임","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
-38:T918,<h2>기초 설명</h2>
+11:["$","$L2d","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. 서브에이전트와 원격 위임","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
+37:T918,<h2>기초 설명</h2>
 <p>MCP 설정 3파일:</p>
 <ol>
 <li>mcp-config.json      → Copilot 전용 MCP</li>
@@ -2427,8 +1515,8 @@ MCP 설정 3파일:
   → 2단계 검증으로 안전한 설정 변경
 </code></pre>
 <hr>
-12:["$","$L2d","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 설정 시스템","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
-39:T66f,<h2>기초 설명</h2>
+12:["$","$L2d","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 설정 시스템","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
+38:T66f,<h2>기초 설명</h2>
 <p>MCP 권한:
 kind = mcp
 readOnly 도구 → 자동 승인
@@ -2486,8 +1574,8 @@ MCP 권한:
   resource → MCP 리소스 참조
 </code></pre>
 <hr>
-13:["$","$L2d","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. MCP 통합","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
-3a:Ta33,<h2>기초 설명</h2>
+13:["$","$L2d","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. MCP 통합","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+39:Ta33,<h2>기초 설명</h2>
 <p>세션 통계:
 모델별 집계: requests, usage (input/output tokens), cost
 코드 메트릭: linesAdded, linesRemoved, filesModified</p>
@@ -2577,8 +1665,8 @@ quotaSnapshots:
   → 에이전트가 자율적으로 학습/저장
 </code></pre>
 <hr>
-14:["$","$L2d","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 메모리와 세션 관리","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:T826,<h2>기초 설명</h2>
+14:["$","$L2d","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 메모리와 세션 관리","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
+3a:T826,<h2>기초 설명</h2>
 <p>정적 분석 (커맨드):
 identifier:      명령 식별자 추출 (예: "rm", "git push")
 readOnly:        읽기 전용 명령인지 판단
@@ -2636,8 +1724,8 @@ AI Safety:
   → 시스템 프롬프트에 안전 지침 주입
 </code></pre>
 <hr>
-15:["$","$L2d","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 보안과 승인","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:T5ed,<h2>기초 설명</h2>
+15:["$","$L2d","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 보안과 승인","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+3b:T5ed,<h2>기초 설명</h2>
 <p>네이티브 모듈 (5 플랫폼):
 node-pty               → 의사 터미널
 keytar                 → OS 키체인 (인증 토큰)
@@ -2687,8 +1775,8 @@ conpty                 → Windows 콘솔 PTY</p>
   win32-x64
 </code></pre>
 <hr>
-16:["$","$L2d","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"12. 검색과 코드 인텔리전스","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
-3d:Te49,<h2>기초 설명</h2>
+16:["$","$L2d","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"12. 검색과 코드 인텔리전스","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
+3c:Te49,<h2>기초 설명</h2>
 <p>subgraph TUI["TUI"]
 Ink["커스텀 Ink 런타임"]
 APCA["APCA 색상 과학"]
@@ -2825,8 +1913,8 @@ end</p>
     SM --> PR --> Poll
 </code></pre>
 <hr>
-17:["$","$L2d","07-overview-13",{"id":"07-overview-13","order":19,"tier":"developer","title":"13. 에이전트 루프 요약","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
-3e:T148b,<h2>기초 설명</h2>
+17:["$","$L2d","07-overview-13",{"id":"07-overview-13","order":19,"tier":"developer","title":"13. 에이전트 루프 요약","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+3d:T148b,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3077,8 +2165,8 @@ end</p>
 </tbody>
 </table>
 <hr>
-18:["$","$L2d","07-overview-14",{"id":"07-overview-14","order":20,"tier":"developer","title":"14. 3사 비교 분석: Codex CLI vs Claude Code vs Copilot CLI","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:T87a,<h2>기초 설명</h2>
+18:["$","$L2d","07-overview-14",{"id":"07-overview-14","order":20,"tier":"developer","title":"14. 3사 비교 분석: Codex CLI vs Claude Code vs Copilot CLI","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+3e:T87a,<h2>기초 설명</h2>
 <ol>
 <li><strong>색상 과학</strong>: APCA 대비 강제 + LAB 보간은 3사 중 유일한 학술 수준 구현</li>
 <li><strong>자동 컨텍스트 압축</strong>: 80%/95% 임계값 비동기 압축은 Claude Code의 수동 <code>/compact</code>보다 진보</li>
@@ -3120,8 +2208,8 @@ end</p>
 <li><strong>난독화</strong>: 식별자 ~30% 미복원, 정확한 내부 동작 파악에 한계</li>
 </ol>
 <hr>
-19:["$","$L2d","07-overview-15",{"id":"07-overview-15","order":21,"tier":"developer","title":"15. 종합 평가","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:T918,<h2>기초 설명</h2>
+19:["$","$L2d","07-overview-15",{"id":"07-overview-15","order":21,"tier":"developer","title":"15. 종합 평가","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
+3f:T918,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3228,8 +2316,8 @@ end</p>
 </tbody>
 </table>
 <hr>
-1a:["$","$L2d","07-overview-16",{"id":"07-overview-16","order":22,"tier":"developer","title":"16. 문서 네비게이션","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:Tf7de,<h2>기초 설명</h2>
+1a:["$","$L2d","07-overview-16",{"id":"07-overview-16","order":22,"tier":"developer","title":"16. 문서 네비게이션","description":"000_overview/00_cp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
+40:Tf7de,<h2>기초 설명</h2>
 <p>Copilot CLI의 TUI는 <strong>Ink 프레임워크 기반 React 터미널 앱</strong>이다. <code>cleanup.js</code>에 전체 Ink 런타임 인스턴스(<code>k4e</code> 클래스)가 포함되어 있고, <code>ink-renderer.js</code>가 2D 그리드 기반 렌더러(<code>OutputBuffer</code>)를 구현하며, <code>slash-promises.js</code>에 <strong>APCA 대비 강제 + LAB 색상 보간 + 4가지 색상 모드</strong>의 독자적 색상 과학 시스템이 포함된다. <code>terminal-info.js</code>에서는 <strong>Kitty 키보드 프로토콜 감지</strong>와 터미널 색상 텔레메트리가 확인된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4792,8 +3880,8 @@ function ErrorDisplay({ error }) {
 </tbody>
 </table>
 <p>Re-verify decompiled paths when <code>151_copilot_cli</code> artifact version changes.</p>
-1b:["$","$L2d","20-axis-01-tui",{"id":"20-axis-01-tui","order":23,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_cp_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:Ta88b,<h2>기초 설명</h2>
+1b:["$","$L2d","20-axis-01-tui",{"id":"20-axis-01-tui","order":23,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_cp_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
+41:Ta88b,<h2>기초 설명</h2>
 <p>Copilot CLI의 프롬프트/컨텍스트 관리는 세 가지 핵심 시스템으로 구성된다: (1) <strong>YAML 에이전트 정의</strong>로 프롬프트 구성 요소를 선언적으로 토글, (2) <strong>BasicTruncator</strong> (<code>d9</code> 클래스)로 토큰 예산 기반 다단계 truncation, (3) <strong>CompactionProcessor</strong> (<code>She</code> 클래스)로 백그라운드 비동기 컨텍스트 압축. 특히 reasoning_text 보존, invoked_skills 주입, plan/todo 상태 전달이 압축 과정에서 유실 없이 처리되는 점이 독특하다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5836,8 +4924,8 @@ function hse(operation, cwd, userInstructions, mergeStrategy) {
 </tr>
 </tbody>
 </table>
-1c:["$","$L2d","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":24,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_cp_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T100a1,<h2>기초 설명</h2>
+1c:["$","$L2d","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":24,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_cp_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
+42:T100a1,<h2>기초 설명</h2>
 <p>Copilot CLI의 도구 런타임은 <strong>ACP (Agent Communication Protocol)</strong> 기반이다. ACP는 60+ 이벤트 타입의 Zod 스키마로 정의된 양방향 프로토콜로, 도구 실행의 전 생명주기(요청 → 권한 → 실행 → 부분 결과 → 완료)를 타입-안전하게 추적한다. 다른 에이전트들이 도구를 "호출(call)"하는 구조인 반면, Copilot CLI는 도구 실행을 "이벤트 스트림"으로 다루는 점이 가장 큰 구조적 차별점이다. 즉 <strong>도구 런타임이 곧 이벤트 프로토콜 런타임</strong>이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7443,8 +6531,8 @@ var assistantUsage = BaseEvent.extend({
 <li>2026-03-26: ACP 이벤트 스키마, 권한 시스템 8종, 도구 결과 이중 경로 분석.</li>
 <li>2026-03-26: BasicTruncator 3단계 절삭 엔진 (도구 호출 기반 → 메시지 기반 → 전역), CompactionProcessor 비동기 LLM 요약 + reasoning 보존 메커니즘, 에러 기반 토큰 한도 동적 조정, external_tool 위임 프로토콜, Elicitation JSON Schema 폼, tool_search_tool_regex 도구 발견, 훅 이벤트 라이프사이클, 세션 상태 이벤트 (tools_updated, skills_loaded, mcp_servers_loaded, extensions_loaded), assistant.usage nano-AIU 과금 추적, session.shutdown 메트릭 — 전체를 역공학 상세로 보강.</li>
 </ul>
-1d:["$","$L2d","20-axis-03-tool",{"id":"20-axis-03-tool","order":25,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_cp_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:Td400,<h2>기초 설명</h2>
+1d:["$","$L2d","20-axis-03-tool",{"id":"20-axis-03-tool","order":25,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_cp_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+43:Td400,<h2>기초 설명</h2>
 <p>Copilot CLI의 스킬 시스템은 <strong>6-소스 스킬 로더 + YAML 에이전트 정의 + Skill 도구 + 플러그인 매니페스트</strong>가 통합된 구조다. 5개의 선언적 <code>.agent.yaml</code> 파일이 서브에이전트로 기능하면서, 동시에 SKILL.md 기반 사용자 스킬과 <code>.claude/commands/</code> 기반 커맨드가 같은 파이프라인에서 로딩되어 <code>&#x3C;available_skills></code> XML 블록으로 모델에 노출된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -8742,8 +7830,8 @@ var subagentDeselected = BaseEvent.extend({
 <li>2026-03-26: 초기 작성. 에이전트 YAML 정의와 ACP 이벤트 스키마 중심.</li>
 <li>2026-03-26: 역공학 심화. <code>spawn-sync-_parse.js</code> 기반 6-source 로딩 파이프라인, SKILL.md/Command frontmatter Zod 스키마, inode+이름 중복 제거, 캐싱, 시맨틱 검색 인덱싱, 토큰 제한 렌더링, allowed-tools 별칭 정규화, 플러그인 매니페스트 스키마, 컨텍스트 압축 시 스킬 보존, 텔레메트리 이벤트 전체를 소스 코드 수준에서 분석.</li>
 </ul>
-1e:["$","$L2d","20-axis-04-skill",{"id":"20-axis-04-skill","order":26,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_cp_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:T7c05,<h2>기초 설명</h2>
+1e:["$","$L2d","20-axis-04-skill",{"id":"20-axis-04-skill","order":26,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_cp_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
+44:T7c05,<h2>기초 설명</h2>
 <p>Copilot CLI의 서브에이전트/협업은 <strong>세 가지 독립된 메커니즘</strong>으로 구성된다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9650,8 +8738,8 @@ if (authHost !== repoInfo.repositoryHost)
 <li>2026-03-26: 초기 작성. RemoteDelegationManager 5단계 상태 머신 + ACP 이벤트 분석.</li>
 <li>2026-03-26: <strong>역공학 보강.</strong> TrajectoryWriter의 XML 서브에이전트 태그 구현, 4단계 텔레메트리 이벤트(해시 익명화, tool_count 메트릭, properties/restrictedProperties 분리), 방화벽 로그 통합, reasoning_text 기록, 6개 에이전트 대비 비교표 추가.</li>
 </ul>
-1f:["$","$L2d","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":27,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_cp_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-46:T7541,<h2>기초 설명</h2>
+1f:["$","$L2d","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":27,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_cp_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
+45:T7541,<h2>기초 설명</h2>
 <p>Copilot CLI는 <strong>3단계 부트스트랩 체인</strong>(Electron preload → Worker → SDK)과 <strong>다중 서피스</strong>(CLI, VS Code Extension, Worker Process)를 가진다. 흥미롭게도 지금까지 분석한 에이전트 중 <strong>가장 넓은 모델 카탈로그</strong>(20+ 모델, 4개 제공사)와 <strong>가장 정교한 에이전트 정의 시스템</strong>(YAML 기반 5종 내장 에이전트)을 가지고 있다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10617,8 +9705,8 @@ const ContentExclusionConfig = z.object({
 <li>2026-03-26: 초기 문서 작성 (3단계 부트스트랩, decoded 트리 구조, 번들 사이즈).</li>
 <li>2026-03-26: 역공학 심화. 모델 해석 시스템(20+ 모델, 6단계 우선순위), YAML 에이전트 정의(5종, Zod 스키마), 피처 플래그 시스템(25+ 플래그, 5단계 가용성), Content Exclusion, GitHub OAuth 인증, 세션 스토어, 5개 에이전트 비교를 추가.</li>
 </ul>
-20:["$","$L2d","20-axis-06-surface",{"id":"20-axis-06-surface","order":28,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_cp_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:Ta699,<h2>기초 설명</h2>
+20:["$","$L2d","20-axis-06-surface",{"id":"20-axis-06-surface","order":28,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_cp_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
+46:Ta699,<h2>기초 설명</h2>
 <p>Copilot CLI는 <strong>OS 수준 샌드박스가 없다</strong>. Codex의 seatbelt/bubblewrap/restricted token이나 Claude Code의 <code>sandbox-exec</code> + <code>bwrap</code> 래핑과 근본적으로 다르다. 대신 세 개의 레이어로 보안을 관리한다. 첫째, <strong>tree-sitter 기반 명령 파서</strong>가 셸 명령을 AST로 분석해 각 명령의 <code>readOnly</code> 여부를 판정한다. 둘째, <strong>7가지 Zod 스키마 기반 권한 요청 시스템</strong>이 도구별 승인을 관리한다. 셋째, <strong>3-tier 승인 모델</strong>(once/session/location)이 승인 피로를 줄인다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11662,8 +10750,8 @@ const noopAssessor = async (shellType, command) => ({
 <li>2026-03-26: Copilot CLI 샌드박스를 7가지 권한 종류, PTY 기반 터미널, 디렉토리 기반 권한 다이얼로그로 초기 분석.</li>
 <li>2026-03-26: tree-sitter 기반 명령 파서 심층 분석 추가 — readOnly 분류 체계(40+ 명령), 위험 확장 감지, 환경변수 위험 판정, 3-tier 승인 모델(once/session/location), 폴더 신뢰 모델, SafetyAssessment 구조, 셸 타입 감지, MCP·메모리·custom-tool·hook 승인 분석. 소스 코드 스니펫 15개, Mermaid 다이어그램 2개 추가.</li>
 </ul>
-21:["$","$L2d","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":29,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_cp_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
-48:T8a97,<h2>기초 설명</h2>
+21:["$","$L2d","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":29,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_cp_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
+47:T8a97,<h2>기초 설명</h2>
 <p>Copilot CLI의 설정은 <strong>3계층 MCP-중심 설정</strong> (user/project/workspace), <strong>JSON 기반 설정 스토어</strong> (<code>ir</code> 싱글톤), <strong>configure-copilot AI 에이전트</strong> (설정 자동화), <strong>GitHub Marketplace 통합</strong> (플러그인 생태계)의 4축 구조다. 설정 변경 후 <code>mcp_validate</code> → <code>mcp_reload</code> 2단계 검증 흐름이 강제되며, 플러그인 설치/활성화는 <code>installed_plugins</code> 배열을 통한 JSON write로 원자적으로 관리된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12635,8 +11723,8 @@ description: "MCP 서버 설정을 자동으로 수행하는 전용 에이전트
 <ul>
 <li>2026-03-26: 역공학 기반으로 전면 재작성. 설정 스토어 내부 구조, 명령 히스토리, 출력 버퍼, Marketplace 통합 (3가지 소스 타입, Claude 교차 호환), configure-copilot 에이전트 검증 흐름, 템플릿 변수 시스템, LSP 설정 모듈 9개 추가. 155행→380+행.</li>
 </ul>
-22:["$","$L2d","20-axis-08-config",{"id":"20-axis-08-config","order":30,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_cp_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:Tc224,<h2>기초 설명</h2>
+22:["$","$L2d","20-axis-08-config",{"id":"20-axis-08-config","order":30,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_cp_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
+48:Tc224,<h2>기초 설명</h2>
 <p>Copilot CLI의 MCP는 단순 "외부 도구 한 번 실행"이 아니다. 설정 3계층(user/project/workspace)에서 서버 정의를 모으고, <code>McpHost</code>가 stdio transport로 서버를 시작하고, 3개의 독립 Reporter가 연결 상태를 감시하고, <code>McpToolsProvider</code>가 서버별 도구를 필터링해 agent에 주입하고, 호출 시마다 ACP 이벤트에 MCP 메타데이터를 자동 포함하며, <code>mcp_validate</code>와 <code>mcp_reload</code>로 런타임 설정 반영까지 지원한다. 여기에 MCP 서버가 URL이나 폼 입력을 요청하면 <code>McpElicitationHandler</code>가 TUI 컴포넌트로 처리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -13815,8 +12903,8 @@ const McpbManifestSchema = z.object({
 </ul>
 <p>이전 문서: [[08_cp_config]]
 다음 문서: [[10_cp_memory]]</p>
-23:["$","$L2d","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":31,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_cp_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:Te529,<h2>기초 설명</h2>
+23:["$","$L2d","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":31,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_cp_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
+49:Te529,<h2>기초 설명</h2>
 <p>Copilot CLI의 메모리/세션 시스템은 <strong>CompactionProcessor 기반 2단계 비동기 컨텍스트 압축</strong> + <strong>ACP 세션 이벤트 소싱</strong> + <strong>RemoteSessionExporter 원격 세션 동기화</strong> + <strong>메모리 저장 권한 시스템 (subject/fact/category/citations)</strong> + <strong>워크스페이스 영속화</strong> 로 구성된다. Codex의 2-phase extraction/consolidation 파이프라인과 달리, 세션 간 학습보다 <strong>세션 내 컨텍스트 최적화와 원격 협업 동기화</strong>에 집중하는 설계다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -15235,8 +14323,8 @@ function createProcessors(event, initialCommitHash, tools, userMsgProcessor, ...
 <li>2026-03-26: 초기 분석 — CompactionProcessor 80%/95% 2단계 비동기 압축, ACP 세션 이벤트, OTel 텔레메트리 포함.</li>
 <li>2026-03-26: 역공학 보강 — CompactionProcessor 전체 실행 흐름(preRequest 의사결정 트리, 백그라운드 압축, 결과 적용, 보존 상태 상세), BasicTruncator 동적 토큰 조정, RemoteSessionExporter + CommandPoller + PromptManager 원격 동기화 상세, TurnTelemetryIngestor 턴별 메트릭, 프로세서 파이프라인 아키텍처, SnippyProcessor 코드 일치 차단, 핵심 상수 표 추가.</li>
 </ul>
-24:["$","$L2d","20-axis-10-memory",{"id":"20-axis-10-memory","order":32,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_cp_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-4b:Tc109,<h2>기초 설명</h2>
+24:["$","$L2d","20-axis-10-memory",{"id":"20-axis-10-memory","order":32,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_cp_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
+4a:Tc109,<h2>기초 설명</h2>
 <p>Copilot CLI의 플러그인 시스템은 <strong>PluginStore + Marketplace 통합 + YAML 에이전트 확장 + MCP 서버 도구 확장 + LSP 서버 구성</strong>의 구조다. <code>0632__marketplace.js</code>에서 발견된 <code>oW</code> 클래스(<code>PluginStore</code>)가 플러그인의 설치·제거·업데이트·목록 조회를 통합 관리하며, Git 기반 마켓플레이스와 로컬 소스 모두 지원한다. 이 구조는 Codex의 <code>PluginStore</code>와 유사하지만, Copilot은 <strong>marketplace JSON + plugin.json 이중 매니페스트 모델</strong>을 사용한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -16345,8 +15433,8 @@ async installFromRepo(source) {
 <ul>
 <li>2026-03-26: 역공학 심화 보강 — PluginStore(oW) 클래스 전체 구조 분석, marketplace.json 4개 탐색 경로, GitHub/URL/Local 3종 소스 파이프라인, Git 캐시 관리(fetch+checkout+재클론), 경로 탈출 방지 이중 검증, install/uninstall/update 파이프라인 코드 스니펫, plugin.json 매니페스트 발견 (.codex-plugin 호환), 이름 정규화 규칙, 스킬 카운트 로직, LSP 서버 확장 시스템 분석, saveToConfig 설정 동기화, identity 모델(name+marketplace), find() 조회 패턴 추가. 기존 160줄 → 450줄 이상으로 확장.</li>
 </ul>
-25:["$","$L2d","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":33,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_cp_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
-4c:T787d,<h2>기초 설명</h2>
+25:["$","$L2d","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":33,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_cp_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
+4b:T787d,<h2>기초 설명</h2>
 <p>Copilot CLI의 가디언/승인 시스템은 <strong>7가지 권한 종류</strong> (shell/write/read/mcp/url/memory/custom-tool), <strong>세션 전체 승인</strong> (<code>canOfferSessionApproval</code>), <strong>읽기 전용 플래그</strong> (<code>readOnly</code>), <strong>위험 경고</strong> (<code>warning</code>), <strong>에이전트별 도구 제한</strong> (<code>tools</code> 필드)으로 구성된다. 별도의 가디언 프로세스는 없으며, ACP 이벤트 흐름 내에서 권한 요청/승인이 처리된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -17050,8 +16138,8 @@ function hasDangerousExpansion(containerNode) {
 </ul>
 <p>이전 문서: [[11_cp_plugin]]
 다음 문서: [[13_cp_etc]]</p>
-26:["$","$L2d","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":34,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_cp_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
-4d:T10af1,<h2>기초 설명</h2>
+26:["$","$L2d","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":34,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_cp_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
+4c:T10af1,<h2>기초 설명</h2>
 <p>Copilot CLI(GitHub Copilot Coding Agent CLI)는 dimensions 01-12에 포함되지 않는 교차 관심사들을 다수 보유하고 있다. 특히 <strong>7단계 인증 체계</strong>와 <strong>tree-sitter WASM 기반 코드 분석</strong> 엔진은 Copilot CLI의 핵심 차별점이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -18832,8 +17920,8 @@ getGitHubAskpassToken() {
 </tr>
 </tbody>
 </table>
-27:["$","$L2d","20-axis-13-etc",{"id":"20-axis-13-etc","order":35,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_cp_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
-4e:T5879,<h2>기초 설명</h2>
+27:["$","$L2d","20-axis-13-etc",{"id":"20-axis-13-etc","order":35,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_cp_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
+4d:T5879,<h2>기초 설명</h2>
 <p>Copilot CLI exposes web research through <strong>three cooperating mechanisms</strong>: (1) OpenAI Responses <strong>hosted <code>web_search</code></strong> when the active model advertises <code>webSearch: true</code>, (2) <strong>GitHub MCP</strong> <code>github-mcp-server-web_search</code> aliased to <code>web_search</code> as fallback, and (3) a first-party <strong><code>web_fetch</code></strong> URL reader with markdown simplification.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -19394,8 +18482,8 @@ return s ? `Searching for '${s}'` : "Web search";
 </tr>
 </tbody>
 </table>
-28:["$","$L2d","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":36,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_cp_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
-4f:Td671,<h2>기초 설명</h2>
+28:["$","$L2d","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":36,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_cp_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
+4e:Td671,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -20704,8 +19792,8 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <li>Bundle help trace: <code>39_cr_automations_help_trace.md</code></li>
 <li>Automations bundle keys: <code>37_cr_bundle_refresh_20260626.md</code></li>
 </ul>
-29:["$","$L2d","25-reverse-engineering",{"id":"25-reverse-engineering","order":37,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4f"}}]}]
-50:T25a8,<h2>기초 설명</h2>
+29:["$","$L2d","25-reverse-engineering",{"id":"25-reverse-engineering","order":37,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
+4f:T25a8,<h2>기초 설명</h2>
 <ul>
 <li>2026-03-26: Copilot CLI 역공학 문서를 완전한 역공학 설명 형식으로 대폭 확장. 번들 분석 개요(520K줄 디컴파일 파이프라인), 3단 부트스트랩, APCA 색상 과학, BasicTruncator 3단계 + CompactionProcessor 비동기 압축, ACP 30+ Zod 프로토콜, 7종 Permission Kinds, 5개 YAML 에이전트 정의(실제 yaml 증거 포함), promptParts 5토글, 원격 위임 5단계 상태 머신, MCP-ACP 브릿지, nano-AIU 과금, 3사 비교 분석표 통합.</li>
 </ul>
@@ -20862,7 +19950,7 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>기술 스택: Python + prompt_toolkit + rich + tree-sitter + Git</li>
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
-2a:["$","$L2d","99-next-steps",{"id":"99-next-steps","order":38,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$50"}}]}]
-2b:["$","script","script-0",{"src":"/cli101-portal/sites/copilot-cli/_next/static/chunks/9915c801139d67bd.js","async":true}]
-2c:["$","$L51",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@52"}]}]
-52:null
+2a:["$","$L2d","99-next-steps",{"id":"99-next-steps","order":38,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4f"}}]}]
+2b:["$","script","script-0",{"src":"/cli101-portal/sites/copilot-cli/_next/static/chunks/632d5794df09229a.js","async":true}]
+2c:["$","$L50",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@51"}]}]
+51:null

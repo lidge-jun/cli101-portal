@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:"$Sreact.suspense"
-3:I[73570,["/cli101-portal/sites/codex-cli/_next/static/chunks/1569d02568d582a5.js"],"PageClient"]
-28:I[8038,["/cli101-portal/sites/codex-cli/_next/static/chunks/1569d02568d582a5.js"],"SectionBlock"]
+3:I[73570,["/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js"],"PageClient"]
+28:I[8038,["/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js"],"SectionBlock"]
 4b:I[72949,["/cli101-portal/sites/codex-cli/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/codex-cli/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
-0:{"buildId":"lJ-4faYtgoLAniGtplOwJ","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"en","siteName":"CO101","tagline":"CO101 developer-grade corpus guide","taglineEn":"CO101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_co_overview.md","branding":{"slug":"co101","name":"CO101","tagline_ko":"Codex 입문 + 코퍼스 심화","tagline_en":"Codex intro + corpus depth","accentLabel_ko":"000_overview/00_co_overview.md","accentLabel_en":"000_overview/00_co_overview.md","heroTitle_ko":"로컬 Rust 코딩 에이전트","heroTitle_en":"Local Rust coding agent","heroSubtitle_ko":"개발자 문서 — 34섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 34 sections (000–015 + snippets)","terminalLines":["$$ npm i -g @openai/codex","$$ codex"],"prompt_ko":"> apply_patch로 테스트 추가해줘","prompt_en":"> add tests with apply_patch","ctaHash":"00-before-you-start","officialUrl":"https://github.com/openai/codex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"CO101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-codex","order":2,"tier":"core","slug":"02-what-is-codex","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/02-what-is-codex.md","file_en":"en/02-what-is-codex.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 프롬프트 조립","title_en":"Overview §2","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 라우팅과 실행","title_en":"Overview §3","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 샌드박스 실행","title_en":"Overview §4","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 에이전트 루프","title_en":"Overview §5","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 서브에이전트 시스템","title_en":"Overview §6","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. MCP 통합","title_en":"Overview §7","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 피처 플래그와 설정","title_en":"Overview §8","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 에러 처리","title_en":"Overview §9","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 텔레메트리","title_en":"Overview §10","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 전체 아키텍처 다이어그램","title_en":"Overview §11","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_co_tui.md","description_en":"001_tui-design/01_co_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_co_prompt.md","description_en":"002_prompt-context/02_co_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_co_tool.md","description_en":"003_tool-runtime/03_co_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_co_skill.md","description_en":"004_skill-system/04_co_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_co_subagent.md","description_en":"005_subagents-collab/05_co_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_co_surface.md","description_en":"006_app-server-client-surfaces/06_co_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_co_sandbox.md","description_en":"007_sandbox-exec-policy/07_co_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_co_config.md","description_en":"008_config-system/08_co_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_co_mcp.md","description_en":"009_mcp-orchestration/09_co_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_co_memory.md","description_en":"010_memory-pipeline/10_co_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_co_plugin.md","description_en":"011_plugin-system/11_co_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_co_guardian.md","description_en":"012_guardian-approval/12_co_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_co_etc.md","description_en":"013_etc/13_co_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_co_web-search.md","description_en":"014_web-search/14_co_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],["$L26"],"$L27"]}],"loading":null,"isPartial":false}
+0:{"buildId":"4hDHBOZt0hOvoXHeIYDPn","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"en","siteName":"CO101","tagline":"CO101 developer-grade corpus guide","taglineEn":"CO101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_co_overview.md","branding":{"slug":"co101","name":"CO101","tagline_ko":"Codex 입문 + 코퍼스 심화","tagline_en":"Codex intro + corpus depth","accentLabel_ko":"000_overview/00_co_overview.md","accentLabel_en":"000_overview/00_co_overview.md","heroTitle_ko":"로컬 Rust 코딩 에이전트","heroTitle_en":"Local Rust coding agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ npm i -g @openai/codex","$$ codex"],"prompt_ko":"> apply_patch로 테스트 추가해줘","prompt_en":"> add tests with apply_patch","ctaHash":"00-before-you-start","officialUrl":"https://github.com/openai/codex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"CO101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-codex","order":2,"tier":"core","slug":"02-what-is-codex","title_ko":"Codex가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_co_overview.md","file_ko":"ko/02-what-is-codex.md","file_en":"en/02-what-is-codex.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + 로그인/인증 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 프롬프트 조립","title_en":"Overview §2","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 라우팅과 실행","title_en":"Overview §3","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 샌드박스 실행","title_en":"Overview §4","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 에이전트 루프","title_en":"Overview §5","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 서브에이전트 시스템","title_en":"Overview §6","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. MCP 통합","title_en":"Overview §7","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 피처 플래그와 설정","title_en":"Overview §8","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 에러 처리","title_en":"Overview §9","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 텔레메트리","title_en":"Overview §10","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 전체 아키텍처 다이어그램","title_en":"Overview §11","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_co_tui.md","description_en":"001_tui-design/01_co_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_co_prompt.md","description_en":"002_prompt-context/02_co_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_co_tool.md","description_en":"003_tool-runtime/03_co_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_co_skill.md","description_en":"004_skill-system/04_co_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_co_subagent.md","description_en":"005_subagents-collab/05_co_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_co_surface.md","description_en":"006_app-server-client-surfaces/06_co_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_co_sandbox.md","description_en":"007_sandbox-exec-policy/07_co_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_co_config.md","description_en":"008_config-system/08_co_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_co_mcp.md","description_en":"009_mcp-orchestration/09_co_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_co_memory.md","description_en":"010_memory-pipeline/10_co_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_co_plugin.md","description_en":"011_plugin-system/11_co_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_co_guardian.md","description_en":"012_guardian-approval/12_co_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_co_etc.md","description_en":"013_etc/13_co_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_co_web-search.md","description_en":"014_web-search/14_co_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],["$L26"],"$L27"]}],"loading":null,"isPartial":false}
 29:Tbe9,<h2>Overview</h2>
 <p><strong>Before you start</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
@@ -78,7 +78,7 @@
 | 014 Web | `014_web-search/14_co_web-search.md` |
 </code></pre>
 4:["$","$L28","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"Before you start","description":"000 index + axis map","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$29"}}]}]
-2a:Tdf61,<h2>Overview</h2>
+2a:Tdf63,<h2>Overview</h2>
 <p><strong>Corpus spine (000)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</li>
@@ -717,8 +717,8 @@ docs/
 </table>
 <p>There are <strong>43 pub modules</strong> declared in the <code>src/</code> directory of the single <code>codex-core</code> crate.</p>
 <hr>
-<h2>architecture diagram</h2>
-<h3>full hierarchy</h3>
+<h2>Architecture diagram</h2>
+<h3>Entire hierarchy</h3>
 <pre><code class="language-mermaid">graph TD
     subgraph Surface["표면 계층"]
         TUI["codex-tui"]
@@ -774,7 +774,7 @@ docs/
 
     AppClient --> AppProto
 </code></pre>
-<h3>turn processing sequence</h3>
+<h3>Turn processing sequence</h3>
 <pre><code class="language-mermaid">sequenceDiagram
     participant User as 사용자 입력
     participant Session as Session (codex.rs)
@@ -806,7 +806,7 @@ docs/
     Router-->>Session: tool output 반환
 </code></pre>
 <hr>
-<h2>technical reference</h2>
+<h2>Technical Reference</h2>
 <h3>Core structures and source locations</h3>
 <p>The table below summarizes the structures that form the backbone of the Codex engine and the corresponding source files.</p>
 <table>
@@ -1616,7 +1616,7 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
 <li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
 </ul>
-5:["$","$L28","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"Corpus spine (000)","description":"navigation + canonical map","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2a"}}]}]
+5:["$","$L28","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"Corpus spine (000)","description":"navigation + canonical map","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2a"}}]}]
 2b:T1834,<h2>Overview</h2>
 <p><strong>Harness at a glance</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
@@ -1874,7 +1874,7 @@ Execute `codex` → Call tool in sandbox → Approval/automatically apply → Re
 > 코퍼스 `00_co_overview.md` §5 + `003_tool-runtime/03_co_tool.md`
 </code></pre>
 9:["$","$L28","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"Agent workflow","description":"Agent workflow","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
-2f:T488,<h2>Overview</h2>
+2f:T48b,<h2>Overview</h2>
 <p><strong>Config &#x26; models</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>CLI flags, environment, and project config layers.</li>
@@ -1896,9 +1896,9 @@ Execute `codex` → Call tool in sandbox → Approval/automatically apply → Re
 
 CLI/env/project settings file hierarchy.
 
-## setting
+## Settings
 
-- `~/.codex/config.toml` + project `.codex/`
+- `~/.codex/config.toml` + project `.codex/`  
 - ChatGPT login or API key (`docs/install.md`)
 
 > Corpus `008_config-system/08_co_config.md`
@@ -2307,7 +2307,7 @@ SessionSource enum:
 </code></pre>
 <hr>
 b:["$","$L28","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"Overview §1","description":"000_overview/00_co_overview.md","lang":"en","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
-31:T2e13,<h2>Overview</h2>
+31:T2e14,<h2>Overview</h2>
 <p><strong>Overview §2</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>│  하드코딩된 에이전트 기본 지침                          │</li>
@@ -2438,7 +2438,7 @@ Phase 2: 스킬 주입 (조건부 실행)
   - 시스템 프롬프트가 아닌 사용자 메시지의 일부로 전달
   - 이 구분이 중요한 이유: 모델의 instruction following 방식에 영향
 </code></pre>
-<h3>2.3 Skill injection step 2</h3>
+<h3>2.3 Skill Injection Stage 2</h3>
 <pre><code>Phase 1: 스킬 발견 (항상 실행)
   SkillsManager.load_skills_from_roots()
   → 각 스킬의 SKILL.md frontmatter 읽기
@@ -2454,7 +2454,7 @@ Phase 2: 스킬 주입 (조건부 실행)
   → 토큰 절약: 모든 스킬의 전체 내용을 항상 주입하면 비용 폭증
   → 관련성: LLM이 필요할 때만 상세 지침을 참조
 </code></pre>
-<h3>2.4 Plugin Prompt</h3>
+<h3>2.4 Plugin prompt</h3>
 <pre><code>PluginsManager.get_hints():
   → 설치된 플러그인의 힌트 문자열 수집
   → "Available plugin: [name] — [description]"
@@ -3967,8 +3967,8 @@ AgentRole {
     → 필요한 MCP 서버 자동 설치/시작
 </code></pre>
 <h2>Main analysis</h2>
-<h2>7. MCP integration</h2>
-<h2>7. MCP integration</h2>
+<h2>7. MCP Integration</h2>
+<h2>7. MCP Integration</h2>
 <h3>7.1 McpManager details</h3>
 <pre><code>McpManager 전체 흐름:
 
@@ -4044,7 +4044,7 @@ AgentRole {
 </code></pre>
 <hr>
 11:["$","$L28","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"Overview §7","description":"000_overview/00_co_overview.md","lang":"en","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:T1898,<h2>Overview</h2>
+37:T1893,<h2>Overview</h2>
 <p><strong>Overview §8</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>// codex-rs/features/src/lib.rs</li>
@@ -4150,7 +4150,7 @@ pub enum FeatureStage {
     // ...
 }
 </code></pre>
-<h3>8.3 Configuration Hierarchy</h3>
+<h3>8.3 Settings hierarchy</h3>
 <pre><code>설정 우선순위 (높은 것부터):
   1. 명령줄 인자 (--model, --sandbox 등)
   2. 환경변수 (CODEX_API_KEY, CODEX_MODEL 등)
@@ -4739,7 +4739,7 @@ pub enum CodexErr {
 </code></pre>
 <hr>
 15:["$","$L28","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"Overview §11","description":"000_overview/00_co_overview.md","lang":"en","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:T14d2d,<h2>Overview</h2>
+3b:T14d5a,<h2>Overview</h2>
 <p><strong>Axis 01: TUI design</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -5057,7 +5057,7 @@ active_cell_revision: u64,
 <h2>Main analysis</h2>
 <h1>Codex TUI design analysis</h1>
 <blockquote>
-<p><strong>Analysis Snapshot</strong>: <code>121_openai-codex/codex-rs/</code> (Rust source, workspace). Primary crates: <code>tui/</code>, <code>tui_app_server/</code>, <code>app-server-*</code>. Host-delegated harnesses (<code>lc</code>, <code>sp</code>) render via this surface.</p>
+<p><strong>Analysis snapshot</strong>: <code>121_openai-codex/codex-rs/</code> (Rust source, workspace). Primary crates: <code>tui/</code>, <code>tui_app_server/</code>, <code>app-server-*</code>. Host-delegated harnesses (<code>lc</code>, <code>sp</code>) render via this surface.</p>
 </blockquote>
 <p>The TUI layer within <code>openai/codex</code> is not just a CLI screen, but is almost a local front-end runtime. <code>codex-rs/tui</code> is a full-screen interface based on Ratatui, and <code>codex-rs/tui_app_server</code> is a parallel implementation that uses the app-server session as a first-class data source while maintaining almost the same UI.</p>
 <p>The core structure is three chunks. The main transcript viewport is handled by <code>ChatWidget</code>, the input, status, and approval UI are handled by <code>bottom_pane</code>, and the overlay layer places auxiliary screens such as transcript pager, approval modal, model selection, plugin pop-up, file search, and <code>request_user_input</code> form. <code>tui.rs</code> is the terminal runtime responsible for raw mode, alt screen, event stream, and frame scheduling, and <code>app.rs</code> is effectively the entire UI state machine.</p>
@@ -5079,7 +5079,7 @@ active_cell_revision: u64,
     G --> G3["controller.rs — Stream/PlanStream 컨트롤러"]
 </code></pre>
 <hr>
-<h2>technical reference</h2>
+<h2>Technical Reference</h2>
 <h3>Screen layer decomposition</h3>
 <table>
 <thead>
@@ -5137,7 +5137,7 @@ active_cell_revision: u64,
 </tr>
 </tbody>
 </table>
-<h3>data flow</h3>
+<h3>Data flow</h3>
 <table>
 <thead>
 <tr>
@@ -5239,9 +5239,9 @@ pub(crate) struct FileSearchPopup {
 </code></pre>
 <p>Core operations:</p>
 <ul>
-<li>For each question, combine option selection + free text (notes) input.</li>
-<li>If you type during option focus, it automatically switches to notes focus.</li>
-<li>Enter to advance to next question, submit in full from last question</li>
+<li>Combine option selection + free text (notes) input for each question</li>
+<li>When you type while in option focus, it automatically switches to notes focus.</li>
+<li>Press Enter to proceed to next question, submit in full on last question</li>
 <li>If there are unanswered questions, a confirmation dialog will appear: <code>"Submit with unanswered questions?"</code></li>
 </ul>
 <pre><code class="language-rust">// tui/src/bottom_pane/request_user_input/mod.rs
@@ -5258,7 +5258,7 @@ pub(crate) struct ModelCatalog {
 </code></pre>
 <p>When executing the <code>/model</code> slash command, it is converted to a <code>SelectionItem</code> list and displayed in <code>ListSelectionView</code>.</p>
 <hr>
-<h2>Streaming Pipeline Details</h2>
+<h2>Streaming pipeline details</h2>
 <h3>Architecture Overview</h3>
 <pre><code class="language-mermaid">graph LR
     D["LLM delta"] --> SC["MarkdownStreamCollector"]
@@ -5301,9 +5301,9 @@ pub(crate) struct PlanStreamController {
 </code></pre>
 <ul>
 <li><code>push(delta)</code>: Add delta to the collector. When a newline is included, the completed line is queued.</li>
-<li><code>on_commit_tick()</code>: Drain one line and release it as <code>AgentMessageCell</code></li>
-<li><code>on_commit_tick_batch(max)</code>: Multi-line drain for adaptive catch-up</li>
-<li><code>finalize()</code>: Flush all remaining data and release it into the final cell.</li>
+<li><code>on_commit_tick()</code>: Drain one line and emit it as <code>AgentMessageCell</code></li>
+<li><code>on_commit_tick_batch(max)</code>: Multi-line drain for adaptive catch-up.</li>
+<li><code>finalize()</code>: Flush all remaining data and release it to the final cell.</li>
 </ul>
 <p><code>PlanStreamController</code> adds the <code>"• Proposed Plan"</code> header, <code>proposed_plan_style()</code> application, and padding management.</p>
 <h3>Adaptive Chunking Policy (<code>streaming/chunking.rs</code>)</h3>
@@ -5386,7 +5386,7 @@ pub(crate) fn run_commit_tick(
 <p>If you use <code>CommitTickScope::CatchUpOnly</code>, actual drain occurs only in CatchUp mode, and the rest returns as noop. In this way, we can separate the baseline tick and catch-up tick.</p>
 <hr>
 <h2>Terminal runtime details (<code>tui.rs</code>, <code>tui/event_stream.rs</code>)</h2>
-<h3>EventBroker Structure</h3>
+<h3>EventBroker structure</h3>
 <pre><code class="language-rust">// tui/src/tui/event_stream.rs
 pub struct EventBroker&#x3C;S: EventSource = CrosstermEventSource> {
     state: Mutex&#x3C;EventBrokerState&#x3C;S>>,
@@ -5405,7 +5405,7 @@ enum EventBrokerState&#x3C;S: EventSource> {
 <hr>
 <h2><code>tui_app_server</code> parallel implementation details</h2>
 <p><code>codex-rs/tui_app_server/</code> is a parallel implementation that maintains almost the same UI code as <code>codex-rs/tui/</code> and replaces the session management layer with <code>AppServerClient</code> based.</p>
-<h3>structural differences</h3>
+<h3>Structural differences</h3>
 <table>
 <thead>
 <tr>
@@ -5457,7 +5457,7 @@ use codex_app_server_protocol::{
 <hr>
 <h2>Anatomy of ChatWidget — 9,707 lines of state machine</h2>
 <p><code>chatwidget.rs</code> is the largest single file in Codex TUI. It consumes protocol events, configures history cells, and drives the transcript viewport and overlay UI.</p>
-<h3>Core status field</h3>
+<h3>Core status fields</h3>
 <pre><code class="language-rust">// chatwidget.rs — ChatWidget 구조체 (678–800행, 발췌)
 pub(crate) struct ChatWidget {
     active_cell: Option&#x3C;Box&#x3C;dyn HistoryCell>>,  // 현재 스트리밍 중인 셀
@@ -5576,7 +5576,7 @@ impl PendingGuardianReviewStatus {
 </code></pre>
 <p>Guardian review status has its own tracking system, separate from the ChatWidget's <code>current_status</code>. When multiple reviews are running simultaneously, a summary UI is displayed in the footer.</p>
 <hr>
-<h2>ChatComposer input pipeline — 9,874-line state machine</h2>
+<h2>ChatComposer input pipeline — 9,874 lines of state machine</h2>
 <h3>Architecture Overview</h3>
 <p>ChatComposer is a <strong>reusable input component</strong> whose behavior scope is controlled by <code>ChatComposerConfig</code>:</p>
 <pre><code class="language-rust">// chat_composer.rs — ChatComposerConfig (291–307행)
@@ -5641,16 +5641,16 @@ active_cell_revision: u64,
 </code></pre>
 <p>Transcript overlay caches live tail with <code>active_cell_transcript_key()</code> and <code>active_cell_transcript_lines()</code>. If <code>active_cell_revision</code> does not change, it will not be reorganized for every draw. Without this optimization, the 9,700-line transcript would be re-rendered every frame, drastically reducing performance.</p>
 <hr>
-<h3>reuse seam</h3>
+<h3>Reuse seam</h3>
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" checked disabled> <code>tui.rs</code> + <code>tui/event_stream.rs</code> is the easiest terminal runtime layer to remove</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> <code>tui.rs</code> + <code>tui/event_stream.rs</code> is the easiest terminal runtime layer to remove.</li>
 <li class="task-list-item"><input type="checkbox" checked disabled> <code>history_cell.rs</code> is a protocol-aware adapter layer, so it has high reuse value.</li>
-<li class="task-list-item"><input type="checkbox" checked disabled> <code>render/*</code>, <code>markdown_render.rs</code> are portable to other UI surfaces</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> <code>render/*</code>, <code>markdown_render.rs</code> are good for porting to other UI surfaces.</li>
 <li class="task-list-item"><input type="checkbox" checked disabled> <code>streaming/*</code> is a generalizable streaming marking policy — chunking policy is source agnostic</li>
-<li class="task-list-item"><input type="checkbox" checked disabled> <code>selection_popup_common.rs</code> + <code>scroll_state.rs</code> is a general-purpose popup framework</li>
-<li class="task-list-item"><input type="checkbox" disabled> <code>chat_composer.rs</code> is valuable, but requires stripping out Codex-specific slash and mention rules.</li>
-<li class="task-list-item"><input type="checkbox" disabled> <code>app.rs</code> is too big so we need to break the seam into smaller pieces first</li>
-<li class="task-list-item"><input type="checkbox" disabled> <code>request_user_input/</code> can be extracted with a structured form engine, but is currently directly connected to the Codex protocol.</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> <code>selection_popup_common.rs</code> + <code>scroll_state.rs</code> is a general-purpose popup framework.</li>
+<li class="task-list-item"><input type="checkbox" disabled> <code>chat_composer.rs</code> is valuable, but Codex-specific slash and mention rules need to be stripped out.</li>
+<li class="task-list-item"><input type="checkbox" disabled> <code>app.rs</code> is too big, so we need to break the seam into smaller pieces first.</li>
+<li class="task-list-item"><input type="checkbox" disabled> <code>request_user_input/</code> can be extracted with a structured form engine, but is directly connected to the current Codex protocol.</li>
 </ul>
 <h3>Tightly coupled risk</h3>
 <table>
@@ -5683,7 +5683,7 @@ active_cell_revision: u64,
 </tr>
 </tbody>
 </table>
-<h3>Core File List</h3>
+<h3>List of core files</h3>
 <p><strong><code>tui</code> crate:</strong></p>
 <ul>
 <li><code>tui/src/tui.rs</code> — Terminal runtime</li>
@@ -5709,11 +5709,11 @@ active_cell_revision: u64,
 </ul>
 <p><strong><code>tui_app_server</code> crate:</strong></p>
 <ul>
-<li><code>tui_app_server/src/app.rs</code> — App state machine for remote sessions</li>
+<li><code>tui_app_server/src/app.rs</code> — App state machine for remote sessions.</li>
 <li><code>tui_app_server/src/app_server_session.rs</code> — AppServerClient wrapper</li>
 <li><code>tui_app_server/src/model_catalog.rs</code> — ModelCatalog</li>
 </ul>
-<p>Previous article: [[00_co_overview]]
+<p>Previous article: [[00_co_overview]]<br>
 Next article: [[02_co_prompt]]</p>
 <h2>snapshot_to_current delta</h2>
 <table>
@@ -5743,11 +5743,11 @@ Next article: [[02_co_prompt]]</p>
 </tbody>
 </table>
 <p>Re-verify: <code>121_openai-codex/codex-rs/tui/src/app.rs</code>, <code>tui/src/chat_widget.rs</code> on upgrade.</p>
-<h2>change history</h2>
+<h2>Change history</h2>
 <ul>
-<li>2026-03-26: Added ChatWidget dissection (9,707 lines state machine/60+ fields/120+ events/terminal detection keybindings/rate limit alert state/Guardian review tracking), ChatComposer input pipeline (9,874 lines/Config preset/popup state/paste burst/voice state/InputResult), invalidating active_cell_revision cache 5 reverse engineered sections.</li>
+<li>2026-03-26: Added 5 reverse engineered sections for ChatWidget dissection (9,707 lines state machine/60+ fields/120+ events/terminal detection keybindings/rate limit alert state/Guardian review tracking), ChatComposer input pipeline (9,874 lines/Config preset/popup state/paste burst/voice state/InputResult), active_cell_revision cache invalidation.</li>
 <li>2026-03-26: TUI was analyzed and organized as a protocol-aware local client runtime.</li>
-<li>2025-07-19: Added details on 6 types of overlay/popup components, analyzed streaming pipeline (StreamState → AdaptiveChunkingPolicy → commit_tick) code snippet inclusion, compared tui_app_server parallel implementation, added EventBroker structure, expanded mermaid diagram.</li>
+<li>2025-07-19: Added detailed information on 6 types of overlay/popup components, analyzed streaming pipeline (StreamState → AdaptiveChunkingPolicy → commit_tick) code snippet inclusion, compared tui_app_server parallel implementation, added EventBroker structure, expanded mermaid diagram.</li>
 </ul>
 <h2>Korean corpus (reference)</h2>
 <blockquote>
@@ -6448,7 +6448,7 @@ active_cell_revision: u64,
 <li>2025-07-19: overlay/popup 컴포넌트 6종 상세 추가, 스트리밍 파이프라인(StreamState → AdaptiveChunkingPolicy → commit_tick) 코드 스니펫 포함 분석, tui_app_server 평행 구현 비교, EventBroker 구조 추가, mermaid 다이어그램 확장.</li>
 </ul>
 16:["$","$L28","20-axis-01-tui",{"id":"20-axis-01-tui","order":18,"tier":"deep","title":"Axis 01: TUI design","description":"001_tui-design/01_co_tui.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:T15ce3,<h2>Overview</h2>
+3c:T15ce7,<h2>Overview</h2>
 <p><strong>Axis 02: Prompt &#x26; context</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -6856,14 +6856,14 @@ pub(crate) fn model_context_window(&#x26;self) -> Option&#x3C;i64> {
     D3 --> INJECT
 </code></pre>
 <h2>Main analysis</h2>
-<h1>Prompt and Context Injection Pipeline</h1>
+<h1>Prompt and context injection pipeline</h1>
 <blockquote>
-<p><strong>Analysis Snapshot</strong>: <code>121_openai-codex/codex-rs/</code> — <code>core/src/instructions/</code>, <code>core/src/context_manager/</code>, <code>AGENTS.md</code> injection paths cited in-body.</p>
+<p><strong>Analysis snapshot</strong>: <code>121_openai-codex/codex-rs/</code> — <code>core/src/instructions/</code>, <code>core/src/context_manager/</code>, <code>AGENTS.md</code> injection paths cited in-body.</p>
 </blockquote>
 <p>The first misconception to dispel when looking at Codex's prompt system is the idea that all instructions are attached in one place at once. The actual code uses at least four separate channels. Basic base instructions, dynamically assembled developer instructions, contextual user fragments such as <code>AGENTS.md</code> and skills, and additional hints added by plugins or collaboration modes are entered in different formats.</p>
 <p>This distinction is very important in our fork. We need to duplicate which directives go into which role messages, not just "copy one prompt file." Even if the same text is inserted as a developer message or a user context fragment, the subsequent memory exclusion rules, history reconstruction, and visible item processing methods vary.</p>
 <p>Looking at the actual assembly sequence, <code>codex.rs</code> first changes the sandbox and approval policy to developer instructions, and then places the current turn's <code>developer_instructions</code>, memory tool directive, collaboration mode directive, realtime-related message, and personality message on top of it. On the other hand, <code>AGENTS.md</code> and <code>SKILL.md</code> are not included in this developer bundle, but are separately wrapped in the user role text of <code>ResponseItem::Message</code> and recorded as conversation items.</p>
-<p>또 하나의 중요한 차이는 plugin mention이다. skill과 다르게 plugin mention은 <code>build_plugin_injections()</code>를 통해 developer instructions 쪽으로 들어간다. 즉 Codex는 "파일형 지시문"과 "기능형 힌트"를 의도적으로 다른 채널로 보내고 있다. 이 분리는 우리 쪽에서 포크할 때 그대로 가져갈 가치가 크다.</p>
+<p>Another important difference is the plugin mention. Unlike skill, plugin mentions go into developer instructions through <code>build_plugin_injections()</code>. In other words, Codex is intentionally sending “file-type directives” and “function-type hints” to different channels. This separation is very worth taking with us when we fork from our side.</p>
 <pre><code class="language-mermaid">graph TD
     A["base instructions&#x3C;br/>(protocol/prompts/default.md)"] --> E["model input context"]
     B["developer instructions bundle&#x3C;br/>(codex.rs → build_initial_context)"] --> E
@@ -6906,15 +6906,15 @@ pub(crate) fn model_context_window(&#x26;self) -> Option&#x3C;i64> {
     BIC->>OUT: guardian policy (별도 developer message, 조건부)
 </code></pre>
 <hr>
-<h2>technical reference</h2>
-<h3>prompt input channel</h3>
+<h2>Technical Reference</h2>
+<h3>Prompt input channel</h3>
 <table>
 <thead>
 <tr>
 <th>Channel</th>
 <th>source file</th>
 <th>Entry format</th>
-<th>meaning</th>
+<th>Meaning</th>
 </tr>
 </thead>
 <tbody>
@@ -7086,7 +7086,7 @@ fn build_text_message(role: &#x26;str, text_sections: Vec&#x3C;String>) -> Optio
     })
 }
 </code></pre>
-<h3>Separate developer instructions vs system instructions</h3>
+<h3>Separation of developer instructions vs system instructions</h3>
 <p>Codex does not use the "system" role. Instead, separate the directive into two roles.</p>
 <table>
 <thead>
@@ -7162,7 +7162,7 @@ pub(crate) async fn get_user_instructions(config: &#x26;Config) -> Option&#x3C;S
     // Hierarchical agents message 추가 (ChildAgentsMd 피처)
 }
 </code></pre>
-<h4>Wrapping type (<code>UserInstructions</code>)</h4>
+<h4>Wrapping Format (<code>UserInstructions</code>)</h4>
 <p>Once user_instructions are ready, they are wrapped in <code>contextual_user_sections</code>:</p>
 <pre><code class="language-rust">// core/src/instructions/user_instructions.rs:19-27
 impl UserInstructions {
@@ -7383,7 +7383,7 @@ if separate_guardian_developer_message
 </code></pre>
 <h3>Memory Prompt Template</h3>
 <p>The memory system renders prompts with the Askama template engine.</p>
-<h4>read_path.md — Memory read guidance (developer channel)</h4>
+<h4>read_path.md — Memory reading guide (developer channel)</h4>
 <p>Read <code>memory_summary.md</code> from <code>build_memory_tool_developer_instructions()</code> and insert it into developer instructions:</p>
 <pre><code class="language-markdown">&#x3C;!-- core/templates/memories/read_path.md (요약) -->
 ## Memory
@@ -7428,7 +7428,7 @@ Include:
 </code></pre>
 <p>Compaction has two modes:</p>
 <ul>
-<li><strong>Pre-turn/Manual</strong>: <code>InitialContextInjection::DoNotInject</code> — Replace the history after summarizing, and reinject the initial context in the next turn.</li>
+<li><strong>Pre-turn/Manual</strong>: <code>InitialContextInjection::DoNotInject</code> — After summarizing, replace the history and re-inject the initial context in the next turn.</li>
 <li><strong>Mid-turn</strong>: <code>InitialContextInjection::BeforeLastUserMessage</code> — Insert initial context before the last user message, even after the summary.</li>
 </ul>
 <h3>Context Window Management</h3>
@@ -7442,7 +7442,7 @@ pub(crate) fn model_context_window(&#x26;self) -> Option&#x3C;i64> {
 }
 </code></pre>
 <p>The actual usable token is calculated as <code>context_window * effective_context_window_percent / 100</code>. The default values ​​are <code>context_window=272_000</code>, <code>effective_context_window_percent=95</code>, so about 258,400 tokens.</p>
-<h4>Token Usage Tracking</h4>
+<h4>Token usage tracking</h4>
 <p>At the end of each turn, update the current token usage with <code>update_token_info_from_usage()</code>. When the context window is exceeded, compaction is triggered with <code>set_token_usage_full()</code>. In remote compact(<code>compact_remote.rs</code>), the function call history is trimmed with <code>trim_function_call_history_to_fit_context_window()</code>.</p>
 <pre><code class="language-mermaid">flowchart LR
     A["turn 완료"] --> B{"토큰 사용량 체크"}
@@ -7498,18 +7498,18 @@ pub(crate) fn model_context_window(&#x26;self) -> Option&#x3C;i64> {
     D3 --> INJECT
 </code></pre>
 <hr>
-<h3>Interpretation from folk perspective</h3>
+<h3>Interpretation from fork perspective</h3>
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" checked disabled> Do not copy only <code>default.md</code></li>
 <li class="task-list-item"><input type="checkbox" checked disabled> developer bundle assembly function is the key</li>
-<li class="task-list-item"><input type="checkbox" checked disabled> <code>AGENTS.md</code> and skill are user contextual fragments, not developer channels</li>
-<li class="task-list-item"><input type="checkbox" checked disabled> Unlike skill, plugin hint is a developer channel</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> <code>AGENTS.md</code> and skill are user fragment contextual, not developer channel</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> plugin hint is a developer channel, unlike skill</li>
 <li class="task-list-item"><input type="checkbox" checked disabled> guardian separates policy prompts into separate developer messages</li>
-<li class="task-list-item"><input type="checkbox" checked disabled> AGENTS.md is collected hierarchically and AGENTS.override.md takes precedence</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> AGENTS.md is collected hierarchically and AGENTS.override.md takes precedence.</li>
 <li class="task-list-item"><input type="checkbox" disabled> You also need to decide whether to fork the history reconstruction and memory exclusion rules together.</li>
 <li class="task-list-item"><input type="checkbox" disabled> You need to decide how to use the context compaction strategy (remote vs inline)</li>
 </ul>
-<h3>Rules we can keep as is</h3>
+<h3>Rules that we can keep as is</h3>
 <table>
 <thead>
 <tr>
@@ -7548,13 +7548,13 @@ pub(crate) fn model_context_window(&#x26;self) -> Option&#x3C;i64> {
 </tr>
 </tbody>
 </table>
-<h3>The boundary between core and optional</h3>
+<h3>Boundary between core and optional</h3>
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" checked disabled> core: <code>BaseInstructions</code>, permissions-based developer prompt, <code>AGENTS.md</code> wrapper (including hierarchical collection), explicit skill injection, environment context, contextual fragment marker system</li>
 <li class="task-list-item"><input type="checkbox" checked disabled> optional: memory prompt, personality prompt, plugin hint injection, skill dependency installation, collaboration mode preset, guardian subagent, realtime conversation, JS REPL instructions, custom prompts</li>
 <li class="task-list-item"><input type="checkbox" disabled> When forking, you must decide whether to take all optional layers from the beginning.</li>
 </ul>
-<h3>Core File List</h3>
+<h3>List of core files</h3>
 <table>
 <thead>
 <tr>
@@ -7653,7 +7653,7 @@ pub(crate) fn model_context_window(&#x26;self) -> Option&#x3C;i64> {
 </tr>
 </tbody>
 </table>
-<p>Previous article: [[01_co_tui]]
+<p>Previous article: [[01_co_tui]]<br>
 Next article: [[03_co_tool]]</p>
 <h2>snapshot_to_current delta</h2>
 <table>
@@ -7677,11 +7677,11 @@ Next article: [[03_co_tool]]</p>
 </tr>
 </tbody>
 </table>
-<h2>change history</h2>
+<h2>Change history</h2>
 <ul>
 <li>2026-03-26: The input channels of base instructions, developer instructions, <code>AGENTS.md</code>, skill, and plugin hint were separated and organized.</li>
-<li>2026-03-26: Summary and detailed version combined.</li>
-<li>2026-03-27: Significant reinforcement — <code>build_initial_context()</code> 11-step assembly order reorganized to code base, AGENTS.md hierarchical navigation/wrapping mechanism detailed, SKILL.md 2-step injection (list → body) analysis added, contextual user fragment 6 types of marker table and memory exclusion rule code attached, EnvironmentContext XML serialization structure added, guardian prompt pipeline (policy.md + transcript budget) + Separate developer message) detailed documentation, added memory template (read_path/stage_one_input) analysis, added context compaction (inline/remote) prompt and token management, added context window valid calculation formula and automatic compaction trigger flow, added custom prompts frontmatter parsing and review prompts template, added full pipeline mermaid flowchart, added developer vs system instructions separation description, expanded core file list into table.</li>
+<li>2026-03-26: Summary and detailed version were combined.</li>
+<li>2026-03-27: Significant reinforcement — <code>build_initial_context()</code> 11-step assembly order reorganized to code-based, AGENTS.md hierarchical navigation/wrapping mechanism detailed, SKILL.md 2-step injection (list → body) analysis added, contextual user fragment 6 types of marker table and memory exclusion rule code attached, EnvironmentContext XML serialization structure added, guardian prompt pipeline (policy.md + transcript) Detailed documentation (budget + separation developer message), added memory template (read_path/stage_one_input) analysis, added context compaction (inline/remote) prompt and token management, added context window valid calculation expression and automatic compaction trigger flow, added custom prompts frontmatter parsing and review prompts template, added full pipeline mermaid flowchart, added developer vs system instructions separation description, expanded core file list to table.</li>
 </ul>
 <h2>Korean corpus (reference)</h2>
 <blockquote>
@@ -12663,7 +12663,7 @@ pub struct SkillToolDependency {
 <table>
 <thead>
 <tr>
-<th>Name</th>
+<th>name</th>
 <th>Real Meaning</th>
 </tr>
 </thead>
@@ -31491,7 +31491,7 @@ pub(crate) struct GuardianEvidence {
 <li>2026-03-26: 역공학 문서 보강 — review session 이벤트 루프(§6.4), interrupt/drain 프로토콜(§6.5), EphemeralReviewCleanup RAII(§6.6), 25-field reuse key(§6.7), 모델 fallback/네트워크 상속(§6.8), 토큰 truncation 알고리즘(§3.4), guardian 이벤트 프로토콜(§5.4) 추가.</li>
 </ul>
 21:["$","$L28","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"Axis 12: Guardian & approval","description":"012_guardian-approval/12_co_guardian.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:T1468e,<h2>Overview</h2>
+47:T14691,<h2>Overview</h2>
 <p><strong>Axis 13: Cross-cutting</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>Codex(OpenAI)는 Rust 기반 코딩 에이전트로, 핵심 12개 분석 차원(TUI, Prompt, Tool, Skill, Subagent, Surface, Sandbox, Config, MCP, Memory, Plugin, Guardian) 외에도 Git 통합, 모델 프로바이더 추상화, 에러 처리, 텔레메트리(OpenTelemetry), 피처 플래그, 인증, 음성/멀티모달, 패키징/배포, 테스트 인프라 등 다양한 교차</li>
@@ -32005,7 +32005,7 @@ pub async fn ensure_oss_ready(config: &#x26;Config) -> std::io::Result&#x3C;()> 
 <tr>
 <th>parameters</th>
 <th>default</th>
-<th>최대값</th>
+<th>maximum value</th>
 </tr>
 </thead>
 <tbody>
@@ -32087,7 +32087,7 @@ pub async fn ensure_oss_ready(config: &#x26;Config) -> std::io::Result&#x3C;()> 
 </tr>
 </tbody>
 </table>
-<h3>3.3 프로토콜 에러 변환</h3>
+<h3>3.3 Protocol error conversion</h3>
 <p>The <code>to_codex_protocol_error()</code> method maps internal errors to client protocol errors (<code>CodexErrorInfo</code>):</p>
 <pre><code>CodexErr::ContextWindowExceeded -> CodexErrorInfo::ContextWindowExceeded
 CodexErr::UsageLimitReached     -> CodexErrorInfo::UsageLimitExceeded
@@ -35933,6 +35933,6 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
 25:["$","$L28","99-next-steps",{"id":"99-next-steps","order":33,"tier":"deep","title":"Technical reference","description":"scouting + synthesis","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-26:["$","script","script-0",{"src":"/cli101-portal/sites/codex-cli/_next/static/chunks/1569d02568d582a5.js","async":true}]
+26:["$","script","script-0",{"src":"/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js","async":true}]
 27:["$","$L4b",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@4c"}]}]
 4c:null

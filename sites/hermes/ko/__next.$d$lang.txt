@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[90734,["/cli101-portal/sites/hermes/_next/static/chunks/8defe090bc41a910.js","/cli101-portal/sites/hermes/_next/static/chunks/9cbfb6d67b626dff.js"],"default"]
 3:I[66431,["/cli101-portal/sites/hermes/_next/static/chunks/8defe090bc41a910.js","/cli101-portal/sites/hermes/_next/static/chunks/9cbfb6d67b626dff.js"],"default"]
-0:{"buildId":"IZnWcM-xBfbahCSitPxFl","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"eg38sipJiwUFWIMhdF2a6","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

@@ -6,668 +6,16 @@
 8:I[72949,["/cli101-portal/sites/lazycodex/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/lazycodex/_next/static/chunks/e4a0bdf2f715f2cc.js"],"ViewportBoundary"]
 a:I[72949,["/cli101-portal/sites/lazycodex/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/lazycodex/_next/static/chunks/e4a0bdf2f715f2cc.js"],"MetadataBoundary"]
 c:I[99040,["/cli101-portal/sites/lazycodex/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/lazycodex/_next/static/chunks/e4a0bdf2f715f2cc.js"],"default"]
-:HL["/cli101-portal/sites/lazycodex/_next/static/chunks/96624f59cab43a97.css","style"]
-0:{"P":null,"b":"vAnMwrTD7ncCrqwnUVnXB","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/lazycodex/_next/static/chunks/96624f59cab43a97.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/lazycodex/_next/static/chunks/1569d02568d582a5.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+:HL["/cli101-portal/sites/lazycodex/_next/static/chunks/420865f778c74d97.css","style"]
+0:{"P":null,"b":"MhdEDiPcexjXWeTnw2gpA","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/lazycodex/_next/static/chunks/420865f778c74d97.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/lazycodex/_next/static/chunks/6d299d2b16f93b46.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
 b:[["$","title","0",{"children":"LC101 — LazyCodex 입문"}],["$","meta","1",{"name":"description","content":"LazyCodex OmO shim 코퍼스 입문"}],["$","meta","2",{"property":"og:title","content":"LC101 — LazyCodex"}],["$","meta","3",{"property":"og:description","content":"Codex OmO distribution shim"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"LC101 — LazyCodex"}],["$","meta","6",{"name":"twitter:description","content":"Codex OmO distribution shim"}]]
-d:I[73570,["/cli101-portal/sites/lazycodex/_next/static/chunks/1569d02568d582a5.js"],"PageClient"]
-4:["$","$6",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$Ld",null,{"lang":"ko","siteName":"LC101","tagline":"LC101 developer-grade corpus guide","taglineEn":"LC101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_lc_overview.md","branding":{"slug":"lc101","name":"LC101","tagline_ko":"Codex용 OmO 배포 래퍼","tagline_en":"OmO distribution shim for Codex","accentLabel_ko":"000_overview/00_lc_overview.md","accentLabel_en":"000_overview/00_lc_overview.md","heroTitle_ko":"얇은 shim, 두꺼운 플러그인","heroTitle_en":"Thin shim, thick plugin","heroSubtitle_ko":"개발자 문서 — 34섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 34 sections (000–015 + snippets)","terminalLines":["$$ npx lazycodex-ai install","$$ codex  # with omo plugin"],"prompt_ko":"> ultrawork로 이 모듈 탐색해줘","prompt_en":"> explore this module with ultrawork","ctaHash":"00-before-you-start","officialUrl":"https://github.com/linwk20/lazycodex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"LC101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-lazycodex","order":2,"tier":"core","slug":"02-what-is-lazycodex","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/02-what-is-lazycodex.md","file_en":"en/02-what-is-lazycodex.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. Identity","title_en":"Overview §1","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. Distribution shim","title_en":"Overview §2","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. Aggregate plugin `omo`","title_en":"Overview §3","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. Axis synthesis","title_en":"Overview §4","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. Axis synthesis","title_en":"Overview §5","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. Axis synthesis","title_en":"Overview §6","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Axis synthesis","title_en":"Overview §7","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Axis synthesis","title_en":"Overview §8","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. Axis synthesis","title_en":"Overview §9","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. Axis synthesis","title_en":"Overview §10","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. TUI","title_en":"Overview §11","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_lc_tui.md","description_en":"001_tui-design/01_lc_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_lc_prompt.md","description_en":"002_prompt-context/02_lc_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_lc_tool.md","description_en":"003_tool-runtime/03_lc_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_lc_skill.md","description_en":"004_skill-system/04_lc_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_lc_subagent.md","description_en":"005_subagents-collab/05_lc_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_lc_surface.md","description_en":"006_app-server-client-surfaces/06_lc_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_lc_sandbox.md","description_en":"007_sandbox-exec-policy/07_lc_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_lc_config.md","description_en":"008_config-system/08_lc_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_lc_mcp.md","description_en":"009_mcp-orchestration/09_lc_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_lc_memory.md","description_en":"010_memory-pipeline/10_lc_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_lc_plugin.md","description_en":"011_plugin-system/11_lc_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_lc_guardian.md","description_en":"012_guardian-approval/12_lc_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_lc_etc.md","description_en":"013_etc/13_lc_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_lc_web-search.md","description_en":"014_web-search/14_lc_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]}]
-30:I[8038,["/cli101-portal/sites/lazycodex/_next/static/chunks/1569d02568d582a5.js"],"SectionBlock"]
-31:T519a,<h2>LC101 — 개발자 문서</h2>
-<p>P2: <strong>000–015 코퍼스</strong> + <strong>path:line 소스 스니펫</strong> + 기초 설명.</p>
-<h2>기초 설명</h2>
-<hr>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-<li>코드베이스 개요</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>161_lazycodex/README.md</code></h3>
-<h2>🚀 Install</h2>
-<p>One line. No global install, no <code>npm i -g</code>. Always use <code>bunx</code>:</p>
-<pre><code class="language-bash">bunx lazycodex-ai install
-</code></pre>
-<p>This is shorthand for <code>bunx --package oh-my-openagent omo install --platform=codex</code>. For a fully autonomous, no-TUI setup:</p>
-<pre><code class="language-bash">bunx lazycodex-ai install --no-tui --codex-autonomous
-</code></pre>
-<h2>코퍼스 — 000/ (인덱스·요약)</h2>
-<h3><code>000/01_corpus_navigation_map.md</code></h3>
-<h1>Corpus Navigation Map</h1>
-<p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
-<h2>Canonical Reading Spine</h2>
-<table>
-<thead>
-<tr>
-<th>Purpose</th>
-<th>Path</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
-<td><code>overview-index</code></td>
-</tr>
-<tr>
-<td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
-<td><code>deep-overview</code></td>
-</tr>
-<tr>
-<td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-<tr>
-<td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-<tr>
-<td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-</tbody>
-</table>
-<h2>Reference Repositories and Artifact Sets</h2>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Classification</th>
-<th>First-Cycle Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
-<td><code>reference-repo</code>, <code>codex-rs-source</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
-<td><code>reference-repo</code>, <code>codex-rs-source</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
-<td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
-<td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
-<td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
-<td><code>blocked-nested-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
-<td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
-<td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-</tbody>
-</table>
-<h2>Proposed Future Buckets</h2>
-<p>These are logical buckets only. They are not physical moves in this cycle.</p>
-<pre><code class="language-text">reference-repos/
-  codex/
-  competitor-harnesses/
-  plugins-and-extensions/
-analysis-artifacts/
-  reverse-engineering/
-  binary-package-reports/
-runtime-tools/
-  browser/
-  computer-use/
-docs/
-  overview-index/
-  deep-overview/
-  axes/
-</code></pre>
-<h2>Physical Rename Rule</h2>
-<p>Before a folder is moved, add an explicit mapping row using:</p>
-<pre><code class="language-text">old_path -> proposed_path | classification | move_status | evidence
-</code></pre>
-<p>For gitlinks, also reconcile <code>.gitmodules</code> before moving.</p>
-<h2>Top-Level Triage</h2>
-<p>Use this when scanning the root directory. Status is intentionally conservative: <code>keep-current</code> means the current path remains the source of truth for now.</p>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Triage</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/03_overview_canonical_map.md</code></h3>
-<h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
-<h2>Canonical Rule</h2>
-<ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
-<li>If the same filename exists in both folders and content differs, keep both:
-<ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
-</ul>
-</li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
-</ul>
-<h2>Paired Overview Files</h2>
-<table>
-<thead>
-<tr>
-<th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
-<th>Equal</th>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>00_ag_overview.md</code></td>
-<td align="right">27224</td>
-<td align="right">15790</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ai_overview.md</code></td>
-<td align="right">25716</td>
-<td align="right">25716</td>
-<td>yes</td>
-<td>duplicate content; defer dedupe until link audit</td>
-</tr>
-<tr>
-<td><code>00_ay_overview.md</code></td>
-<td align="right">3815</td>
-<td align="right">798</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cc_overview.md</code></td>
-<td align="right">25990</td>
-<td align="right">27537</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_co_overview.md</code></td>
-<td align="right">41569</td>
-<td align="right">17061</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cp_overview.md</code></td>
-<td align="right">23525</td>
-<td align="right">6854</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cr_overview.md</code></td>
-<td align="right">3216</td>
-<td align="right">595</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ge_overview.md</code></td>
-<td align="right">47345</td>
-<td align="right">35414</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_gr_overview.md</code></td>
-<td align="right">3310</td>
-<td align="right">546</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ki_overview.md</code></td>
-<td align="right">3360</td>
-<td align="right">692</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_oc_overview.md</code></td>
-<td align="right">43650</td>
-<td align="right">33628</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-</tbody>
-</table>
-<h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
-<pre><code class="language-text">00_hermes_overview.md
-00_lc_overview.md
-00_newharness_vs_cli-jaw_synthesis.md
-00_omc_overview.md
-00_omo_overview.md
-00_omx_overview.md
-00_sp_overview.md
-</code></pre>
-<h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
-<pre><code class="language-text">00_grand_synthesis.md
-00_harness-index.md
-00_harness-index_hermes.md
-00_harness-index_omc.md
-00_harness-index_omo.md
-00_harness-index_omx.md
-00_harness_synthesis_addendum.md
-01_corpus_navigation_map.md
-02_corpus_move_candidates.md
-03_overview_canonical_map.md
-</code></pre>
-<hr>
-<h3><code>000/00_harness-index.md</code> (발췌)</h3>
-<h1>Harness Source Index</h1>
-<p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
-<h2>Routing</h2>
-<table>
-<thead>
-<tr>
-<th>Prefix</th>
-<th>Index stub</th>
-<th>Canonical overview</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
-<td>standalone source-based agent runtime</td>
-</tr>
-<tr>
-<td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
-<td>Claude Code host-dependent orchestration harness</td>
-</tr>
-<tr>
-<td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
-<td>Codex host-dependent control plane</td>
-</tr>
-<tr>
-<td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
-<td>OpenCode host-dependent harness plus Codex Light adapter</td>
-</tr>
-<tr>
-<td><code>lc</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
-<td>LazyCodex / Codex Light distribution wrapper for OmO</td>
-</tr>
-<tr>
-<td><code>sp</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
-<td>Superpowers multi-harness skills/bootstrap methodology layer</td>
-</tr>
-</tbody>
-</table>
-<h2>Related</h2>
-<ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
-</ul>
-<h2>코퍼스 — 000_overview/00_lc_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-<th>Depth (WP54 T2)</th>
-<th>LC-owned?</th>
-<th>Primary evidence</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_lc_tui.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Host</strong> (Codex <code>codex-rs/tui</code>)</td>
-<td><code>161_lazycodex/bin/lazycodex-ai.js:18-20</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_lc_prompt.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Plugin hooks</strong></td>
-<td><code>plugins/omo/hooks/hooks.json:3-97</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_lc_tool.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Hooks + LSP MCP</strong></td>
-<td><code>components/lsp/packages/lsp-tools-mcp/src/mcp.ts:44-76</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_lc_skill.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Packaging/sync</strong></td>
-<td><code>plugins/omo/scripts/sync-skills.mjs:6-14</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_lc_subagent.md</code></td>
-<td>≥12 KB</td>
-<td><strong>TOML roles + ultrawork</strong></td>
-<td><code>components/ultrawork/agents/explorer.toml:1-6</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_lc_surface.md</code></td>
-<td>≥12 KB</td>
-<td><strong>CLI + plugin + web</strong></td>
-<td><code>packages/web/</code> Next.js docs</td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_lc_sandbox.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Host</strong></td>
-<td>hook timeouts only</td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_lc_config.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Marketplace snapshot</strong></td>
-<td><code>.agents/plugins/marketplace.json:1-16</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_lc_mcp.md</code></td>
-<td>≥12 KB</td>
-<td><strong>LSP stdio only</strong></td>
-<td><code>plugins/omo/.mcp.json:1-8</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_lc_memory.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Rules cache + ultragoal</strong></td>
-<td><code>components/rules/src/persistent-cache.ts:75-77</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_lc_plugin.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Aggregate <code>omo</code></strong></td>
-<td><code>plugins/omo/.codex-plugin/plugin.json:1-16</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_lc_guardian.md</code></td>
-<td>≥12 KB</td>
-<td><strong>PostToolUse blocks</strong></td>
-<td><code>components/comment-checker/src/codex-hook.ts:60-65</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_lc_web-search.md</code></td>
-<td>≥12 KB</td>
-<td><strong>Host via librarian</strong></td>
-<td><code>components/ultrawork/agents/librarian.toml:43-49</code></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2>코드베이스 개요</h2>
-<table>
-<thead>
-<tr>
-<th>항목</th>
-<th>수치 / 경로</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>GitHub repo</td>
-<td><code>code-yeongyu/lazycodex</code></td>
-</tr>
-<tr>
-<td>Local checkout</td>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
-</tr>
-<tr>
-<td>npm package</td>
-<td><code>lazycodex-ai</code></td>
-</tr>
-<tr>
-<td>First-party executable</td>
-<td><code>bin/lazycodex-ai.js</code> (28 lines)</td>
-</tr>
-<tr>
-<td>Aggregate plugin</td>
-<td><code>plugins/omo/</code> (6 component workspaces)</td>
-</tr>
-<tr>
-<td>OmO submodule</td>
-<td><code>src/</code> → <code>oh-my-openagent</code> (OpenCode path reference)</td>
-</tr>
-<tr>
-<td>Docs site</td>
-<td><code>packages/web/</code> (Next.js on Cloudflare Workers)</td>
-</tr>
-<tr>
-<td>Marketplace id</td>
-<td><code>sisyphuslabs</code> → plugin <code>omo</code></td>
-</tr>
-<tr>
-<td>MCP servers in snapshot</td>
-<td><strong>1</strong> (<code>lsp</code> only)</td>
-</tr>
-<tr>
-<td>Codex agent TOMLs</td>
-<td>4 (<code>explorer</code>, <code>librarian</code>, <code>plan</code>, <code>codex-ultrawork-reviewer</code>)</td>
-</tr>
-<tr>
-<td>Axis docs T2 bar</td>
-<td>14/14 ≥12 KB (WP54)</td>
-</tr>
-</tbody>
-</table>
-<hr>
-e:["$","$L30","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"000 인덱스 + 축 맵","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
-32:T44ae,<h2>기초 설명</h2>
+d:I[73570,["/cli101-portal/sites/lazycodex/_next/static/chunks/6d299d2b16f93b46.js"],"PageClient"]
+4:["$","$6",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$Ld",null,{"lang":"ko","siteName":"LC101","tagline":"LC101 developer-grade corpus guide","taglineEn":"LC101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_lc_overview.md","branding":{"slug":"lc101","name":"LC101","tagline_ko":"Codex용 OmO 배포 래퍼","tagline_en":"OmO distribution shim for Codex","accentLabel_ko":"000_overview/00_lc_overview.md","accentLabel_en":"000_overview/00_lc_overview.md","heroTitle_ko":"얇은 shim, 두꺼운 플러그인","heroTitle_en":"Thin shim, thick plugin","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ npx lazycodex-ai install","$$ codex  # with omo plugin"],"prompt_ko":"> ultrawork로 이 모듈 탐색해줘","prompt_en":"> explore this module with ultrawork","ctaHash":"00-before-you-start","officialUrl":"https://github.com/linwk20/lazycodex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"LC101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-lazycodex","order":2,"tier":"core","slug":"02-what-is-lazycodex","title_ko":"LazyCodex가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/02-what-is-lazycodex.md","file_en":"en/02-what-is-lazycodex.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. Identity","title_en":"Overview §1","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. Distribution shim","title_en":"Overview §2","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. Aggregate plugin `omo`","title_en":"Overview §3","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. Axis synthesis","title_en":"Overview §4","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. Axis synthesis","title_en":"Overview §5","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. Axis synthesis","title_en":"Overview §6","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Axis synthesis","title_en":"Overview §7","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Axis synthesis","title_en":"Overview §8","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. Axis synthesis","title_en":"Overview §9","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. Axis synthesis","title_en":"Overview §10","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. TUI","title_en":"Overview §11","description_ko":"000_overview/00_lc_overview.md","description_en":"000_overview/00_lc_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_lc_tui.md","description_en":"001_tui-design/01_lc_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_lc_prompt.md","description_en":"002_prompt-context/02_lc_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_lc_tool.md","description_en":"003_tool-runtime/03_lc_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_lc_skill.md","description_en":"004_skill-system/04_lc_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_lc_subagent.md","description_en":"005_subagents-collab/05_lc_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_lc_surface.md","description_en":"006_app-server-client-surfaces/06_lc_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_lc_sandbox.md","description_en":"007_sandbox-exec-policy/07_lc_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_lc_config.md","description_en":"008_config-system/08_lc_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_lc_mcp.md","description_en":"009_mcp-orchestration/09_lc_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_lc_memory.md","description_en":"010_memory-pipeline/10_lc_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_lc_plugin.md","description_en":"011_plugin-system/11_lc_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_lc_guardian.md","description_en":"012_guardian-approval/12_lc_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_lc_etc.md","description_en":"013_etc/13_lc_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_lc_web-search.md","description_en":"014_web-search/14_lc_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]}]
+30:I[8038,["/cli101-portal/sites/lazycodex/_next/static/chunks/6d299d2b16f93b46.js"],"SectionBlock"]
+e:["$","$L30","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>Codex를 연동하고 다루고 싶지만 설정 과정이 너무 까다롭고 귀찮게 느껴지시는 분, 여러 AI 에이전트를 한 번에 다스리며 복잡한 소프트웨어를 만들어보고 싶으신 분들을 위해 준비했어요. 어려운 개념과 용어는 아주 쉽게 풀어서 설명해 드릴 테니 부담 없이 가볍게 읽어주세요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>LazyCodex가 무엇이고 어떤 원리로 복잡한 개발 설정을 생략해 주는지</li>\n<li>번거로운 전역 설치 없이 5분 만에 세팅을 끝내는 방법</li>\n<li>계획 수립부터 개발 완료까지 스스로 반복 수행하는 특별한 명령들</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>원활한 실습을 위해 아래 두 가지만 미리 확인해 주세요.</p>\n<ol>\n<li>내 컴퓨터에 **Bun(번)**이 설치되어 있어야 해요. (Bun은 자바스크립트 프로그램을 매우 빠르게 실행해 주는 최신 도구예요)</li>\n<li>작업을 진행할 코드 폴더가 준비되어 있어요.</li>\n</ol>\n<p>설정이 막막하셨다면 전혀 걱정하지 않으셔도 돼요. 다음 장에서 LazyCodex가 무엇인지부터 차근차근 알아볼게요.</p>\n"}}]}]
+31:T44ae,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1196,85 +544,13 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
 <li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
 </ul>
-f:["$","$L30","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
-33:T765,<h2>기초 설명</h2>
-<hr>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>코드베이스 개요</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>161_lazycodex/README.md</code></h3>
-<h2>🚀 Install</h2>
-<p>One line. No global install, no <code>npm i -g</code>. Always use <code>bunx</code>:</p>
-<pre><code class="language-bash">bunx lazycodex-ai install
-</code></pre>
-<p>This is shorthand for <code>bunx --package oh-my-openagent omo install --platform=codex</code>. For a fully autonomous, no-TUI setup:</p>
-<pre><code class="language-bash">bunx lazycodex-ai install --no-tui --codex-autonomous
-</code></pre>
-<h2>코퍼스 — 000_overview/00_lc_overview.md (심화)</h2>
-<h2>코드베이스 개요</h2>
-<table>
-<thead>
-<tr>
-<th>항목</th>
-<th>수치 / 경로</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>GitHub repo</td>
-<td><code>code-yeongyu/lazycodex</code></td>
-</tr>
-<tr>
-<td>Local checkout</td>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
-</tr>
-<tr>
-<td>npm package</td>
-<td><code>lazycodex-ai</code></td>
-</tr>
-<tr>
-<td>First-party executable</td>
-<td><code>bin/lazycodex-ai.js</code> (28 lines)</td>
-</tr>
-<tr>
-<td>Aggregate plugin</td>
-<td><code>plugins/omo/</code> (6 component workspaces)</td>
-</tr>
-<tr>
-<td>OmO submodule</td>
-<td><code>src/</code> → <code>oh-my-openagent</code> (OpenCode path reference)</td>
-</tr>
-<tr>
-<td>Docs site</td>
-<td><code>packages/web/</code> (Next.js on Cloudflare Workers)</td>
-</tr>
-<tr>
-<td>Marketplace id</td>
-<td><code>sisyphuslabs</code> → plugin <code>omo</code></td>
-</tr>
-<tr>
-<td>MCP servers in snapshot</td>
-<td><strong>1</strong> (<code>lsp</code> only)</td>
-</tr>
-<tr>
-<td>Codex agent TOMLs</td>
-<td>4 (<code>explorer</code>, <code>librarian</code>, <code>plan</code>, <code>codex-ultrawork-reviewer</code>)</td>
-</tr>
-<tr>
-<td>Axis docs T2 bar</td>
-<td>14/14 ≥12 KB (WP54)</td>
-</tr>
-</tbody>
-</table>
-<hr>
-10:["$","$L30","02-what-is-lazycodex",{"id":"02-what-is-lazycodex","order":2,"tier":"core","title":"하네스 한눈에","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
-11:["$","$L30","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치 & 인증","description":"설치 & 인증","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설치 &#x26; 인증</li>\n<li>🚀 Install</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3>README / docs</h3>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install\n</code></pre>\n<h3>README / docs</h3>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install --no-tui --codex-autonomous\n</code></pre>\n<h2>본문</h2>\n<h2>설치 &#x26; 인증</h2>\n<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>\n<blockquote>\n<p><code>161_lazycodex/README.md</code></p>\n</blockquote>\n<h2>🚀 Install</h2>\n<p>One line. No global install, no <code>npm i -g</code>. Always use <code>bunx</code>:</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install\n</code></pre>\n<p>This is shorthand for <code>bunx --package oh-my-openagent omo install --platform=codex</code>. For a fully autonomous, no-TUI setup:</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install --no-tui --codex-autonomous\n</code></pre>\n"}}]}]
-12:["$","$L30","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 세션","description":"첫 세션","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>첫 세션</li>\n<li>🚀 Install</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3>README / docs</h3>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install\n</code></pre>\n<h3>README / docs</h3>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install --no-tui --codex-autonomous\n</code></pre>\n<h2>본문</h2>\n<h2>첫 세션</h2>\n<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>\n<blockquote>\n<p><code>161_lazycodex/README.md</code></p>\n</blockquote>\n<h2>🚀 Install</h2>\n<p>One line. No global install, no <code>npm i -g</code>. Always use <code>bunx</code>:</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install\n</code></pre>\n<p>This is shorthand for <code>bunx --package oh-my-openagent omo install --platform=codex</code>. For a fully autonomous, no-TUI setup:</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install --no-tui --codex-autonomous\n</code></pre>\n"}}]}]
-13:["$","$L30","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"에이전트 루프","description":"에이전트 루프","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>에이전트 루프</li>\n<li>LazyCodex OmO shim</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>161_lazycodex/README.md</code></h3>\n<h2>🚀 Install</h2>\n<p>One line. No global install, no <code>npm i -g</code>. Always use <code>bunx</code>:</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install\n</code></pre>\n<p>This is shorthand for <code>bunx --package oh-my-openagent omo install --platform=codex</code>. For a fully autonomous, no-TUI setup:</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install --no-tui --codex-autonomous\n</code></pre>\n<h2>본문</h2>\n<h2>에이전트 루프</h2>\n<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>\n<h2>LazyCodex OmO shim</h2>\n<p>OpenCode 위 Codex/Cursor/Gemini 라우팅.</p>\n<blockquote>\n<p><code>000_overview/00_lc_overview.md</code></p>\n</blockquote>\n"}}]}]
-14:["$","$L30","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정 & 모델","description":"설정 & 모델","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>CLI / env / 프로젝트 설정 파일 계층.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설정 &#x26; 모델</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>161_lazycodex/README.md</code></h3>\n<h2>🚀 Install</h2>\n<p>One line. No global install, no <code>npm i -g</code>. Always use <code>bunx</code>:</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install\n</code></pre>\n<p>This is shorthand for <code>bunx --package oh-my-openagent omo install --platform=codex</code>. For a fully autonomous, no-TUI setup:</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install --no-tui --codex-autonomous\n</code></pre>\n<h2>본문</h2>\n<h2>설정 &#x26; 모델</h2>\n<p>CLI / env / 프로젝트 설정 파일 계층.</p>\n<blockquote>\n<p>See <code>000_overview/00_lc_overview.md</code> and official docs.</p>\n</blockquote>\n"}}]}]
-34:T876,<h2>기초 설명</h2>
+f:["$","$L30","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
+10:["$","$L30","02-what-is-lazycodex",{"id":"02-what-is-lazycodex","order":2,"tier":"core","title":"LazyCodex가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>LazyCodex는 복잡한 설정 고민 없이 명령어 단 한 줄로 강력한 AI 개발 프레임워크인 OmO를 구축하고 Codex 설정을 자동으로 마무리해 주는 초간편 도구예요.</p>\n<h2>비유로 이해하기</h2>\n<p>컴퓨터에 복잡한 개발 프로그램을 설치할 때 수많은 옵션과 설정을 일일이 비교하며 공부할 필요 없이, \"알아서 가장 완벽하고 인기 있는 옵션들만 골라서 한 번에 다 깔아주는 자동 설치 팩\"을 누르는 느낌이에요. 마치 리눅스의 우분투나 빔 에디터의 편리한 세팅 번들(LazyVim)처럼, Codex 개발 환경을 초심자도 즉시 사용하도록 포장해 둔 패키지라고 보면 돼요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>복잡한 가상 비서 협업 세동작을 원클릭으로 한 번에 설치할 수 있어요.</li>\n<li>지시를 내리면 에이전트들이 스스로 설계를 짜고, 역할을 나누어 병렬(여러 작업을 동시에 실행하는 것)로 작업하도록 조율해 줘요.</li>\n<li>기획서 자동 작성부터 완성 검증 단계까지 알아서 무한 루프를 돌며 코드를 완성해 내요.</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>보통 에이전트 협업 시스템을 직접 구현하려면 설정 파일을 직접 만져야 해서 진입 장벽이 높아요. 하지만 LazyCodex는 검증된 표준 조합으로 알아서 빌드해 줘서 초보 개발자라도 즉시 Hephaestus(대장장이 에이전트)나 Oracle(판정 에이전트) 같은 똑똑한 인공지능 비서들로 구성된 개발 팀을 내 컴퓨터에 바로 거느릴 수 있게 돼요.</p>\n<blockquote>\n<p>더 세밀한 아키텍처(OmO 프레임워크의 상세 작동 원리나 멀티 모델 라우팅)가 궁금하시면 상단 메뉴의 <strong>개발자 문서</strong>에서 깊이 있게 다뤄요. 지금은 편안하게 자동화 세팅을 완료하는 도구라는 점만 느끼고 다음 단계로 넘어가도 괜찮아요.</p>\n</blockquote>\n"}}]}]
+11:["$","$L30","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치하고 준비하기","description":"설치 + API 키 준비 + 막힐 때 팁","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>전역 설치 없이 바로 사용해요</h2>\n<p>LazyCodex는 컴퓨터에 프로그램을 영구적으로 깔아두는 글로벌(전역) 설치가 필요 없어요. 대신 <code>bunx</code>라는 도구를 써서 실행할 때만 필요한 파일을 실시간으로 임시 다운로드해서 실행하도록 지원해요. 덕분에 컴퓨터 용량을 낭비하지 않고 항상 최신 버전을 간편하게 쓸 수 있어요.</p>\n<p>Bun이 이미 준비되어 있다면 아래 명령어 한 줄로 설치 및 환경 구성을 즉시 진행해 보세요.</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install\n</code></pre>\n<h2>비주얼 화면 없이 자동 설치하기</h2>\n<p>만약 터미널에서 화살표를 움직이는 설정 화면(TUI)조차 띄우고 싶지 않고 완전히 자동으로 자동화 세팅을 끝내고 싶다면, 아래와 같이 특수 옵션을 덧붙여 실행하면 돼요.</p>\n<pre><code class=\"language-bash\">bunx lazycodex-ai install --no-tui --codex-autonomous\n</code></pre>\n<h2>막힐 때 팁</h2>\n<ul>\n<li><code>bunx</code> 명령어를 실행할 수 없다는 에러가 발생한다면, 컴퓨터에 Bun(번)이 깔려 있는지 먼저 점검해 보세요. 터미널에 <code>bun --version</code>을 쳤을 때 숫자가 나오지 않으면 Bun 공식 웹사이트 안내에 따라 Bun부터 준비해 주셔야 해요.</li>\n<li>실행 중 권한 에러 등이 뜨면 임시 폴더 쓰기 권한이 막혀 있는지 체크해 보세요.</li>\n</ul>\n"}}]}]
+12:["$","$L30","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 사용 5분","description":"따라 하면 되는 첫 실습","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>5분 만에 작업 기획안 작성하기</h2>\n<p>설치를 끝내면 작업 중인 에디터 대화 세션에 강력한 개발 보조 명령어들이 추가돼요. 실제로 어떻게 기획안을 도출해 내는지 바로 실험해 볼게요.</p>\n<h2>따라 해보기</h2>\n<ol>\n<li>내 작업 폴더 안에서 평소 사용하시는 코딩 에이전트(인공지능 코딩 프로그램)를 실행해 주세요.</li>\n<li>대화 입력 창에 아래와 같이 입력해서 기획 및 분석을 요청해 보세요.</li>\n</ol>\n<pre><code class=\"language-text\">/ulw-plan \"파이썬으로 간단한 할 일 관리 애플리케이션 만들기\"\n</code></pre>\n<ol start=\"3\">\n<li>지시를 받은 에이전트가 코드를 막바로 작성하지 않고, 먼저 구조와 상세 기능의 청사진(기획 계획서)을 짤 거예요. 완성된 계획은 <code>plans/</code> 폴더에 마크다운 문서로 안전하게 자동 생성돼요.</li>\n</ol>\n<h2>작성된 기획 결과 보기</h2>\n<p>프로젝트 폴더 내에 새로 만들어진 <code>plans/</code> 디렉터리(폴더)를 확인해 보세요. 어떤 방식으로 에러를 다룰 것인지, 검증 과정은 어떻게 거칠 것인지가 조밀하게 계획서 형식으로 들어가 있어요.</p>\n<p>다음 장에서는 이렇게 작성한 계획서 기반으로 실코딩 작업을 에이전트에게 실제로 위임하여 수행하는 일상 작업 리듬을 살펴볼게요.</p>\n"}}]}]
+13:["$","$L30","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"매일 이렇게 써요","description":"실제 일상 사용 흐름과 비결","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>매일 쓰는 3단계 자동 흐름</h2>\n<p>세팅이 손에 익으면 매일 아침 출근해서 아래의 세 단계를 반복하며 개발을 진행하게 돼요.</p>\n<ol>\n<li>\n<p><strong>설계하기</strong>: <code>/ulw-plan</code> 명령어로 무엇을 개발할지 설계 문서를 먼저 구성해요.</p>\n</li>\n<li>\n<p><strong>자동 개발 시작</strong>: 만들어진 기획서 이름을 넣고 실행해요.</p>\n<pre><code class=\"language-text\">/start-work 내-기획서-이름\n</code></pre>\n<p>이 명령어를 치면 에이전트들이 기획서 안에 기재된 체크박스 항목을 하나씩 물리치며 코드를 스스로 완성해 가요.</p>\n</li>\n<li>\n<p><strong>자율 수정 루프</strong>: 특정 버그를 해결하거나 완성도 판단(Oracle 검증)이 끝날 때까지 스스로 계속 수정을 가하는 무한 반복이 필요할 때 아래 명령을 요청해요.</p>\n<pre><code class=\"language-text\">/ulw-loop \"특정 부분의 테스트가 통과할 때까지 고쳐줘\"\n</code></pre>\n</li>\n</ol>\n<h2>꼭 지켜야 할 일상 리듬</h2>\n<ul>\n<li><strong>기획서 작성 시점과 개발 시점 구분하기</strong>: <code>ulw-plan</code>은 절대로 제품용 본문 코드를 직접 생산하지 않고 오로지 마크다운 문서(기획안)만 써요. 먼저 기획안이 내 마음에 들게 나왔는지 검토한 뒤에 <code>start-work</code> 명령으로 자동 작업을 트리거(실행 지시)하는 방식을 생활화해 보세요.</li>\n<li><strong>체크박스 위주로 나누기</strong>: 기획 문서 안의 할 일(체크리스트)들이 구체적이고 명확할수록 에이전트들이 도중에 헷갈려 하지 않고 마지막 단계까지 완벽하게 도달해요.</li>\n</ul>\n"}}]}]
+14:["$","$L30","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정하고, 더 배우기","description":"내 입맛대로 설정 + 다음 단계 안내","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>제로 설정으로 가볍게</h2>\n<p>LazyCodex는 \"설정할 게 없는 것\"이 가장 큰 특징이에요. 복잡하게 환경 변수를 맞추고 컴포넌트 간 연결점을 이어줄 필요 없이, 대다수의 사용자에게 최적인 기본 설정값들이 미리 튜닝(최적화 설정)되어 있어요.</p>\n<p>기본 사양 외에 특별히 나만의 에이전트 행동 규칙(프롬프트 규칙)이나 협업 가상 비서의 구성을 더 뜯어고치고 싶다면 프로젝트 루트의 설정 파일을 직접 편집할 수도 있어요.</p>\n<h2>비용 최적화와 라우팅</h2>\n<p>여러 에이전트가 동시에 일하는 만큼 사용 비용이 걱정될 수 있어요. 기본 설정값은 가벼운 작업은 저렴한 모델로, 고난도 설계나 판정 작업은 똑똑한 대형 모델로 자동 라우팅(목적지에 맞춰 경로를 배정해 주는 것)하도록 알맞게 정비되어 있어요.</p>\n<h2>다음 단계로</h2>\n<p>이제 LazyCodex의 작동 양상과 기본 명령어들의 쓰임새를 마스터하셨어요. 앞으로는 아래 방향으로 활용 범위를 넓혀 보세요.</p>\n<ul>\n<li>간단한 테스트 위주의 코딩 기능부터 자동 위임해 보기</li>\n<li>내 코딩 보조 에이전트의 페르소나(역할 정의) 커스텀하기</li>\n<li>실시간으로 에이전트들이 소통하는 모니터링 콘솔 켜기</li>\n</ul>\n<p>만약 백엔드에서 작동하는 상세한 흐름 제어, 훅 시스템 설계 구조, 자율 판단 주기 같은 심화 아키텍처에 관심이 생기셨다면 상단 메뉴의 <strong>개발자 문서</strong>를 확인해 보세요. 소스 코드 세부 설명과 모듈 구조까지 자세하게 확인하실 수 있어요.</p>\n<p>그럼 편안하고 게으른 인공지능 협업 코딩을 시작해 볼까요? 😊</p>\n"}}]}]
+32:T876,<h2>기초 설명</h2>
 <p>LazyCodex는 독립 코딩 에이전트가 아니다. README가 명시한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1337,8 +613,8 @@ included as a submodule under `src/`.
 </table>
 <p><code>.gitmodules</code>는 <code>src</code>를 <code>oh-my-openagent</code>로 선언하지만, Codex 플랫폼 경로의 <strong>실질 증거</strong>는 wrapper + <code>plugins/omo</code> 번들이다. OpenCode 전용 <code>ctx.client.tui.showToast</code> 같은 API는 submodule에 존재하나 <code>--platform=codex</code> install 시 활성화되지 않는다 (<code>01_lc_tui.md</code> §5).</p>
 <hr>
-15:["$","$L30","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. Identity","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-35:T82c,<h2>기초 설명</h2>
+15:["$","$L30","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. Identity","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
+33:T82c,<h2>기초 설명</h2>
 <p>전체 런타임은 28줄 Node forwarder다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1402,8 +678,8 @@ const result = spawnSync("bunx", commandArgs, {
 <p>테스트가 계약을 고정한다: <code>161_lazycodex/test/lazycodex-ai-bin.test.mjs</code> — install vs non-install forwarding.</p>
 <p><strong>Negative finding:</strong> <code>grep</code> of <code>161_lazycodex/bin/</code> shows no config parser, no TOML reader, no model router — only <code>spawnSync</code>.</p>
 <hr>
-16:["$","$L30","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. Distribution shim","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
-36:Taa9,<h2>기초 설명</h2>
+16:["$","$L30","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. Distribution shim","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
+34:Taa9,<h2>기초 설명</h2>
 <p>Manifest:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1483,8 +759,8 @@ const result = spawnSync("bunx", commandArgs, {
 </code></pre>
 <p>사용자는 <code>sisyphuslabs</code> marketplace에서 <strong>하나의 플러그인</strong>만 설치하면 6개 컴포넌트가 함께 활성화된다.</p>
 <hr>
-17:["$","$L30","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. Aggregate plugin `omo`","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:T8f5,<h2>기초 설명</h2>
+17:["$","$L30","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. Aggregate plugin `omo`","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+35:T8f5,<h2>기초 설명</h2>
 <p>LazyCodex는 provider message JSON을 조립하지 않는다. Context는 Codex hook 이벤트로 주입된다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1528,8 +804,8 @@ ULTRAWORK_PATTERN = re.compile(r"\b(?:ultrawork|ulw)\b", re.IGNORECASE)
 </code></pre>
 <p>Hook은 <strong>항상 exit 0</strong> — advisory injection, permission gate 아님.</p>
 <hr>
-18:["$","$L30","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
-38:T791,<h2>기초 설명</h2>
+18:["$","$L30","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
+36:T791,<h2>기초 설명</h2>
 <p>LC-owned tool surface = <strong>LSP MCP stdio server</strong> 하나뿐:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1591,8 +867,8 @@ ULTRAWORK_PATTERN = re.compile(r"\b(?:ultrawork|ulw)\b", re.IGNORECASE)
 </table>
 <p>Exa, Tavily, browser, filesystem MCP — <strong>snapshot에 없음</strong> (<code>aggregate.test.mjs:60-70</code>).</p>
 <hr>
-19:["$","$L30","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
-39:T874,<h2>기초 설명</h2>
+19:["$","$L30","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
+37:T874,<h2>기초 설명</h2>
 <p>Skills는 build-time sync로 aggregate된다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1635,8 +911,8 @@ const skillSources = [
 </code></pre>
 <p>Checked-in inventory includes: <code>comment-checker</code>, <code>lsp</code>, <code>rules</code>, <code>ultragoal</code>, <code>programming</code>, <code>debugging</code>, <code>frontend-ui-ux</code>, <code>refactor</code>, <code>review-work</code>, <code>remove-ai-slops</code>. <strong>Invocation</strong>은 Codex host lazy-load — LC는 packaging만.</p>
 <hr>
-1a:["$","$L30","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
-3a:T835,<h2>기초 설명</h2>
+1a:["$","$L30","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
+38:T835,<h2>기초 설명</h2>
 <p>Four bundled Codex agent roles:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1699,8 +975,8 @@ model = "gpt-5.4-mini"
 </tbody>
 </table>
 <hr>
-1b:["$","$L30","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:T852,<h2>기초 설명</h2>
+1b:["$","$L30","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+39:T852,<h2>기초 설명</h2>
 <p><strong>Surfaces LC owns:</strong></p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1757,8 +1033,8 @@ model = "gpt-5.4-mini"
 <p><strong>Sandbox:</strong> LC configures hook subprocess timeouts and PostToolUse <code>decision: block</code> — not seatbelt/bwrap/seccomp. Codex <code>permission_mode</code> in hook stdin is read-only consumption.</p>
 <p><strong>Config:</strong> No <code>.lazycodexrc</code>. Three layers: (1) zero-parser CLI shim, (2) frozen <code>.agents/plugins/marketplace.json</code>, (3) component env knobs (<code>CODEX_RULES_*</code>, <code>.codex/lsp-client.json</code>, <code>.omo/ultragoal/*.json</code>). Real <code>~/.codex/config.toml</code> mutations happen inside OmO installer.</p>
 <hr>
-1c:["$","$L30","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:Tb18,<h2>기초 설명</h2>
+1c:["$","$L30","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
+3a:Tb18,<h2>기초 설명</h2>
 <p><strong>Memory taxonomy</strong> — LC has no vector index or MEMORY.md pipeline:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1855,8 +1131,8 @@ export function sessionCachePath(sessionId: string, pluginDataRoot?: string): st
 </table>
 <p><code>hooks.json</code> has <strong>no</strong> PreToolUse or PermissionRequest events — pre-execution gates are host-native.</p>
 <hr>
-1d:["$","$L30","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
-3d:T59e,<h2>기초 설명</h2>
+1d:["$","$L30","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+3b:T59e,<h2>기초 설명</h2>
 <p>LC does not ship web-search MCP or browser runtime. Research flows through <strong>librarian agent</strong> instructions:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1882,8 +1158,8 @@ export function sessionCachePath(sessionId: string, pluginDataRoot?: string): st
 <p>LSP <code>symbols</code> tool with <code>scope: workspace</code> queries <strong>local LSP index</strong>, not the public internet (<code>tools.ts:619-636</code>).</p>
 <p><strong>Verdict:</strong> classify <code>lc</code> as <strong>host-mediated web/search</strong> — librarian orchestrates Codex <code>web_search</code>/<code>webfetch</code>; explorer is read-only local.</p>
 <hr>
-1e:["$","$L30","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
-3e:T644,<h2>기초 설명</h2>
+1e:["$","$L30","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. Axis synthesis","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
+3c:T644,<h2>기초 설명</h2>
 <p>LC renders zero terminal frames. Codex displays hook <code>statusMessage</code> strings during subprocess execution:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1936,8 +1212,8 @@ export function sessionCachePath(sessionId: string, pluginDataRoot?: string): st
 </table>
 <p><code>--no-tui</code> in README applies to <strong>OmO install wizard</strong>, not Codex session TUI (<code>README.md:38-41</code>).</p>
 <hr>
-1f:["$","$L30","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. TUI","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:T63a2,<h2>기초 설명</h2>
+1f:["$","$L30","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. TUI","description":"000_overview/00_lc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+3d:T63a2,<h2>기초 설명</h2>
 <p>LazyCodex is a <strong>thin distribution wrapper</strong> over <a href="https://github.com/code-yeongyu/oh-my-openagent">oh-my-openagent (OmO)</a>. It does not ship Ratatui, Ink, blessed, or any terminal frame renderer. The user's interactive session is the <strong>Codex CLI TUI</strong>; LazyCodex contributes install/bootstrap plumbing, bundled Codex plugin hooks (with <code>statusMessage</code> strings during hook subprocesses), and documentation.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2662,8 +1938,8 @@ test("#given isolated components #when hooks are inspected #then commands stay i
 </tr>
 </tbody>
 </table>
-20:["$","$L30","20-axis-01-tui",{"id":"20-axis-01-tui","order":18,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_lc_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:T7799,<h2>기초 설명</h2>
+20:["$","$L30","20-axis-01-tui",{"id":"20-axis-01-tui","order":18,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_lc_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+3e:T7799,<h2>기초 설명</h2>
 <p>LazyCodex does not assemble provider messages, call models directly, or implement compaction. Its prompt/context surface is the bundled <code>plugins/omo</code> Codex plugin: lifecycle hooks that emit <code>hookSpecificOutput.additionalContext</code>, keyword-triggered ultrawork directives, ultragoal steering, lazy-loaded skills, and LSP MCP tool context when invoked.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3487,8 +2763,8 @@ assert.equal(skillsPath, "./skills/");
 </tr>
 </tbody>
 </table>
-21:["$","$L30","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":19,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_lc_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:T6961,<h2>기초 설명</h2>
+21:["$","$L30","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":19,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_lc_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
+3f:T6961,<h2>기초 설명</h2>
 <p>LazyCodex has no LLM tool loop, permission engine, or sandbox. Runtime layers: (1) <code>lazycodex-ai.js</code> CLI forwarder, (2) Codex plugin hook commands, (3) LSP MCP JSON-RPC over stdio. Tool dispatch, streaming, and approval UX remain Codex-owned.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4322,8 +3598,8 @@ src/src/plugin/tool-registry.ts
 </tr>
 </tbody>
 </table>
-22:["$","$L30","20-axis-03-tool",{"id":"20-axis-03-tool","order":20,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_lc_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:T57e4,<h2>기초 설명</h2>
+22:["$","$L30","20-axis-03-tool",{"id":"20-axis-03-tool","order":20,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_lc_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
+40:T57e4,<h2>기초 설명</h2>
 <p>LazyCodex exposes skills through the bundled <code>omo</code> Codex plugin: manifest path <code>./skills/</code>, build-time sync from component and shared sources, Codex compatibility rewrites for OpenCode orchestration examples, and marketplace registration under <code>sisyphuslabs</code>. Skill <strong>invocation</strong> and lazy loading are Codex host behaviors.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4999,8 +4275,8 @@ assert.equal(manifest.skills, "./skills/");
 </tr>
 </tbody>
 </table>
-23:["$","$L30","20-axis-04-skill",{"id":"20-axis-04-skill","order":21,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_lc_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T570c,<h2>기초 설명</h2>
+23:["$","$L30","20-axis-04-skill",{"id":"20-axis-04-skill","order":21,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_lc_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
+41:T570c,<h2>기초 설명</h2>
 <p>LazyCodex packages four Codex agent role definitions (<code>explorer</code>, <code>librarian</code>, <code>plan</code>, <code>codex-ultrawork-reviewer</code>), ultrawork keyword workflow injection, and skill-level Codex compatibility mappings. Process isolation, async scheduling, and inter-agent messaging are Codex runtime concerns.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5573,8 +4849,8 @@ function findSpawnAgentTypes(content) {
 </tr>
 </tbody>
 </table>
-24:["$","$L30","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":22,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_lc_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:T575f,<h2>기초 설명</h2>
+24:["$","$L30","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":22,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_lc_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
+42:T575f,<h2>기초 설명</h2>
 <p>LazyCodex does not ship JSON-RPC session daemons, WebSocket streaming endpoints, REST APIs, or client SDKs for agent control. Agent session transport, tool streaming, and approvals are Codex/OmO host-owned. LC packages entrypoints and plugin components.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -6286,8 +5562,8 @@ custom_domain = true
 </tr>
 </tbody>
 </table>
-25:["$","$L30","20-axis-06-surface",{"id":"20-axis-06-surface","order":23,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_lc_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:T6203,<h2>기초 설명</h2>
+25:["$","$L30","20-axis-06-surface",{"id":"20-axis-06-surface","order":23,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_lc_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+43:T6203,<h2>기초 설명</h2>
 <p>LazyCodex does not implement seatbelt, bwrap, seccomp, landlock, chroot, Docker sandboxes, network allowlists, or command classifiers. Policy surfaces are limited to: hook subprocess timeouts, post-edit <strong>block</strong> decisions (comment-checker, LSP), LSP language-server spawn with <code>shell: false</code>, and outbound telemetry opt-out flags.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -6989,8 +6265,8 @@ const result = await steerUltragoal(payload.cwd, proposal);
 </tr>
 </tbody>
 </table>
-26:["$","$L30","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":24,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_lc_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-46:T6a0c,<h2>기초 설명</h2>
+26:["$","$L30","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":24,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_lc_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
+44:T6a0c,<h2>기초 설명</h2>
 <p>LazyCodex configuration is <strong>three-layer</strong>: (1) a zero-parser CLI shim, (2) a frozen marketplace snapshot under <code>.agents/plugins/</code>, and (3) component-local env/path knobs inside the bundled <code>plugins/omo</code> aggregate plugin. There is no <code>.lazycodexrc</code>, no layered settings merge, and no model-router config in this repository.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7776,8 +7052,8 @@ export function ultragoalLedgerPath(repoRoot: string): string {
 </tr>
 </tbody>
 </table>
-27:["$","$L30","20-axis-08-config",{"id":"20-axis-08-config","order":25,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_lc_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:T6074,<h2>기초 설명</h2>
+27:["$","$L30","20-axis-08-config",{"id":"20-axis-08-config","order":25,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_lc_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
+45:T6074,<h2>기초 설명</h2>
 <p>MCP in LazyCodex means: Codex host reads <code>plugins/omo/.mcp.json</code>, spawns a stdio JSON-RPC process (<code>lsp-tools-mcp</code>), and routes model tool calls to LSP operations. LazyCodex does not implement discovery, auth, approval mediation, or remote SSE transports.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -8505,8 +7781,8 @@ export async function runLspPostToolUseHook(...) {
 </tr>
 </tbody>
 </table>
-28:["$","$L30","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":26,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_lc_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
-48:T5dab,<h2>기초 설명</h2>
+28:["$","$L30","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":26,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_lc_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
+46:T5dab,<h2>기초 설명</h2>
 <p>Do <strong>not</strong> classify LazyCodex as extracting facts from prior sessions, building vector indexes, or owning a replay/resume database. It packages <strong>context injection</strong>, <strong>workflow evidence</strong>, and <strong>audit ledgers</strong> — not semantic long-term memory.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9181,8 +8457,8 @@ export function getPostHogActivityCaptureState(now: Date = new Date()): PostHogA
 </tr>
 </tbody>
 </table>
-29:["$","$L30","20-axis-10-memory",{"id":"20-axis-10-memory","order":27,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_lc_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:T5cd2,<h2>기초 설명</h2>
+29:["$","$L30","20-axis-10-memory",{"id":"20-axis-10-memory","order":27,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_lc_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
+47:T5cd2,<h2>기초 설명</h2>
 <p>LazyCodex does <strong>not</strong> implement OmO's full two-direction OpenCode plugin runtime. It vendored the Codex distribution surface: manifest JSON, hooks, skills sync, MCP registration, and bundled agent TOMLs.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9914,8 +9190,8 @@ test("#given aggregate plugin manifest #when inspected #then it owns the omo nam
 </tr>
 </tbody>
 </table>
-2a:["$","$L30","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":28,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_lc_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:T5749,<h2>기초 설명</h2>
+2a:["$","$L30","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":28,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_lc_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
+48:T5749,<h2>기초 설명</h2>
 <p>Distinguish three layers: (1) <strong>host permission</strong> before tool runs, (2) <strong>PostToolUse block</strong> after edits fail quality checks, (3) <strong>workflow verdict</strong> agents (reviewer / quality gate) that govern "done" — not sandbox policy.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10567,8 +9843,8 @@ export function validateQualityGate(input: unknown): UltragoalQualityGate {
 </tr>
 </tbody>
 </table>
-2b:["$","$L30","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_lc_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-4b:T5192,<h2>기초 설명</h2>
+2b:["$","$L30","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_lc_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
+49:T5192,<h2>기초 설명</h2>
 <p>LazyCodex is intentionally thin: a CLI shim (<code>bin/lazycodex-ai.js</code>), marketplace snapshot, bundled <code>plugins/omo</code> aggregate plugin, and <code>packages/web</code> docs site. Heavy harness logic lives in <strong>delegated</strong> <code>oh-my-openagent</code> (OmO).</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11214,8 +10490,8 @@ const result = spawnSync("bunx", commandArgs, { stdio: "inherit" })
 </tr>
 </tbody>
 </table>
-2c:["$","$L30","20-axis-13-etc",{"id":"20-axis-13-etc","order":30,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_lc_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
-4c:T57dc,<h2>기초 설명</h2>
+2c:["$","$L30","20-axis-13-etc",{"id":"20-axis-13-etc","order":30,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_lc_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
+4a:T57dc,<h2>기초 설명</h2>
 <p>The only MCP server in LC is <strong>LSP</strong> (<code>.mcp.json</code>) — local symbol/diagnostic tools, not internet search.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11898,8 +11174,8 @@ const tomlPath = join(root, "components", "ultrawork", "agents", `${agentType}.t
 </tr>
 </tbody>
 </table>
-2d:["$","$L30","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_lc_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
-4d:T1bca,<h2>기초 설명</h2>
+2d:["$","$L30","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_lc_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
+4b:T1bca,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12056,8 +11332,8 @@ const tomlPath = join(root, "components", "ultrawork", "agents", `${agentType}.t
 <li><code>bundle-key</code> or <code>binary-string</code> confirms a module exists.</li>
 <li><code>runtime-trace</code> is still required for exact precedence, scheduling, isolation, merge, and permission behavior.</li>
 </ul>
-2e:["$","$L30","25-reverse-engineering",{"id":"25-reverse-engineering","order":32,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
-4e:T228e,<h2>기초 설명</h2>
+2e:["$","$L30","25-reverse-engineering",{"id":"25-reverse-engineering","order":32,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
+4c:T228e,<h2>기초 설명</h2>
 <p>이 문서는 Codex, Aider, Gemini CLI, OpenCode, Claude Code를 13개 아키텍처 차원에서 동시에 비교한 캡스톤 문서다.
 개별 비교 문서의 결론을 단순 재배열하지 않고, 서로 다른 설계 철학이 어떤 제품 전략으로 수렴하는지까지 읽어내는 것을 목표로 한다.</p>
 <h2>이 문서에서 다루는 것</h2>
@@ -12206,4 +11482,4 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>기술 스택: Python + prompt_toolkit + rich + tree-sitter + Git</li>
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
-2f:["$","$L30","99-next-steps",{"id":"99-next-steps","order":33,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
+2f:["$","$L30","99-next-steps",{"id":"99-next-steps","order":33,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]

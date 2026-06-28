@@ -6,583 +6,16 @@
 8:I[73920,["/cli101-portal/sites/hermes/_next/static/chunks/8defe090bc41a910.js","/cli101-portal/sites/hermes/_next/static/chunks/9cbfb6d67b626dff.js"],"ViewportBoundary"]
 a:I[73920,["/cli101-portal/sites/hermes/_next/static/chunks/8defe090bc41a910.js","/cli101-portal/sites/hermes/_next/static/chunks/9cbfb6d67b626dff.js"],"MetadataBoundary"]
 c:I[62157,["/cli101-portal/sites/hermes/_next/static/chunks/8defe090bc41a910.js","/cli101-portal/sites/hermes/_next/static/chunks/9cbfb6d67b626dff.js"],"default"]
-:HL["/cli101-portal/sites/hermes/_next/static/chunks/cd1036751d1597fc.css","style"]
-0:{"P":null,"b":"IZnWcM-xBfbahCSitPxFl","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/hermes/_next/static/chunks/cd1036751d1597fc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/hermes/_next/static/chunks/a2f8a9da8cf82d28.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+:HL["/cli101-portal/sites/hermes/_next/static/chunks/de9c2d007a64b7f6.css","style"]
+0:{"P":null,"b":"eg38sipJiwUFWIMhdF2a6","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/hermes/_next/static/chunks/de9c2d007a64b7f6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/hermes/_next/static/chunks/93bf53fc9c10cbdd.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
 b:[["$","title","0",{"children":"HE101 — Hermes Agent 입문"}],["$","meta","1",{"name":"description","content":"Hermes Agent 코퍼스 기반 입문 (cli101)"}],["$","meta","2",{"property":"og:title","content":"HE101 — Hermes Agent"}],["$","meta","3",{"property":"og:description","content":"Gateway agent intro — links to Docusaurus"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"HE101 — Hermes Agent"}],["$","meta","6",{"name":"twitter:description","content":"Gateway agent intro — links to Docusaurus"}]]
-d:I[49187,["/cli101-portal/sites/hermes/_next/static/chunks/a2f8a9da8cf82d28.js"],"PageClient"]
-4:["$","$6",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$Ld",null,{"lang":"ko","siteName":"HE101","tagline":"HE101 developer-grade corpus guide","taglineEn":"HE101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_hermes_overview.md","branding":{"slug":"he101","name":"HE101","tagline_ko":"Hermes 입문 + 게이트웨이","tagline_en":"Hermes intro + gateway","accentLabel_ko":"000_overview/00_hermes_overview.md","accentLabel_en":"000_overview/00_hermes_overview.md","heroTitle_ko":"자기개선형 멀티채널 에이전트","heroTitle_en":"Self-improving multi-channel agent","heroSubtitle_ko":"개발자 문서 — 35섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 35 sections (000–015 + snippets)","terminalLines":["$$ pip install hermes-agent","$$ hermes"],"prompt_ko":"> 텔레그램으로도 같은 세션 이어줘","prompt_en":"> continue this session on Telegram","ctaHash":"00-before-you-start","officialUrl":"https://github.com/NousResearch/hermes-agent","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"HE101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-hermes","order":2,"tier":"core","slug":"02-what-is-hermes","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/02-what-is-hermes.md","file_en":"en/02-what-is-hermes.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 다채널 게이트웨이 (핵심 차별점)","title_en":"Overview §2","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 시스템","title_en":"Overview §3","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 시스템 프롬프트 조립 (3계층)","title_en":"Overview §4","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 메모리 시스템 (영속·자기개선)","title_en":"Overview §5","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 에이전트 루프","title_en":"Overview §6","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 턴/세션을 넘어 살아남는 실행","title_en":"Overview §7","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 보안·승인·샌드박스","title_en":"Overview §8","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. ACP 어댑터 (에디터 통합)","title_en":"Overview §9","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 플러그인·스킬 생태계","title_en":"Overview §10","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 관찰성","title_en":"Overview §11","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. cli-jaw 비교 시사점","title_en":"Overview §12","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":19,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_hermes_tui.md","description_en":"001_tui-design/01_hermes_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":20,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_hermes_prompt.md","description_en":"002_prompt-context/02_hermes_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":21,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_hermes_tool.md","description_en":"003_tool-runtime/03_hermes_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":22,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_hermes_skill.md","description_en":"004_skill-system/04_hermes_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":23,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_hermes_subagent.md","description_en":"005_subagents-collab/05_hermes_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":24,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_hermes_surface.md","description_en":"006_app-server-client-surfaces/06_hermes_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":25,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_hermes_sandbox.md","description_en":"007_sandbox-exec-policy/07_hermes_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":26,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_hermes_config.md","description_en":"008_config-system/08_hermes_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":27,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_hermes_mcp.md","description_en":"009_mcp-orchestration/09_hermes_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":28,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_hermes_memory.md","description_en":"010_memory-pipeline/10_hermes_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":29,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_hermes_plugin.md","description_en":"011_plugin-system/11_hermes_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":30,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_hermes_guardian.md","description_en":"012_guardian-approval/12_hermes_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":31,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_hermes_etc.md","description_en":"013_etc/13_hermes_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":32,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_hermes_web-search.md","description_en":"014_web-search/14_hermes_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":33,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":34,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}]}]
-31:I[47239,["/cli101-portal/sites/hermes/_next/static/chunks/a2f8a9da8cf82d28.js"],"SectionBlock"]
-32:T4f0d,<h2>HE101 — 개발자 문서</h2>
-<p>P2: <strong>000–015 코퍼스</strong> + <strong>path:line 소스 스니펫</strong> + 기초 설명.</p>
-<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>160_hermes-agent/README.md</code></h3>
-<h2>Quick Install</h2>
-<h3>Linux, macOS, WSL2, Termux</h3>
-<pre><code class="language-bash">curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-</code></pre>
-<h3>Windows (native, PowerShell) — Early Beta</h3>
-<blockquote>
-<p><strong>Heads up:</strong> Native Windows support is <strong>early beta</strong>. It installs and runs, but hasn't been road-tested as broadly as our Linux/macOS/WSL2 paths. Please <a href="https://github.com/NousResearch/hermes-agent/issues">file issues</a> when you hit rough edges. For the most battle-tested Windows setup today, run the Linux/macOS one-liner above inside <strong>WSL2</strong>.</p>
-</blockquote>
-<p>Run this in PowerShell:</p>
-<pre><code class="language-powershell">iex (irm https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.ps1)
-</code></pre>
-<p>The installer handles everything: uv, Python 3.11, Node.js, ripgrep, ffmpeg, <strong>and a portable Git Bash</strong> (MinGit, unpacked to <code>%LOCALAPPDATA%\hermes\git</code> — no admin required, completely isolated from any system Git install).  Hermes uses this bundled Git Bash to run shell commands.</p>
-<p>If you already have Git installed, the installer detects it and uses that instead.  Otherwise a ~45MB MinGit download is all you need — it won't touch or interfere with any system Git.</p>
-<blockquote>
-<p><strong>Android / Termux:</strong> The tested manual path is documented in the <a href="https://hermes-agent.nousresearch.com/docs/getting-started/termux">Termux guide</a>. On Termux, Hermes installs a curated <code>.[termux]</code> extra because the full <code>.[all]</code> extra currently pulls Android-incompatible voice dependencies.</p>
-<p><strong>Windows:</strong> Native Windows is supported as an <strong>early beta</strong> — the PowerShell one-liner above installs everything, but expect rough edges and please file issues when you hit them. If you'd rather use WSL2 (our most battle-tested Windows path), the Linux command works there too. Native Windows install lives under <code>%LOCALAPPDATA%\hermes</code>; WSL2 installs under <code>~/.hermes</code> as on Linux.  The only Hermes feature that currently needs WSL2 specifically is the browser-based dashboard chat pane (it uses a POSIX PTY — classic CLI and gateway both run natively).</p>
-</blockquote>
-<p>After installation:</p>
-<pre><code class="language-bash">source ~/.bashrc    # reload shell (or: source ~/.zshrc)
-hermes              # start chatting!
-</code></pre>
-<hr>
-<h2>코퍼스 — 000/ (인덱스·요약)</h2>
-<h3><code>000/01_corpus_navigation_map.md</code></h3>
-<h1>Corpus Navigation Map</h1>
-<p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
-<h2>Canonical Reading Spine</h2>
-<table>
-<thead>
-<tr>
-<th>Purpose</th>
-<th>Path</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
-<td><code>overview-index</code></td>
-</tr>
-<tr>
-<td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
-<td><code>deep-overview</code></td>
-</tr>
-<tr>
-<td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
-<td><code>canonical-doc-axis</code></td>
-</tr>
-<tr>
-<td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-<tr>
-<td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-<tr>
-<td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
-<td><code>supporting-docs</code></td>
-</tr>
-</tbody>
-</table>
-<h2>Reference Repositories and Artifact Sets</h2>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Classification</th>
-<th>First-Cycle Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
-<td><code>reference-repo</code>, <code>codex-rs-source</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
-<td><code>reference-repo</code>, <code>codex-rs-source</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
-<td><code>reference-repo</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
-<td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
-<td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
-<td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
-<td><code>blocked-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
-<td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
-<td><code>blocked-nested-gitlink</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
-<td><code>reverse-engineering-artifact</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
-<td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
-<td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-<tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
-<td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
-<td><code>index-only</code></td>
-</tr>
-</tbody>
-</table>
-<h2>Proposed Future Buckets</h2>
-<p>These are logical buckets only. They are not physical moves in this cycle.</p>
-<pre><code class="language-text">reference-repos/
-  codex/
-  competitor-harnesses/
-  plugins-and-extensions/
-analysis-artifacts/
-  reverse-engineering/
-  binary-package-reports/
-runtime-tools/
-  browser/
-  computer-use/
-docs/
-  overview-index/
-  deep-overview/
-  axes/
-</code></pre>
-<h2>Physical Rename Rule</h2>
-<p>Before a folder is moved, add an explicit mapping row using:</p>
-<pre><code class="language-text">old_path -> proposed_path | classification | move_status | evidence
-</code></pre>
-<p>For gitlinks, also reconcile <code>.gitmodules</code> before moving.</p>
-<h2>Top-Level Triage</h2>
-<p>Use this when scanning the root directory. Status is intentionally conservative: <code>keep-current</code> means the current path remains the source of truth for now.</p>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Triage</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/03_overview_canonical_map.md</code></h3>
-<h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
-<h2>Canonical Rule</h2>
-<ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
-<li>If the same filename exists in both folders and content differs, keep both:
-<ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
-</ul>
-</li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
-</ul>
-<h2>Paired Overview Files</h2>
-<table>
-<thead>
-<tr>
-<th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
-<th>Equal</th>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>00_ag_overview.md</code></td>
-<td align="right">27224</td>
-<td align="right">15790</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ai_overview.md</code></td>
-<td align="right">25716</td>
-<td align="right">25716</td>
-<td>yes</td>
-<td>duplicate content; defer dedupe until link audit</td>
-</tr>
-<tr>
-<td><code>00_ay_overview.md</code></td>
-<td align="right">3815</td>
-<td align="right">798</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cc_overview.md</code></td>
-<td align="right">25990</td>
-<td align="right">27537</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_co_overview.md</code></td>
-<td align="right">41569</td>
-<td align="right">17061</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cp_overview.md</code></td>
-<td align="right">23525</td>
-<td align="right">6854</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cr_overview.md</code></td>
-<td align="right">3216</td>
-<td align="right">595</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ge_overview.md</code></td>
-<td align="right">47345</td>
-<td align="right">35414</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_gr_overview.md</code></td>
-<td align="right">3310</td>
-<td align="right">546</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ki_overview.md</code></td>
-<td align="right">3360</td>
-<td align="right">692</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_oc_overview.md</code></td>
-<td align="right">43650</td>
-<td align="right">33628</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-</tbody>
-</table>
-<h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
-<pre><code class="language-text">00_hermes_overview.md
-00_lc_overview.md
-00_newharness_vs_cli-jaw_synthesis.md
-00_omc_overview.md
-00_omo_overview.md
-00_omx_overview.md
-00_sp_overview.md
-</code></pre>
-<h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
-<pre><code class="language-text">00_grand_synthesis.md
-00_harness-index.md
-00_harness-index_hermes.md
-00_harness-index_omc.md
-00_harness-index_omo.md
-00_harness-index_omx.md
-00_harness_synthesis_addendum.md
-01_corpus_navigation_map.md
-02_corpus_move_candidates.md
-03_overview_canonical_map.md
-</code></pre>
-<hr>
-<h3><code>000/00_harness-index.md</code> (발췌)</h3>
-<h1>Harness Source Index</h1>
-<p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
-<h2>Routing</h2>
-<table>
-<thead>
-<tr>
-<th>Prefix</th>
-<th>Index stub</th>
-<th>Canonical overview</th>
-<th>Classification</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
-<td>standalone source-based agent runtime</td>
-</tr>
-<tr>
-<td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
-<td>Claude Code host-dependent orchestration harness</td>
-</tr>
-<tr>
-<td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
-<td>Codex host-dependent control plane</td>
-</tr>
-<tr>
-<td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
-<td>OpenCode host-dependent harness plus Codex Light adapter</td>
-</tr>
-<tr>
-<td><code>lc</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
-<td>LazyCodex / Codex Light distribution wrapper for OmO</td>
-</tr>
-<tr>
-<td><code>sp</code></td>
-<td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
-<td>Superpowers multi-harness skills/bootstrap methodology layer</td>
-</tr>
-</tbody>
-</table>
-<h2>Related</h2>
-<ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
-</ul>
-<h2>코퍼스 — 000_overview/00_hermes_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_hermes_tui.md</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_hermes_prompt.md</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_hermes_tool.md</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_hermes_skill.md</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_hermes_subagent.md</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_hermes_surface.md</code></td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_hermes_sandbox.md</code></td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_hermes_config.md</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_hermes_mcp.md</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_hermes_memory.md</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_hermes_plugin.md</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_hermes_guardian.md</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_hermes_web-search.md</code></td>
-</tr>
-</tbody>
-</table>
-e:["$","$L31","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"000 인덱스 + 축 맵","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
-33:T44ae,<h2>기초 설명</h2>
+d:I[49187,["/cli101-portal/sites/hermes/_next/static/chunks/93bf53fc9c10cbdd.js"],"PageClient"]
+4:["$","$6",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$Ld",null,{"lang":"ko","siteName":"HE101","tagline":"HE101 developer-grade corpus guide","taglineEn":"HE101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_hermes_overview.md","branding":{"slug":"he101","name":"HE101","tagline_ko":"Hermes 입문 + 게이트웨이","tagline_en":"Hermes intro + gateway","accentLabel_ko":"000_overview/00_hermes_overview.md","accentLabel_en":"000_overview/00_hermes_overview.md","heroTitle_ko":"자기개선형 멀티채널 에이전트","heroTitle_en":"Self-improving multi-channel agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 29장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 29 developer docs","terminalLines":["$$ pip install hermes-agent","$$ hermes"],"prompt_ko":"> 텔레그램으로도 같은 세션 이어줘","prompt_en":"> continue this session on Telegram","ctaHash":"00-before-you-start","officialUrl":"https://github.com/NousResearch/hermes-agent","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"HE101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-hermes","order":2,"tier":"core","slug":"02-what-is-hermes","title_ko":"Hermes가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/02-what-is-hermes.md","file_en":"en/02-what-is-hermes.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 다채널 게이트웨이 (핵심 차별점)","title_en":"Overview §2","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 시스템","title_en":"Overview §3","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 시스템 프롬프트 조립 (3계층)","title_en":"Overview §4","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 메모리 시스템 (영속·자기개선)","title_en":"Overview §5","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 에이전트 루프","title_en":"Overview §6","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 턴/세션을 넘어 살아남는 실행","title_en":"Overview §7","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 보안·승인·샌드박스","title_en":"Overview §8","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. ACP 어댑터 (에디터 통합)","title_en":"Overview §9","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 플러그인·스킬 생태계","title_en":"Overview §10","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 관찰성","title_en":"Overview §11","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. cli-jaw 비교 시사점","title_en":"Overview §12","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":19,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_hermes_tui.md","description_en":"001_tui-design/01_hermes_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":20,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_hermes_prompt.md","description_en":"002_prompt-context/02_hermes_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":21,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_hermes_tool.md","description_en":"003_tool-runtime/03_hermes_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":22,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_hermes_skill.md","description_en":"004_skill-system/04_hermes_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":23,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_hermes_subagent.md","description_en":"005_subagents-collab/05_hermes_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":24,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_hermes_surface.md","description_en":"006_app-server-client-surfaces/06_hermes_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":25,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_hermes_sandbox.md","description_en":"007_sandbox-exec-policy/07_hermes_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":26,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_hermes_config.md","description_en":"008_config-system/08_hermes_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":27,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_hermes_mcp.md","description_en":"009_mcp-orchestration/09_hermes_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":28,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_hermes_memory.md","description_en":"010_memory-pipeline/10_hermes_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":29,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_hermes_plugin.md","description_en":"011_plugin-system/11_hermes_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":30,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_hermes_guardian.md","description_en":"012_guardian-approval/12_hermes_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":31,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_hermes_etc.md","description_en":"013_etc/13_hermes_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":32,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_hermes_web-search.md","description_en":"014_web-search/14_hermes_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":33,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":34,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}]}]
+31:I[47239,["/cli101-portal/sites/hermes/_next/static/chunks/93bf53fc9c10cbdd.js"],"SectionBlock"]
+e:["$","$L31","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>터미널에서 나만의 똑똑한 AI 비서를 두고 싶으신 분, 매번 여러 사이트에서 API 키를 찾아서 등록하기 번거로우셨던 분이라면 잘 오셨어요. Hermes는 스스로 배우고 성장하는 터미널 AI 에이전트(작업을 알아서 수행하는 인공지능 프로그램)예요. 복잡한 개념은 쉽게 설명해 드릴 테니 차근차근 따라와 주세요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>Hermes가 정확히 어떤 에이전트인지</li>\n<li>5분 만에 설치하고 대화를 시작하는 방법</li>\n<li>매일 사용하는 효율적인 작업 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>아래 두 가지만 준비되어 있으면 충분해요.</p>\n<ol>\n<li>터미널 창을 열고 명령어를 입력할 수 있어요.</li>\n<li>에이전트에게 일을 시킬 작업 폴더가 있어요.</li>\n</ol>\n<p>준비가 되셨다면 다음 장에서 Hermes가 무엇인지 더 자세히 알아볼게요.</p>\n"}}]}]
+32:T44ae,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1111,285 +544,34 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
 <li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
 </ul>
-f:["$","$L31","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
-34:T1081,<h2>기초 설명</h2>
-<p>이 섹션은 codex 코퍼스와 하네스 소스를 교차 참조하는 개발자 가이드입니다.</p>
-<h2>이 문서에서 다루는 것</h2>
+f:["$","$L31","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
+10:["$","$L31","02-what-is-hermes",{"id":"02-what-is-hermes","order":2,"tier":"core","title":"Hermes가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>Hermes는 스스로 학습하며 사용자의 스타일을 기억하고 성장하는 터미널 전용 AI 비서(에이전트)예요.</p>\n<h2>비유로 이해하기</h2>\n<p>매번 지시할 때마다 모든 상황을 처음부터 구구절절 설명해야 하는 아르바이트생 대신, 같이 일할수록 내 스타일을 파악하고 \"아, 저번에 했던 방식대로 처리할게요\"라며 알아서 척척 해내는 든든한 수석 비서를 두는 것과 비슷해요. 일을 시킬수록 더 똑똑해지는 나만의 파트너를 터미널에 입양하는 셈이에요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>\"프로젝트 빌드 스크립트 작성하고 테스트해줘\"처럼 복잡한 지시를 알아서 척척 수행해요.</li>\n<li>과거 대화 내용이나 작업 기록을 스스로 기억하고 검색해서 활용해요.</li>\n<li>반복적인 작업은 나중에 다시 쓸 수 있는 '스킬(자주 쓰는 명령어나 흐름)'로 만들어서 기억해요.</li>\n<li>터미널 뿐만 아니라 텔레그램이나 디스코드 같은 메신저로도 원격에서 부를 수 있어요.</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>보통의 AI 도구들은 대화가 끝나면 기억을 잃어버려서 매번 같은 설명을 반복해야 하잖아요. 하지만 Hermes는 여러분이 누구인지, 어떤 코딩 스타일을 선호하는지 세션(대화 단위)을 넘어서 계속 기억해요. 덕분에 쓸수록 대화가 편해지고 내 손발처럼 잘 맞게 돼요.</p>\n<blockquote>\n<p>더 깊은 작동 원리(스킬 시스템, 메모리 저장 방식, 아키처 구조)가 궁금하시면 상단 메뉴의 <strong>개발자 문서</strong>에서 자세히 다뤄요. 지금은 나를 기억하는 똑똑한 비서라는 점만 기억하고 넘어가도 좋아요.</p>\n</blockquote>\n"}}]}]
+33:T714,<h2>먼저 설치부터 해볼게요</h2>
+<p>터미널에 아래 한 줄을 복사해서 붙여넣어 주세요. 설치 스크립트가 실행되면서 필요한 환경을 알아서 다 준비해줘요.</p>
+<pre><code class="language-bash">curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
+</code></pre>
+<p>설치가 완료되면 터미널을 완전히 껐다가 다시 켜거나, 아래 명령어로 설정을 반영해 주세요.</p>
+<pre><code class="language-bash">source ~/.bashrc # zsh를 쓰신다면 source ~/.zshrc를 치면 돼요
+</code></pre>
+<p>이제 <code>hermes</code>를 쳤을 때 관련 명령 목록이 보이면 설치가 잘 끝난 거예요.</p>
+<h2>API 키 준비하기</h2>
+<p>Hermes를 움직이려면 똑똑한 AI 두뇌(모델)가 필요해요. 평소에 쓰시던 OpenAI나 Anthropic(클로드)의 API 키를 입력해서 연동할 수 있어요.</p>
+<p>가장 빠르고 간편하게 시작하고 싶다면 <strong>Nous Portal(누스 포털)</strong> 서비스를 쓰는 방법도 있어요. API 키를 복잡하게 여러 개 챙길 필요 없이 아래 명령어 한 줄로 즉시 연동돼요.</p>
+<pre><code class="language-bash">hermes setup --portal
+</code></pre>
+<p>만약 개인 API 키를 직접 등록해서 쓰고 싶다면, 아래 마법사 명령어로 편리하게 설정해 보세요.</p>
+<pre><code class="language-bash">hermes setup
+</code></pre>
+<h2>막힐 때 팁</h2>
 <ul>
-<li>Corpus axis index</li>
+<li><code>hermes</code> 명령어를 찾을 수 없다고 나오면 터미널 창을 끄고 새로 열어보세요. 보통 이 방법으로 해결돼요.</li>
+<li>API 키 인증 오류가 나면 키 앞뒤에 보이지 않는 공백이 섞여 들어가지 않았는지 메모장 같은 곳에 붙여넣어 확인해 보세요.</li>
 </ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>160_hermes-agent/README.md</code></h3>
-<h2>Quick Install</h2>
-<h3>Linux, macOS, WSL2, Termux</h3>
-<pre><code class="language-bash">curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-</code></pre>
-<h3>Windows (native, PowerShell) — Early Beta</h3>
-<blockquote>
-<p><strong>Heads up:</strong> Native Windows support is <strong>early beta</strong>. It installs and runs, but hasn't been road-tested as broadly as our Linux/macOS/WSL2 paths. Please <a href="https://github.com/NousResearch/hermes-agent/issues">file issues</a> when you hit rough edges. For the most battle-tested Windows setup today, run the Linux/macOS one-liner above inside <strong>WSL2</strong>.</p>
-</blockquote>
-<p>Run this in PowerShell:</p>
-<pre><code class="language-powershell">iex (irm https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.ps1)
-</code></pre>
-<p>The installer handles everything: uv, Python 3.11, Node.js, ripgrep, ffmpeg, <strong>and a portable Git Bash</strong> (MinGit, unpacked to <code>%LOCALAPPDATA%\hermes\git</code> — no admin required, completely isolated from any system Git install).  Hermes uses this bundled Git Bash to run shell commands.</p>
-<p>If you already have Git installed, the installer detects it and uses that instead.  Otherwise a ~45MB MinGit download is all you need — it won't touch or interfere with any system Git.</p>
-<blockquote>
-<p><strong>Android / Termux:</strong> The tested manual path is documented in the <a href="https://hermes-agent.nousresearch.com/docs/getting-started/termux">Termux guide</a>. On Termux, Hermes installs a curated <code>.[termux]</code> extra because the full <code>.[all]</code> extra currently pulls Android-incompatible voice dependencies.</p>
-<p><strong>Windows:</strong> Native Windows is supported as an <strong>early beta</strong> — the PowerShell one-liner above installs everything, but expect rough edges and please file issues when you hit them. If you'd rather use WSL2 (our most battle-tested Windows path), the Linux command works there too. Native Windows install lives under <code>%LOCALAPPDATA%\hermes</code>; WSL2 installs under <code>~/.hermes</code> as on Linux.  The only Hermes feature that currently needs WSL2 specifically is the browser-based dashboard chat pane (it uses a POSIX PTY — classic CLI and gateway both run natively).</p>
-</blockquote>
-<p>After installation:</p>
-<pre><code class="language-bash">source ~/.bashrc    # reload shell (or: source ~/.zshrc)
-hermes              # start chatting!
-</code></pre>
-<hr>
-<h2>코퍼스 — 000_overview/00_hermes_overview.md (심화)</h2>
-<h2>Corpus axis index</h2>
-<table>
-<thead>
-<tr>
-<th>Axis</th>
-<th>Doc</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001 TUI</td>
-<td><code>001_tui-design/01_hermes_tui.md</code></td>
-</tr>
-<tr>
-<td>002 Prompt</td>
-<td><code>002_prompt-context/02_hermes_prompt.md</code></td>
-</tr>
-<tr>
-<td>003 Tool</td>
-<td><code>003_tool-runtime/03_hermes_tool.md</code></td>
-</tr>
-<tr>
-<td>004 Skill</td>
-<td><code>004_skill-system/04_hermes_skill.md</code></td>
-</tr>
-<tr>
-<td>005 Subagent</td>
-<td><code>005_subagents-collab/05_hermes_subagent.md</code></td>
-</tr>
-<tr>
-<td>006 Surface</td>
-<td><code>006_app-server-client-surfaces/06_hermes_surface.md</code></td>
-</tr>
-<tr>
-<td>007 Sandbox</td>
-<td><code>007_sandbox-exec-policy/07_hermes_sandbox.md</code></td>
-</tr>
-<tr>
-<td>008 Config</td>
-<td><code>008_config-system/08_hermes_config.md</code></td>
-</tr>
-<tr>
-<td>009 MCP</td>
-<td><code>009_mcp-orchestration/09_hermes_mcp.md</code></td>
-</tr>
-<tr>
-<td>010 Memory</td>
-<td><code>010_memory-pipeline/10_hermes_memory.md</code></td>
-</tr>
-<tr>
-<td>011 Plugin</td>
-<td><code>011_plugin-system/11_hermes_plugin.md</code></td>
-</tr>
-<tr>
-<td>012 Guardian</td>
-<td><code>012_guardian-approval/12_hermes_guardian.md</code></td>
-</tr>
-<tr>
-<td>014 Web</td>
-<td><code>014_web-search/14_hermes_web-search.md</code></td>
-</tr>
-</tbody>
-</table>
-10:["$","$L31","02-what-is-hermes",{"id":"02-what-is-hermes","order":2,"tier":"core","title":"하네스 한눈에","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-35:Te2f,<h2>기초 설명</h2>
-<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>설치 &#x26; 인증</li>
-<li>Quick Install</li>
-<li>Linux, macOS, WSL2, Termux</li>
-<li>Windows (native, PowerShell) — Early Beta</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3>README / docs</h3>
-<pre><code class="language-bash">curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-powershell">iex (irm https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.ps1)
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-bash">source ~/.bashrc    # reload shell (or: source ~/.zshrc)
-hermes              # start chatting!
-</code></pre>
-<h2>본문</h2>
-<h2>설치 &#x26; 인증</h2>
-<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>
-<blockquote>
-<p><code>160_hermes-agent/README.md</code></p>
-</blockquote>
-<h2>Quick Install</h2>
-<h3>Linux, macOS, WSL2, Termux</h3>
-<pre><code class="language-bash">curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-</code></pre>
-<h3>Windows (native, PowerShell) — Early Beta</h3>
-<blockquote>
-<p><strong>Heads up:</strong> Native Windows support is <strong>early beta</strong>. It installs and runs, but hasn't been road-tested as broadly as our Linux/macOS/WSL2 paths. Please <a href="https://github.com/NousResearch/hermes-agent/issues">file issues</a> when you hit rough edges. For the most battle-tested Windows setup today, run the Linux/macOS one-liner above inside <strong>WSL2</strong>.</p>
-</blockquote>
-<p>Run this in PowerShell:</p>
-<pre><code class="language-powershell">iex (irm https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.ps1)
-</code></pre>
-<p>The installer handles everything: uv, Python 3.11, Node.js, ripgrep, ffmpeg, <strong>and a portable Git Bash</strong> (MinGit, unpacked to <code>%LOCALAPPDATA%\hermes\git</code> — no admin required, completely isolated from any system Git install).  Hermes uses this bundled Git Bash to run shell commands.</p>
-<p>If you already have Git installed, the installer detects it and uses that instead.  Otherwise a ~45MB MinGit download is all you need — it won't touch or interfere with any system Git.</p>
-<blockquote>
-<p><strong>Android / Termux:</strong> The tested manual path is documented in the <a href="https://hermes-agent.nousresearch.com/docs/getting-started/termux">Termux guide</a>. On Termux, Hermes installs a curated <code>.[termux]</code> extra because the full <code>.[all]</code> extra currently pulls Android-incompatible voice dependencies.</p>
-<p><strong>Windows:</strong> Native Windows is supported as an <strong>early beta</strong> — the PowerShell one-liner above installs everything, but expect rough edges and please file issues when you hit them. If you'd rather use WSL2 (our most battle-tested Windows path), the Linux command works there too. Native Windows install lives under <code>%LOCALAPPDATA%\hermes</code>; WSL2 installs under <code>~/.hermes</code> as on Linux.  The only Hermes feature that currently needs WSL2 specifically is the browser-based dashboard chat pane (it uses a POSIX PTY — classic CLI and gateway both run natively).</p>
-</blockquote>
-<p>After installation:</p>
-<pre><code class="language-bash">source ~/.bashrc    # reload shell (or: source ~/.zshrc)
-hermes              # start chatting!
-</code></pre>
-<hr>
-11:["$","$L31","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치 & 인증","description":"설치 & 인증","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
-36:T6f5,<h2>기초 설명</h2>
-<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>첫 세션</li>
-<li>Getting Started</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3>README / docs</h3>
-<pre><code class="language-bash">hermes              # Interactive CLI — start a conversation
-hermes model        # Choose your LLM provider and model
-hermes tools        # Configure which tools are enabled
-hermes config set   # Set individual config values
-hermes gateway      # Start the messaging gateway (Telegram, Discord, etc.)
-hermes setup        # Run the full setup wizard (configures everything at once)
-hermes claw migrate # Migrate from OpenClaw (if coming from OpenClaw)
-hermes update       # Update to the latest version
-hermes doctor       # Diagnose any issues
-</code></pre>
-<h2>본문</h2>
-<h2>첫 세션</h2>
-<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>
-<blockquote>
-<p><code>160_hermes-agent/README.md</code></p>
-</blockquote>
-<h2>Getting Started</h2>
-<pre><code class="language-bash">hermes              # Interactive CLI — start a conversation
-hermes model        # Choose your LLM provider and model
-hermes tools        # Configure which tools are enabled
-hermes config set   # Set individual config values
-hermes gateway      # Start the messaging gateway (Telegram, Discord, etc.)
-hermes setup        # Run the full setup wizard (configures everything at once)
-hermes claw migrate # Migrate from OpenClaw (if coming from OpenClaw)
-hermes update       # Update to the latest version
-hermes doctor       # Diagnose any issues
-</code></pre>
-<p>📖 <strong><a href="https://hermes-agent.nousresearch.com/docs/">Full documentation →</a></strong></p>
-<hr>
-12:["$","$L31","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 세션","description":"첫 세션","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:T179d,<h2>기초 설명</h2>
-<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>에이전트 루프</li>
-<li>Quick Install</li>
-<li>Linux, macOS, WSL2, Termux</li>
-<li>Windows (native, PowerShell) — Early Beta</li>
-<li>Hermes 에이전트 루프</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3>README / docs</h3>
-<pre><code class="language-bash">curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-</code></pre>
-<h3>README / docs</h3>
-<pre><code class="language-powershell">iex (irm https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.ps1)
-</code></pre>
-<h2>본문</h2>
-<h2>에이전트 루프</h2>
-<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>
-<blockquote>
-<p><code>160_hermes-agent/README.md</code></p>
-</blockquote>
-<h1>Hermes Agent ☤</h1>
-<p><strong>The self-improving AI agent built by <a href="https://nousresearch.com">Nous Research</a>.</strong> It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM.</p>
-<p>Use any model you want — <a href="https://portal.nousresearch.com">Nous Portal</a>, <a href="https://openrouter.ai">OpenRouter</a> (200+ models), <a href="https://novita.ai">NovitaAI</a> (AI-native cloud for Model API, Agent Sandbox, and GPU Cloud), <a href="https://build.nvidia.com">NVIDIA NIM</a> (Nemotron), <a href="https://platform.xiaomimimo.com">Xiaomi MiMo</a>, <a href="https://z.ai">z.ai/GLM</a>, <a href="https://platform.moonshot.ai">Kimi/Moonshot</a>, <a href="https://www.minimax.io">MiniMax</a>, <a href="https://huggingface.co">Hugging Face</a>, OpenAI, or your own endpoint. Switch with <code>hermes model</code> — no code changes, no lock-in.</p>
-<p>A real terminal interfaceFull TUI with multiline editing, slash-command autocomplete, conversation history, interrupt-and-redirect, and streaming tool output.
-Lives where you doTelegram, Discord, Slack, WhatsApp, Signal, and CLI — all from a single gateway process. Voice memo transcription, cross-platform conversation continuity.
-A closed learning loopAgent-curated memory with periodic nudges. Autonomous skill creation after complex tasks. Skills self-improve during use. FTS5 session search with LLM summarization for cross-session recall. Honcho dialectic user modeling. Compatible with the agentskills.io open standard.
-Scheduled automationsBuilt-in cron scheduler with delivery to any platform. Daily reports, nightly backups, weekly audits — all in natural language, running unattended.
-Delegates and parallelizesSpawn isolated subagents for parallel workstreams. Write Python scripts that call tools via RPC, collapsing multi-step pipelines into zero-context-cost turns.
-Runs anywhere, not just your laptopSix terminal backends — local, Docker, SSH, Singularity, Modal, and Daytona. Daytona and Modal offer serverless persistence — your agent's environment hibernates when idle and wakes on demand, costing nearly nothing between sessions. Run it on a $5 VPS or a GPU cluster.
-Research-readyBatch trajectory generation, trajectory compression for training the next generation of tool-calling models.</p>
-<hr>
-<h2>Quick Install</h2>
-<h3>Linux, macOS, WSL2, Termux</h3>
-<pre><code class="language-bash">curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-</code></pre>
-<h3>Windows (native, PowerShell) — Early Beta</h3>
-<blockquote>
-<p><strong>Heads up:</strong> Native Windows support is <strong>early beta</strong>. It installs and runs, but hasn't been road-tested as broadly as our Linux/macOS/WSL2 paths. Please <a href="https://github.com/NousResearch/hermes-agent/issues">file issues</a> when you hit rough edges. For the most battle-tested Windows setup today, run the Linux/macOS one-liner above inside <strong>WSL2</strong>.</p>
-</blockquote>
-<p>Run this in PowerShell:</p>
-<pre><code class="language-powershell">iex (irm https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.ps1)
-</code></pre>
-<p>The installer handles everything: uv, Python 3.11, Node.js, ripgrep, ffmpeg, <strong>and a portable Git Bash</strong> (MinGit, unpacked to <code>%LOCALAPPDATA%\hermes\git</code> — no admin required, completely isolated from any system Git install).  Hermes uses this bundled Git Bash to run shell commands.</p>
-<p>If you already have Git installed, the installer detects it and uses that instead.  Otherwise a ~45MB MinGit download is all you need — it won't touch or interfere with any system Git.</p>
-<blockquote>
-<p><strong>Android / Termux:</strong> The tested manual path is documented in the <a href="https://hermes-agent.nousresearch.com/docs/getting-started/termux">Termux guide</a>. On Termux, Hermes installs a curated <code>.[termux]</code> extra because the full <code>.[all]</code> extra currently pulls Android-incompatible voice dependencies.</p>
-<p><strong>Windows:</strong> Native Windows is supported as an <strong>early beta</strong> — the PowerShell one-liner above installs everything, but expect rough edges and please file issues when you hit them. If you'd rather use WSL2 (our most battle-tested Windows path), the Linux command works there too. Native Windows install lives under <code>%LOCALAPPDATA%\hermes</code>; WSL2 installs under <code>~/.hermes</code> as on Linux.  The only Hermes feature that currently needs WSL2 specifically is the browser-based dashboard chat pane (it uses a POSIX</p>
-</blockquote>
-<h2>Hermes 에이전트 루프</h2>
-<p>터미널 UI + tool registry + MCP.</p>
-<blockquote>
-<p><code>000_overview/00_hermes_overview.md</code></p>
-</blockquote>
-13:["$","$L31","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"에이전트 루프","description":"에이전트 루프","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
-38:Tbaf,<h2>기초 설명</h2>
-<p>CLI / env / 프로젝트 설정 파일 계층.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>설정 &#x26; 모델</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>160_hermes-agent/README.md</code></h3>
-<h2>Quick Install</h2>
-<h3>Linux, macOS, WSL2, Termux</h3>
-<pre><code class="language-bash">curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-</code></pre>
-<h3>Windows (native, PowerShell) — Early Beta</h3>
-<blockquote>
-<p><strong>Heads up:</strong> Native Windows support is <strong>early beta</strong>. It installs and runs, but hasn't been road-tested as broadly as our Linux/macOS/WSL2 paths. Please <a href="https://github.com/NousResearch/hermes-agent/issues">file issues</a> when you hit rough edges. For the most battle-tested Windows setup today, run the Linux/macOS one-liner above inside <strong>WSL2</strong>.</p>
-</blockquote>
-<p>Run this in PowerShell:</p>
-<pre><code class="language-powershell">iex (irm https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.ps1)
-</code></pre>
-<p>The installer handles everything: uv, Python 3.11, Node.js, ripgrep, ffmpeg, <strong>and a portable Git Bash</strong> (MinGit, unpacked to <code>%LOCALAPPDATA%\hermes\git</code> — no admin required, completely isolated from any system Git install).  Hermes uses this bundled Git Bash to run shell commands.</p>
-<p>If you already have Git installed, the installer detects it and uses that instead.  Otherwise a ~45MB MinGit download is all you need — it won't touch or interfere with any system Git.</p>
-<blockquote>
-<p><strong>Android / Termux:</strong> The tested manual path is documented in the <a href="https://hermes-agent.nousresearch.com/docs/getting-started/termux">Termux guide</a>. On Termux, Hermes installs a curated <code>.[termux]</code> extra because the full <code>.[all]</code> extra currently pulls Android-incompatible voice dependencies.</p>
-<p><strong>Windows:</strong> Native Windows is supported as an <strong>early beta</strong> — the PowerShell one-liner above installs everything, but expect rough edges and please file issues when you hit them. If you'd rather use WSL2 (our most battle-tested Windows path), the Linux command works there too. Native Windows install lives under <code>%LOCALAPPDATA%\hermes</code>; WSL2 installs under <code>~/.hermes</code> as on Linux.  The only Hermes feature that currently needs WSL2 specifically is the browser-based dashboard chat pane (it uses a POSIX PTY — classic CLI and gateway both run natively).</p>
-</blockquote>
-<p>After installation:</p>
-<pre><code class="language-bash">source ~/.bashrc    # reload shell (or: source ~/.zshrc)
-hermes              # start chatting!
-</code></pre>
-<hr>
-<h2>본문</h2>
-<h2>설정 &#x26; 모델</h2>
-<p>CLI / env / 프로젝트 설정 파일 계층.</p>
-<blockquote>
-<p>See <code>000_overview/00_hermes_overview.md</code> and official docs.</p>
-</blockquote>
-14:["$","$L31","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정 & 모델","description":"설정 & 모델","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
-39:T1994,<h2>기초 설명</h2>
+11:["$","$L31","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치하고 준비하기","description":"설치 + API 키 준비 + 막힐 때 팁","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
+12:["$","$L31","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 사용 5분","description":"따라 하면 되는 첫 실습","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>5분이면 충분해요</h2>\n<p>설치가 끝났으니 바로 에이전트와 첫 대화를 나눠볼게요. 터미널 창 하나면 준비는 끝이에요.</p>\n<h2>따라 해보기</h2>\n<ol>\n<li>터미널에서 아래 명령어를 쳐서 Hermes를 실행해요.</li>\n</ol>\n<pre><code class=\"language-bash\">hermes\n</code></pre>\n<ol start=\"2\">\n<li>화면에 입력 창이 나타나면, 마치 동료 비서에게 말하듯 편하게 말을 건네보세요.</li>\n</ol>\n<pre><code class=\"language-text\">안녕! 오늘 날짜랑 시간 기준으로 간단한 파이썬 스크립트 작성해줘.\n</code></pre>\n<ol start=\"3\">\n<li>Hermes가 스스로 도구들을 활용해서 작업을 수행하는 모습을 눈으로 지켜봐 주세요. 코드가 완성되면 터미널 화면에 예쁘게 출력해 줄 거예요.</li>\n</ol>\n<h2>결과 확인하기</h2>\n<p>Hermes는 스스로 판단해서 코드를 짜고 파일을 만들 수 있어요. 대화가 잘 끝났다면 폴더에 새로 생긴 코드 파일이 있는지 열어서 확인해 보세요.</p>\n<h2>대화 새로 시작하기</h2>\n<p>이전 대화 맥락(이전 대화의 흐름)을 모두 지우고 완전히 깨끗한 상태에서 대화를 다시 시작하고 싶을 때는 채팅창에 아래 명령어를 치면 돼요.</p>\n<pre><code class=\"language-text\">/new\n</code></pre>\n<p>어려운 명령어 없이 슬래시(<code>/</code>)로 시작하는 간단한 명령어로 제어가 가능하니까 부담 없이 이것저것 시켜보세요. 다음 장에서는 매일 유용하게 쓸 수 있는 작업 흐름을 알아볼게요.</p>\n"}}]}]
+13:["$","$L31","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"매일 이렇게 써요","description":"실제 일상 사용 흐름과 비결","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>매일 쓰는 흐름은 단순해요</h2>\n<p>Hermes를 똑똑하게 쓰는 흐름은 아주 직관적이에요. 보통 아래와 같은 단계로 작업이 진행돼요.</p>\n<ol>\n<li><code>hermes</code> 명령어로 터미널에서 대화를 시작해요.</li>\n<li>원하는 작업을 평소 쓰는 자연스러운 언어로 부탁해요. (\"이 파일 안에 에러 검사 로직(컴퓨터 프로그램의 논리적인 흐름) 추가해줘\")</li>\n<li>에이전트가 도구를 사용해 스스로 작업을 마치면, 변경된 결과를 보고 만족하는지 확인해요.</li>\n<li>마음에 들지 않는 부분이 있다면 채팅창에서 이어서 추가 지시를 해요.</li>\n</ol>\n<h2>대화창에서 쓰는 편리한 명령어들</h2>\n<p>채팅 입력 창에서 슬래시(<code>/</code>)를 붙여서 쓰는 명령어들을 익혀두면 작업 효율이 크게 올라가요.</p>\n<ul>\n<li><code>/undo</code> — 에이전트가 방금 수행한 작업을 취소하고 직전 상태로 돌아가요.</li>\n<li><code>/model</code> — 사용할 AI 모델이나 서비스 제공업체를 즉시 변경해요.</li>\n<li><code>/usage</code> — 이번 대화 세션에서 AI 비용을 얼마나 썼는지 사용량을 바로 조회해요.</li>\n<li><code>/skills</code> — 에이전트가 그동안 학습해서 저장해 둔 유용한 스킬 목록을 확인해요.</li>\n</ul>\n<h2>작업은 항상 작은 단위로 쪼개기</h2>\n<p>에이전트는 만능이 아니에요. \"로그인 기능 전체 다 만들어줘\"처럼 큰 요청은 실패할 확률이 높아요. 대신 \"로그인 화면에 이메일 형식 검사 함수 추가해줘\"처럼 작업을 구체적인 조각으로 쪼개서 요청해 보세요. 한 단계씩 완료해 나가며 결과를 조율하는 편이 훨씬 빠르고 정확해요.</p>\n"}}]}]
+14:["$","$L31","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정하고, 더 배우기","description":"내 입맛대로 설정 + 다음 단계 안내","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>내 입맛대로 설정하기</h2>\n<p>Hermes는 다양한 명령어로 나에게 맞게 커스터마이징(개인 설정 조정)할 수 있어요. 자주 쓰이는 설정 명령어들을 알아볼게요.</p>\n<pre><code class=\"language-bash\"># 사용할 AI 모델이나 API 제공업체를 설정해요\nhermes model\n\n# 활성화하거나 비활성화할 도구를 설정해요\nhermes tools\n\n# 환경 진단을 수행해 문제가 있는지 검사해요\nhermes doctor\n</code></pre>\n<h2>메신저 연동하기 (원격 비서)</h2>\n<p>Hermes의 강력한 기능 중 하나는 내 컴퓨터를 켜두고 텔레그램이나 디스코드 같은 메신저에서 대화하듯 원격으로 일을 시킬 수 있는 게이트웨이 기능이에요. 밖에서도 핸드폰 메신저로 명령을 내리면 내 서버에서 작업을 알아서 척척 해내요.</p>\n<pre><code class=\"language-bash\"># 메신저 연동을 설정하는 게이트웨이 서비스 실행\nhermes gateway\n</code></pre>\n<h2>다음 단계로</h2>\n<p>이제 Hermes를 다루는 가장 기초적인 방법들을 알게 되셨어요. 앞으로는 실제 작업에 조금씩 대입해 보며 경험을 쌓아가 보세요.</p>\n<ul>\n<li>간단한 쉘 명령어 실행이나 파일 검색부터 비서에게 시켜보기</li>\n<li>자주 일어나는 오류 해결 패턴을 학습시켜 스킬로 등록해 보기</li>\n<li>다른 에이전트들과 협업하도록 구성해 보기</li>\n</ul>\n<p>Hermes의 정교한 프롬프트(지시어) 템플릿 구조, 에이전트의 구체적인 구현 모델, 내부 상태 관리 같은 깊은 기술적 지식이 필요하다면 상단 메뉴의 <strong>개발자 문서</strong>를 참고해 주세요. 소스 코드 구조 분석부터 친절하게 알려 드릴게요.</p>\n<p>그럼 이제 직접 첫 명령을 내려보러 갈까요? 😊</p>\n"}}]}]
+34:T1994,<h2>기초 설명</h2>
 <p>Hermes는 단일 바이너리가 아니라 <strong>여러 진입점이 같은 <code>AIAgent</code> 코어를 공유</strong>하는 구조다. <code>AGENTS.md</code>의 의존성 체인에 따르면 모든 진입점은 <code>model_tools.py</code> → <code>run_agent.py</code>로 수렴한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1506,8 +688,8 @@ hermes              # start chatting!
 </table>
 <p>설정 본체는 <code>hermes_cli/config.py</code>의 <code>DEFAULT_CONFIG</code>이며 <code>_config_version: 24</code>로 버전 관리된다(키 추가는 deep-merge로 자동 흡수되므로 버전 범프 불필요, 구조 변경시에만 범프). 비밀은 <code>.env</code>의 <code>OPTIONAL_ENV_VARS</code>에, 비-비밀 설정(타임아웃·임계값·플래그·경로)은 <code>config.yaml</code>에 두는 것이 규칙이다. 작업 디렉토리는 CLI는 <code>os.getcwd()</code>, 메시징은 <code>config.yaml</code>의 <code>terminal.cwd</code>(게이트웨이가 <code>TERMINAL_CWD</code> 환경변수로 브리지)를 쓴다.</p>
 <hr>
-15:["$","$L31","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 시스템 기동","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
-3a:T2981,<h2>기초 설명</h2>
+15:["$","$L31","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 시스템 기동","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+35:T2981,<h2>기초 설명</h2>
 <p>Hermes의 가장 두드러진 설계는 <strong>단일 에이전트 코어를 20여 개 메시징 플랫폼에 동시 노출</strong>하는 게이트웨이다. <code>gateway/run.py</code>의 <code>GatewayRunner</code>가 라이프사이클을 관리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1683,8 +865,8 @@ _AGENT_CACHE_IDLE_TTL_SECS = 3600.0   # 1시간 유휴시 축출
 <h3>2.7 명령 단일 레지스트리 → 채널별 자동 파생</h3>
 <p>모든 슬래시 명령은 <code>hermes_cli/commands.py</code>의 중앙 <code>COMMAND_REGISTRY</code>(<code>CommandDef</code> 리스트)에 정의되고, 모든 소비처가 자동 파생된다: CLI(<code>resolve_command()</code>), 게이트웨이(<code>GATEWAY_KNOWN_COMMANDS</code> frozenset), 게이트웨이 <code>/help</code>(<code>gateway_help_lines()</code>), Telegram BotCommand 메뉴(<code>telegram_bot_commands()</code>), Slack 서브커맨드 라우팅(<code>slack_subcommand_map()</code>), 자동완성(<code>COMMANDS</code>). 별칭 추가는 <code>aliases</code> 튜플에 한 줄 추가하면 모든 채널에 자동 반영된다. <code>gateway_config_gate</code>로 특정 config dotpath가 truthy일 때만 게이트웨이에서 노출되는 게이트형 명령도 지원한다.</p>
 <hr>
-16:["$","$L31","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 다채널 게이트웨이 (핵심 차별점)","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:T275b,<h2>기초 설명</h2>
+16:["$","$L31","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 다채널 게이트웨이 (핵심 차별점)","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
+36:T275b,<h2>기초 설명</h2>
 <p>도구는 <code>tools/registry.py</code>의 <code>registry.register(...)</code>를 import 시점에 호출해 셀프-등록된다. <code>tools/*.py</code>에 top-level <code>registry.register()</code> 호출이 있으면 자동 발견(auto-discovery)되어 import 목록을 유지할 필요가 없다. 단, 발견됐다고 노출되는 것은 아니며 <strong><code>toolsets.py</code>의 토큰셋에 이름이 등록되어야</strong> 에이전트에게 노출된다(<code>AGENTS.md</code>). 모든 핸들러는 JSON 문자열을 반환해야 한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1881,8 +1063,8 @@ hermes              # start chatting!
 <h3>3.5 MCP 통합</h3>
 <p><code>tools/mcp_tool.py</code>가 외부 MCP 서버를 stdio / HTTP(StreamableHTTP) / SSE 전송으로 연결하고, 그 도구를 발견해 Hermes 레지스트리에 등록한다 — 에이전트는 이를 내장 도구처럼 호출한다. 설정은 <code>~/.hermes/config.yaml</code>의 <code>mcp_servers</code> 키에서 읽으며, 서버별 <code>command</code>/<code>args</code>/<code>env</code>/<code>timeout</code>/<code>connect_timeout</code>/<code>supports_parallel_tool_calls</code>를 지정한다. <code>mcp</code> Python 패키지가 없으면 no-op로 우아하게 비활성된다. OAuth는 <code>tools/mcp_oauth.py</code>/<code>tools/mcp_oauth_manager.py</code>가 처리한다. 역방향으로 <code>mcp_serve.py</code>는 Hermes 자체를 MCP 서버로 노출한다.</p>
 <hr>
-17:["$","$L31","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 도구 시스템","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:Tb2e,<h2>기초 설명</h2>
+17:["$","$L31","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 도구 시스템","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
+37:Tb2e,<h2>기초 설명</h2>
 <p>계층 2: context</p>
 <ul>
 <li>호출자 제공 system_message</li>
@@ -1941,8 +1123,8 @@ hermes              # start chatting!
 </code></pre>
 <p>스킬 슬래시 명령은 <code>agent/skill_commands.py</code>가 <code>~/.hermes/skills/</code>를 스캔해 <strong>시스템 프롬프트가 아닌 user 메시지로 주입</strong>한다 — 이는 prompt 캐싱을 보존하기 위한 의도적 설계다.</p>
 <hr>
-18:["$","$L31","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 시스템 프롬프트 조립 (3계층)","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
-3d:T2453,<h2>기초 설명</h2>
+18:["$","$L31","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. 시스템 프롬프트 조립 (3계층)","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
+38:T2453,<h2>기초 설명</h2>
 <p>핵심 설계 — Frozen Snapshot 패턴:</p>
 <ul>
 <li>세션 시작시 두 파일을 시스템 프롬프트에 frozen snapshot으로 주입</li>
@@ -2079,8 +1261,8 @@ config: curator.{enabled, interval_hours, min_idle_hours, stale_after_days,
 </code></pre>
 <p>즉 에이전트가 <code>skill_manage</code>로 스스로 스킬을 만들고, Curator가 보조 모델로 그것을 주기적으로 정리·통합·아카이브한다 — 이것이 "self-improving" 의 실체다.</p>
 <hr>
-19:["$","$L31","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 메모리 시스템 (영속·자기개선)","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
-3e:T1656,<h2>기초 설명</h2>
+19:["$","$L31","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 메모리 시스템 (영속·자기개선)","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+39:T1656,<h2>기초 설명</h2>
 <p>메시지는 OpenAI 포맷(<code>system/user/assistant/tool</code>), reasoning은 <code>assistant_msg["reasoning"]</code>에 저장된다. <code>max_iterations</code> 기본 90, <code>iteration_budget</code>(<code>agent/iteration_budget.py</code>)으로 도구 호출 예산을 관리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2159,8 +1341,8 @@ config delegation.{model, provider, base_url, api_mode,
 </code></pre>
 <p>이와 별개로 <code>plugins/kanban/</code>은 멀티에이전트 보드 디스패처+워커를 제공해 더 느슨하게 결합된 협업을 지원한다(칸반 도구 게이트는 <code>HERMES_KANBAN_TASK</code> 환경변수).</p>
 <hr>
-1a:["$","$L31","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 에이전트 루프","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:T14b7,<h2>기초 설명</h2>
+1a:["$","$L31","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 에이전트 루프","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
+3a:T14b7,<h2>기초 설명</h2>
 <p>cli-jaw 비교에서 핵심이 되는 "턴을 넘어 살아남는 작업" 메커니즘이 Hermes에는 여러 겹으로 존재한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2207,8 +1389,8 @@ hermes              # start chatting!
 <h3>7.3 세션 핸드오프</h3>
 <p><code>sessions</code> 테이블에 <code>handoff_state</code>/<code>handoff_platform</code>/<code>handoff_error</code> 컬럼이 있고 <code>gateway/run.py</code>에 <code>_process_handoff(row)</code>가 있어, 한 채널/플랫폼에서 시작한 세션을 다른 곳으로 이어받을 수 있다.</p>
 <hr>
-1b:["$","$L31","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. 턴/세션을 넘어 살아남는 실행","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:T1363,<h2>기초 설명</h2>
+1b:["$","$L31","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. 턴/세션을 넘어 살아남는 실행","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
+3b:T1363,<h2>기초 설명</h2>
 <p>추가로 <code>tools/threat_patterns.py</code>, <code>tools/url_safety.py</code>, <code>tools/path_security.py</code>, <code>tools/osv_check.py</code>(OSV 취약점 체크), <code>agent/redact.py</code>(시크릿 마스킹)가 다층 방어를 이룬다. 공급망 보안을 위해 모든 의존성은 상한 핀을 강제하며(<code>AGENTS.md</code> — litellm 침해 PR #2796/#2810, Mini Shai-Hulud 웜 대응), <code>hermes_cli/security_advisories.py</code>가 권고 카탈로그를 관리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2273,8 +1455,8 @@ command_allowlist: []      # "always" 승인으로 영구 허용된 위험 패�
 <h3>8.4 셸 훅</h3>
 <p><code>config.yaml</code>의 <code>hooks</code>가 선언적 셸 훅을 정의한다: <code>pre_tool_call</code>/<code>post_tool_call</code>/<code>pre_llm_call</code>/<code>subagent_stop</code> 등 이벤트에 <code>{matcher, command, timeout}</code>를 매핑한다(<code>agent/shell_hooks.py</code>). 새 명령의 첫 등록시 사용자 동의를 받고 이후 <code>~/.hermes/shell-hooks-allowlist.json</code>에 저장된 승인을 재사용한다(<code>hooks_auto_accept</code>/<code>--accept-hooks</code>/<code>HERMES_ACCEPT_HOOKS=1</code>로 비대화 우회).</p>
 <hr>
-1c:["$","$L31","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 보안·승인·샌드박스","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:Tf33,<h2>기초 설명</h2>
+1c:["$","$L31","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. 보안·승인·샌드박스","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
+3c:Tf33,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2312,8 +1494,8 @@ hermes              # start chatting!
 <h2>9. ACP 어댑터 (에디터 통합)</h2>
 <p><code>acp_adapter/</code>는 Hermes를 Agent Client Protocol 서버로 노출해 VS Code / Zed / JetBrains에 통합한다. <code>acp_adapter/entry.py</code>가 <code>~/.hermes/.env</code>를 로드하고 로깅을 stderr로 보낸 뒤(stdout은 ACP JSON-RPC 전송 전용) ACP 서버를 시작한다. 모듈 구성: <code>server.py</code>(서버), <code>session.py</code>(세션), <code>tools.py</code>(도구 브리지), <code>permissions.py</code>/<code>edit_approval.py</code>(승인), <code>auth.py</code>, <code>events.py</code>. <code>acp_registry/agent.json</code>이 레지스트리 메타데이터(<code>id: hermes-agent</code>, <code>version: 0.15.1</code>, uvx 배포 <code>hermes-agent[acp]==0.15.1</code> → <code>hermes-acp</code>)를 담는다. liveness 프로브(<code>ping</code>/<code>health</code>/<code>healthcheck</code>)는 ACP 스키마 밖이라 -32601을 반환하되 stderr 트레이스백 노이즈는 <code>_BenignProbeMethodFilter</code>로 억제한다.</p>
 <hr>
-1d:["$","$L31","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. ACP 어댑터 (에디터 통합)","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:T9f1,<h2>기초 설명</h2>
+1d:["$","$L31","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. ACP 어댑터 (에디터 통합)","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+3d:T9f1,<h2>기초 설명</h2>
 <p>사용자 로컬 도구는 코어를 수정하지 말고 <code>~/.hermes/plugins/&#x3C;name>/plugin.yaml</code> + <code>__init__.py</code>에서 <code>ctx.register_tool(...)</code>/<code>ctx.register_platform(...)</code>로 등록한다(<code>AGENTS.md</code>). 플러그인 토큰셋은 자동 발견되며 코어 수정 없이 enable/disable된다. 스킬은 <code>skills/</code>(번들)·<code>optional-skills/</code>(니치, 기본 비활성)·<code>~/.hermes/skills/</code>(에이전트 생성)로 나뉘며 §5.4의 Curator가 후자를 관리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2348,8 +1530,8 @@ hermes              # start chatting!
 </code></pre>
 <p>사용자 로컬 도구는 코어를 수정하지 말고 <code>~/.hermes/plugins/&#x3C;name>/plugin.yaml</code> + <code>__init__.py</code>에서 <code>ctx.register_tool(...)</code>/<code>ctx.register_platform(...)</code>로 등록한다(<code>AGENTS.md</code>). 플러그인 토큰셋은 자동 발견되며 코어 수정 없이 enable/disable된다. 스킬은 <code>skills/</code>(번들)·<code>optional-skills/</code>(니치, 기본 비활성)·<code>~/.hermes/skills/</code>(에이전트 생성)로 나뉘며 §5.4의 Curator가 후자를 관리한다.</p>
 <hr>
-1e:["$","$L31","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 플러그인·스킬 생태계","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T1097,<h2>기초 설명</h2>
+1e:["$","$L31","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 플러그인·스킬 생태계","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+3e:T1097,<h2>기초 설명</h2>
 <p>로그는 <code>hermes_logging.py</code>의 <code>setup_logging()</code>이 프로파일 인지로 분리한다: <code>agent.log</code>(INFO+), <code>errors.log</code>(WARNING+), 게이트웨이 실행시 <code>gateway.log</code>. <code>hermes logs [--follow] [--level ...] [--session ...]</code>로 조회한다. <code>plugins/observability/</code>가 메트릭/트레이스/로그 플러그인을 제공하고, <code>agent/insights.py</code> + <code>sessions</code>/<code>messages</code> 테이블의 토큰·캐시·비용 회계 컬럼(input/output/cache_read/cache_write/reasoning tokens, estimated/actual cost)이 사용량·비용 분석(<code>hermes usage</code>)을 뒷받침한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2387,8 +1569,8 @@ hermes              # start chatting!
 <h2>11. 관찰성</h2>
 <p>로그는 <code>hermes_logging.py</code>의 <code>setup_logging()</code>이 프로파일 인지로 분리한다: <code>agent.log</code>(INFO+), <code>errors.log</code>(WARNING+), 게이트웨이 실행시 <code>gateway.log</code>. <code>hermes logs [--follow] [--level ...] [--session ...]</code>로 조회한다. <code>plugins/observability/</code>가 메트릭/트레이스/로그 플러그인을 제공하고, <code>agent/insights.py</code> + <code>sessions</code>/<code>messages</code> 테이블의 토큰·캐시·비용 회계 컬럼(input/output/cache_read/cache_write/reasoning tokens, estimated/actual cost)이 사용량·비용 분석(<code>hermes usage</code>)을 뒷받침한다.</p>
 <hr>
-1f:["$","$L31","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 관찰성","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:T1f20,<h2>기초 설명</h2>
+1f:["$","$L31","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 관찰성","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
+3f:T1f20,<h2>기초 설명</h2>
 <p>Hermes와 <code>cli-jaw</code>는 둘 다 영속 메모리를 가진 다채널 에이전트 하니스라는 점에서 가장 직접적인 비교 대상이다. 머리를 맞댄 차이:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2446,8 +1628,8 @@ hermes              # start chatting!
 </li>
 </ul>
 <hr>
-20:["$","$L31","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"12. cli-jaw 비교 시사점","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:Tb3bc,<h2>기초 설명</h2>
+20:["$","$L31","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"12. cli-jaw 비교 시사점","description":"000_overview/00_hermes_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
+40:Tb3bc,<h2>기초 설명</h2>
 <p>Claude Code의 TUI가 "622K 줄 단일 번들 안의 커스텀 Ink 포크"라면, Hermes의 핵심 TUI는 <strong>별도의 Node/TypeScript 워크스페이스(<code>ui-tui/</code>)에 자체 포크한 Ink 렌더러(<code>@hermes/ink</code>)를 두고, 화면(TS)과 두뇌(Python)를 newline-delimited JSON-RPC 파이프로 분리</strong>한 2-프로세스 아키텍처다. 즉 Hermes에는 <strong>두 개의 독립된 입력 표면</strong>이 공존한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3052,8 +2234,8 @@ hermes              # start chatting!
 <ul>
 <li>2026-05-29: Hermes Agent(<code>NousResearch/hermes-agent</code>, v0.15.1) TUI/입력 표면 차원 최초 작성. 2(+1)-프로세스 아키텍처(Ink ↔ JSON-RPC ↔ tui_gateway + slash worker), <code>@hermes/ink</code> 자체 포크(entry-exports/renderer 더블버퍼/AlternateScreen 마우스 4-프리셋/Yoga), GatewayClient spawn·WS attach 브리지, server.py 핸들러 레지스트리·풀 분리·트랜스포트 다형성·_SlashWorker·_block 프롬프트, WebSocket 표면(ws.py 동일 dispatch), App 트리(가상 스크롤 트랜스크립트/StatusRule/SpawnHud/4종 스피너), 자체 라인 에디터 키바인딩·큐/스티어/인터럽트·완성·블로킹 프롬프트, 3단 슬래시 디스패치 + 그룹별 로컬 명령표 + 이벤트 표면, 고전 prompt_toolkit+rich CLI 두 번째 표면, Claude Code TUI 비교표, cli-jaw 4항목 비교 포함.</li>
 </ul>
-21:["$","$L31","20-axis-01-tui",{"id":"20-axis-01-tui","order":19,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_hermes_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-46:Tb467,<h2>기초 설명</h2>
+21:["$","$L31","20-axis-01-tui",{"id":"20-axis-01-tui","order":19,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_hermes_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
+41:Tb467,<h2>기초 설명</h2>
 <p>Hermes의 프롬프트 시스템은 <code>02_cc_prompt|Claude Code</code>와 근본적으로 다른 설계 철학을 갖는다. Claude Code가 <code>system[]</code> <strong>배열</strong>에 섹션을 쌓고 <code>__SYSTEM_PROMPT_DYNAMIC_BOUNDARY__</code>로 캐시 경계를 긋는 반면, Hermes는 <strong>단일 문자열</strong>을 <code>\n\n</code>으로 연결해 만들고, 그 전체 문자열을 <strong>세션당 한 번만 빌드해 <code>agent._cached_system_prompt</code>에 캐싱</strong>한다. 정적/동적 경계를 런타임 마커로 표시하지 않고, 대신 "동적인 것은 애초에 시스템 프롬프트에 넣지 않는다"는 원칙으로 캐시를 보존한다. 이것이 Hermes의 핵심 불변식(invariant)이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -3806,8 +2988,8 @@ if effective_system:
 </ul>
 <p>이전 문서: [[02_cc_prompt]]
 관련 문서: [[00_hermes_overview]]</p>
-22:["$","$L31","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":20,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_hermes_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:Tbdb3,<h2>기초 설명</h2>
+22:["$","$L31","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":20,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_hermes_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
+42:Tbdb3,<h2>기초 설명</h2>
 <p>Claude Code의 핵심 이분법이 "읽기 도구는 즉시 실행 / 쓰기 도구는 승인 필수"였다면, Hermes의 핵심 설계 축은 <strong>2단계 노출(자동 발견 + 명시 토큰셋)</strong> 과 <strong>실행 환경 백엔드 추상화</strong>다. 즉 "어떤 도구가 보이느냐"와 "그 도구가 어디서 실행되느냐"를 분리한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4482,8 +3664,8 @@ _MEDIA_DELIVERY_DENIED_HOME_SUBPATHS = (
 <ul>
 <li>2026-05-29: Hermes Agent(<code>NousResearch/hermes-agent</code>) 툴 런타임 최초 작성. 2단계 노출 모델(registry 자동발견 + toolsets 명시 + check_fn TTL 게이트), <code>_HERMES_CORE_TOOLS</code> 카탈로그 표, 6개 터미널 환경 백엔드(local/docker/ssh/modal/daytona/singularity)와 <code>_create_environment</code> 라우팅, 양방향 MCP(<code>mcp_tool.py</code> 소비 + <code>mcp_serve.py</code> 노출), <code>delegate_task</code> 격리 서브에이전트(blocked-tools/깊이캡), 에이전트 레벨 memory/todo(frozen snapshot), tirith 사전스캔(fail-open)+dangerous-pattern 승인+미디어 denylist(recency/strict)+셸 훅 보안, cli-jaw 4항목 비교 포함.</li>
 </ul>
-23:["$","$L31","20-axis-03-tool",{"id":"20-axis-03-tool","order":21,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_hermes_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
-48:Tc223,<h2>기초 설명</h2>
+23:["$","$L31","20-axis-03-tool",{"id":"20-axis-03-tool","order":21,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_hermes_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+43:Tc223,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5349,8 +4531,8 @@ instruction: |
 </tr>
 </tbody>
 </table>
-24:["$","$L31","20-axis-04-skill",{"id":"20-axis-04-skill","order":22,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_hermes_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:Tc9da,<h2>기초 설명</h2>
+24:["$","$L31","20-axis-04-skill",{"id":"20-axis-04-skill","order":22,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_hermes_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
+44:Tc9da,<h2>기초 설명</h2>
 <p>핵심 차별점 세 가지를 먼저 짚는다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5953,8 +5135,8 @@ return child.run_conversation(user_message=goal, task_id=child_task_id)
 <ul>
 <li>2026-05-29: Hermes Agent(<code>NousResearch/hermes-agent</code>, v0.15.1) 서브에이전트/협업 차원 최초 작성. delegate_task 격리 서브에이전트(DELEGATE_BLOCKED_TOOLS, MAX_DEPTH=1, task_id 기반 자체 터미널 세션, 메인-스레드 구성+워커 실행, batch 병렬 ThreadPoolExecutor, heartbeat/타임아웃/인터럽트, 자식 비용 롤업, 동적 스키마), leaf/orchestrator 역할 특화, ACP 양방향(acp_adapter 인바운드 서버 + copilot_acp_client 아웃바운드 + acp_registry/agent.json + delegate_task acp_command 브리지), 멀티-프로토콜 모델 어댑터 이종 위임(delegation.provider 라우팅, api_mode 재유도, credential pool 공유), Kanban swarm 느슨한 결합 협업, Curator 자기개선 메타-에이전트(비활성 트리거, pure+LLM 2단계, 보조 모델 fork, 메인 캐시 미접촉, dry-run, consolidated/pruned 분류), cli-jaw 4항목 비교 포함.</li>
 </ul>
-25:["$","$L31","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":23,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_hermes_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:Ta316,<h2>기초 설명</h2>
+25:["$","$L31","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":23,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_hermes_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
+45:Ta316,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -6651,8 +5833,8 @@ python -m hermes_cli.main web --no-open  + (web/ 에서) npm run dev
 <ul>
 <li>2026-05-29: Hermes Agent(v0.15.1) 앱-서버/클라이언트/세션 표면 최초 작성. CC의 "프로토콜 부재" 대비 Hermes의 6개 표면(OpenAI 호환 aiohttp 앱-서버 :8642 — /v1/chat·responses·runs·approval + /api/sessions·jobs + SSE + Bearer/CORS/멱등성 미들웨어; React19 웹 대시보드 :9119 + xterm; ACP 표준 JSON-RPC 서버; stdio/WebSocket 이중 전송 TUI 게이트웨이; MCP 양방향 mcp_serve.py)을 소스 인용으로 문서화. 단일 SessionDB(source 태깅 + handoff_state)가 전 표면을 떠받치는 세션 연속성 모델, fork/branch의 3-표면 노출, 비교표·재사용 seam·결합 리스크·cli-jaw 4항목 비교 포함.</li>
 </ul>
-26:["$","$L31","20-axis-06-surface",{"id":"20-axis-06-surface","order":24,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_hermes_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-4b:Tb469,<h2>기초 설명</h2>
+26:["$","$L31","20-axis-06-surface",{"id":"20-axis-06-surface","order":24,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_hermes_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
+46:Tb469,<h2>기초 설명</h2>
 <p>Hermes의 "샌드박스"는 Claude Code/Codex와 <strong>근본적으로 다른 층위</strong>에 산다. Claude Code는 호스트 셸을 OS-레벨 프리미티브(<code>sandbox-exec</code> seatbelt, <code>bwrap</code>+seccomp)로 감싸 <strong>로컬 실행 자체를 격리</strong>하는 반면, Hermes는 로컬 실행에 OS 샌드박스를 두지 않는다. 대신 격리를 <strong>(1) 실행 환경 백엔드 교체</strong>(local↔docker↔ssh↔modal↔daytona↔singularity)와 <strong>(2) 패턴 기반 위험 명령 승인 게이트</strong> + <strong>(3) 콘텐츠/경로/URL 다층 스캐너</strong>의 조합으로 달성한다. 즉 Hermes의 보안 모델은 "셸을 가두는" 모델이 아니라 "위험한 명령을 잡아 사람에게 묻고, 정말 격리가 필요하면 컨테이너로 보내는" 모델이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7338,8 +6520,8 @@ security:
 <ul>
 <li>2026-05-29: hermes-agent v0.15.1 소스 직접 분석 기반 최초 작성. 핵심 발견 — Hermes는 OS-레벨 호스트 샌드박스(seatbelt/bwrap/landlock/seccomp)를 <strong>의도적으로 두지 않고</strong>, 격리를 (1) 교체식 실행 백엔드(<code>tools/environments/</code> 6종, docker가 실질 하드샌드박스: cap-drop ALL/no-new-privileges/tmpfs/pids-limit), (2) 정규식 위험 명령 승인 게이트(<code>approval.py</code>의 HARDLINE/DANGEROUS 2계층 + 컨테이너 면제 + 스마트승인 + 자기보존 패턴), (3) tirith/url/path/threat 다층 콘텐츠 스캐너의 조합으로 구현. cron 3분 인터럽트·<code>cron_mode=deny</code>, <code>_YOLO_MODE_FROZEN</code> import-time 동결 등 하드닝 디테일 포함. cli-jaw 4항목 비교 포함.</li>
 </ul>
-27:["$","$L31","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":25,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_hermes_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
-4c:Ted1b,<h2>기초 설명</h2>
+27:["$","$L31","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":25,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_hermes_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
+47:Ted1b,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -8433,8 +7615,8 @@ class Platform(Enum):
 <ul>
 <li>2026-05-29: Hermes Agent(v0.15.1) 설정 시스템 최초 작성. 소스 직접 분석으로 2단계 deep-merge(<code>_deep_merge</code>)·<code>DEFAULT_CONFIG</code>(_config_version=24)·세 갈래 로더·<code>HERMES_HOME</code> 프로파일 격리(<code>get_hermes_home</code>/<code>get_profile_dir</code>/<code>active_profile</code>)·비밀/비-비밀 채널 분리(<code>config.yaml</code> vs <code>.env</code>/<code>OPTIONAL_ENV_VARS</code>)·<code>${VAR}</code> 치환과 저장시 템플릿 보존·모델 라우팅(<code>model</code>/<code>providers</code>/<code>api_mode</code> 휴리스틱/<code>fallback_chain</code>/<code>auxiliary</code> per-task/<code>delegation</code>)·정책 레이어 의도적 부재(<code>is_managed()</code> 단일 플래그)·게이트웨이 런타임 설정(<code>Platform</code>/<code>SessionResetPolicy</code>)을 라인 인용으로 문서화. Claude Code([[08_cc_config]]) 비교표 + cli-jaw 4항목 시사점 포함.</li>
 </ul>
-28:["$","$L31","20-axis-08-config",{"id":"20-axis-08-config","order":26,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_hermes_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
-4d:Tcbc9,<h2>기초 설명</h2>
+28:["$","$L31","20-axis-08-config",{"id":"20-axis-08-config","order":26,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_hermes_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
+48:Tcbc9,<h2>기초 설명</h2>
 <p>핵심 명제: Claude Code의 MCP는 한 방향(클라이언트로서 외부 서버 소비) + IDE 진단 채널 특화였지만, <strong>Hermes의 MCP는 클라이언트와 서버 두 방향을 모두 구현</strong>한다. 클라이언트 측은 stdio/StreamableHTTP/SSE 3종 전송 + OAuth 2.1 PKCE + 서버발(server-initiated) sampling + 동적 도구 갱신(list_changed) + 회로 차단기까지 갖춘 프로덕션급 통합이며, 서버 측은 자신의 멀티채널 대화 상태를 9+1개 MCP 도구로 다른 에이전트에게 노출한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9223,8 +8405,8 @@ hermes mcp login &#x3C;name>                    # OAuth 재인증
 </tr>
 </tbody>
 </table>
-29:["$","$L31","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":27,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_hermes_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
-4e:Tf62e,<h2>기초 설명</h2>
+29:["$","$L31","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":27,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_hermes_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
+49:Tf62e,<h2>기초 설명</h2>
 <p>Hermes의 메모리는 <strong>4개 계층</strong>이 분업한다: (1) <strong><code>SessionDB</code></strong> — SQLite + FTS5(+CJK trigram)로 모든 세션/메시지/토큰 회계를 영속화하고 압축 시 <code>parent_session_id</code> 체인으로 분할한다. (2) <strong>frozen-snapshot 파일 메모리</strong> — <code>MEMORY.md</code>/<code>USER.md</code>를 prefix 캐시를 깨지 않는 동결 스냅샷으로 시스템 프롬프트에 주입한다. (3) <strong><code>MemoryManager</code></strong> — 내장 프로바이더 + 단일 외부 플러그인 프로바이더를 오케스트레이션하고 회상 컨텍스트를 정화한다. (4) <strong>Curator</strong> — 보조 모델로 에이전트 생성 스킬을 주기적으로 통합/아카이브하는 자기개선 루프. Claude Code의 "에이전트 자율 파일 쓰기 + 서버 compaction + Dream"(→ <code>10_cc_memory</code>)과 달리, Hermes는 <strong>코어에 박힌 DB + 코드 레벨 영속</strong>으로 같은 목표를 달성한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9972,8 +9154,8 @@ USER.md   : 사용자에 대해 아는 것 (선호도, 소통 스타일, 기대,
 <ul>
 <li>2026-05-29: Hermes Agent(v0.15.1) 메모리 파이프라인 최초 작성. SessionDB(SQLite WAL+폴백, jitter 재시도, schema v14 선언적 reconciliation, sessions/messages/state_meta/compression_locks 테이블, 토큰·비용 회계), FTS5+CJK trigram 3-way 검색 라우팅(#20494 함정 포함), frozen-snapshot MEMORY.md/USER.md(prefix 캐시 불변식, 드리프트 감지, threat scan/BLOCKED placeholder), parent_session_id 압축 체인 + 압축 락(orphan-children 레이스 방지) + 체인 tip 탐색/리스팅, MemoryManager(단일 외부 프로바이더, 라이프사이클 fan-out, sanitize_context/StreamingContextScrubber 펜싱), 세션 핸드오프(handoff_state + 2s watcher), Curator 자기개선 루프(비활성 트리거, 2-phase, umbrella 통합, 엄격 불변식, consolidated/pruned 분류, cron 참조 재작성), 메모리 생존 경계 표, cli-jaw 5항목 비교 포함.</li>
 </ul>
-2a:["$","$L31","20-axis-10-memory",{"id":"20-axis-10-memory","order":28,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_hermes_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
-4f:Tbb2f,<h2>기초 설명</h2>
+2a:["$","$L31","20-axis-10-memory",{"id":"20-axis-10-memory","order":28,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_hermes_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
+4a:Tbb2f,<h2>기초 설명</h2>
 <p>Hermes Agent의 "플러그인"은 <code>11_cc_plugin|Claude Code</code>의 hooks(라이프사이클 셸 커맨드 바인딩)나 Codex의 marketplace+MCP 패키지와 다른 <strong>세 번째 모델</strong>이다. Hermes는 <strong>코어를 절대 수정하지 않고</strong>(<code>AGENTS.md</code>의 Teknium 규칙, 2026-05) 디렉토리에 <code>plugin.yaml</code> 매니페스트 + <code>__init__.py</code>의 <code>register(ctx)</code> 함수를 두면, <code>register(ctx)</code>에 넘어온 <code>PluginContext</code> 파사드로 <strong>도구·라이프사이클 훅·슬래시/CLI 명령·플랫폼 어댑터·8종 프로바이더 백엔드</strong>를 호스트에 주입하는 인-프로세스 Python 플러그인 시스템이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10680,8 +9862,8 @@ hermes plugins list / enable / disable
 <ul>
 <li>2026-05-29: Hermes Agent(<code>NousResearch/hermes-agent</code>, v0.15.1) 플러그인 시스템 최초 작성. <code>plugins.py</code> PluginManager(4소스 디스커버리/kind 5종/opt-in 게이팅/오버라이드), PluginContext 20여 확장점 표면, VALID_HOOKS 19종 + 코어 콜사이트(model_tools.py/gateway/run.py), Git 설치자(<code>plugins_cmd.py</code>) 마켓플레이스, 플랫폼 플러그인 셀프-등록, Hermes의 ACP/MCP 게스트 모드, Teknium 코어 불가침 규칙, 실제 플러그인 7종 사례, Claude Code hooks 비교표, cli-jaw 4항목 비교 포함.</li>
 </ul>
-2b:["$","$L31","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":29,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_hermes_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4f"}}]}]
-50:T9b3c,<h2>기초 설명</h2>
+2b:["$","$L31","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":29,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_hermes_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
+4b:T9b3c,<h2>기초 설명</h2>
 <p>Hermes의 승인 시스템은 Claude Code의 <strong>규칙기반 5-mode 퍼미션 엔진</strong>(<code>12_cc_guardian</code>)이나 Codex의 <strong>AI risk-scoring guardian</strong>과 또 다르다. 핵심은 <strong>두 층의 사전실행(pre-exec) 게이트</strong>다: (1) 외부 Rust 바이너리 <code>tirith</code>가 명령의 <strong>콘텐츠 수준 위협</strong>(homograph URL, pipe-to-interpreter, 터미널 인젝션)을 스캔하고 exit code로 판정하며, (2) 자체 정규식 <code>DANGEROUS_PATTERNS</code> + <code>HARDLINE_PATTERNS</code>가 <strong>구조 수준 위협</strong>(rm -rf /, fork bomb, sudo 비밀번호 추측)을 잡는다. 두 결과는 <code>check_all_command_guards()</code>에서 <strong>하나의 승인 프롬프트</strong>로 합쳐져 채널별 네이티브 UI(CLI input / 게이트웨이 yes-no 버튼)로 표면화된다. 여기에 게이트웨이 출력단의 <strong>미디어 전달 방어</strong>(자격증명 denylist + recency-window + strict mode)와 <strong>채널 인가/페어링</strong>이 더해져 다층 방어를 이룬다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11164,8 +10346,8 @@ _MEDIA_DELIVERY_DENIED_HOME_SUBPATHS = (".ssh",".aws",".gnupg",".kube",
 <ul>
 <li>2026-05-29: Hermes Agent(<code>NousResearch/hermes-agent</code> v0.15.1) 가디언/승인 차원 최초 작성. tirith 사전실행 스캔(<code>check_command_security</code> exit-code 0/1/2 판정 + fail-open + cosign/SHA-256 자동설치), 3계층 위험패턴(HARDLINE/sudo-stdin/DANGEROUS) + NFKC 정규화 + 키 alias, <code>check_all_command_guards</code> 8단계 판정 + YOLO freeze + 스마트승인(보조 LLM) + 게이트웨이 Event 큐 콜백/consent contract + execute_code one-shot 가드 + cron_mode, 미디어 전달 방어(denylist + recency-window 600s + strict mode), 채널 인가/<code>_get_unauthorized_dm_behavior</code>/페어링(secrets 8자/1h TTL/rate limit), 방어계층 요약표, cli-jaw 4항목 비교 포함.</li>
 </ul>
-2c:["$","$L31","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":30,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_hermes_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$50"}}]}]
-51:Tafc4,<h2>기초 설명</h2>
+2c:["$","$L31","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":30,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_hermes_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
+4c:Tafc4,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11786,8 +10968,8 @@ gateway:
 <ul>
 <li>2026-05-29: Hermes Agent(<code>NousResearch/hermes-agent</code>, v0.15.1) 잔여 교차 관심사 최초 작성. 11개 차원(Git=shadow-git 체크포인트/build SHA, 모델 라우팅=6 어댑터+패턴 강제 라우팅+다단 폴백+클라우드 인증+aux 핀, 에러=21종 FailoverReason 분류기+nous rate guard+스트림 에러 합성, 텔레메트리=로컬 회계+옵트인 Langfuse, 인증=Bitwarden 외부소스+파일락 이중저장소, 멀티모달=vision/생성/TTS/전사+SSRF가드, 이벤트=cron 60s tick+파일락+no-agent경로, 피처플래그=config dotpath 정적 게이트, 패키징=3스테이지 Docker+s6-overlay, 테스트=1,326 테스트+헤르메틱 conftest+17 CI, i18n=16로케일+얇은스코프) + CC 대조표 + cli-jaw 4항목 시사점 + 부록(env/config·파일경로) 포함. mermaid(cron tick 시퀀스) 1개, table 4개 이상.</li>
 </ul>
-2d:["$","$L31","20-axis-13-etc",{"id":"20-axis-13-etc","order":31,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_hermes_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$51"}}]}]
-52:T5234,<h2>기초 설명</h2>
+2d:["$","$L31","20-axis-13-etc",{"id":"20-axis-13-etc","order":31,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_hermes_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
+4d:T5234,<h2>기초 설명</h2>
 <p>Hermes is a <strong>standalone</strong> Python agent runtime. Web/search is not host-delegated: <code>tools/web_tools.py</code> dispatches through <code>agent/web_search_registry.py</code> to seven provider plugins under <code>plugins/web/</code>, configured via <code>~/.hermes/config.yaml</code> (<code>hermes tools</code> wizard).</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12354,8 +11536,8 @@ provides_web_providers:
 </tr>
 </tbody>
 </table>
-2e:["$","$L31","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":32,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_hermes_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$52"}}]}]
-53:T2412,<h2>기초 설명</h2>
+2e:["$","$L31","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":32,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_hermes_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
+4e:T2412,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12527,8 +11709,8 @@ hermes              # start chatting!
 <li><code>bundle-key</code> or <code>binary-string</code> confirms a module exists.</li>
 <li><code>runtime-trace</code> is still required for exact precedence, scheduling, isolation, merge, and permission behavior.</li>
 </ul>
-2f:["$","$L31","25-reverse-engineering",{"id":"25-reverse-engineering","order":33,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$53"}}]}]
-54:T2958,<h2>기초 설명</h2>
+2f:["$","$L31","25-reverse-engineering",{"id":"25-reverse-engineering","order":33,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
+4f:T2958,<h2>기초 설명</h2>
 <ul>
 <li>2026-05-29: Hermes Agent(<code>NousResearch/hermes-agent</code>, v0.15.1) 동작 원리 최초 작성. 4종 진입점(CLI/TUI/Gateway/ACP), HERMES_HOME 프로파일 경로, 3-로더 설정, ~20플랫폼 다채널 게이트웨이(platform_registry/base/_handle_message/SessionResetPolicy/AIAgent LRU 캐시/COMMAND_REGISTRY 자동파생), registry+toolsets 2단계 도구 모델 + _HERMES_CORE_TOOLS 표 + 환경 백엔드 + MCP 양방향, 3계층 시스템 프롬프트(frozen-snapshot prefix 캐시 불변식), 영속·자기개선 메모리(MEMORY.md/USER.md + MemoryManager 플러그인 + SessionDB SQLite/FTS5/trigram + Curator 자기개선 루프), 동기 run_conversation 루프 + 멀티 프로토콜 어댑터/모델 라우팅 + delegate_task 서브에이전트, 턴 생존 실행(cron/background/queue/steer/handoff), 보안(tirith/승인/미디어 denylist/셸 훅), ACP 어댑터, 플러그인·스킬 생태계, 관찰성, cli-jaw 6항목 비교 포함.</li>
 </ul>
@@ -12685,4 +11867,4 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>기술 스택: Python + prompt_toolkit + rich + tree-sitter + Git</li>
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
-30:["$","$L31","99-next-steps",{"id":"99-next-steps","order":34,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$54"}}]}]
+30:["$","$L31","99-next-steps",{"id":"99-next-steps","order":34,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4f"}}]}]

@@ -6,498 +6,16 @@
 8:I[59374,["/cli101-portal/sites/aider/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/aider/_next/static/chunks/f19e4129d752cb5c.js"],"ViewportBoundary"]
 a:I[59374,["/cli101-portal/sites/aider/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/aider/_next/static/chunks/f19e4129d752cb5c.js"],"MetadataBoundary"]
 c:I[22319,["/cli101-portal/sites/aider/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/aider/_next/static/chunks/f19e4129d752cb5c.js"],"default"]
-:HL["/cli101-portal/sites/aider/_next/static/chunks/c51641b9b9140561.css","style"]
-0:{"P":null,"b":"BBgMYmaapg4SYa2qIaiD4","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/aider/_next/static/chunks/c51641b9b9140561.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/aider/_next/static/chunks/9915c801139d67bd.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+:HL["/cli101-portal/sites/aider/_next/static/chunks/1bba1a511e5d9f1d.css","style"]
+0:{"P":null,"b":"r27cenlsB-NP4DNx1m7hK","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/aider/_next/static/chunks/1bba1a511e5d9f1d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/aider/_next/static/chunks/632d5794df09229a.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
 b:[["$","title","0",{"children":"AI101 — Aider 한국어 입문"}],["$","meta","1",{"name":"description","content":"Aider 터미널 페어 프로그래밍 입문 가이드"}],["$","meta","2",{"property":"og:title","content":"AI101 — Aider 한국어 입문"}],["$","meta","3",{"property":"og:description","content":"터미널 페어 프로그래밍 입문 — cc101-class surface"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"AI101 — Aider 한국어 입문"}],["$","meta","6",{"name":"twitter:description","content":"터미널 페어 프로그래밍 입문 — cc101-class surface"}]]
-d:I[27756,["/cli101-portal/sites/aider/_next/static/chunks/9915c801139d67bd.js"],"PageClient"]
-4:["$","$6",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$Ld",null,{"lang":"ko","siteName":"AI101","tagline":"AI101 developer-grade corpus guide","taglineEn":"AI101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_ai_overview.md","branding":{"slug":"ai101","name":"AI101","tagline_ko":"ai 입문 + 코퍼스 전량","tagline_en":"ai intro + full corpus","accentLabel_ko":"000_overview/00_ai_overview.md","accentLabel_en":"000_overview/00_ai_overview.md","heroTitle_ko":"터미널 LLM 페어 프로그래밍","heroTitle_en":"Terminal LLM pair programming","heroSubtitle_ko":"개발자 문서 — 34섹션 (000–015 + 스니펫)","heroSubtitle_en":"Developer docs — 34 sections (000–015 + snippets)","terminalLines":["$$ pip install aider-chat","$$ aider ./src"],"prompt_ko":"> RepoMap으로 호출 경로 추적","prompt_en":"> Trace callers via RepoMap","ctaHash":"00-before-you-start","officialUrl":"https://aider.chat/","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"AI101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"000 인덱스 + 축 맵","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"core","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-aider","order":2,"tier":"core","slug":"02-what-is-aider","title_ko":"하네스 한눈에","title_en":"Harness at a glance","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/02-what-is-aider.md","file_en":"en/02-what-is-aider.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치 & 인증","title_en":"Install & auth","description_ko":"설치 & 인증","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 세션","title_en":"First session","description_ko":"첫 세션","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"에이전트 루프","title_en":"Agent workflow","description_ko":"에이전트 루프","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정 & 모델","title_en":"Config & models","description_ko":"설정 & 모델","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 아키텍처","title_en":"Overview §1","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 코더 시스템","title_en":"Overview §2","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 프롬프트 시스템","title_en":"Overview §3","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. TUI","title_en":"Overview §4","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 커맨드 시스템","title_en":"Overview §5","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 모델 관리","title_en":"Overview §6","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Git 통합","title_en":"Overview §7","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Watch 모드","title_en":"Overview §8","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 음성 입력","title_en":"Overview §9","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 설정 시스템","title_en":"Overview §10","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 린트/테스트 통합","title_en":"Overview §11","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_ai_tui.md","description_en":"001_tui-design/01_ai_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_ai_prompt.md","description_en":"002_prompt-context/02_ai_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_ai_tool.md","description_en":"003_tool-runtime/03_ai_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_ai_skill.md","description_en":"004_skill-system/04_ai_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_ai_subagent.md","description_en":"005_subagents-collab/05_ai_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_ai_surface.md","description_en":"006_app-server-client-surfaces/06_ai_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_ai_sandbox.md","description_en":"007_sandbox-exec-policy/07_ai_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_ai_config.md","description_en":"008_config-system/08_ai_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_ai_mcp.md","description_en":"009_mcp-orchestration/09_ai_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_ai_memory.md","description_en":"010_memory-pipeline/10_ai_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_ai_plugin.md","description_en":"011_plugin-system/11_ai_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_ai_guardian.md","description_en":"012_guardian-approval/12_ai_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_ai_etc.md","description_en":"013_etc/13_ai_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_ai_web-search.md","description_en":"014_web-search/14_ai_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]}]
-30:I[15824,["/cli101-portal/sites/aider/_next/static/chunks/9915c801139d67bd.js"],"SectionBlock"]
-31:T52d5,<h2>AI101 — 개발자 문서</h2>
-<p>P2: <strong>000–015 코퍼스</strong> + <strong>path:line 소스 스니펫</strong> + 기초 설명.</p>
-<h2>기초 설명</h2>
-<hr>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>Corpus axis index</li>
-<li>코드베이스 개요</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>110_aider/README.md</code></h3>
-<h2>Getting Started</h2>
-<pre><code class="language-bash">python -m pip install aider-install
-aider-install
-
-
-## 코퍼스 — 000/ (인덱스·요약)
-
-### `000/01_corpus_navigation_map.md`
-
-# Corpus Navigation Map
-
-This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.
-
-For reversible old-to-new bucket proposals, see `/Users/jun/Developer/codex/000/02_corpus_move_candidates.md`.
-
-For the canonical relationship between `/Users/jun/Developer/codex/000/` and `/Users/jun/Developer/codex/000_overview/`, see `/Users/jun/Developer/codex/000/03_overview_canonical_map.md`.
-
-## Canonical Reading Spine
-
-| Purpose | Path | Classification |
-| --- | --- | --- |
-| Root overview and synthesis | `/Users/jun/Developer/codex/000/` | `overview-index` |
-| Deep harness overview docs | `/Users/jun/Developer/codex/000_overview/` | `deep-overview` |
-| TUI design axis | `/Users/jun/Developer/codex/001_tui-design/` | `canonical-doc-axis` |
-| Prompt/context axis | `/Users/jun/Developer/codex/002_prompt-context/` | `canonical-doc-axis` |
-| Tool/runtime axis | `/Users/jun/Developer/codex/003_tool-runtime/` | `canonical-doc-axis` |
-| Skill system axis | `/Users/jun/Developer/codex/004_skill-system/` | `canonical-doc-axis` |
-| Subagents/collaboration axis | `/Users/jun/Developer/codex/005_subagents-collab/` | `canonical-doc-axis` |
-| App/server/client surfaces axis | `/Users/jun/Developer/codex/006_app-server-client-surfaces/` | `canonical-doc-axis` |
-| Sandbox/exec/policy axis | `/Users/jun/Developer/codex/007_sandbox-exec-policy/` | `canonical-doc-axis` |
-| Config system axis | `/Users/jun/Developer/codex/008_config-system/` | `canonical-doc-axis` |
-| MCP orchestration axis | `/Users/jun/Developer/codex/009_mcp-orchestration/` | `canonical-doc-axis` |
-| Memory pipeline axis | `/Users/jun/Developer/codex/010_memory-pipeline/` | `canonical-doc-axis` |
-| Plugin system axis | `/Users/jun/Developer/codex/011_plugin-system/` | `canonical-doc-axis` |
-| Guardian/approval axis | `/Users/jun/Developer/codex/012_guardian-approval/` | `canonical-doc-axis` |
-| Cross-cutting notes | `/Users/jun/Developer/codex/013_etc/` | `supporting-docs` |
-| Web search notes | `/Users/jun/Developer/codex/014_web-search/` | `supporting-docs` |
-| Reverse engineering notes | `/Users/jun/Developer/codex/015_reverse-engineering/` | `supporting-docs` |
-
-## Reference Repositories and Artifact Sets
-
-| Current Path | Classification | First-Cycle Status |
-| --- | --- | --- |
-| `/Users/jun/Developer/codex/120_codex-cli/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/121_openai-codex/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/110_aider/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/130_gemini-cli/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/140_opencode/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/141_opencode-current/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/161_lazycodex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/160_hermes-agent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/162_superpowers/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/901_autoresearch/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/902_claude-usage-plugin/` | `reference-repo`, `plugin-artifact`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/170_oh-my-claudecode/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/171_oh-my-codex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/172_oh-my-openagent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/030_browser/` | `runtime-tooling`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/023_computer_use/` | `runtime-tooling`, `contains-nested-gitlink` | `blocked-nested-gitlink` |
-| `/Users/jun/Developer/codex/150_claude_code/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/151_copilot_cli/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/152_antigravity/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt` | `binary-or-package-artifact`, `reverse-engineering-evidence` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs` | `binary-or-package-artifact`, `reverse-engineering-tooling` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-
-## Proposed Future Buckets
-
-These are logical buckets only. They are not physical moves in this cycle.
-
-```text
-reference-repos/
-  codex/
-  competitor-harnesses/
-  plugins-and-extensions/
-analysis-artifacts/
-  reverse-engineering/
-  binary-package-reports/
-runtime-tools/
-  browser/
-  computer-use/
-docs/
-  overview-index/
-  deep-overview/
-  axes/
-</code></pre>
-<h2>Physical Rename Rule</h2>
-<p>Before a folder is moved, add an explicit mapping row using:</p>
-<pre><code class="language-text">old_path -> proposed_path | classification | move_status | evidence
-</code></pre>
-<p>For gitlinks, also reconcile <code>.gitmodules</code> before moving.</p>
-<h2>Top-Level Triage</h2>
-<p>Use this when scanning the root directory. Status is intentionally conservative: <code>keep-current</code> means the current path remains the source of truth for now.</p>
-<table>
-<thead>
-<tr>
-<th>Current Path</th>
-<th>Triage</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><code>000/03_overview_canonical_map.md</code></h3>
-<h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
-<h2>Canonical Rule</h2>
-<ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
-<li>If the same filename exists in both folders and content differs, keep both:
-<ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
-</ul>
-</li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
-</ul>
-<h2>Paired Overview Files</h2>
-<table>
-<thead>
-<tr>
-<th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
-<th>Equal</th>
-<th>Rule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>00_ag_overview.md</code></td>
-<td align="right">27224</td>
-<td align="right">15790</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ai_overview.md</code></td>
-<td align="right">25716</td>
-<td align="right">25716</td>
-<td>yes</td>
-<td>duplicate content; defer dedupe until link audit</td>
-</tr>
-<tr>
-<td><code>00_ay_overview.md</code></td>
-<td align="right">3815</td>
-<td align="right">798</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cc_overview.md</code></td>
-<td align="right">25990</td>
-<td align="right">27537</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_co_overview.md</code></td>
-<td align="right">41569</td>
-<td align="right">17061</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cp_overview.md</code></td>
-<td align="right">23525</td>
-<td align="right">6854</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_cr_overview.md</code></td>
-<td align="right">3216</td>
-<td align="right">595</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ge_overview.md</code></td>
-<td align="right">47345</td>
-<td align="right">35414</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_gr_overview.md</code></td>
-<td align="right">3310</td>
-<td align="right">546</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_ki_overview.md</code></td>
-<td align="right">3360</td>
-<td align="right">692</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-<tr>
-<td><code>00_oc_overview.md</code></td>
-<td align="right">43650</td>
-<td align="right">33628</td>
-<td>no</td>
-<td>keep both: orientation plus detail</td>
-</tr>
-</tbody>
-</table>
-<h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
-<pre><code class="language-text">00_hermes_overview.md
-00_lc_overview.md
-00_newharness_vs_cli-jaw_synthesis.md
-00_omc_overview.md
-00_omo_overview.md
-00_omx_overview.md
-00_sp_overview.md
-</code></pre>
-<h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
-<pre><code class="language-text">00_grand_synthesis.md
-00_harness-index.md
-00_harness-index_hermes.md
-00_harness-index_omc.md
-00_harness-index_omo.md
-00_harness-index_omx.md
-00_harness_synthesis_addendum.md
-01_corpus_navigation_map.md
-02_corpus_move_candidates.md
-03_overview_canonical_map.md
-</code></pre>
-<hr>
-<h3><code>000/00_ai_overview.md</code></h3>
-<h1>Aider 에이전트 엔진 검토 개요</h1>
-<p>이 문서는 5개 에이전트 비교 분석 작업의 일부로, <a href="https://github.com/paul-gauthier/aider">Aider</a> v0.86.3의 내부 구조를 코드 기준으로 분석한다. Aider는 Python 단일 프로세스 CLI 기반 AI 코딩 어시스턴트로, LLM에게 코드를 편집하도록 지시하고 그 결과를 자동으로 git commit하는 데 최적화된 도구다.</p>
-<p>한 문장 요약: Aider는 <code>prompt assembly + multi-strategy coder + repo-map context + git integration</code>이 하나의 큰 Python 프로세스 안에서 밀결합된 실전형 코드 편집 엔진이다. 서브에이전트, 스킬 시스템, 샌드박스, MCP 같은 확장 계층은 없지만, 코드 편집이라는 하나의 축에서는 가장 성숙한 전략 분기 구조를 갖추고 있다.</p>
-<p>핵심은 네 갈래다. 첫째, 7종 이상의 편집 전략(wholefile, editblock, udiff, patch, architect 등)이 <code>Coder</code> 상속 계층으로 분리되어 있고, 런타임에 <code>SwitchCoder</code> 예외로 전환된다. 둘째, tree-sitter 기반 <code>RepoMap</code>이 전체 저장소의 함수·클래스 정의를 PageRank로 순위 매겨 컨텍스트 윈도우에 넣는다. 셋째, 17개 프롬프트 클래스가 편집 전략마다 system prompt, reminder, few-shot example을 다르게 조립한다. 넷째, git 통합이 편집 후 자동 커밋, 자동 커밋 메시지 생성, undo까지 일관된 루프로 돌아간다.</p>
-<pre><code class="language-mermaid">graph TD
-    A["main.py bootstrap"] --> B["InputOutput ← prompt_toolkit TUI"]
-    A --> C["Model ← LiteLLM"]
-    A --> D["Coder.create() factory"]
-    D --> E["EditBlockCoder"]
-    D --> F["WholeFileCoder"]
-    D --> G["UDiffCoder"]
-    D --> H["ArchitectCoder"]
-    D --> I["AskCoder"]
-    D --> J["PatchCoder"]
-    E &#x26; F &#x26; G &#x26; H &#x26; I &#x26; J --> K["base_coder.run_one()"]
-    K --> L["format_chat_chunks()"]
-    L --> M["RepoMap ← tree-sitter"]
-    L --> N["*_prompts.py system prompt"]
-    K --> O["model.send_completion()"]
-    K --> P["get_edits() + apply_edits()"]
-    P --> Q["GitRepo.commit()"]
-    P --> R["Linter.lint()"]
-</code></pre>
-<pre><code class="language-mermaid">sequenceDiagram
-    participant U as 사용자 입력
-    participant IO as InputOutput
-    participant C as Coder (strategy)
-    participant M as Model (LiteLLM)
-    participant G as GitRepo
-
-    U->>IO: prompt_toolkit 입력
-    IO->>C: run_one(message)
-    C->>C: format_chat_chunks()
-    Note over C: system prompt + repo map + files + history
-    C->>M: send_completion(messages)
-    M-->>C: streamed response
-    C->>C: get_edits() — 전략별 파싱
-    C->>C: apply_edits() — 파일 쓰기
-    C->>G: auto_commit()
-    G-->>C: commit hash
-    C->>C: lint_edited() → 오류 시 재시도
-    C-->>IO: 결과 출력
-</code></pre>
-<hr>
-<h2>코드베이스 개요</h2>
-<table>
-<thead>
-<tr>
-<th>항목</th>
-<th>수치</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>총 Python 파일 (<code>110_aider/110_aider/</code>)</td>
-<td>80개</td>
-</tr>
-<tr>
-<td>총 코드 라인</td>
-<td>~20,270줄</td>
-</tr>
-<tr>
-<td><code>coders/</code> 디렉토리 파일</td>
-<td>38개</td>
-</tr>
-<tr>
-<td>프롬프트 파일 (<code>*_prompts.py</code>)</td>
-<td>17개</td>
-</tr>
-<tr>
-<td>지원 커맨드 (<code>cmd_*</code>)</td>
-<td>43개</td>
-</tr>
-<tr>
-<td>tree-sitter 지원 언어</td>
-<td>41개</td>
-</tr>
-<tr>
-<td>모델 별칭</td>
-<td>22개</td>
-</tr>
-<tr>
-<td>테스트 파일</td>
-<td>41개</td>
-</tr>
-<tr>
-<td>기준 커밋</td>
-<td><code>bdb4d9f</code></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2>1. 아키텍처 — 부트스트랩과 메인 루프</h2>
-<h3>진입점: <code>110_aider/main.py</code></h3>
-<p><code>main()</code> 함수(line 451)가 전체 부트스트랩을 수행한다:</p>
-<ol>
-<li><code>configargparse</code>로 인자 파싱 (CLI → 환경변수 → <code>.aider.conf.yml</code>)</li>
-<li><code>GitRepo</code> 초기화</li>
-<li><code>Model</code> 등록 및 API 키 검증</li>
-<li><code>InputOutput</code> 인스턴스 생성 (prompt_toolkit TUI)</li>
-<li><code>Coder.create()</code> 팩토리로 적절한 편집 전략 인스턴스화</li>
-<li><code>Commands</code> 바인딩</li>
-<li>메인 루프 실행</li>
-</ol>
-<p>메인 루프의 핵심은 <code>SwitchCoder</code> 예외 기반 전략 전환이다:</p>
-<pre><code class="language-python"># 110_aider/main.py lines 1159-1180
-while True:
-    try:
-        coder.run()
-        return
-    except SwitchCoder as switch:
-        kwargs = dict(io=io, from_coder=coder)
-        kwargs.update(switch.kwargs)
-        coder = Coder.create(**kwargs)
-</code></pre>
-<p>모델 변경, 편집 모드 변경, <code>/architect</code> 전환 등 모든 런타임 전환이 이 예외 메커니즘으로 처리된다. <code>from_coder</code> 파라미터가 이전 코더의 상태(파일 목록, 메시지 히스토리, 비용 누계)를 새 코더로 이전한다.</p>
-<hr>
-<h2>2. 코더 시스템 — <code>coders/</code> (38 파일)</h2>
-<h3>상속 계층</h3>
-<p>Aider의 핵심 설계는 <strong>편집 전략을 상속으로 분리</strong>하는 Strategy 패턴이다.</p>
-<pre><code>Coder (base_coder.py, 2,485줄)
-├── WholeFileCoder         edit_format="whole"     파일 전체 반환
-├── EditBlockCoder         edit_format="diff"      SEARCH/REPLACE 블록
-│   ├── EditBlockFencedCoder
-│   └── EditorEditBlockCoder
-├── UnifiedDiffCoder       edit_format="udiff"     unified diff
-│   └── UnifiedDiffSimpleCoder
-├── PatchCoder             edit_format="patch"     구조화된 패치
-├── AskCoder               edit_format="ask"       분석만, 편집 없음
-│   ├── ArchitectCoder     edit_format="architect" 계획 → 편집 2단계
-│   └── HelpCoder          edit_format="help"      문서 모드
-└── ContextCoder           edit_format="context"   편집할 파일 제안
-</code></pre>
-<h3>팩토리: <code>Coder.create()</code></h3>
-<pre><code class="language-python"># 110_aider/coders/base_coder.py lines 125-201
-def create(self, main_model=None, edit_format=None, io=None,
-           from_coder=None, summarize_from_coder=True, **kwargs):
-    import aider.coders as coders
-
-    if edit_format is None:
-        edit_format = main_model.edit_format
-
-    # edit_format이 바뀌면 이전 히스토리를 요약해서 넘긴다
-    if from_coder and edit_format != from_coder.edit_format:
-        done_messages = from_coder.summarizer.summarize_all(done_messages)
-
-    # 등록된 모든 코더 클래스를 순회하며 edit_format 매칭
-    for coder in coders.__all__:
-        if hasattr(coder, "edit_format") and coder.edit_format == edit_format:
-            return coder(main_model, io, **kwargs)
-</code></pre>
-<h3>싱글 턴 실행: <code>run_one()</code></h3>
-<p><code>base_coder.py</code>의 <code>run_one()</code>(line 924)이 한 번의 대화 턴을 처리한다:</p>
-<ol>
-<li><code>preproc_user_input()</code> — 커맨드 파싱, 파일 멘션 처리</li>
-<li><code>format_chat_chunks()</code> — 시스템 프롬프트 + 컨텍스트 조립</li>
-<li><code>send()</code> — <code>model.send_completion()</code> 호출, 스트리밍 출력</li>
-<li><code>get_edits()</code> — 응답에서 편집 지시 파싱 (전략별 구현)</li>
-<li><code>apply_edits()</code> — 파일에 쓰기 (전략별 구현)</li>
-<li><code>lint_edited()</code> — 린터 실행, 오류 시 LLM에 피드백</li>
-<li><code>auto_commit()</code> — git 자동 커밋</li>
-<li><code>reply_completed()</code> — 후처리 훅 (architect → editor 전환 등)</li>
-</ol>
-<h3>Architect 모드: 2단계 편집</h3>
-<p><code>ArchitectCoder</code>는 계획과 실행을 분리하는 가장 정교한 전략이다:</p>
-<pre><code class="language-python"># 110_aider/coders/architect_coder.py lines 11-48
-def reply_completed(self):
-    content = self.partial_response_content
-    if not self.auto_accept_architect and not self.io.confirm_ask("Edit the files?"):
-        return
-
-    editor_model = self.main_model.editor_model or self.main_model
-    kwargs["main_model"] = editor_model
-    kwargs["edit_format"] = self.main_model.editor_edit_format
-
-    editor_coder = Coder.create(io=self.io, from_coder=self, **kwargs)
-    editor_coder.run(with_message=content, preproc=False)
-
-    self.move_back_cur_messages("I made those changes to the files.")
-</code></pre>
-<p>Architect 모델이 변경 계획을 텍스트로 작성하면, editor 모델이 그 텍스트를 입력으로 받아 실제 코드 편집을 수행한다. 이것은 사실상 서브에이전트 없이 2단계 파이프라인을 구현한 것이다.</p>
-<hr>
-<h2>3. 프롬프트 시스템 — 17개 프롬프트 클래스</h2>
-<h3>프롬프트 조립 파이프라인</h3>
-<pre><code class="language-python"># 110_aider/coders/base_coder.py lines 1226-1260
-def format_chat_chunks(self):
-    main_sys = self.fmt_system_prompt(self.gpt_prompts.main_system)
-    if self.main_model.system_prompt_prefix:
- 
-
-## 코퍼스 — 000_overview/00_ai_overview.md (심화)
-
-## Corpus axis index
-
-| Axis | Doc |
-| --- | --- |
-| 001 TUI | `001_tui-design/01_ai_tui.md` |
-| 002 Prompt | `002_prompt-context/02_ai_prompt.md` |
-| 003 Tool | `003_tool-runtime/03_ai_tool.md` |
-| 004 Skill | `004_skill-system/04_ai_skill.md` |
-| 005 Subagent | `005_subagents-collab/05_ai_subagent.md` |
-| 006 Surface | `006_app-server-client-surfaces/06_ai_surface.md` |
-| 007 Sandbox | `007_sandbox-exec-policy/07_ai_sandbox.md` |
-| 008 Config | `008_config-system/08_ai_config.md` |
-| 009 MCP | `009_mcp-orchestration/09_ai_mcp.md` |
-| 010 Memory | `010_memory-pipeline/10_ai_memory.md` |
-| 011 Plugin | `011_plugin-system/11_ai_plugin.md` |
-| 012 Guardian | `012_guardian-approval/12_ai_guardian.md` |
-| 014 Web | `014_web-search/14_ai_web-search.md` |
-
----
-
-## 코드베이스 개요
-
-| 항목 | 수치 |
-| --- | --- |
-| 총 Python 파일 (`110_aider/110_aider/`) | 80개 |
-| 총 코드 라인 | ~20,270줄 |
-| `coders/` 디렉토리 파일 | 38개 |
-| 프롬프트 파일 (`*_prompts.py`) | 17개 |
-| 지원 커맨드 (`cmd_*`) | 43개 |
-| tree-sitter 지원 언어 | 41개 |
-| 모델 별칭 | 22개 |
-| 테스트 파일 | 41개 |
-| 기준 커밋 | `bdb4d9f` |
-
----
-</code></pre>
-e:["$","$L30","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"000 인덱스 + 축 맵","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
-32:T71a0,<h2>기초 설명</h2>
+d:I[27756,["/cli101-portal/sites/aider/_next/static/chunks/632d5794df09229a.js"],"PageClient"]
+4:["$","$6",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$Ld",null,{"lang":"ko","siteName":"AI101","tagline":"AI101 developer-grade corpus guide","taglineEn":"AI101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_ai_overview.md","branding":{"slug":"ai101","name":"AI101","tagline_ko":"ai 입문 + 코퍼스 전량","tagline_en":"ai intro + full corpus","accentLabel_ko":"000_overview/00_ai_overview.md","accentLabel_en":"000_overview/00_ai_overview.md","heroTitle_ko":"터미널 LLM 페어 프로그래밍","heroTitle_en":"Terminal LLM pair programming","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ pip install aider-chat","$$ aider ./src"],"prompt_ko":"> RepoMap으로 호출 경로 추적","prompt_en":"> Trace callers via RepoMap","ctaHash":"00-before-you-start","officialUrl":"https://aider.chat/","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"AI101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-aider","order":2,"tier":"core","slug":"02-what-is-aider","title_ko":"Aider가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/02-what-is-aider.md","file_en":"en/02-what-is-aider.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 아키텍처","title_en":"Overview §1","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 코더 시스템","title_en":"Overview §2","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 프롬프트 시스템","title_en":"Overview §3","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. TUI","title_en":"Overview §4","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 커맨드 시스템","title_en":"Overview §5","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 모델 관리","title_en":"Overview §6","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Git 통합","title_en":"Overview §7","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Watch 모드","title_en":"Overview §8","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 음성 입력","title_en":"Overview §9","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 설정 시스템","title_en":"Overview §10","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 린트/테스트 통합","title_en":"Overview §11","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_ai_tui.md","description_en":"001_tui-design/01_ai_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_ai_prompt.md","description_en":"002_prompt-context/02_ai_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_ai_tool.md","description_en":"003_tool-runtime/03_ai_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_ai_skill.md","description_en":"004_skill-system/04_ai_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_ai_subagent.md","description_en":"005_subagents-collab/05_ai_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_ai_surface.md","description_en":"006_app-server-client-surfaces/06_ai_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_ai_sandbox.md","description_en":"007_sandbox-exec-policy/07_ai_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_ai_config.md","description_en":"008_config-system/08_ai_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_ai_mcp.md","description_en":"009_mcp-orchestration/09_ai_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_ai_memory.md","description_en":"010_memory-pipeline/10_ai_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_ai_plugin.md","description_en":"011_plugin-system/11_ai_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_ai_guardian.md","description_en":"012_guardian-approval/12_ai_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_ai_etc.md","description_en":"013_etc/13_ai_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_ai_web-search.md","description_en":"014_web-search/14_ai_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]}]
+30:I[15824,["/cli101-portal/sites/aider/_next/static/chunks/632d5794df09229a.js"],"SectionBlock"]
+e:["$","$L30","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>코딩은 조금 할 줄 알지만 \"AI한테 코드를 맡긴다\"는 게 어떤 건지 아직 감이 안 오시는 분, Aider라는 이름은 들어봤는데 어디서부터 시작해야 할지 막막하셨던 분이라면 잘 오셨어요. 어려운 용어는 최대한 풀어서 설명할 테니까 편하게 따라오시면 돼요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>Aider가 대체 뭘 해주는 도구인지</li>\n<li>5분 만에 첫 코드를 AI한테 고쳐보는 방법</li>\n<li>매일 작업할 때 자연스럽게 쓰는 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>딱 두 가지만 준비되어 있으면 돼요.</p>\n<ol>\n<li>터미널(명령어 입력하는 검은 창)을 열 수 있다 — <code>ls</code> 정도 쳐보신 적 있으면 충분해요.</li>\n<li>작업할 코드 폴더가 git으로 관리되고 있다 — 아직이라면 그 폴더에서 <code>git init</code> 한 번만 해주시면 돼요.</li>\n</ol>\n<p>준비되셨으면 다음 장에서 Aider가 뭔지부터 천천히 볼게요.</p>\n"}}]}]
+31:T71a0,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1276,441 +794,13 @@ def format_chat_chunks(self):
     main_sys = self.fmt_system_prompt(self.gpt_prompts.main_system)
     if self.main_model.system_prompt_prefix:
 </code></pre>
-f:["$","$L30","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"core","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
-33:T328d,<h2>기초 설명</h2>
-<hr>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>코드베이스 개요</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>110_aider/README.md</code></h3>
-<h2>Getting Started</h2>
-<pre><code class="language-bash">python -m pip install aider-install
-aider-install
-
-
-## 코퍼스 — 000/ (인덱스·요약)
-
-# Aider 에이전트 엔진 검토 개요
-
-이 문서는 5개 에이전트 비교 분석 작업의 일부로, [Aider](https://github.com/paul-gauthier/aider) v0.86.3의 내부 구조를 코드 기준으로 분석한다. Aider는 Python 단일 프로세스 CLI 기반 AI 코딩 어시스턴트로, LLM에게 코드를 편집하도록 지시하고 그 결과를 자동으로 git commit하는 데 최적화된 도구다.
-
-한 문장 요약: Aider는 `prompt assembly + multi-strategy coder + repo-map context + git integration`이 하나의 큰 Python 프로세스 안에서 밀결합된 실전형 코드 편집 엔진이다. 서브에이전트, 스킬 시스템, 샌드박스, MCP 같은 확장 계층은 없지만, 코드 편집이라는 하나의 축에서는 가장 성숙한 전략 분기 구조를 갖추고 있다.
-
-핵심은 네 갈래다. 첫째, 7종 이상의 편집 전략(wholefile, editblock, udiff, patch, architect 등)이 `Coder` 상속 계층으로 분리되어 있고, 런타임에 `SwitchCoder` 예외로 전환된다. 둘째, tree-sitter 기반 `RepoMap`이 전체 저장소의 함수·클래스 정의를 PageRank로 순위 매겨 컨텍스트 윈도우에 넣는다. 셋째, 17개 프롬프트 클래스가 편집 전략마다 system prompt, reminder, few-shot example을 다르게 조립한다. 넷째, git 통합이 편집 후 자동 커밋, 자동 커밋 메시지 생성, undo까지 일관된 루프로 돌아간다.
-
-```mermaid
-graph TD
-    A["main.py bootstrap"] --> B["InputOutput ← prompt_toolkit TUI"]
-    A --> C["Model ← LiteLLM"]
-    A --> D["Coder.create() factory"]
-    D --> E["EditBlockCoder"]
-    D --> F["WholeFileCoder"]
-    D --> G["UDiffCoder"]
-    D --> H["ArchitectCoder"]
-    D --> I["AskCoder"]
-    D --> J["PatchCoder"]
-    E &#x26; F &#x26; G &#x26; H &#x26; I &#x26; J --> K["base_coder.run_one()"]
-    K --> L["format_chat_chunks()"]
-    L --> M["RepoMap ← tree-sitter"]
-    L --> N["*_prompts.py system prompt"]
-    K --> O["model.send_completion()"]
-    K --> P["get_edits() + apply_edits()"]
-    P --> Q["GitRepo.commit()"]
-    P --> R["Linter.lint()"]
-</code></pre>
-<pre><code class="language-mermaid">sequenceDiagram
-    participant U as 사용자 입력
-    participant IO as InputOutput
-    participant C as Coder (strategy)
-    participant M as Model (LiteLLM)
-    participant G as GitRepo
-
-    U->>IO: prompt_toolkit 입력
-    IO->>C: run_one(message)
-    C->>C: format_chat_chunks()
-    Note over C: system prompt + repo map + files + history
-    C->>M: send_completion(messages)
-    M-->>C: streamed response
-    C->>C: get_edits() — 전략별 파싱
-    C->>C: apply_edits() — 파일 쓰기
-    C->>G: auto_commit()
-    G-->>C: commit hash
-    C->>C: lint_edited() → 오류 시 재시도
-    C-->>IO: 결과 출력
-</code></pre>
-<hr>
-<h2>코드베이스 개요</h2>
-<table>
-<thead>
-<tr>
-<th>항목</th>
-<th>수치</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>총 Python 파일 (<code>110_aider/110_aider/</code>)</td>
-<td>80개</td>
-</tr>
-<tr>
-<td>총 코드 라인</td>
-<td>~20,270줄</td>
-</tr>
-<tr>
-<td><code>coders/</code> 디렉토리 파일</td>
-<td>38개</td>
-</tr>
-<tr>
-<td>프롬프트 파일 (<code>*_prompts.py</code>)</td>
-<td>17개</td>
-</tr>
-<tr>
-<td>지원 커맨드 (<code>cmd_*</code>)</td>
-<td>43개</td>
-</tr>
-<tr>
-<td>tree-sitter 지원 언어</td>
-<td>41개</td>
-</tr>
-<tr>
-<td>모델 별칭</td>
-<td>22개</td>
-</tr>
-<tr>
-<td>테스트 파일</td>
-<td>41개</td>
-</tr>
-<tr>
-<td>기준 커밋</td>
-<td><code>bdb4d9f</code></td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h2>1. 아키텍처 — 부트스트랩과 메인 루프</h2>
-<h3>진입점: <code>110_aider/main.py</code></h3>
-<p><code>main()</code> 함수(line 451)가 전체 부트스트랩을 수행한다:</p>
-<ol>
-<li><code>configargparse</code>로 인자 파싱 (CLI → 환경변수 → <code>.aider.conf.yml</code>)</li>
-<li><code>GitRepo</code> 초기화</li>
-<li><code>Model</code> 등록 및 API 키 검증</li>
-<li><code>InputOutput</code> 인스턴스 생성 (prompt_toolkit TUI)</li>
-<li><code>Coder.create()</code> 팩토리로 적절한 편집 전략 인스턴스화</li>
-<li><code>Commands</code> 바인딩</li>
-<li>메인 루프 실행</li>
-</ol>
-<p>메인 루프의 핵심은 <code>SwitchCoder</code> 예외 기반 전략 전환이다:</p>
-<pre><code class="language-python"># 110_aider/main.py lines 1159-1180
-while True:
-    try:
-        coder.run()
-        return
-    except SwitchCoder as switch:
-        kwargs = dict(io=io, from_coder=coder)
-        kwargs.update(switch.kwargs)
-        coder = Coder.create(**kwargs)
-</code></pre>
-<p>모델 변경, 편집 모드 변경, <code>/architect</code> 전환 등 모든 런타임 전환이 이 예외 메커니즘으로 처리된다. <code>from_coder</code> 파라미터가 이전 코더의 상태(파일 목록, 메시지 히스토리, 비용 누계)를 새 코더로 이전한다.</p>
-<hr>
-<h2>2. 코더 시스템 — <code>coders/</code> (38 파일)</h2>
-<h3>상속 계층</h3>
-<p>Aider의 핵심 설계는 <strong>편집 전략을 상속으로 분리</strong>하는 Strategy 패턴이다.</p>
-<pre><code>Coder (base_coder.py, 2,485줄)
-├── WholeFileCoder         edit_format="whole"     파일 전체 반환
-├── EditBlockCoder         edit_format="diff"      SEARCH/REPLACE 블록
-│   ├── EditBlockFencedCoder
-│   └── EditorEditBlockCoder
-├── UnifiedDiffCoder       edit_format="udiff"     unified diff
-│   └── UnifiedDiffSimpleCoder
-├── PatchCoder             edit_format="patch"     구조화된 패치
-├── AskCoder               edit_format="ask"       분석만, 편집 없음
-│   ├── ArchitectCoder     edit_format="architect" 계획 → 편집 2단계
-│   └── HelpCoder          edit_format="help"      문서 모드
-└── ContextCoder           edit_format="context"   편집할 파일 제안
-</code></pre>
-<h3>팩토리: <code>Coder.create()</code></h3>
-<pre><code class="language-python"># 110_aider/coders/base_coder.py lines 125-201
-def create(self, main_model=None, edit_format=None, io=None,
-           from_coder=None, summarize_from_coder=True, **kwargs):
-    import aider.coders as coders
-
-    if edit_format is None:
-        edit_format = main_model.edit_format
-
-    # edit_format이 바뀌면 이전 히스토리를 요약해서 넘긴다
-    if from_coder and edit_format != from_coder.edit_format:
-        done_messages = from_coder.summarizer.summarize_all(done_messages)
-
-    # 등록된 모든 코더 클래스를 순회하며 edit_format 매칭
-    for coder in coders.__all__:
-        if hasattr(coder, "edit_format") and coder.edit_format == edit_format:
-            return coder(main_model, io, **kwargs)
-</code></pre>
-<h3>싱글 턴 실행: <code>run_one()</code></h3>
-<p><code>base_coder.py</code>의 <code>run_one()</code>(line 924)이 한 번의 대화 턴을 처리한다:</p>
-<ol>
-<li><code>preproc_user_input()</code> — 커맨드 파싱, 파일 멘션 처리</li>
-<li><code>format_chat_chunks()</code> — 시스템 프롬프트 + 컨텍스트 조립</li>
-<li><code>send()</code> — <code>model.send_completion()</code> 호출, 스트리밍 출력</li>
-<li><code>get_edits()</code> — 응답에서 편집 지시 파싱 (전략별 구현)</li>
-<li><code>apply_edits()</code> — 파일에 쓰기 (전략별 구현)</li>
-<li><code>lint_edited()</code> — 린터 실행, 오류 시 LLM에 피드백</li>
-<li><code>auto_commit()</code> — git 자동 커밋</li>
-<li><code>reply_completed()</code> — 후처리 훅 (architect → editor 전환 등)</li>
-</ol>
-<h3>Architect 모드: 2단계 편집</h3>
-<p><code>ArchitectCoder</code>는 계획과 실행을 분리하는 가장 정교한 전략이다:</p>
-<pre><code class="language-python"># 110_aider/coders/architect_coder.py lines 11-48
-def reply_completed(self):
-    content = self.partial_response_content
-    if not self.auto_accept_architect and not self.io.confirm_ask("Edit the files?"):
-        return
-
-    editor_model = self.main_model.editor_model or self.main_model
-    kwargs["main_model"] = editor_model
-    kwargs["edit_format"] = self.main_model.editor_edit_format
-
-    editor_coder = Coder.create(io=self.io, from_coder=self, **kwargs)
-    editor_coder.run(with_message=content, preproc=False)
-
-    self.move_back_cur_messages("I made those changes to the files.")
-</code></pre>
-<p>Architect 모델이 변경 계획을 텍스트로 작성하면, editor 모델이 그 텍스트를 입력으로 받아 실제 코드 편집을 수행한다. 이것은 사실상 서브에이전트 없이 2단계 파이프라인을 구현한 것이다.</p>
-<hr>
-<h2>3. 프롬프트 시스템 — 17개 프롬프트 클래스</h2>
-<h3>프롬프트 조립 파이프라인</h3>
-<pre><code class="language-python"># 110_aider/coders/base_coder.py lines 1226-1260
-def format_chat_chunks(self):
-    main_sys = self.fmt_system_prompt(self.gpt_prompts.main_system)
-    if self.main_model.system_prompt_prefix:
-        main_sys = self.main_model.system_prompt_prefix + "\n" + main_sys
-
-    # few-shot examples를 시스템 메시지에 넣거나 별도 메시지로 분리
-    if self.main_model.examples_as_sys_msg:
-        for msg in self.gpt_prompts.example_messages:
-            main_sys += f"## {msg['role'].upper()}: {msg['content']}\n\n"
-    else:
-        example_messages = [...]  # 별도 user/assistant 메시지로
-
-    # 최종 메시지 목록: system → examples → history → files → repomap → user
-</code></pre>
-<h3>프롬프트 계층 구조</h3>
-<table>
-<thead>
-<tr>
-<th>파일</th>
-<th>편집 전략</th>
-<th>역할</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>base_prompts.py</code></td>
-<td>공통</td>
-<td>모든 프롬프트의 기반 클래스</td>
-</tr>
-<tr>
-<td><code>editblock_prompts.py</code></td>
-<td>diff</td>
-<td>SEARCH/REPLACE 규칙</td>
-</tr>
-<tr>
-<td><code>wholefile_prompts.py</code></td>
-<td>whole</td>
-<td>전체 파일 반환 규칙</td>
-</tr>
-<tr>
-<td><code>udiff_prompts.py</code></td>
-<td>udiff</td>
-<td>unified diff 규칙</td>
-</tr>
-<tr>
-<td><code>patch_prompts.py</code></td>
-<td>patch</td>
-<td>구조화된 패치 규칙</td>
-</tr>
-<tr>
-<td><code>ask_prompts.py</code></td>
-<td>ask</td>
-<td>분석 전용</td>
-</tr>
-<tr>
-<td><code>architect_prompts.py</code></td>
-<td>architect</td>
-<td>계획 수립</td>
-</tr>
-<tr>
-<td><code>context_prompts.py</code></td>
-<td>context</td>
-<td>파일 제안</td>
-</tr>
-<tr>
-<td><code>help_prompts.py</code></td>
-<td>help</td>
-<td>문서 모드</td>
-</tr>
-<tr>
-<td><code>editor_editblock_prompts.py</code></td>
-<td>editor-diff</td>
-<td>에디터용 editblock</td>
-</tr>
-<tr>
-<td><code>editor_whole_prompts.py</code></td>
-<td>editor-whole</td>
-<td>에디터용 wholefile</td>
-</tr>
-<tr>
-<td><code>editor_diff_fenced_prompts.py</code></td>
-<td>editor-diff-fenced</td>
-<td>에디터용 fenced diff</td>
-</tr>
-<tr>
-<td><code>editblock_fenced_prompts.py</code></td>
-<td>diff-fenced</td>
-<td>fenced editblock</td>
-</tr>
-<tr>
-<td><code>editblock_func_prompts.py</code></td>
-<td>func</td>
-<td>함수 호출 기반</td>
-</tr>
-<tr>
-<td><code>wholefile_func_prompts.py</code></td>
-<td>whole-func</td>
-<td>함수 호출 기반 wholefile</td>
-</tr>
-<tr>
-<td><code>single_wholefile_func_prompts.py</code></td>
-<td>single-func</td>
-<td>단일 파일 함수 호출</td>
-</tr>
-<tr>
-<td><code>udiff_simple_prompts.py</code></td>
-<td>udiff-simple</td>
-<td>단순화된 udiff</td>
-</tr>
-</tbody>
-</table>
-<h3>SEARCH/REPLACE 포맷 예시</h3>
-<p>Aider의 가장 핵심적인 프롬프트 규약이다:</p>
-<pre><code class="language-python"># 110_aider/coders/editblock_prompts.py lines 120-158
-system_reminder = """# *SEARCH/REPLACE block* Rules:
-
-Every *SEARCH/REPLACE block* must use this format:
-1. The *FULL* file path alone on a line, verbatim.
-2. The opening fence and code language, eg: {fence[0]}python
-3. The start of search block: &#x3C;&#x3C;&#x3C;&#x3C;&#x3C;&#x3C;&#x3C; SEARCH
-4. A contiguous chunk of lines to search for in the existing source code
-5. The dividing line: =======
-6. The lines to replace into the source code
-7. The end of the replace block: >>>>>>> REPLACE
-8. The closin
-
-## 코퍼스 — 000_overview/00_ai_overview.md (심화)
-
-## 코드베이스 개요
-
-| 항목 | 수치 |
-| --- | --- |
-| 총 Python 파일 (`110_aider/110_aider/`) | 80개 |
-| 총 코드 라인 | ~20,270줄 |
-| `coders/` 디렉토리 파일 | 38개 |
-| 프롬프트 파일 (`*_prompts.py`) | 17개 |
-| 지원 커맨드 (`cmd_*`) | 43개 |
-| tree-sitter 지원 언어 | 41개 |
-| 모델 별칭 | 22개 |
-| 테스트 파일 | 41개 |
-| 기준 커밋 | `bdb4d9f` |
-
----
-</code></pre>
-10:["$","$L30","02-what-is-aider",{"id":"02-what-is-aider","order":2,"tier":"core","title":"하네스 한눈에","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
-11:["$","$L30","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치 & 인증","description":"설치 & 인증","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p><strong>설치 &#x26; 인증</strong> — 공식 README/문서 발췌 + 코퍼스 교차 참조.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설치 &#x26; 인증</li>\n<li>Getting Started</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>110_aider/README.md</code></h3>\n<h2>Getting Started</h2>\n<pre><code class=\"language-bash\">python -m pip install aider-install\naider-install\n\n\n## 본문\n\n## 설치 &#x26; 인증\n\n**설치 &#x26; 인증** — 공식 README/문서 발췌 + 코퍼스 교차 참조.\n\n> `110_aider/README.md`\n\n## Getting Started\n\n```bash\npython -m pip install aider-install\naider-install\n</code></pre>\n"}}]}]
-12:["$","$L30","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 세션","description":"첫 세션","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>첫 세션</li>\n<li><a href=\"https://aider.chat/docs/usage/watch.html\">Use in your IDE</a></li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>110_aider/README.md</code></h3>\n<h2>Getting Started</h2>\n<pre><code class=\"language-bash\">python -m pip install aider-install\naider-install\n\n\n## 본문\n\n## 첫 세션\n\n레포 루트에서 CLI를 띄우고 첫 프롬프트까지의 최소 경로.\n\n> `110_aider/README.md`\n\n### [Use in your IDE](https://aider.chat/docs/usage/watch.html)\n\nUse aider from within your favorite IDE or editor. Ask for changes by adding comments to your code and aider will get to work.\n</code></pre>\n"}}]}]
-34:Td0c,<h2>기초 설명</h2>
-<p>이 하네스의 일상적인 편집·도구·커밋 루프.</p>
-<h2>이 문서에서 다루는 것</h2>
-<ul>
-<li>에이전트 루프</li>
-<li>Features</li>
-<li><a href="https://aider.chat/docs/llms.html">Cloud and local LLMs</a></li>
-<li><a href="https://aider.chat/docs/repomap.html">Maps your codebase</a></li>
-<li><a href="https://aider.chat/docs/languages.html">100+ code languages</a></li>
-<li><a href="https://aider.chat/docs/git.html">Git integration</a></li>
-<li><a href="https://aider.chat/docs/usage/watch.html">Use in your IDE</a></li>
-<li><a href="https://aider.chat/docs/usage/images-urls.html">Images &#x26; web pages</a></li>
-<li><a href="https://aider.chat/docs/usage/voice.html">Voice-to-code</a></li>
-<li><a href="https://aider.chat/docs/usage/lint-test.html">Linting &#x26; testing</a></li>
-<li><a href="https://aider.chat/docs/usage/copypaste.html">Copy/paste to web chat</a></li>
-<li>Git 자동 커밋 워크플로</li>
-</ul>
-<h2>소스 코드 스니펫</h2>
-<h3><code>110_aider/README.md</code></h3>
-<h2>Getting Started</h2>
-<pre><code class="language-bash">python -m pip install aider-install
-aider-install
-
-
-## 본문
-
-## 에이전트 루프
-
-이 하네스의 일상적인 편집·도구·커밋 루프.
-
-> `110_aider/README.md`
-
-## Features
-
-### [Cloud and local LLMs](https://aider.chat/docs/llms.html)
-
-Aider works best with Claude 3.7 Sonnet, DeepSeek R1 &#x26; Chat V3, OpenAI o1, o3-mini &#x26; GPT-4o, but can connect to almost any LLM, including local models.
-
-### [Maps your codebase](https://aider.chat/docs/repomap.html)
-
-Aider makes a map of your entire codebase, which helps it work well in larger projects.
-
-### [100+ code languages](https://aider.chat/docs/languages.html)
-
-Aider works with most popular programming languages: python, javascript, rust, ruby, go, cpp, php, html, css, and dozens more.
-
-### [Git integration](https://aider.chat/docs/git.html)
-
-Aider automatically commits changes with sensible commit messages. Use familiar git tools to easily diff, manage and undo AI changes.
-
-### [Use in your IDE](https://aider.chat/docs/usage/watch.html)
-
-Use aider from within your favorite IDE or editor. Ask for changes by adding comments to your code and aider will get to work.
-
-### [Images &#x26; web pages](https://aider.chat/docs/usage/images-urls.html)
-
-Add images and web pages to the chat to provide visual context, screenshots, reference docs, etc.
-
-### [Voice-to-code](https://aider.chat/docs/usage/voice.html)
-
-Speak with aider about your code! Request new features, test cases or bug fixes using your voice and let aider implement the changes.
-
-### [Linting &#x26; testing](https://aider.chat/docs/usage/lint-test.html)
-
-Automatically lint and test your code every time aider makes changes. Aider can fix problems detected by your linters and test suites.
-
-### [Copy/paste to web chat](https://aider.chat/docs/usage/copypaste.html)
-
-Work with any LLM via its web chat interface. Aider streamlines copy/pasting code context and edits back and forth with a browser.
-
-## Git 자동 커밋 워크플로
-
-1. `aider &#x3C;files>` 로 세션 시작  
-2. 자연어로 편집 요청 → diff 확인  
-3. 수락 시 **자동 git commit** (`repo.py`)  
-4. `/undo` `/diff` `/commit` 슬래시 커맨드
-
-> 코퍼스 `00_ai_overview.md` §7 — `GitRepo`
-</code></pre>
-13:["$","$L30","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"에이전트 루프","description":"에이전트 루프","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-14:["$","$L30","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정 & 모델","description":"설정 & 모델","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<p>CLI / env / 프로젝트 설정 파일 계층.</p>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>설정 &#x26; 모델</li>\n<li>설정 계층</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3>README / docs</h3>\n<pre><code class=\"language-bash\">aider --model sonnet --auto-commits\n</code></pre>\n<h2>본문</h2>\n<h2>설정 &#x26; 모델</h2>\n<p>CLI / env / 프로젝트 설정 파일 계층.</p>\n<h2>설정 계층</h2>\n<table>\n<thead>\n<tr>\n<th>우선순위</th>\n<th>소스</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>CLI 플래그 (<code>args.py</code>)</td>\n</tr>\n<tr>\n<td>2</td>\n<td>환경 변수</td>\n</tr>\n<tr>\n<td>3</td>\n<td><code>.aider.conf.yml</code></td>\n</tr>\n</tbody>\n</table>\n<pre><code class=\"language-bash\">aider --model sonnet --auto-commits\n</code></pre>\n<blockquote>\n<p>코퍼스 <code>008_config-system/08_ai_config.md</code></p>\n</blockquote>\n"}}]}]
-35:Td33,<h2>기초 설명</h2>
+f:["$","$L30","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
+10:["$","$L30","02-what-is-aider",{"id":"02-what-is-aider","order":2,"tier":"core","title":"Aider가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>Aider는 터미널에서 AI와 짝을 이뤄 코드를 함께 고치는 도구예요. 여러분이 \"이 기능 추가해줘\"라고 말하면, AI가 실제 파일을 직접 수정하고 그 내용을 git에 자동으로 저장까지 해줘요.</p>\n<h2>비유로 이해하기</h2>\n<p>옆자리에 앉은 동료한테 \"여기 로그인 버튼 색 좀 바꿔줄래요?\"라고 부탁하는 장면을 떠올려 보세요. 그 동료가 직접 코드를 열어 고치고, 작업 내용을 깔끔하게 기록(commit)까지 해두는 거예요. Aider가 바로 그 동료 역할을 해줘요. 채팅창에 말로 부탁하면 코드가 바뀌어 있어요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>\"이 함수에 에러 처리 추가해줘\" 같은 부탁으로 여러 파일을 한 번에 수정</li>\n<li>고친 내용을 git에 자동 저장해줘서, 마음에 안 들면 되돌리기도 쉬워요</li>\n<li>새 기능 만들기, 버그 잡기, 테스트 코드 짜기까지 대화로 진행</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>직접 파일을 일일이 열고, 고치고, 저장하고, git에 기록하는 과정을 한 번의 부탁으로 끝낼 수 있어요. 실제로 \"코딩 속도가 몇 배 빨라졌다\"고 말하는 분들이 많아요. 무엇보다 매번 git에 기록을 남겨주니까, 실수해도 언제든 되돌릴 수 있다는 안심이 커요.</p>\n<blockquote>\n<p>더 깊은 내부 구조(어떻게 코드를 편집하는지, 모델을 어떻게 다루는지)가 궁금하시면 상단 메뉴의 <strong>개발자 문서</strong>에서 자세히 다뤄요. 지금은 \"이런 도구구나\" 정도만 알고 넘어가셔도 충분해요.</p>\n</blockquote>\n"}}]}]
+11:["$","$L30","03-install",{"id":"03-install","order":3,"tier":"core","title":"설치하고 준비하기","description":"설치 + API 키 준비 + 막힐 때 팁","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>먼저 설치부터 해볼게요</h2>\n<p>터미널에 아래 두 줄을 차례로 입력해 주세요. 첫 줄은 설치 도구를 받아오는 거고, 둘째 줄이 실제 설치를 진행해줘요.</p>\n<pre><code class=\"language-bash\">python -m pip install aider-install\naider-install\n</code></pre>\n<p>설치가 끝나면 터미널에서 <code>aider</code>라고 쳤을 때 인사 화면이 뜰 거예요.</p>\n<h2>API 키 준비하기</h2>\n<p>Aider는 똑똑한 AI 모델을 빌려 쓰는 도구라서, 그 모델을 쓸 수 있는 열쇠(API 키)가 하나 필요해요. 평소 쓰시는 서비스의 키를 그대로 넣으면 돼요.</p>\n<pre><code class=\"language-bash\"># 클로드(Anthropic)를 쓰는 경우\naider --model sonnet --api-key anthropic=여기에_본인_키\n\n# OpenAI를 쓰는 경우\naider --model o3-mini --api-key openai=여기에_본인_키\n\n# DeepSeek를 쓰는 경우\naider --model deepseek --api-key deepseek=여기에_본인_키\n</code></pre>\n<p>키는 각 서비스 사이트의 \"API Keys\" 메뉴에서 발급받을 수 있어요. 발급받은 키는 비밀번호처럼 다뤄주시고, 다른 사람과 공유하지 마세요.</p>\n<h2>막힐 때 팁</h2>\n<ul>\n<li><code>aider</code> 명령을 못 찾는다고 나오면, 터미널을 한 번 껐다 켜보세요. 설치 경로가 새로 잡혀요.</li>\n<li>키가 틀렸다는 메시지가 나오면 키 앞뒤에 공백이 들어갔는지 확인해 보세요. 생각보다 자주 일어나는 일이에요.</li>\n</ul>\n<p>준비가 끝났으면, 이제 진짜로 첫 코드를 고쳐볼 차례예요.</p>\n"}}]}]
+12:["$","$L30","04-first-session",{"id":"04-first-session","order":4,"tier":"core","title":"첫 사용 5분","description":"따라 하면 되는 첫 실습","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>5분이면 충분해요</h2>\n<p>거창한 준비 없이, 작은 변경 하나를 AI한테 맡겨볼게요. 처음 한 번만 해보면 \"아, 이런 느낌이구나\" 하고 바로 감이 와요.</p>\n<h2>따라 해보기</h2>\n<ol>\n<li>작업할 코드 폴더로 이동해요.</li>\n</ol>\n<pre><code class=\"language-bash\">cd 내-프로젝트-폴더\n</code></pre>\n<ol start=\"2\">\n<li>그 폴더에서 Aider를 실행해요.</li>\n</ol>\n<pre><code class=\"language-bash\">aider\n</code></pre>\n<ol start=\"3\">\n<li>채팅창이 뜨면, 고치고 싶은 내용을 평소 말하듯 적어요.</li>\n</ol>\n<pre><code class=\"language-text\">> README에 설치 방법 섹션을 추가해줘\n</code></pre>\n<ol start=\"4\">\n<li>잠시 기다리면 Aider가 파일을 직접 고치고, 바뀐 내용을 보여줘요. 그리고 그 변경을 git에 자동으로 저장(commit)해줘요.</li>\n</ol>\n<h2>결과 확인하기</h2>\n<p><code>git log</code>를 쳐보면 방금 작업이 기록으로 남아 있는 게 보일 거예요. 마음에 안 들면 되돌리면 되니까 부담 없이 이것저것 시켜보세요.</p>\n<h2>자주 쓰는 한 가지</h2>\n<p>특정 파일만 콕 집어 고치고 싶을 땐, 실행할 때 파일 이름을 같이 적어주면 돼요.</p>\n<pre><code class=\"language-bash\">aider src/main.py\n</code></pre>\n<p>이렇게 하면 Aider가 그 파일을 먼저 살펴보고 작업을 시작해요. 첫 세션은 여기까지면 충분해요. 다음 장에서는 매일 어떻게 쓰는지 흐름을 볼게요.</p>\n"}}]}]
+13:["$","$L30","05-workflow",{"id":"05-workflow","order":5,"tier":"core","title":"매일 이렇게 써요","description":"실제 일상 사용 흐름과 비결","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>매일 쓰는 흐름은 단순해요</h2>\n<p>익숙해지면 거의 이 네 단계의 반복이에요. 한 번 손에 익으면 생각보다 빠르게 돌아가요.</p>\n<ol>\n<li>고치고 싶은 파일을 Aider에게 알려줘요 (<code>aider 파일이름</code> 또는 채팅 중에 <code>/add 파일이름</code>).</li>\n<li>하고 싶은 작업을 말로 부탁해요. (\"여기에 입력값 검사 추가해줘\")</li>\n<li>Aider가 고친 내용을 보고, 마음에 들면 그대로 두고 아니면 다시 부탁해요.</li>\n<li>잘됐으면 다음 작업으로 넘어가요. 변경은 이미 git에 저장돼 있어요.</li>\n</ol>\n<h2>알아두면 편한 명령</h2>\n<p>채팅창에서 <code>/</code>로 시작하는 짧은 명령을 쓰면 작업이 훨씬 매끄러워져요.</p>\n<ul>\n<li><code>/add 파일이름</code> — 작업할 파일을 대화에 추가해요</li>\n<li><code>/drop 파일이름</code> — 더 안 쓰는 파일을 대화에서 빼요 (AI가 덜 헷갈려요)</li>\n<li><code>/undo</code> — 방금 Aider가 한 작업을 되돌려요</li>\n<li><code>/diff</code> — 무엇이 바뀌었는지 한눈에 보여줘요</li>\n</ul>\n<h2>작게 부탁하는 게 비결이에요</h2>\n<p>\"앱 전체를 다시 만들어줘\"처럼 큰 부탁보다는, \"이 함수에 로그 한 줄 추가해줘\"처럼 작게 쪼개서 부탁할수록 결과가 정확해요. 사람 동료한테 일을 맡길 때랑 똑같아요. 작은 단위로 부탁하고, 확인하고, 다음으로 넘어가는 리듬을 추천드려요.</p>\n<h2>되돌리기가 자유로워요</h2>\n<p>모든 작업이 git에 기록되니까, 마음에 안 들면 <code>/undo</code> 한 번이면 돼요. 그래서 \"일단 시켜보고 아니면 되돌리지\" 하는 마음으로 부담 없이 실험해 보셔도 좋아요.</p>\n"}}]}]
+14:["$","$L30","06-config",{"id":"06-config","order":6,"tier":"core","title":"설정하고, 더 배우기","description":"내 입맛대로 설정 + 다음 단계 안내","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>내 입맛대로 설정하기</h2>\n<p>처음엔 기본 설정으로 충분하지만, 익숙해지면 몇 가지를 내 방식대로 바꾸고 싶어져요. 가장 자주 만지는 건 \"어떤 AI 모델을 쓸지\"예요.</p>\n<pre><code class=\"language-bash\"># 매번 같은 모델을 쓰고 싶으면 실행할 때 지정해요\naider --model sonnet\n</code></pre>\n<p>자주 쓰는 설정은 프로젝트 폴더에 <code>.aider.conf.yml</code> 파일로 저장해두면, 다음부터는 그냥 <code>aider</code>만 쳐도 그 설정으로 시작돼요. 매번 옵션을 적는 번거로움이 사라져요.</p>\n<h2>비용이 걱정될 때</h2>\n<p>AI 모델은 쓴 만큼 비용이 들어요. 부담스럽다면 가볍고 저렴한 모델로 시작해서, 필요할 때만 더 똑똑한 모델로 바꿔 쓰는 방법을 추천드려요. 작업 도중에도 모델을 바꿀 수 있어요.</p>\n<h2>다음 단계로</h2>\n<p>여기까지 따라오셨다면 Aider로 일상적인 작업을 충분히 하실 수 있어요. 더 나아가고 싶다면 이렇게 해보세요.</p>\n<ul>\n<li>실제 프로젝트에서 작은 작업부터 매일 한 번씩 맡겨보기</li>\n<li>잘된 부탁과 안된 부탁을 비교하면서 \"어떻게 말해야 잘 알아듣는지\" 감 잡기</li>\n<li>공식 문서(상단의 공식 링크)에서 더 많은 명령어 살펴보기</li>\n</ul>\n<p>그리고 \"Aider가 내부에서 코드를 어떻게 편집하고, 모델과 어떻게 대화하는지\" 같은 깊은 내용이 궁금해지면, 상단 메뉴의 <strong>개발자 문서</strong>로 넘어가 보세요. 거기서부터는 소스 코드 수준까지 자세히 다뤄요.</p>\n<p>여기까지 오느라 수고하셨어요. 이제 직접 한 번 써보는 게 가장 빠른 배움이에요. 😊</p>\n"}}]}]
+32:Td33,<h2>기초 설명</h2>
 <ol>
 <li><code>configargparse</code>로 인자 파싱 (CLI → 환경변수 → <code>.aider.conf.yml</code>)</li>
 <li><code>GitRepo</code> 초기화</li>
@@ -1792,8 +882,8 @@ while True:
 </code></pre>
 <p>모델 변경, 편집 모드 변경, <code>/architect</code> 전환 등 모든 런타임 전환이 이 예외 메커니즘으로 처리된다. <code>from_coder</code> 파라미터가 이전 코더의 상태(파일 목록, 메시지 히스토리, 비용 누계)를 새 코더로 이전한다.</p>
 <hr>
-15:["$","$L30","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 아키텍처","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
-36:T19bd,<h2>기초 설명</h2>
+15:["$","$L30","07-overview-01",{"id":"07-overview-01","order":7,"tier":"developer","title":"1. 아키텍처","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$32"}}]}]
+33:T19bd,<h2>기초 설명</h2>
 <p>Aider의 핵심 설계는 <strong>편집 전략을 상속으로 분리</strong>하는 Strategy 패턴이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1922,8 +1012,8 @@ def reply_completed(self):
 </code></pre>
 <p>Architect 모델이 변경 계획을 텍스트로 작성하면, editor 모델이 그 텍스트를 입력으로 받아 실제 코드 편집을 수행한다. 이것은 사실상 서브에이전트 없이 2단계 파이프라인을 구현한 것이다.</p>
 <hr>
-16:["$","$L30","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 코더 시스템","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:T1899,<h2>기초 설명</h2>
+16:["$","$L30","07-overview-02",{"id":"07-overview-02","order":8,"tier":"developer","title":"2. 코더 시스템","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$33"}}]}]
+34:T1899,<h2>기초 설명</h2>
 <p>Aider의 가장 핵심적인 프롬프트 규약이다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2116,8 +1206,8 @@ character for character, including all comments, docstrings, etc.
 <li><code>{rename_with_shell}</code> — 파일 이름 변경 지침</li>
 </ul>
 <hr>
-17:["$","$L30","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 프롬프트 시스템","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
-38:T17dd,<h2>기초 설명</h2>
+17:["$","$L30","07-overview-03",{"id":"07-overview-03","order":9,"tier":"developer","title":"3. 프롬프트 시스템","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
+35:T17dd,<h2>기초 설명</h2>
 <p>prompt_toolkit 기반 터미널 인터페이스로, 다음 기능을 제공한다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2287,8 +1377,8 @@ class AutoCompleter(Completer):
 </tbody>
 </table>
 <hr>
-18:["$","$L30","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. TUI","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
-39:Tf41,<h2>기초 설명</h2>
+18:["$","$L30","07-overview-04",{"id":"07-overview-04","order":10,"tier":"developer","title":"4. TUI","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
+36:Tf41,<h2>기초 설명</h2>
 <p>커맨드는 <code>cmd_</code> 접두사 메서드로 자동 등록된다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2410,8 +1500,8 @@ def do_run(self, cmd_name, args):
 </table>
 <p>모드 전환 커맨드(<code>/model</code>, <code>/chat-mode</code> 등)는 내부적으로 <code>SwitchCoder</code> 예외를 발생시켜 메인 루프에서 코더를 교체한다.</p>
 <hr>
-19:["$","$L30","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 커맨드 시스템","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
-3a:T15c8,<h2>기초 설명</h2>
+19:["$","$L30","07-overview-05",{"id":"07-overview-05","order":11,"tier":"developer","title":"5. 커맨드 시스템","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
+37:T15c8,<h2>기초 설명</h2>
 <ol>
 <li><code>resources/model-settings.yml</code> — 내장 기본값</li>
 <li><code>.aider.model.settings.yml</code> (프로젝트) — 프로젝트 오버라이드</li>
@@ -2537,8 +1627,8 @@ class LazyLiteLLM:
 </code></pre>
 <p><code>Model.send_completion()</code>이 최종적으로 <code>litellm.completion()</code>을 호출하며, 모델별 <code>extra_params</code>, 타임아웃(600초), 도구 정의를 kwargs로 전달한다. 22개 모델 별칭(<code>"sonnet"</code> → <code>"claude-sonnet-4-5"</code>, <code>"4"</code> → <code>"gpt-4-0613"</code> 등)이 편의를 위해 내장되어 있다.</p>
 <hr>
-1a:["$","$L30","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 모델 관리","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:T18e2,<h2>기초 설명</h2>
+1a:["$","$L30","07-overview-06",{"id":"07-overview-06","order":12,"tier":"developer","title":"6. 모델 관리","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$37"}}]}]
+38:T18e2,<h2>기초 설명</h2>
 <ul>
 <li><strong>자동 커밋</strong> — 편집 후 자동으로 커밋 생성</li>
 <li><strong>커밋 메시지 생성</strong> — LLM으로 커밋 메시지 자동 작성</li>
@@ -2688,8 +1778,8 @@ def get_ranked_tags(self, chat_fnames, other_fnames,
 </ol>
 <p>캐시는 SQLite 기반(<code>diskcache</code>)으로 <code>.aider.tags.cache.v*</code>에 저장되며, 95% 히트율 이하일 때만 새로고침한다.</p>
 <hr>
-1b:["$","$L30","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. Git 통합","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
-3c:T6ad,<h2>기초 설명</h2>
+1b:["$","$L30","07-overview-07",{"id":"07-overview-07","order":13,"tier":"developer","title":"7. Git 통합","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$38"}}]}]
+39:T6ad,<h2>기초 설명</h2>
 <p>코드 파일에 AI 주석을 달면 자동으로 감지하여 실행하는 hands-free 모드다:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2741,9 +1831,9 @@ ai_comment_pattern = re.compile(
 </table>
 <p><code>watchfiles</code> 라이브러리로 파일 변경을 감시하고, tree-sitter로 변경 위치의 코드 컨텍스트를 추출해 자동으로 대화에 넣는다. 파일당 1MB 크기 제한이 있고, gitignore 필터링을 적용한다.</p>
 <hr>
-1c:["$","$L30","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. Watch 모드","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+1c:["$","$L30","07-overview-08",{"id":"07-overview-08","order":14,"tier":"developer","title":"8. Watch 모드","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$39"}}]}]
 1d:["$","$L30","07-overview-09",{"id":"07-overview-09","order":15,"tier":"developer","title":"9. 음성 입력","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<hr>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>\n<ol start=\"9\">\n<li>음성 입력 — <code>voice.py</code></li>\n</ol>\n</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>110_aider/README.md</code></h3>\n<h2>Getting Started</h2>\n<pre><code class=\"language-bash\">python -m pip install aider-install\naider-install\n\n\n## 코퍼스 — 000_overview/00_ai_overview.md (심화)\n\n## 9. 음성 입력 — `voice.py`\n\n`sounddevice`로 녹음하고 `pydub`로 인코딩한 뒤, Whisper API(LiteLLM 경유)로 트랜스크립션한다. RMS 기반 무음 감지(threshold 0.15)로 녹음을 종료하며, 녹음 중 시각적 진행 바를 표시한다. `/voice` 커맨드로 활성화한다.\n\n---\n</code></pre>\n"}}]}]
-3d:T639,<h2>기초 설명</h2>
+3a:T639,<h2>기초 설명</h2>
 <ol>
 <li><strong>CLI 인자</strong> — <code>--model gpt-4o</code> 등</li>
 <li><strong>환경 변수</strong> — <code>AIDER_MODEL</code> 등 (<code>AIDER_</code> 접두사)</li>
@@ -2786,9 +1876,9 @@ aider-install
 
 ---
 </code></pre>
-1e:["$","$L30","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 설정 시스템","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+1e:["$","$L30","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. 설정 시스템","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
 1f:["$","$L30","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. 린트/테스트 통합","description":"000_overview/00_ai_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>기초 설명</h2>\n<ul>\n<li>Python은 <code>flake8</code> 내장</li>\n<li>커스텀 언어별 린트 커맨드 (<code>--lint-cmd python:ruff check</code>)</li>\n<li>편집 후 자동 린트 (<code>--auto-lint</code>)</li>\n<li>오류가 발견되면 줄 번호와 함께 LLM에 피드백 → 자동 수정 시도</li>\n</ul>\n<h2>이 문서에서 다루는 것</h2>\n<ul>\n<li>\n<ol start=\"11\">\n<li>린트/테스트 통합 — <code>linter.py</code></li>\n</ol>\n</li>\n<li>린터</li>\n<li>테스트</li>\n</ul>\n<h2>소스 코드 스니펫</h2>\n<h3><code>110_aider/README.md</code></h3>\n<h2>Getting Started</h2>\n<pre><code class=\"language-bash\">python -m pip install aider-install\naider-install\n\n\n## 코퍼스 — 000_overview/00_ai_overview.md (심화)\n\n## 11. 린트/테스트 통합 — `linter.py`\n\n### 린터\n\n- Python은 `flake8` 내장\n- 커스텀 언어별 린트 커맨드 (`--lint-cmd python:ruff check`)\n- 편집 후 자동 린트 (`--auto-lint`)\n- 오류가 발견되면 줄 번호와 함께 LLM에 피드백 → 자동 수정 시도\n\n### 테스트\n\n- `--test-cmd`로 테스트 커맨드 설정\n- 편집 후 자동 테스트 (`--auto-test`)\n- 실패 출력을 LLM에 전달하여 반복 수정\n\n---\n</code></pre>\n"}}]}]
-3e:Td795,<h2>기초 설명</h2>
+3b:Td795,<h2>기초 설명</h2>
 <p>Aider의 터미널 인터페이스는 풀스크린 TUI가 아니라 전통적인 REPL-스타일 CLI다. 핵심은 <code>io.py</code>의 <code>InputOutput</code> 클래스 하나에 입력·출력·히스토리·색상·알림이 전부 응축되어 있다는 점이다. <code>prompt_toolkit</code>이 입력 편집과 자동완성을, <code>rich</code>가 마크다운 렌더링과 스타일 출력을, <code>pygments</code>가 문법 하이라이팅을 담당하며, 세 라이브러리의 접합면이 <code>InputOutput</code> 안에서 한데 섞인다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -4102,8 +3192,8 @@ if self.clipboard_watcher:
 <li>2026-03-26: InputOutput 클래스 해부(생성자/출력 계층/재시도/파일 표시), MarkdownStream 내부(커스텀 요소/적응형 쓰로틀/슬라이딩 윈도우/지연 생성), WaitingSpinner 엔진(프레임/연속성/스레드), confirm_ask 상태 머신(옵션 조합/그룹/Don't ask/데코레이터), 알림 시스템(플랫폼별 탐지), 입력 중단/재개 메커니즘 6개 역공학 섹션 추가.</li>
 <li>2026-03-26: Aider TUI를 prompt_toolkit + rich 기반 REPL-style CLI로 분석해 정리했다.</li>
 </ul>
-20:["$","$L30","20-axis-01-tui",{"id":"20-axis-01-tui","order":18,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_ai_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:Ta5bc,<h2>기초 설명</h2>
+20:["$","$L30","20-axis-01-tui",{"id":"20-axis-01-tui","order":18,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_ai_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3b"}}]}]
+3c:Ta5bc,<h2>기초 설명</h2>
 <p>Aider의 프롬프트 시스템을 처음 보면 "프롬프트 파일 하나에 역할 텍스트가 다 들어가 있겠지"라고 생각하기 쉽다. 실제로는 <strong>17개 이상의 <code>*_prompts.py</code> 클래스</strong>가 상속 트리를 이루고, <code>base_coder.py</code>가 이 클래스들의 속성을 읽어 <strong>8개 청크</strong>(system, examples, done, repo, readonly_files, chat_files, cur, reminder)로 메시지를 조립한다. 여기에 <code>repomap.py</code>(27KB)가 tree-sitter + PageRank 기반의 코드 요약을 생성해서 <code>repo</code> 청크에 주입한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -5098,8 +4188,8 @@ def warm_cache(self, chunks):
 <ul>
 <li>2025-07-15: 프롬프트 클래스 계층, ChatChunks 조립, RepoMap PageRank 파이프라인, Architect 위임 패턴, 대화 요약 메커니즘을 정리했다.</li>
 </ul>
-21:["$","$L30","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":19,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_ai_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:Taf67,<h2>기초 설명</h2>
+21:["$","$L30","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":19,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_ai_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
+3d:Taf67,<h2>기초 설명</h2>
 <p>Aider는 다른 에이전트와 근본적으로 다른 "도구 런타임" 구조를 가진다. <strong>LLM의 function calling API를 사용하지 않고</strong>, LLM 응답 텍스트에서 SEARCH/REPLACE 블록을 정규식으로 파싱하여 파일 편집을 수행한다. 즉 Aider에서 "도구"란 곧 <strong>에디트 포맷 파서 + 매칭 엔진 + 자동 커밋 파이프라인</strong>이다. 이것은 함수 호출 기반 에이전트(Codex, Claude Code, Copilot CLI)와 완전히 다른 패러다임이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -6054,8 +5144,8 @@ def apply_updates(self):
 <ul>
 <li>2026-03-26: editblock_coder.py 전문 분석 — 4단계 매칭 엔진 (perfect → whitespace → dotdotdots → fuzzy), SEARCH/REPLACE 블록 파서 상태 머신, 3단계 파일명 검색, find_similar_lines 에러 복구, cross-file fallback. base_coder.py — auto_commit 파이프라인, dirty_commit, allowed_to_edit 권한 모델, 12종 셸 명령 감지, get_file_mentions 자동 파일 참조, Coder 상속 구조 전체를 역공학 상세로 기술.</li>
 </ul>
-22:["$","$L30","20-axis-03-tool",{"id":"20-axis-03-tool","order":20,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_ai_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:T7690,<h2>기초 설명</h2>
+22:["$","$L30","20-axis-03-tool",{"id":"20-axis-03-tool","order":20,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_ai_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
+3e:T7690,<h2>기초 설명</h2>
 <p>Aider does not implement a portable skill library (<code>skills/*/SKILL.md</code>), skill activation hooks, or host-managed methodology packs. Context specialization is achieved through three cooperating mechanisms: (1) <strong>RepoMap</strong> ranks and summarizes repository files into a token-budgeted prompt chunk; (2) <strong><code>format_chat_chunks()</code> / <code>format_messages()</code></strong> assemble system, examples, repo map, read-only files, and editable file bodies into ordered <code>ChatChunks</code>; (3) <strong><code>.aider.conf.yml</code></strong>, <code>--read</code>, and <code>--file</code> inject persistent project conventions and reference material. Manual <code>/add</code> and <code>/drop</code> replace skill-style dynamic activation.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -6770,8 +5860,8 @@ read: CONVENTIONS.md
 </tr>
 </tbody>
 </table>
-23:["$","$L30","20-axis-04-skill",{"id":"20-axis-04-skill","order":21,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_ai_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:T765d,<h2>기초 설명</h2>
+23:["$","$L30","20-axis-04-skill",{"id":"20-axis-04-skill","order":21,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_ai_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
+3f:T765d,<h2>기초 설명</h2>
 <p>Aider's closest collaboration primitive is <strong>architect mode</strong>: one model (architect) drafts an implementation plan in natural language; after optional human approval, a nested <strong><code>Coder.create()</code></strong> session spins up a second <strong>editor</strong> model that applies concrete edits. <strong><code>AskCoder</code></strong> provides a read-only analysis mode without spawning a second agent. All handoffs are <strong>sequential</strong>, in-process, sharing the same <code>io</code> REPL — not multi-agent orchestration.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -7616,8 +6706,8 @@ def cmd_architect(self, args):
 </tr>
 </tbody>
 </table>
-24:["$","$L30","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":22,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_ai_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T6cfd,<h2>기초 설명</h2>
+24:["$","$L30","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":22,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_ai_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
+40:T6cfd,<h2>기초 설명</h2>
 <p>Aider는 <strong>앱서버가 없는 순수 CLI 도구</strong>다. Codex의 <code>app-server</code> + <code>protocol</code> + <code>client</code> 삼각형과 근본적으로 다르며, Claude Code처럼 단일 프로세스 아키텍처이되, 외형은 더 단순하다. 장기 실행 서버, wire protocol, SDK, IDE 확장이 모두 존재하지 않는다. 유일한 서비스 표면은 대화형 CLI이고, 선택적으로 Streamlit 기반 웹 GUI를 올릴 수 있다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -8432,8 +7522,8 @@ coder.commands.io = io  # commands 경로만 교체; coder.io는 유지
 <li>2026-06-27: WP53 — ≥12 KB 검증 블록, LiteLLM 표면, confirm_ask CLI/GUI, co app-server parity</li>
 <li>2026-03-26: Aider 앱서버/클라이언트 서피스를 오픈소스 분석. 서피스 부재를 핵심 특성으로 정리. CLI/Streamlit GUI/파이프 모드 3가지 표면, LiteLLM 다중 제공사, 4종 편집 전략, 자동 Git 커밋, Repo Map, 5개 에이전트 비교를 포함.</li>
 </ul>
-25:["$","$L30","20-axis-06-surface",{"id":"20-axis-06-surface","order":23,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_ai_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:T71de,<h2>기초 설명</h2>
+25:["$","$L30","20-axis-06-surface",{"id":"20-axis-06-surface","order":23,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_ai_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
+41:T71de,<h2>기초 설명</h2>
 <p>Aider executes model-suggested commands and user <code>/run</code> invocations in the <strong>real user shell</strong> with working directory <code>self.root</code> (git project root). Safety relies on <strong>explicit human confirmation</strong>, not capability restriction. This is fundamentally different from Codex's sandbox policy engine and seatbelt profiles documented in <code>07_co_sandbox.md</code>.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -9221,8 +8311,8 @@ rg -i 'sandbox|seatbelt|nsjail' /path/to/aider/aider/  # expect empty
 </tr>
 </tbody>
 </table>
-26:["$","$L30","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":24,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_ai_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:T9bbd,<h2>기초 설명</h2>
+26:["$","$L30","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":24,"tier":"deep","title":"축 07: 샌드박스·정책","description":"007_sandbox-exec-policy/07_ai_sandbox.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
+42:T9bbd,<h2>기초 설명</h2>
 <p>Aider의 설정은 <strong>configargparse</strong> 기반의 3계층 병합 구조다. CLI 인자 → YAML 설정 파일 → 환경변수(<code>AIDER_</code> 접두사) 순으로 우선순위가 정해지며, 모델 메타데이터는 별도 파이프라인으로 로드된다. configargparse가 argparse를 확장하여 YAML 파일과 환경변수를 동일 네임스페이스에 자동 병합하는 점이 핵심이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10166,8 +9256,8 @@ ANTHROPIC_BETA_HEADER = "prompt-caching-2024-07-31,pdfs-2024-09-25"
 <li>2025-07-14: configargparse 기반 3계층 설정 병합, ModelSettings/ModelInfoManager 구조, 모델 별칭 시스템을 정리했다.</li>
 <li>2026-03-26: 역공학 보강. <code>Model.__init__()</code> 전체 파이프라인, <code>apply_generic_model_settings()</code> 20+ 패턴 규칙 상세, <code>ModelInfoManager</code> 4단계 캐시 파이프라인, OpenRouter 웹 스크래핑 fallback, <code>fast_validate_environment()</code> 키맵, Weak/Editor model 체인, 런타임 상수 추가. 315행→500+행.</li>
 </ul>
-27:["$","$L30","20-axis-08-config",{"id":"20-axis-08-config","order":25,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_ai_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-46:T5f9c,<h2>기초 설명</h2>
+27:["$","$L30","20-axis-08-config",{"id":"20-axis-08-config","order":25,"tier":"deep","title":"축 08: 설정 시스템","description":"008_config-system/08_ai_config.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
+43:T5f9c,<h2>기초 설명</h2>
 <p>Aider is a terminal pair-programming harness. Unlike Codex (<code>co</code>), it does <strong>not</strong> merge remote MCP tool catalogs, spawn stdio/SSE MCP servers, or maintain an <code>mcpServers</code> configuration layer. The corpus audit treats this as <strong>negative evidence</strong>: absence of MCP-shaped modules is itself a design fact worth documenting precisely, because many readers assume every modern agent stack exposes MCP.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10809,8 +9899,8 @@ grep -i litellm /path/to/aider/requirements.txt
 </tr>
 </tbody>
 </table>
-28:["$","$L30","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":26,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_ai_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:Tccc3,<h2>기초 설명</h2>
+28:["$","$L30","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":26,"tier":"deep","title":"축 09: MCP 오케스트레이션","description":"009_mcp-orchestration/09_ai_mcp.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
+44:Tccc3,<h2>기초 설명</h2>
 <p>Aider의 메모리 시스템은 <strong>세션 간 지속 메모리가 없는</strong> 제한적 구조다. <strong>이중 메시지 버퍼(done_messages/cur_messages)</strong> + <strong>ChatSummary 재귀적 head/tail 요약</strong> + <strong>ChatChunks 결정적 프롬프트 조립</strong> + <strong>3종 파일 히스토리(input/chat/llm)</strong> + <strong>Anthropic cache_control 프롬프트 캐싱</strong> + <strong>Coder 포크 시 히스토리 전파</strong> 로 구성된다. Codex의 2-phase extraction/consolidation 파이프라인이나 Copilot CLI의 CompactionProcessor와 달리, 세션 간 학습보다 <strong>단일 세션 내 대화 관리와 토큰 절약</strong>에 집중하는 설계다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12190,8 +11280,8 @@ raise ValueError("summarizer unexpectedly failed for all models")
 <li>2025-07-15: Aider 메모리 시스템 초기 분석. 제한적 범위(세션 내 요약 + 파일 히스토리)를 중심으로 정리.</li>
 <li>2026-03-26: 역공학 보강 — ChatSummary 재귀 알고리즘 전체 코드 재구성, Coder 포크 시 히스토리 전파 메커니즘, 비동기 요약 3단계(start/worker/end) 상세, optimistic concurrency 패턴, ChatChunks 8-slot 결정적 조립, cache_control 선택적 적용 전략, cache warming 4분55초 keepalive, Markdown 파서 역할 매핑 표, 토큰 한도 검사 + 사용자 확인 흐름, 모델 선택 전략, 핵심 상수 표 추가.</li>
 </ul>
-29:["$","$L30","20-axis-10-memory",{"id":"20-axis-10-memory","order":27,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_ai_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
-48:T6b42,<h2>기초 설명</h2>
+29:["$","$L30","20-axis-10-memory",{"id":"20-axis-10-memory","order":27,"tier":"deep","title":"축 10: 메모리 파이프라인","description":"010_memory-pipeline/10_ai_memory.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
+45:T6b42,<h2>기초 설명</h2>
 <p>Aider's "plugin system" is really two cooperating registries inside the Python package:</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -13004,8 +12094,8 @@ test ! -e /path/to/aider/aider/plugin.json &#x26;&#x26; echo 'still no manifest'
 </tr>
 </tbody>
 </table>
-2a:["$","$L30","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":28,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_ai_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:T5549,<h2>기초 설명</h2>
+2a:["$","$L30","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":28,"tier":"deep","title":"축 11: 플러그인 시스템","description":"011_plugin-system/11_ai_plugin.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
+46:T5549,<h2>기초 설명</h2>
 <p>Aider's safety model is <strong>human-in-the-loop confirmation</strong> via the IO layer. Shell runs, architect handoff, file additions, pip installs, gitignore prompts, URL ingestion, and lint/test recovery all call <code>confirm_ask</code> with varying strictness (<code>explicit_yes_required</code>, <code>allow_never</code>, <code>ConfirmGroup</code>). There is no autonomous guardian model, risk classifier, or policy DSL — only synchronous terminal or GUI prompts backed by <code>InputOutput</code> in <code>110_aider/aider/io.py</code>.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -13633,8 +12723,8 @@ def confirm_ask(
 </tr>
 </tbody>
 </table>
-2b:["$","$L30","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_ai_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:T13bad,<h2>기초 설명</h2>
+2b:["$","$L30","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_ai_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
+47:T13bad,<h2>기초 설명</h2>
 <p>Aider는 dimensions 01-12 (TUI, Prompt, Tool, Skill, Subagent, Surface, Sandbox, Config, MCP, Memory, Plugin, Guardian)에 포함되지 않는 고유한 교차 관심사들을 다수 보유하고 있다. 특히 <strong>Git/VCS 통합</strong>과 <strong>Coder 전략 다양성</strong>은 Aider를 다른 AI 코딩 에이전트와 차별화하는 핵심 강점이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -15720,8 +14810,8 @@ self.commit_language = commit_language # 커밋 메시지 언어
 <p><strong>SearchReplace + RelativeIndenter</strong>: 들여쓰기 차이를 정규화하여 LLM의 부정확한 코드 블록도 올바르게 매칭하는 <strong>퍼지 매칭 엔진</strong>은 실용적 핵심 기술이다.</p>
 </li>
 </ol>
-2c:["$","$L30","20-axis-13-etc",{"id":"20-axis-13-etc","order":30,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_ai_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-4b:T543b,<h2>기초 설명</h2>
+2c:["$","$L30","20-axis-13-etc",{"id":"20-axis-13-etc","order":30,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_ai_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
+48:T543b,<h2>기초 설명</h2>
 <p>Aider's web axis is <strong>manual context injection</strong>, not autonomous search. The model never receives a <code>web_search</code> tool spec in the API loop. Users (or GUI paste) supply a URL; <code>Scraper</code> fetches HTML, converts to markdown via BeautifulSoup + pandoc, and prepends a synthetic user/assistant exchange — without triggering an immediate LLM reply (per <code>HISTORY.md</code>).</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -16322,8 +15412,8 @@ playwright==1.58.0
 </tr>
 </tbody>
 </table>
-2d:["$","$L30","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_ai_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
-4c:T2fa1,<h2>기초 설명</h2>
+2d:["$","$L30","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_ai_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
+49:T2fa1,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -16480,8 +15570,8 @@ Read beside `015_reverse-engineering/36_installed_cli_version_manifest.md` and `
 
 Paths under `015_reverse-engineering/` unless noted.
 </code></pre>
-2e:["$","$L30","25-reverse-engineering",{"id":"25-reverse-engineering","order":32,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
-4d:T4014,<h2>기초 설명</h2>
+2e:["$","$L30","25-reverse-engineering",{"id":"25-reverse-engineering","order":32,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
+4a:T4014,<h2>기초 설명</h2>
 <ol>
 <li><strong>편집 전략의 깊이</strong> — 7종 이상의 편집 포맷이 각각 프롬프트, 파서, 적용 로직을 갖추고 있다. 모델의 강약점에 따라 최적 전략을 선택할 수 있다.</li>
 <li><strong>RepoMap</strong> — tree-sitter + PageRank 기반 시맨틱 코드 맵은 다른 도구에서 찾기 어려운 독창적 접근이다. 대규모 저장소에서 관련 코드를 효율적으로 찾아 컨텍스트에 넣는다.</li>
@@ -16872,4 +15962,4 @@ App-Server 축은 비교 문서 자체가 Codex·Gemini CLI·OpenCode 중심으�
 <li>기술 스택: Python + prompt_toolkit + rich + tree-sitter + Git</li>
 <li>핵심 차별점: RepoMap, edit 전략 다양성, git auto-com</li>
 </ul>
-2f:["$","$L30","99-next-steps",{"id":"99-next-steps","order":33,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4d"}}]}]
+2f:["$","$L30","99-next-steps",{"id":"99-next-steps","order":33,"tier":"deep","title":"기술 참조 & 합성","description":"20-80 + grand synthesis","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
