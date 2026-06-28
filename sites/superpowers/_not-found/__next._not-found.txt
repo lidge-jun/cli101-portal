@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[95321,["/cli101-portal/sites/superpowers/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/superpowers/_next/static/chunks/f19e4129d752cb5c.js"],"default"]
 3:I[82924,["/cli101-portal/sites/superpowers/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/superpowers/_next/static/chunks/f19e4129d752cb5c.js"],"default"]
-0:{"buildId":"5_Jbg1xpUrTeMa2mw42wB","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"mIr81sNOZkYybBM6Cd1C-","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

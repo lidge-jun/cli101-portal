@@ -7,7 +7,7 @@
 a:I[72949,["/cli101-portal/sites/codex-cli/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/codex-cli/_next/static/chunks/e4a0bdf2f715f2cc.js"],"MetadataBoundary"]
 c:I[99040,["/cli101-portal/sites/codex-cli/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/codex-cli/_next/static/chunks/e4a0bdf2f715f2cc.js"],"default"]
 :HL["/cli101-portal/sites/codex-cli/_next/static/chunks/2185111b3d25bdd4.css","style"]
-0:{"P":null,"b":"4hDHBOZt0hOvoXHeIYDPn","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/codex-cli/_next/static/chunks/2185111b3d25bdd4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+0:{"P":null,"b":"qzj3wFL79pnLiXY8HGd0Y","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/codex-cli/_next/static/chunks/2185111b3d25bdd4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
 b:[["$","title","0",{"children":"CO101 — Codex CLI 한국어 입문"}],["$","meta","1",{"name":"description","content":"OpenAI Codex CLI 로컬 코딩 에이전트 입문 가이드"}],["$","meta","2",{"property":"og:title","content":"CO101 — Codex CLI 한국어 입문"}],["$","meta","3",{"property":"og:description","content":"터미널 페어 프로그래밍 입문 — cc101-class surface"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"CO101 — Codex CLI 한국어 입문"}],["$","meta","6",{"name":"twitter:description","content":"터미널 페어 프로그래밍 입문 — cc101-class surface"}]]
@@ -15,7 +15,7 @@ d:I[73570,["/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.
 4:["$","$6",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$Ld",null,{"lang":"ko","siteName":"CO101","tagline":"CO101 developer-grade corpus guide","taglineEn":"CO101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_co_overview.md","branding":{"slug":"co101","name":"CO101","tagline_ko":"Codex 입문 + 코퍼스 심화","tagline_en":"Codex intro + corpus depth","accentLabel_ko":"000_overview/00_co_overview.md","accentLabel_en":"000_overview/00_co_overview.md","heroTitle_ko":"로컬 Rust 코딩 에이전트","heroTitle_en":"Local Rust coding agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ npm i -g @openai/codex","$$ codex"],"prompt_ko":"> apply_patch로 테스트 추가해줘","prompt_en":"> add tests with apply_patch","ctaHash":"00-before-you-start","officialUrl":"https://github.com/openai/codex","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"CO101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-codex","order":2,"tier":"core","slug":"02-what-is-codex","title_ko":"Codex가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_co_overview.md","file_ko":"ko/02-what-is-codex.md","file_en":"en/02-what-is-codex.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + 로그인/인증 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 프롬프트 조립","title_en":"Overview §2","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 라우팅과 실행","title_en":"Overview §3","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 샌드박스 실행","title_en":"Overview §4","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 에이전트 루프","title_en":"Overview §5","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 서브에이전트 시스템","title_en":"Overview §6","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. MCP 통합","title_en":"Overview §7","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 피처 플래그와 설정","title_en":"Overview §8","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 에러 처리","title_en":"Overview §9","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 텔레메트리","title_en":"Overview §10","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 전체 아키텍처 다이어그램","title_en":"Overview §11","description_ko":"000_overview/00_co_overview.md","description_en":"000_overview/00_co_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_co_tui.md","description_en":"001_tui-design/01_co_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_co_prompt.md","description_en":"002_prompt-context/02_co_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_co_tool.md","description_en":"003_tool-runtime/03_co_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_co_skill.md","description_en":"004_skill-system/04_co_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_co_subagent.md","description_en":"005_subagents-collab/05_co_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_co_surface.md","description_en":"006_app-server-client-surfaces/06_co_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_co_sandbox.md","description_en":"007_sandbox-exec-policy/07_co_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_co_config.md","description_en":"008_config-system/08_co_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_co_mcp.md","description_en":"009_mcp-orchestration/09_co_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_co_memory.md","description_en":"010_memory-pipeline/10_co_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_co_plugin.md","description_en":"011_plugin-system/11_co_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_co_guardian.md","description_en":"012_guardian-approval/12_co_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_co_etc.md","description_en":"013_etc/13_co_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_co_web-search.md","description_en":"014_web-search/14_co_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]}]
 30:I[8038,["/cli101-portal/sites/codex-cli/_next/static/chunks/6d299d2b16f93b46.js"],"SectionBlock"]
 e:["$","$L30","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>코딩은 조금 할 줄 알지만 \"AI한테 코드를 맡긴다\"는 게 어떤 건지 아직 감이 안 오시는 분, Codex라는 이름은 들어봤는데 어디서부터 시작해야 할지 막막하셨던 분이라면 잘 오셨어요. 어려운 용어는 최대한 풀어서 설명할 테니까 편하게 따라오시면 돼요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>Codex가 대체 뭘 해주는 도구인지</li>\n<li>5분 만에 첫 코드를 AI한테 고쳐보는 방법</li>\n<li>매일 작업할 때 자연스럽게 쓰는 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>딱 두 가지만 준비되어 있으면 돼요.</p>\n<ol>\n<li>터미널(명령어 입력하는 검은 창)을 열 수 있다 — <code>ls</code> 정도 쳐보신 적 있으면 충분해요.</li>\n<li>작업할 코드 폴더가 git으로 관리되고 있다 — 아직이라면 그 폴더에서 <code>git init</code> 한 번만 해주시면 돼요.</li>\n</ol>\n<p>준비되셨으면 다음 장에서 Codex가 뭔지부터 천천히 볼게요.</p>\n"}}]}]
-31:T75dc,<h2>기초 설명</h2>
+31:T6d6c,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -164,8 +164,8 @@ docs/
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -178,87 +178,87 @@ docs/
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -274,122 +274,122 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -429,7 +429,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -438,26 +438,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -543,7 +543,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -553,7 +553,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -785,8 +785,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (발췌)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -800,52 +800,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 f:["$","$L30","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$31"}}]}]
 10:["$","$L30","02-what-is-codex",{"id":"02-what-is-codex","order":2,"tier":"core","title":"Codex가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>Codex는 터미널에서 OpenAI의 인공지능과 함께 코드를 고쳐나가는 도구예요. 여러분이 \"로그인 버튼을 파란색으로 변경해줘\"라고 말하면, AI가 실제 파일을 알아서 수정하고 그 내용을 git에 자동으로 저장까지 해줘요.</p>\n<h2>비유로 이해하기</h2>\n<p>옆자리에 앉은 꼼꼼한 동료에게 \"여기 로그인 버튼 색 좀 바꿔줄래요?\"라고 부탁하는 모습을 생각해보세요. 그 동료가 직접 코드를 열어 고치고, 작업 내용을 깔끔하게 기록(commit)까지 해두는 것이죠. Codex가 바로 그 동료 역할을 맡아줘요. 채팅창에 대화하듯 편하게 말만 하면 코드가 바뀌어 있어요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>\"이 함수에 에러 처리 추가해줘\" 같은 요청으로 여러 파일을 한 번에 수정해요</li>\n<li>변경 내용을 git에 자동으로 저장해 주니까, 마음에 안 들면 쉽게 원래대로 되돌려요</li>\n<li>새로운 기능 개발부터 까다로운 버그 수정, 테스트 코드 작성까지 대화로 진행해요</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>직접 파일을 하나하나 열고, 찾아서 고치고, 저장한 다음 git에 기록하는 번거로운 과정을 말 한마디로 줄일 수 있어요. 덕분에 개발 속도가 몰라보게 빨라져요. 게다가 매번 알아서 git에 기록을 남겨주므로 실수해도 언제든 돌아갈 수 있어 든든해요.</p>\n<blockquote>\n<p>더 깊은 내부 구조(어떻게 코드를 편집하는지, 내부 프롬프트는 어떻게 작동하는지)가 궁금하시면 상단 메뉴의 <strong>개발자 문서</strong>에서 자세히 다뤄요. 지금은 \"이런 편리한 도구구나\" 정도만 알고 넘어가셔도 충분해요.</p>\n</blockquote>\n"}}]}]
@@ -20182,7 +20182,7 @@ pub(crate) struct CodexWebSearchEventParams {
 </tbody>
 </table>
 2d:["$","$L30","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_co_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:T55d6,<h2>기초 설명</h2>
+4a:T7cec,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -20202,6 +20202,46 @@ pub(crate) struct CodexWebSearchEventParams {
 <h2>소스 코드 스니펫</h2>
 <h3>README / docs</h3>
 <pre><code class="language-json">{"mcpServers":{"homeDummy":{"command":"/bin/echo","args":["home"]}}}
+</code></pre>
+<h3>README / docs</h3>
+<pre><code class="language-text">POST https://runtime.{region}.kiro.dev/            (기본 region us-east-1)
+authorization: Bearer {accessToken}
+content-type:  application/x-amz-json-1.0
+accept:        application/vnd.amazon.eventstream
+x-amz-target:  AmazonCodeWhispererStreamingService.GenerateAssistantResponse
+user-agent:    aws-sdk-js/1.0.27 ua/2.1 os/{os} lang/js md/nodejs#22.x
+               api/codewhispererstreaming#1.0.27 m/E KiroIDE-{ver}-{fingerprint}
+x-amz-user-agent:            aws-sdk-js/1.0.27 KiroIDE-{ver}-{fingerprint}
+x-amzn-codewhisperer-optout: true
+x-amzn-kiro-agent-mode:      vibe
+x-amzn-kiro-profile-arn:     {profileArn}        (바이너리 분석에서 발견된 전용 헤더)
+amz-sdk-invocation-id:       {uuid}              (매 요청 새로)
+</code></pre>
+<h3>README / docs</h3>
+<pre><code class="language-json">{
+  "conversationState": {
+    "chatTriggerType": "MANUAL",
+    "conversationId": "&#x3C;stable 16-hex>",
+    "currentMessage": { "userInputMessage": {
+      "content": "&#x3C;non-empty>", "modelId": "&#x3C;id>", "origin": "AI_EDITOR",
+      "userInputMessageContext": { "tools": [...], "toolResults": [...] }
+    }},
+    "history": [ {"userInputMessage": {...}}, {"assistantResponseMessage": {...}}, ... ]
+  },
+  "profileArn": "&#x3C;arn>"
+}
+</code></pre>
+<h3>README / docs</h3>
+<pre><code class="language-jsonc">// 올바름                              // 틀림 → 400
+{ "toolUseId": "...", "name": "bash",  { ..., "input": "{\"command\":\"echo\"}" }  // 문자열 금지
+  "input": { "command": "echo" } }
+</code></pre>
+<h3>README / docs</h3>
+<pre><code class="language-text">{"name":"bash","toolUseId":"tooluse_X"}                    # start (input 없음)
+{"input":"","name":"bash","toolUseId":"tooluse_X"}         # input 조각 (name 포함!)
+{"input":"{\"command\": \"ec","name":"bash","toolUseId":"tooluse_X"}
+{"input":"ho hi\"}","name":"bash","toolUseId":"tooluse_X"} # 조각들 이어붙이면 완전한 JSON
+{"name":"bash","stop":true,"toolUseId":"tooluse_X"}        # stop (name 포함)
 </code></pre>
 <h2>코퍼스 — 015_reverse-engineering/ (심화)</h2>
 <h3><code>015_reverse-engineering/00_reverse_evidence_policy.md</code></h3>
@@ -20249,7 +20289,7 @@ pub(crate) struct CodexWebSearchEventParams {
 </tr>
 </tbody>
 </table>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
+<p><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
 <h2>Hard Boundary</h2>
 <p>역분석의 목적은 제품 구조 복원이지 사용자 상태 추출이 아니다. 다음은 내용 읽기 금지다.</p>
 <ul>
@@ -20265,7 +20305,7 @@ pub(crate) struct CodexWebSearchEventParams {
 <h2>Installed CLI version pin (2026-06-27)</h2>
 <p>Single source of truth for pinned <code>ay</code>/<code>cr</code>/<code>gr</code>/<code>ki</code> binaries:</p>
 <ul>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
+<li><code>015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
 </ul>
 <p>WP5 trace shards (<code>38</code>–<code>41</code>) extend hubs without changing evidence-level definitions above.</p>
 <h2>Current Upgrade Scope</h2>
@@ -20281,7 +20321,7 @@ pub(crate) struct CodexWebSearchEventParams {
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> v1.0.12+</td>
+<td><code>~/.local/bin/agy</code> v1.0.12+</td>
 <td>help, changelog, strings; <code>38_ay_project_flags_trace.md</code></td>
 </tr>
 <tr>
@@ -20313,22 +20353,22 @@ pub(crate) struct CodexWebSearchEventParams {
 <tbody>
 <tr>
 <td><code>gr</code></td>
-<td><code>/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>/Users/jun/.grok/bundled</code>, <code>/Users/jun/.grok/docs/user-guide</code></td>
+<td><code>~/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>~/.grok/bundled</code>, <code>~/.grok/docs/user-guide</code></td>
 <td>Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills</td>
 </tr>
 <tr>
 <td><code>cr</code></td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 <td>Webpack module keys, route extraction, proto module names, native helper inventory</td>
 </tr>
 <tr>
 <td><code>ki</code></td>
-<td><code>/Applications/Kiro CLI.app</code>, <code>/Users/jun/.local/bin/kiro-cli*</code></td>
+<td><code>/Applications/Kiro CLI.app</code>, <code>~/.local/bin/kiro-cli*</code></td>
 <td>signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets</td>
 </tr>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code>, <code>/Users/jun/.gemini/antigravity-cli</code></td>
+<td><code>~/.local/bin/agy</code>, <code>~/.gemini/antigravity-cli</code></td>
 <td>Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries</td>
 </tr>
 </tbody>
@@ -20343,7 +20383,7 @@ pub(crate) struct CodexWebSearchEventParams {
 <hr>
 <h3><code>015_reverse-engineering/35_harness_source_matrix.md</code></h3>
 <h1>Harness Source Matrix</h1>
-<p>This matrix covers source repositories, not installed binary reverse targets. It should be read beside /Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md.</p>
+<p>This matrix covers source repositories, not installed binary reverse targets. It should be read beside 000/00_harness_synthesis_addendum.md.</p>
 <h2>Evidence Class</h2>
 <table>
 <thead>
@@ -20355,27 +20395,27 @@ pub(crate) struct CodexWebSearchEventParams {
 </thead>
 <tbody>
 <tr>
-<td>/Users/jun/Developer/codex/hermes-agent</td>
+<td>hermes-agent</td>
 <td>Source code, README, package metadata, existing dimensional shards</td>
 <td>Full source architecture observed; installed/runtime credentialed trace not performed in this pass</td>
 </tr>
 <tr>
-<td>/Users/jun/Developer/codex/oh-my-claudecode</td>
+<td>oh-my-claudecode</td>
 <td>Source code, Claude plugin manifest, npm metadata, hooks/MCP/team runtime files</td>
 <td>Host-dependent on Claude Code and Claude Agent SDK</td>
 </tr>
 <tr>
-<td>/Users/jun/Developer/codex/oh-my-codex</td>
+<td>oh-my-codex</td>
 <td>Source code, npm metadata, Rust workspace, Codex plugin manifest, first-party MCP specs</td>
 <td>Host-dependent on Codex CLI</td>
 </tr>
 <tr>
-<td>/Users/jun/Developer/codex/oh-my-openagent</td>
+<td>oh-my-openagent</td>
 <td>Source code, npm metadata, OpenCode plugin entry, Codex Light plugin manifest, docs</td>
 <td>Host-dependent on OpenCode for Ultimate; Codex Light intentionally reduced</td>
 </tr>
 <tr>
-<td>/Users/jun/Developer/codex/121_openai-codex/codex-rs</td>
+<td>121_openai-codex/codex-rs</td>
 <td>Full Rust workspace (113 crates), <code>Cargo.toml</code> members, <code>core/</code> session loop</td>
 <td>Peer-level source runtime; see <code>000_overview/00_co_crate_graph.md</code></td>
 </tr>
@@ -20518,7 +20558,7 @@ pub(crate) struct CodexWebSearchEventParams {
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> 1.0.12</td>
+<td><code>~/.local/bin/agy</code> 1.0.12</td>
 <td><code>15_ay_reverse.md</code></td>
 <td><code>31</code>, <code>32</code>, <code>22</code>, <strong><code>38</code></strong></td>
 </tr>
@@ -20587,14 +20627,14 @@ pub(crate) struct CodexWebSearchEventParams {
 <li>Servers are not auto-loaded; they require approval.</li>
 </ul>
 <p>Follow-up runtime trace:</p>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> used a project-scoped <code>.cursor/mcp.json</code> plus a synthetic stdio MCP server. <code>cursor-agent mcp enable trace</code> wrote an approval entry under temp HOME at <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code>; the observed entry was <code>trace-0bab3cead8c72734</code>.</p>
+<p><code>015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> used a project-scoped <code>.cursor/mcp.json</code> plus a synthetic stdio MCP server. <code>cursor-agent mcp enable trace</code> wrote an approval entry under temp HOME at <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code>; the observed entry was <code>trace-0bab3cead8c72734</code>.</p>
 <p><code>mcp list-tools trace</code> then crossed the pre-approval gate and launched the minimal hand-written server, but it timed out without sending any JSON-RPC <code>initialize</code> frame to that fixture.</p>
 <p>A second fixture using <code>@modelcontextprotocol/server-everything</code> succeeded: <code>cursor-agent mcp list-tools everything</code> listed 14 tools. This confirms approval enforcement, project-state write behavior, and standalone no-account stdio MCP tool enumeration.</p>
 <h2>Grok Build</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/grok mcp add dummy --command /bin/echo --args dummy</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/grok mcp list --json</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/grok mcp add dummy --command /bin/echo --args dummy</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/grok mcp list --json</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -20621,13 +20661,13 @@ pub(crate) struct CodexWebSearchEventParams {
 </table>
 <p>This confirms that <code>grok mcp add</code> writes user config under temp HOME and that <code>mcp list --json</code> is machine-readable.</p>
 <p>Follow-up doctor trace:</p>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/30_grok_mcp_doctor_trace.md</code> configured <code>@modelcontextprotocol/server-everything</code> directly in temp <code>~/.grok/config.toml</code>. <code>grok mcp doctor everything --json</code> reported <code>command found</code>, <code>server started</code>, <code>handshake OK</code> with protocol <code>2025-06-18</code>, and <code>13 tools discovered</code>.</p>
+<p><code>015_reverse-engineering/30_grok_mcp_doctor_trace.md</code> configured <code>@modelcontextprotocol/server-everything</code> directly in temp <code>~/.grok/config.toml</code>. <code>grok mcp doctor everything --json</code> reported <code>command found</code>, <code>server started</code>, <code>handshake OK</code> with protocol <code>2025-06-18</code>, and <code>13 tools discovered</code>.</p>
 <h2>Kiro CLI</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name dummy --scope workspace --command /bin/echo --args dummy --disabled --force</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp list</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp status --name dummy</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp add --name dummy --scope workspace --command /bin/echo --args dummy --disabled --force</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp list</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp status --name dummy</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -20665,17 +20705,155 @@ pub(crate) struct CodexWebSearchEventParams {
 <li>Kiro's CLI writes a workspace config file for the trace.</li>
 <li>In this run, workspace-scoped server display/status resolved under the default agent bucket.</li>
 <li>Disabled servers are listed and status-inspectable without launching the command.</li>
-<li>A later enabled official-server status trace in <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirmed JSON-array args for <code>@modelcontextprotocol/server-everything</code>, displayed <code>Disabled: false</code>, but still did not report protocol handshake or tool discovery.</li>
+<li>A later enabled official-server status trace in <code>015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirmed JSON-array args for <code>@modelcontextprotocol/server-everything</code>, displayed <code>Disabled: false</code>, but still did not report protocol handshake or tool discovery.</li>
 </ul>
 <h2>AGY CLI</h2>
 <p>AGY has no public <code>mcp</code> command group in the installed CLI help. No synthetic MCP config trace was run for AGY in this pass. Its MCP evidence remains binary/cache evidence plus public plugin import surface.</p>
 <h2>Remaining Gaps</h2>
 <ul>
-<li>Cursor MCP project approval behavior and standalone no-account <code>tools/list</code> with an official stdio server are tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/29_cr_mcp_handshake_trace.md</code>.</li>
-<li>Grok native TOML MCP startup, handshake, and tool discovery are tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/30_grok_mcp_doctor_trace.md</code>.</li>
+<li>Cursor MCP project approval behavior and standalone no-account <code>tools/list</code> with an official stdio server are tested in <code>015_reverse-engineering/29_cr_mcp_handshake_trace.md</code>.</li>
+<li>Grok native TOML MCP startup, handshake, and tool discovery are tested in <code>015_reverse-engineering/30_grok_mcp_doctor_trace.md</code>.</li>
 <li>OAuth flows were not tested.</li>
-<li>Kiro agent-specific MCP routing with a custom synthetic agent is tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code>; actual server startup and protocol handshake remain separate gaps.</li>
+<li>Kiro agent-specific MCP routing with a custom synthetic agent is tested in <code>015_reverse-engineering/24_ki_agent_mcp_trace.md</code>; actual server startup and protocol handshake remain separate gaps.</li>
 <li>AGY MCP activation requires either hidden <code>agentapi</code> knowledge, plugin import, or model/session trace.</li>
+</ul>
+<hr>
+<h3><code>015_reverse-engineering/45_ki_codewhisperer_wire_stream_oauth.md</code></h3>
+<h1>45 — ki: CodeWhisperer wire + stream + OAuth contract (LIVE-confirmed)</h1>
+<blockquote>
+<p>상태: ✅ 라이브 확정 (2026-06-28). jawcode <code>packages/ai/src/providers/kiro.ts</code>
+실측 + <code>JWC_KIRO_DEBUG</code> 라이브 캡처(<code>jwc -p --model kiro/claude-sonnet-4.5</code>) + kiro2api
+<code>types/codewhisperer.go@859a47c9</code> 교차검증.
+보완 대상: <code>15_ki_reverse.md</code>(Rust 내부), <code>43_ki_auth_session_boundary_trace.md</code>(auth).
+이 문서는 Kiro CLI <strong>내부</strong>가 아니라, 서드파티 하니스가 Kiro 백엔드를 직접 호출할 때의
+<strong>CodeWhisperer 와이어 프로토콜</strong>을 다룬다 (opencodex/jawcode kiro provider 기준).</p>
+</blockquote>
+<h2>0. 엔드포인트 / 헤더</h2>
+<pre><code>POST https://runtime.{region}.kiro.dev/            (기본 region us-east-1)
+authorization: Bearer {accessToken}
+content-type:  application/x-amz-json-1.0
+accept:        application/vnd.amazon.eventstream
+x-amz-target:  AmazonCodeWhispererStreamingService.GenerateAssistantResponse
+user-agent:    aws-sdk-js/1.0.27 ua/2.1 os/{os} lang/js md/nodejs#22.x
+               api/codewhispererstreaming#1.0.27 m/E KiroIDE-{ver}-{fingerprint}
+x-amz-user-agent:            aws-sdk-js/1.0.27 KiroIDE-{ver}-{fingerprint}
+x-amzn-codewhisperer-optout: true
+x-amzn-kiro-agent-mode:      vibe
+x-amzn-kiro-profile-arn:     {profileArn}        (바이너리 분석에서 발견된 전용 헤더)
+amz-sdk-invocation-id:       {uuid}              (매 요청 새로)
+</code></pre>
+<p>SigV4 불필요 — Bearer 전용. 응답은 <code>application/vnd.amazon.eventstream</code> 바이너리 프레이밍.</p>
+<h2>1. 요청 바디 — conversationState (와이어 계약 3대 규칙, 실측 확정)</h2>
+<pre><code class="language-json">{
+  "conversationState": {
+    "chatTriggerType": "MANUAL",
+    "conversationId": "&#x3C;stable 16-hex>",
+    "currentMessage": { "userInputMessage": {
+      "content": "&#x3C;non-empty>", "modelId": "&#x3C;id>", "origin": "AI_EDITOR",
+      "userInputMessageContext": { "tools": [...], "toolResults": [...] }
+    }},
+    "history": [ {"userInputMessage": {...}}, {"assistantResponseMessage": {...}}, ... ]
+  },
+  "profileArn": "&#x3C;arn>"
+}
+</code></pre>
+<p><strong>규칙 1 — history 엄격 교대.</strong> <code>history</code>는 user/assistant 턴이 반드시 교대해야 한다.
+연속 user/assistant는 거부.</p>
+<p><strong>규칙 2 — toolResult 인접.</strong> 각 <code>toolResult</code>는, 그 결과를 낸 <code>assistantResponseMessage</code>
+(=<code>toolUses</code> 보유) <strong>바로 다음</strong> <code>userInputMessage</code>의 <code>userInputMessageContext.toolResults</code>에
+실려야 한다. 모든 toolResult를 마지막 메시지에 몰아넣으면(평탄 누적) →
+<code>REQUEST_BODY_INVALID / "Improperly formed request"</code> (400).</p>
+<p><strong>규칙 3 — toolUses[].input 은 JSON 객체.</strong> (kiro2api <code>ToolUseEntry.Input map[string]any</code>)</p>
+<pre><code class="language-jsonc">// 올바름                              // 틀림 → 400
+{ "toolUseId": "...", "name": "bash",  { ..., "input": "{\"command\":\"echo\"}" }  // 문자열 금지
+  "input": { "command": "echo" } }
+</code></pre>
+<p><code>JSON.stringify(args)</code>로 보내면 tool 호출이 포함된 <strong>모든</strong> 요청이 400. (과거 no-tool 채팅만
+통과해서 이 결함이 오래 숨어 있었음.)</p>
+<p>추가 계약:</p>
+<ul>
+<li><code>toolResults[].content</code> = <code>[{ "text": "..." }]</code> 배열, <code>status</code> = <code>"success"|"error"</code>,
+<code>toolUseId</code> (양쪽 정규화 <code>^[a-zA-Z0-9_-]{1,64}$</code>로 일치시킬 것).</li>
+<li><code>userInputMessage.content</code>는 비어 있으면 안 됨 → tool 결과만 보낼 땐 placeholder(<code>"(tool results)"</code>).</li>
+<li><code>origin: "AI_EDITOR"</code>, <code>chatTriggerType: "MANUAL"</code>.</li>
+<li>(kiro2api에는 <code>agentTaskType:"vibe"</code>, <code>agentContinuationId</code>, <code>images[]</code> 필드도 있으나
+no-tool/tool 경로 모두 생략해도 통과 — optional.)</li>
+</ul>
+<h2>2. 스트리밍 응답 — tool 이벤트 프로토콜 (라이브 캡처로 확정)</h2>
+<p>AWS eventstream 프레임의 각 event payload는 JSON. <strong>CodeWhisperer는 tool 이벤트마다
+<code>name</code>+<code>toolUseId</code>를 반복 포함한다</strong> (이게 파싱의 함정):</p>
+<pre><code>{"name":"bash","toolUseId":"tooluse_X"}                    # start (input 없음)
+{"input":"","name":"bash","toolUseId":"tooluse_X"}         # input 조각 (name 포함!)
+{"input":"{\"command\": \"ec","name":"bash","toolUseId":"tooluse_X"}
+{"input":"ho hi\"}","name":"bash","toolUseId":"tooluse_X"} # 조각들 이어붙이면 완전한 JSON
+{"name":"bash","stop":true,"toolUseId":"tooluse_X"}        # stop (name 포함)
+</code></pre>
+<ul>
+<li>일반 텍스트: <code>{"content":"..."}</code></li>
+<li>토큰 사용량: <code>{"usage":N}</code></li>
+</ul>
+<p><strong>파싱 규칙: <code>name</code> 유무로 판별하지 말 것.</strong> 반드시 <code>stop===true</code> → <code>"input" in payload</code>
+→ <code>name</code> 순으로 판별. (<code>name</code>만 보면 모든 input 조각이 새 tool_start로 오인돼 인자가 빈
+<code>{}</code>가 됨 → tool이 "expected string, received undefined"로 실패.) <code>input</code> 조각을 toolUseId별로
+이어붙여 stop에서 <code>JSON.parse</code>.</p>
+<p>병렬 다중 tool: 관측상 <strong>순차</strong> 스트리밍(toolUse A start→조각→stop, 그다음 B). 단일
+<code>currentToolCall</code> 누적으로 충분하나, 견고성을 위해 toolUseId 매칭/lazy-start 권장.</p>
+<h2>3. OAuth / 토큰</h2>
+<table>
+<thead>
+<tr>
+<th>경로</th>
+<th>위치 / 방법</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>kiro-cli SQLite</td>
+<td><code>~/Library/Application Support/kiro-cli/data.sqlite3</code>, <code>~/.kiro/sso/cache.db</code> — <code>auth_kv</code> 테이블, key <code>kirocli:social:token</code>/<code>kirocli:odic:token</code>/<code>codewhisperer:odic:token</code>, value JSON <code>{access_token, refresh_token, profile_arn, expires_at, region}</code></td>
+</tr>
+<tr>
+<td>Kiro Desktop refresh</td>
+<td><code>POST https://prod.{region}.auth.desktop.kiro.dev/refreshToken</code> body <code>{refreshToken}</code> → <code>{accessToken, refreshToken, expiresIn}</code></td>
+</tr>
+<tr>
+<td>AWS SSO OIDC refresh</td>
+<td><code>POST https://oidc.{region}.amazonaws.com/token</code> (grantType refresh_token)</td>
+</tr>
+<tr>
+<td>prokiro 프록시</td>
+<td><code>~/.prokiro/auth.json</code> <code>{accessToken, refreshToken, profileArn, region, expiresAt}</code></td>
+</tr>
+<tr>
+<td>토큰 형식</td>
+<td>accessToken 접두사 <code>aoa</code> (가비지 credential 방어용 검증)</td>
+</tr>
+<tr>
+<td>401 처리</td>
+<td>refresh 후 1회 재시도, 실패 시 캐시 무효화</td>
+</tr>
+<tr>
+<td>만료</td>
+<td>60초 전 사전 refresh</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>참고 버그: kiro-cli가 갱신 토큰을 SQLite에 다시 안 쓰는 케이스 보고 → 외부 임포트 시 갱신 충돌 주의
+(kirodotdev/Kiro#4847).</p>
+</blockquote>
+<h2>4. 모델 id (kiro provider, jawcode)</h2>
+<p><code>claude-opus-4.8/4.7/4.6/4.5</code>, <code>claude-sonnet-4.6/4.5/4</code>, <code>claude-haiku-4.5</code>,
+<code>deepseek-3.2</code>, <code>minimax-m2.5/m2.1</code>, <code>glm-5</code>, <code>qwen3-coder-next</code> → provider <code>kiro</code>,
+api <code>kiro-streaming</code>. (provider/model 형식: <code>kiro/claude-sonnet-4.5</code>.)</p>
+<h2>5. ToS 주의</h2>
+<p>Kiro 공식 FAQ가 서드파티 하니스 사용을 명시 금지. 403 <code>TEMPORARILY_SUSPENDED</code>,
+<code>AccountSuspendedException</code>, 423 Locked 등 계정 정지 보고 다수. 개인 실험 한정.</p>
+<h2>6. 참조</h2>
+<ul>
+<li>jawcode: <code>packages/ai/src/providers/kiro.ts</code>, <code>packages/ai/src/utils/oauth/kiro.ts</code></li>
+<li>jawcode devlog: <code>devlog/_plan/260628_kiro_parity_hardening/{00,10,20}_*.md</code></li>
+<li>kiro2api <code>types/codewhisperer.go@859a47c9</code> (와이어 타입 교차검증)</li>
+<li>라이브 캡처 방법: <code>JWC_KIRO_DEBUG=/tmp/x.jsonl jwc -p --model kiro/&#x3C;model> "..."</code></li>
 </ul>
 2e:["$","$L30","25-reverse-engineering",{"id":"25-reverse-engineering","order":32,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
 4b:T26b1,<h2>기초 설명</h2>

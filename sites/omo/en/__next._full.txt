@@ -7,7 +7,7 @@
 a:I[72949,["/cli101-portal/sites/omo/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/omo/_next/static/chunks/e4a0bdf2f715f2cc.js"],"MetadataBoundary"]
 c:I[99040,["/cli101-portal/sites/omo/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/omo/_next/static/chunks/e4a0bdf2f715f2cc.js"],"default"]
 :HL["/cli101-portal/sites/omo/_next/static/chunks/fe8da13e7b2b3bf7.css","style"]
-0:{"P":null,"b":"8fjSJCL0xeGiNnA_1WKwM","c":["","en",""],"q":"","i":false,"f":[[["",{"children":[["lang","en","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/omo/_next/static/chunks/fe8da13e7b2b3bf7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/omo/_next/static/chunks/6d299d2b16f93b46.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+0:{"P":null,"b":"yE30nkWBAvSnCBMtOZUca","c":["","en",""],"q":"","i":false,"f":[[["",{"children":[["lang","en","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/omo/_next/static/chunks/fe8da13e7b2b3bf7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/omo/_next/static/chunks/6d299d2b16f93b46.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
 b:[["$","title","0",{"children":"OMO101 — oh-my-openagent 입문"}],["$","meta","1",{"name":"description","content":"Agent OS rose"}]]
@@ -128,21 +128,21 @@ https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/refs/heads/dev/do
 | 014 Web | `014_web-search/14_omo_web-search.md` |
 </code></pre>
 e:["$","$L33","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"Before you start","description":"000 index + axis map","lang":"en","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-35:T8946,<h2>Overview</h2>
+35:T7722,<h2>Overview</h2>
 <p><strong>Corpus spine (000)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</li>
-<li>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</li>
-<li>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</li>
+<li>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</li>
+<li>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</li>
 <li>| Purpose | Path | Classification |</li>
-<li>| Root overview and synthesis | <code>/Users/jun/Developer/codex/000/</code> | <code>overview-index</code> |</li>
-<li>| Deep harness overview docs | <code>/Users/jun/Developer/codex/000_overview/</code> | <code>deep-overview</code> |</li>
-<li>| TUI design axis | <code>/Users/jun/Developer/codex/001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Prompt/context axis | <code>/Users/jun/Developer/codex/002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Tool/runtime axis | <code>/Users/jun/Developer/codex/003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Skill system axis | <code>/Users/jun/Developer/codex/004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Subagents/collaboration axis | <code>/Users/jun/Developer/codex/005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| App/server/client surfaces axis | <code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Root overview and synthesis | <code>000/</code> | <code>overview-index</code> |</li>
+<li>| Deep harness overview docs | <code>000_overview/</code> | <code>deep-overview</code> |</li>
+<li>| TUI design axis | <code>001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Prompt/context axis | <code>002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Tool/runtime axis | <code>003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Skill system axis | <code>004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Subagents/collaboration axis | <code>005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| App/server/client surfaces axis | <code>006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
 </ul>
 <h2>Topics covered</h2>
 <ul>
@@ -206,8 +206,8 @@ docs/
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -220,87 +220,87 @@ docs/
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -316,122 +316,122 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -471,7 +471,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -480,26 +480,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -585,7 +585,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -595,7 +595,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -611,8 +611,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (excerpt)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -626,52 +626,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 <h2>Korean corpus (reference)</h2>
 <blockquote>
@@ -680,8 +680,8 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -694,87 +694,87 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -790,122 +790,122 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -945,7 +945,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -954,26 +954,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -1059,7 +1059,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -1069,7 +1069,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -1085,8 +1085,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (발췌)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -1100,52 +1100,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 f:["$","$L33","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"Corpus spine (000)","description":"navigation + canonical map","lang":"en","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$35"}}]}]
 36:T1685,<h2>Overview</h2>
@@ -4054,12 +4054,12 @@ omo는 "여러 CLI를 디스패치하는 메타-하니스(cli-jaw 류)"와 설�
 ---
 </code></pre>
 22:["$","$L33","07-overview-14",{"id":"07-overview-14","order":20,"tier":"developer","title":"Overview §14","description":"000_overview/00_omo_overview.md","lang":"en","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:T13b3f,<h2>Overview</h2>
+49:T13aee,<h2>Overview</h2>
 <p><strong>Axis 01: TUI design</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/172_oh-my-openagent/</code> (OmO engine; LazyCodex wraps this for Codex).</p>
+<p><strong>분석 스냅샷</strong>: <code>172_oh-my-openagent/</code> (OmO engine; LazyCodex wraps this for Codex).</p>
 </blockquote>
 </li>
 <li>
@@ -4207,7 +4207,7 @@ await runOpenClawTmuxCommand(["send-keys", "-t", paneId, "Enter"])            //
 <h2>Main analysis</h2>
 <h1>oh-my-openagent (omo) TUI/input surface</h1>
 <blockquote>
-<p><strong>Analysis Snapshot</strong>: <code>/Users/jun/Developer/codex/172_oh-my-openagent/</code> (OmO engine; LazyCodex wraps this for Codex).</p>
+<p><strong>Analysis Snapshot</strong>: <code>172_oh-my-openagent/</code> (OmO engine; LazyCodex wraps this for Codex).</p>
 </blockquote>
 <blockquote>
 <p>This document analyzes the <strong>TUI / input surface</strong> dimension of <code>code-yeongyu/oh-my-openagent</code>(omo) based on actual sources. Bottom line: <strong>omo does not have its own full-screen interactive TUI.</strong> Unlike Claude Code, which draws React apps in a terminal with a custom Ink fork ([[01_cc_tui]]), and Codex, which draws native full-screen with Ratatui, omo is an <strong>OpenCode plugin</strong> that delegates all interactive REPL, streaming, keystrokes, and slash command rendering to the host (OpenCode). There are only three pixels that omo owns in its code: (1) the one-time <code>@clack/prompts</code> installation wizard, (2) the line-by-line renderer for the non-interactive <code>run</code>/<code>doctor</code>/<code>boulder</code>/<code>mcp-oauth</code> CLI, and (3) <em>out-of-band</em> surfaces such as toast/message-injection/tmux send-keys that <strong>push</strong> into the host TUI. For overall system structure, see [[00_omo_overview]]. The source is the actual TypeScript source for <code>package.json</code>, <code>src/cli/</code>, <code>src/hooks/</code>, and <code>src/openclaw/</code>.</p>
@@ -4925,7 +4925,7 @@ await runOpenClawTmuxCommand(["send-keys", "-t", paneId, "Enter"])            //
 </blockquote>
 <h1>oh-my-openagent (omo) TUI / 입력 표면</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/172_oh-my-openagent/</code> (OmO engine; LazyCodex wraps this for Codex).</p>
+<p><strong>분석 스냅샷</strong>: <code>172_oh-my-openagent/</code> (OmO engine; LazyCodex wraps this for Codex).</p>
 </blockquote>
 <blockquote>
 <p>이 문서는 <code>code-yeongyu/oh-my-openagent</code>(omo)의 <strong>TUI / 입력 표면</strong> 차원을 실제 소스 기반으로 분석한다. 결론부터: <strong>omo는 자체 풀스크린 대화형 TUI를 갖지 않는다.</strong> Claude Code가 커스텀 Ink 포크로 터미널 안에 React 앱을 그리고([[01_cc_tui]]), Codex가 Ratatui로 네이티브 풀스크린을 그리는 것과 달리, omo는 <strong>OpenCode 플러그인</strong>으로서 대화 REPL·스트리밍·키 입력·슬래시 커맨드 렌더링 전체를 <strong>호스트(OpenCode)에 위임</strong>한다. omo가 자기 코드로 소유하는 픽셀은 세 군데뿐이다: (1) 일회성 <code>@clack/prompts</code> 설치 마법사, (2) 비대화형 <code>run</code>/<code>doctor</code>/<code>boulder</code>/<code>mcp-oauth</code> CLI의 줄단위 렌더러, (3) 호스트 TUI에 <strong>밀어넣는</strong> 토스트/메시지-주입/tmux send-keys 같은 <em>out-of-band</em> 표면. 시스템 전반 구조는 [[00_omo_overview]] 참조. 근거는 <code>package.json</code>, <code>src/cli/</code>, <code>src/hooks/</code>, <code>src/openclaw/</code>의 실제 TypeScript 소스다.</p>
@@ -20579,10 +20579,10 @@ Write 도구 실행 →
 <li>2026-05-29: omo 가디언/승인 차원 초판. 실제 소스(<code>permission-compat.ts</code>, 가드 훅 7종, <code>claude-code-mcp-loader</code>, <code>openclaw</code>, <code>system-directive</code>) 기반으로 "AI guardian 의도적 부재 + 호스트(OpenCode) 승인 위임" 모델, 3층 방어(정적 능력 봉인 / 런타임 throw 가드 / 시크릿·외부 경계 정책), 에이전트별 봉인 매트릭스, prometheus 경로 정책·write-existing read-권한 추적·team 셧다운 2단계 승인·mcp_env_allowlist user-only 잠금, fail-open 생성/fail-closed 집행 양면성, cli-jaw 비교 시사점 4항목 정리.</li>
 </ul>
 2e:["$","$L33","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":32,"tier":"deep","title":"Axis 12: Guardian & approval","description":"012_guardian-approval/12_omo_guardian.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$54"}}]}]
-55:T182cd,<h2>Overview</h2>
+55:T182b2,<h2>Overview</h2>
 <p><strong>Axis 13: Cross-cutting</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
-<li>본 문서는 [[00_omo_overview]]가 다룬 핵심 차원(기동, 동적 프롬프트, 11 에이전트 로스터, 20–39 도구, 3-tier MCP, 5-tier hook, IntentGate, 턴-생존 실행/Boulder, Team Mode, Skills/Commands)에 **포함되지 않은 잔여 교차 관심사(cross-cutting concerns)**를 omo 실소스 기준으로 정리한다. 분석 대상은 `/Users/jun/</li>
+<li>본 문서는 [[00_omo_overview]]가 다룬 핵심 차원(기동, 동적 프롬프트, 11 에이전트 로스터, 20–39 도구, 3-tier MCP, 5-tier hook, IntentGate, 턴-생존 실행/Boulder, Team Mode, Skills/Commands)에 **포함되지 않은 잔여 교차 관심사(cross-cutting concerns)**를 omo 실소스 기준으로 정리한다. 분석 대상은 `~/</li>
 <li>
 <blockquote>
 <p><strong>표기 규칙</strong>: 본 문서의 모든 코드 인용은 원본 TS 소스 그대로이며, 라인 번호는 분석 시점(v4.5.1, <code>package.json</code>) 기준이다.</p>
@@ -20750,7 +20750,7 @@ toast.fallback_prefix:         "[FALLBACK] Model: {{model}}{{suffix}}"
 <h2>Main analysis</h2>
 <h1>oh-my-openagent (omo) residual cross-interest</h1>
 <h2>Overview</h2>
-<p>This document organizes the remaining cross-cutting concerns** that are not included in the core dimensions covered by [[00_omo_overview]] (activation, dynamic prompts, 11 agent roster, 20–39 tools, 3-tier MCP, 5-tier hook, IntentGate, turn-survival execution/Boulder, Team Mode, Skills/Commands) on an omo real-source basis. The analysis target is the TypeScript source (<code>src/</code>, <code>packages/</code>, <code>bin/</code>, <code>postinstall.mjs</code>) of <code>/Users/jun/developer/codex/oh-my-openagent</code>.</p>
+<p>This document organizes the remaining cross-cutting concerns** that are not included in the core dimensions covered by [[00_omo_overview]] (activation, dynamic prompts, 11 agent roster, 20–39 tools, 3-tier MCP, 5-tier hook, IntentGate, turn-survival execution/Boulder, Team Mode, Skills/Commands) on an omo real-source basis. The analysis target is the TypeScript source (<code>src/</code>, <code>packages/</code>, <code>bin/</code>, <code>postinstall.mjs</code>) of <code>~/developer/codex/oh-my-openagent</code>.</p>
 <p>It is compared on the same axis (Git/VCS, model routing, error handling, telemetry, authentication, multimodal, event, feature flag, packaging, testing, i18n) as [[13_cc_etc]] (Claude Code residual analysis), but the analysis precision is high in that omo is <strong>the original source, not a deobfuscated bundle</strong>. The critical difference is that omo is an <strong>OpenCode plugin</strong> that doesn't have its own LLM loop — so some of the concerns like model routing, authentication, and retries are "delegated to the host (OpenCode)", and omo puts its own classification/fallback/injection layer on top of it.</p>
 <blockquote>
 <p><strong>Notation rules</strong>: All code citations in this document are from the original TS source, and line numbers are based on the time of analysis (v4.5.1, <code>package.json</code>).</p>
@@ -21380,7 +21380,7 @@ toast.fallback_prefix:         "[FALLBACK] Model: {{model}}{{suffix}}"
 </blockquote>
 <h1>oh-my-openagent (omo) 잔여 교차 관심사</h1>
 <h2>개요</h2>
-<p>본 문서는 [[00_omo_overview]]가 다룬 핵심 차원(기동, 동적 프롬프트, 11 에이전트 로스터, 20–39 도구, 3-tier MCP, 5-tier hook, IntentGate, 턴-생존 실행/Boulder, Team Mode, Skills/Commands)에 **포함되지 않은 잔여 교차 관심사(cross-cutting concerns)**를 omo 실소스 기준으로 정리한다. 분석 대상은 <code>/Users/jun/developer/codex/oh-my-openagent</code>의 TypeScript 소스(<code>src/</code>, <code>packages/</code>, <code>bin/</code>, <code>postinstall.mjs</code>)다.</p>
+<p>본 문서는 [[00_omo_overview]]가 다룬 핵심 차원(기동, 동적 프롬프트, 11 에이전트 로스터, 20–39 도구, 3-tier MCP, 5-tier hook, IntentGate, 턴-생존 실행/Boulder, Team Mode, Skills/Commands)에 **포함되지 않은 잔여 교차 관심사(cross-cutting concerns)**를 omo 실소스 기준으로 정리한다. 분석 대상은 <code>~/developer/codex/oh-my-openagent</code>의 TypeScript 소스(<code>src/</code>, <code>packages/</code>, <code>bin/</code>, <code>postinstall.mjs</code>)다.</p>
 <p>[[13_cc_etc]](Claude Code 잔여 분석)와 같은 축(Git/VCS, 모델 라우팅, 에러 처리, 텔레메트리, 인증, 멀티모달, 이벤트, 피처플래그, 패키징, 테스트, i18n)으로 비교하되, omo는 <strong>난독화 해제 번들이 아니라 원본 소스</strong>라는 점에서 분석 정밀도가 높다. 결정적 차이는 omo가 자체 LLM 루프를 갖지 않는 <strong>OpenCode 플러그인</strong>이라는 사실이다 — 따라서 모델 라우팅·인증·재시도 같은 관심사 중 일부는 "호스트(OpenCode)에 위임"되고, omo는 그 위에 자신만의 분류/폴백/주입 계층을 얹는다.</p>
 <blockquote>
 <p><strong>표기 규칙</strong>: 본 문서의 모든 코드 인용은 원본 TS 소스 그대로이며, 라인 번호는 분석 시점(v4.5.1, <code>package.json</code>) 기준이다.</p>
@@ -23249,7 +23249,7 @@ export const McpNameSchema = z.enum(["websearch", "context7", "grep_app", "lsp",
 </tbody>
 </table>
 30:["$","$L33","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":34,"tier":"deep","title":"Axis 14: Web search","description":"014_web-search/14_omo_web-search.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$56"}}]}]
-57:T3889,<h2>Overview</h2>
+57:T3772,<h2>Overview</h2>
 <p><strong>Reverse engineering (015)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</li>
@@ -23260,7 +23260,7 @@ export const McpNameSchema = z.enum(["websearch", "context7", "grep_app", "lsp",
 <li>| binary-string | native binary <code>strings</code>, <code>file</code>, <code>otool</code>, <code>codesign</code>, <code>nm</code> | crate/package/protocol/tool/evaluator 이름이 embedded되어 있다 |</li>
 <li>| runtime-trace | synthetic project에서 실제 명령을 실행한 결과 | 동작 semantics, precedence, permission enforcement를 확인했다 |</li>
 <li>| private-artifact-name | 비공개 상태 파일의 경로/개수만 관찰 | artifact가 존재한다. 내용/schema 주장은 금지 |</li>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
+<li><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
 <li>auth/token/cookie/credential/login data</li>
 <li>raw transcript, chat history, conversation DB/PB</li>
 <li>logs and terminal captures</li>
@@ -23340,7 +23340,7 @@ This axis is the next step in the installation help parity document. The existin
 | runtime-trace | Results of executing actual commands in synthetic project | Checked operational semantics, precedence, and permission enforcement |
 | private-artifact-name | Observe only the path/count of private state files | An artifact exists. Content/schema claims are prohibited |
 
-`/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
+`015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
 
 ## Hard Boundary
 
@@ -23360,7 +23360,7 @@ For private artifacts, only “exists” is used. Field/schema/content assertion
 
 Single source of truth for pinned `ay`/`cr`/`gr`/`ki` binaries:
 
-- `/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md`
+- `015_reverse-engineering/36_installed_cli_version_manifest.md`
 
 WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level definitions above.
 
@@ -23370,7 +23370,7 @@ WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level defin
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `ay` | `/Users/jun/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
+| `ay` | `~/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
 | `cr` | `cursor-agent` `2026.06.26-7079533` | bundle string literals, help; `37`, `39_cr_automations_help_trace.md` |
 | `gr` | `grok-0.2.67-macos-aarch64` | inspect JSON, strings; `40_gr_0267_inspect_refresh.md` |
 | `ki` | `Kiro CLI.app` 2.5.0 | help surfaces; `41_ki_help_surface_trace.md` |
@@ -23379,10 +23379,10 @@ Newly reversed on 2026-05-31 pass (historical baseline):
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `gr` | `/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64`, `/Users/jun/.grok/bundled`, `/Users/jun/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
-| `cr` | `/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
-| `ki` | `/Applications/Kiro CLI.app`, `/Users/jun/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
-| `ay` | `/Users/jun/.local/bin/agy`, `/Users/jun/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
+| `gr` | `~/.grok/downloads/grok-0.2.14-macos-aarch64`, `~/.grok/bundled`, `~/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
+| `cr` | `~/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
+| `ki` | `/Applications/Kiro CLI.app`, `~/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
+| `ay` | `~/.local/bin/agy`, `~/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
 
 ## Reading Rule For Existing Docs
 
@@ -23414,7 +23414,7 @@ When a page states runtime semantics from config/cache observation, this axis up
 | runtime-trace | synthetic project에서 실제 명령을 실행한 결과 | 동작 semantics, precedence, permission enforcement를 확인했다 |
 | private-artifact-name | 비공개 상태 파일의 경로/개수만 관찰 | artifact가 존재한다. 내용/schema 주장은 금지 |
 
-`/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
+`015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
 
 ## Hard Boundary
 
@@ -23434,7 +23434,7 @@ When a page states runtime semantics from config/cache observation, this axis up
 
 Single source of truth for pinned `ay`/`cr`/`gr`/`ki` binaries:
 
-- `/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md`
+- `015_reverse-engineering/36_installed_cli_version_manifest.md`
 
 WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level definitions above.
 
@@ -23444,7 +23444,7 @@ WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level defin
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `ay` | `/Users/jun/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
+| `ay` | `~/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
 | `cr` | `cursor-agent` `2026.06.26-7079533` | bundle string literals, help; `37`, `39_cr_automations_help_trace.md` |
 | `gr` | `grok-0.2.67-macos-aarch64` | inspect JSON, strings; `40_gr_0267_inspect_refresh.md` |
 | `ki` | `Kiro CLI.app` 2.5.0 | help surfaces; `41_ki_help_surface_trace.md` |
@@ -23453,10 +23453,10 @@ WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level defin
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `gr` | `/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64`, `/Users/jun/.grok/bundled`, `/Users/jun/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
-| `cr` | `/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
-| `ki` | `/Applications/Kiro CLI.app`, `/Users/jun/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
-| `ay` | `/Users/jun/.local/bin/agy`, `/Users/jun/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
+| `gr` | `~/.grok/downloads/grok-0.2.14-macos-aarch64`, `~/.grok/bundled`, `~/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
+| `cr` | `~/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
+| `ki` | `/Applications/Kiro CLI.app`, `~/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
+| `ay` | `~/.local/bin/agy`, `~/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
 
 ## Reading Rule For Existing Docs
 

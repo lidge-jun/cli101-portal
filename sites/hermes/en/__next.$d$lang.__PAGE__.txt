@@ -3,7 +3,7 @@
 3:I[49187,["/cli101-portal/sites/hermes/_next/static/chunks/93bf53fc9c10cbdd.js"],"PageClient"]
 29:I[47239,["/cli101-portal/sites/hermes/_next/static/chunks/93bf53fc9c10cbdd.js"],"SectionBlock"]
 4d:I[73920,["/cli101-portal/sites/hermes/_next/static/chunks/8defe090bc41a910.js","/cli101-portal/sites/hermes/_next/static/chunks/9cbfb6d67b626dff.js"],"OutletBoundary"]
-0:{"buildId":"eg38sipJiwUFWIMhdF2a6","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"en","siteName":"HE101","tagline":"HE101 developer-grade corpus guide","taglineEn":"HE101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_hermes_overview.md","branding":{"slug":"he101","name":"HE101","tagline_ko":"Hermes 입문 + 게이트웨이","tagline_en":"Hermes intro + gateway","accentLabel_ko":"000_overview/00_hermes_overview.md","accentLabel_en":"000_overview/00_hermes_overview.md","heroTitle_ko":"자기개선형 멀티채널 에이전트","heroTitle_en":"Self-improving multi-channel agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 29장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 29 developer docs","terminalLines":["$$ pip install hermes-agent","$$ hermes"],"prompt_ko":"> 텔레그램으로도 같은 세션 이어줘","prompt_en":"> continue this session on Telegram","ctaHash":"00-before-you-start","officialUrl":"https://github.com/NousResearch/hermes-agent","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"HE101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-hermes","order":2,"tier":"core","slug":"02-what-is-hermes","title_ko":"Hermes가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/02-what-is-hermes.md","file_en":"en/02-what-is-hermes.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 다채널 게이트웨이 (핵심 차별점)","title_en":"Overview §2","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 시스템","title_en":"Overview §3","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 시스템 프롬프트 조립 (3계층)","title_en":"Overview §4","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 메모리 시스템 (영속·자기개선)","title_en":"Overview §5","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 에이전트 루프","title_en":"Overview §6","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 턴/세션을 넘어 살아남는 실행","title_en":"Overview §7","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 보안·승인·샌드박스","title_en":"Overview §8","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. ACP 어댑터 (에디터 통합)","title_en":"Overview §9","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 플러그인·스킬 생태계","title_en":"Overview §10","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 관찰성","title_en":"Overview §11","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. cli-jaw 비교 시사점","title_en":"Overview §12","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":19,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_hermes_tui.md","description_en":"001_tui-design/01_hermes_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":20,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_hermes_prompt.md","description_en":"002_prompt-context/02_hermes_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":21,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_hermes_tool.md","description_en":"003_tool-runtime/03_hermes_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":22,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_hermes_skill.md","description_en":"004_skill-system/04_hermes_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":23,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_hermes_subagent.md","description_en":"005_subagents-collab/05_hermes_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":24,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_hermes_surface.md","description_en":"006_app-server-client-surfaces/06_hermes_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":25,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_hermes_sandbox.md","description_en":"007_sandbox-exec-policy/07_hermes_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":26,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_hermes_config.md","description_en":"008_config-system/08_hermes_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":27,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_hermes_mcp.md","description_en":"009_mcp-orchestration/09_hermes_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":28,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_hermes_memory.md","description_en":"010_memory-pipeline/10_hermes_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":29,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_hermes_plugin.md","description_en":"011_plugin-system/11_hermes_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":30,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_hermes_guardian.md","description_en":"012_guardian-approval/12_hermes_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":31,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_hermes_etc.md","description_en":"013_etc/13_hermes_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":32,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_hermes_web-search.md","description_en":"014_web-search/14_hermes_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":33,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":34,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}],["$L27"],"$L28"]}],"loading":null,"isPartial":false}
+0:{"buildId":"TwMe55-PR7smJTTrZL1aE","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"en","siteName":"HE101","tagline":"HE101 developer-grade corpus guide","taglineEn":"HE101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_hermes_overview.md","branding":{"slug":"he101","name":"HE101","tagline_ko":"Hermes 입문 + 게이트웨이","tagline_en":"Hermes intro + gateway","accentLabel_ko":"000_overview/00_hermes_overview.md","accentLabel_en":"000_overview/00_hermes_overview.md","heroTitle_ko":"자기개선형 멀티채널 에이전트","heroTitle_en":"Self-improving multi-channel agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 29장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 29 developer docs","terminalLines":["$$ pip install hermes-agent","$$ hermes"],"prompt_ko":"> 텔레그램으로도 같은 세션 이어줘","prompt_en":"> continue this session on Telegram","ctaHash":"00-before-you-start","officialUrl":"https://github.com/NousResearch/hermes-agent","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"HE101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-hermes","order":2,"tier":"core","slug":"02-what-is-hermes","title_ko":"Hermes가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/02-what-is-hermes.md","file_en":"en/02-what-is-hermes.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동","title_en":"Overview §1","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 다채널 게이트웨이 (핵심 차별점)","title_en":"Overview §2","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 도구 시스템","title_en":"Overview §3","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 시스템 프롬프트 조립 (3계층)","title_en":"Overview §4","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 메모리 시스템 (영속·자기개선)","title_en":"Overview §5","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 에이전트 루프","title_en":"Overview §6","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 턴/세션을 넘어 살아남는 실행","title_en":"Overview §7","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 보안·승인·샌드박스","title_en":"Overview §8","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. ACP 어댑터 (에디터 통합)","title_en":"Overview §9","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 플러그인·스킬 생태계","title_en":"Overview §10","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 관찰성","title_en":"Overview §11","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. cli-jaw 비교 시사점","title_en":"Overview §12","description_ko":"000_overview/00_hermes_overview.md","description_en":"000_overview/00_hermes_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":19,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_hermes_tui.md","description_en":"001_tui-design/01_hermes_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":20,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_hermes_prompt.md","description_en":"002_prompt-context/02_hermes_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":21,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_hermes_tool.md","description_en":"003_tool-runtime/03_hermes_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":22,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_hermes_skill.md","description_en":"004_skill-system/04_hermes_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":23,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_hermes_subagent.md","description_en":"005_subagents-collab/05_hermes_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":24,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_hermes_surface.md","description_en":"006_app-server-client-surfaces/06_hermes_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":25,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_hermes_sandbox.md","description_en":"007_sandbox-exec-policy/07_hermes_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":26,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_hermes_config.md","description_en":"008_config-system/08_hermes_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":27,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_hermes_mcp.md","description_en":"009_mcp-orchestration/09_hermes_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":28,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_hermes_memory.md","description_en":"010_memory-pipeline/10_hermes_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":29,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_hermes_plugin.md","description_en":"011_plugin-system/11_hermes_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":30,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_hermes_guardian.md","description_en":"012_guardian-approval/12_hermes_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":31,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_hermes_etc.md","description_en":"013_etc/13_hermes_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":32,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_hermes_web-search.md","description_en":"014_web-search/14_hermes_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":33,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":34,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}],["$L27"],"$L28"]}],"loading":null,"isPartial":false}
 2a:T19fd,<h2>Overview</h2>
 <p><strong>Before you start</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
@@ -182,21 +182,21 @@ hermes              # start chatting!
 </tbody>
 </table>
 4:["$","$L29","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"Before you start","description":"000 index + axis map","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2a"}}]}]
-2b:T8946,<h2>Overview</h2>
+2b:T7722,<h2>Overview</h2>
 <p><strong>Corpus spine (000)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</li>
-<li>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</li>
-<li>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</li>
+<li>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</li>
+<li>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</li>
 <li>| Purpose | Path | Classification |</li>
-<li>| Root overview and synthesis | <code>/Users/jun/Developer/codex/000/</code> | <code>overview-index</code> |</li>
-<li>| Deep harness overview docs | <code>/Users/jun/Developer/codex/000_overview/</code> | <code>deep-overview</code> |</li>
-<li>| TUI design axis | <code>/Users/jun/Developer/codex/001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Prompt/context axis | <code>/Users/jun/Developer/codex/002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Tool/runtime axis | <code>/Users/jun/Developer/codex/003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Skill system axis | <code>/Users/jun/Developer/codex/004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Subagents/collaboration axis | <code>/Users/jun/Developer/codex/005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| App/server/client surfaces axis | <code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Root overview and synthesis | <code>000/</code> | <code>overview-index</code> |</li>
+<li>| Deep harness overview docs | <code>000_overview/</code> | <code>deep-overview</code> |</li>
+<li>| TUI design axis | <code>001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Prompt/context axis | <code>002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Tool/runtime axis | <code>003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Skill system axis | <code>004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Subagents/collaboration axis | <code>005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| App/server/client surfaces axis | <code>006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
 </ul>
 <h2>Topics covered</h2>
 <ul>
@@ -260,8 +260,8 @@ docs/
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -274,87 +274,87 @@ docs/
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -370,122 +370,122 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -525,7 +525,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -534,26 +534,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -639,7 +639,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -649,7 +649,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -665,8 +665,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (excerpt)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -680,52 +680,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 <h2>Korean corpus (reference)</h2>
 <blockquote>
@@ -734,8 +734,8 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -748,87 +748,87 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -844,122 +844,122 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -999,7 +999,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -1008,26 +1008,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -1113,7 +1113,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -1123,7 +1123,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -1139,8 +1139,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (발췌)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -1154,52 +1154,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 5:["$","$L29","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"Corpus spine (000)","description":"navigation + canonical map","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2b"}}]}]
 2c:T19b8,<h2>Overview</h2>
@@ -3574,17 +3574,17 @@ hermes              # start chatting!
 </ul>
 <hr>
 16:["$","$L29","07-overview-12",{"id":"07-overview-12","order":18,"tier":"developer","title":"Overview §12","description":"000_overview/00_hermes_overview.md","lang":"en","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3c"}}]}]
-3d:T162b1,<h2>Overview</h2>
+3d:T16245,<h2>Overview</h2>
 <p><strong>Axis 01: TUI design</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/160_hermes-agent/</code> (TypeScript + gateway sources).</p>
+<p><strong>분석 스냅샷</strong>: <code>160_hermes-agent/</code> (TypeScript + gateway sources).</p>
 </blockquote>
 </li>
 <li>
 <blockquote>
-<p>이 문서는 [[00_hermes_overview]]의 동작 원리 분석을 <strong>TUI/CLI 렌더링·입력·스트리밍·슬래시 UX</strong> 차원으로 좁혀 소스 기반으로 분석한다. 분석 대상은 실제 저장소 <code>/Users/jun/developer/codex/hermes-agent</code>이며, 모든 구조적 주장은 파일 경로(또는 <code>path:line</code>)로 근거를 단다. 골드 레퍼런스([[01_cc_tui]])와 달리 Hermes는 **난독화 번들이</p>
+<p>이 문서는 [[00_hermes_overview]]의 동작 원리 분석을 <strong>TUI/CLI 렌더링·입력·스트리밍·슬래시 UX</strong> 차원으로 좁혀 소스 기반으로 분석한다. 분석 대상은 실제 저장소 <code>~/developer/codex/hermes-agent</code>이며, 모든 구조적 주장은 파일 경로(또는 <code>path:line</code>)로 근거를 단다. 골드 레퍼런스([[01_cc_tui]])와 달리 Hermes는 **난독화 번들이</p>
 </blockquote>
 </li>
 <li>Claude Code의 TUI가 "622K 줄 단일 번들 안의 커스텀 Ink 포크"라면, Hermes의 핵심 TUI는 <strong>별도의 Node/TypeScript 워크스페이스(<code>ui-tui/</code>)에 자체 포크한 Ink 렌더러(<code>@hermes/ink</code>)를 두고, 화면(TS)과 두뇌(Python)를 newline-delimited JSON-RPC 파이프로 분리</strong>한 2-프로세스 아키텍처다. 즉 Hermes에는 **두 개의 독립된 입력 표</li>
@@ -3674,10 +3674,10 @@ hermes              # start chatting!
 <h2>Main analysis</h2>
 <h1>Hermes Agent TUI/Input Surface</h1>
 <blockquote>
-<p><strong>Analysis Snapshot</strong>: <code>/Users/jun/Developer/codex/160_hermes-agent/</code> (TypeScript + gateway sources).</p>
+<p><strong>Analysis Snapshot</strong>: <code>160_hermes-agent/</code> (TypeScript + gateway sources).</p>
 </blockquote>
 <blockquote>
-<p>This document narrows the analysis of the operating principles of [[00_hermes_overview]] to the <strong>TUI/CLI rendering/input/streaming/slash UX</strong> dimension and analyzes it based on the source. The target of analysis is the actual repository <code>/Users/jun/developer/codex/hermes-agent</code>, and all structural claims are based on file paths (or <code>path:line</code>). Unlike the gold reference ([[01_cc_tui]]), Hermes is <strong>the original source, not an obfuscated bundle</strong>, so the identifier is read as is. The analysis version standard is <code>0.15.1</code> of <code>acp_registry/agent.json</code>.</p>
+<p>This document narrows the analysis of the operating principles of [[00_hermes_overview]] to the <strong>TUI/CLI rendering/input/streaming/slash UX</strong> dimension and analyzes it based on the source. The target of analysis is the actual repository <code>~/developer/codex/hermes-agent</code>, and all structural claims are based on file paths (or <code>path:line</code>). Unlike the gold reference ([[01_cc_tui]]), Hermes is <strong>the original source, not an obfuscated bundle</strong>, so the identifier is read as is. The analysis version standard is <code>0.15.1</code> of <code>acp_registry/agent.json</code>.</p>
 </blockquote>
 <p>If Claude Code's TUI is a "custom Ink fork in a single 622K line bundle," Hermes' core TUI is a two-process architecture <strong>with its own forked Ink renderer (<code>@hermes/ink</code>) in a separate Node/TypeScript workspace (<code>ui-tui/</code>), and the screen (TS) and brain (Python) separated by a newline-delimited JSON-RPC pipe</strong>. In other words, <strong>two independent input surfaces</strong> coexist in Hermes.</p>
 <ol>
@@ -4217,10 +4217,10 @@ hermes              # start chatting!
 </blockquote>
 <h1>Hermes Agent TUI / 입력 표면</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/160_hermes-agent/</code> (TypeScript + gateway sources).</p>
+<p><strong>분석 스냅샷</strong>: <code>160_hermes-agent/</code> (TypeScript + gateway sources).</p>
 </blockquote>
 <blockquote>
-<p>이 문서는 [[00_hermes_overview]]의 동작 원리 분석을 <strong>TUI/CLI 렌더링·입력·스트리밍·슬래시 UX</strong> 차원으로 좁혀 소스 기반으로 분석한다. 분석 대상은 실제 저장소 <code>/Users/jun/developer/codex/hermes-agent</code>이며, 모든 구조적 주장은 파일 경로(또는 <code>path:line</code>)로 근거를 단다. 골드 레퍼런스([[01_cc_tui]])와 달리 Hermes는 <strong>난독화 번들이 아닌 원본 소스</strong>라 식별자가 그대로 읽힌다. 분석 버전 기준은 <code>acp_registry/agent.json</code>의 <code>0.15.1</code>.</p>
+<p>이 문서는 [[00_hermes_overview]]의 동작 원리 분석을 <strong>TUI/CLI 렌더링·입력·스트리밍·슬래시 UX</strong> 차원으로 좁혀 소스 기반으로 분석한다. 분석 대상은 실제 저장소 <code>~/developer/codex/hermes-agent</code>이며, 모든 구조적 주장은 파일 경로(또는 <code>path:line</code>)로 근거를 단다. 골드 레퍼런스([[01_cc_tui]])와 달리 Hermes는 <strong>난독화 번들이 아닌 원본 소스</strong>라 식별자가 그대로 읽힌다. 분석 버전 기준은 <code>acp_registry/agent.json</code>의 <code>0.15.1</code>.</p>
 </blockquote>
 <p>Claude Code의 TUI가 "622K 줄 단일 번들 안의 커스텀 Ink 포크"라면, Hermes의 핵심 TUI는 <strong>별도의 Node/TypeScript 워크스페이스(<code>ui-tui/</code>)에 자체 포크한 Ink 렌더러(<code>@hermes/ink</code>)를 두고, 화면(TS)과 두뇌(Python)를 newline-delimited JSON-RPC 파이프로 분리</strong>한 2-프로세스 아키텍처다. 즉 Hermes에는 <strong>두 개의 독립된 입력 표면</strong>이 공존한다.</p>
 <ol>
@@ -19759,12 +19759,12 @@ _MEDIA_DELIVERY_DENIED_HOME_SUBPATHS = (".ssh",".aws",".gnupg",".kube",
 <li>2026-05-29: Hermes Agent(<code>NousResearch/hermes-agent</code> v0.15.1) 가디언/승인 차원 최초 작성. tirith 사전실행 스캔(<code>check_command_security</code> exit-code 0/1/2 판정 + fail-open + cosign/SHA-256 자동설치), 3계층 위험패턴(HARDLINE/sudo-stdin/DANGEROUS) + NFKC 정규화 + 키 alias, <code>check_all_command_guards</code> 8단계 판정 + YOLO freeze + 스마트승인(보조 LLM) + 게이트웨이 Event 큐 콜백/consent contract + execute_code one-shot 가드 + cron_mode, 미디어 전달 방어(denylist + recency-window 600s + strict mode), 채널 인가/<code>_get_unauthorized_dm_behavior</code>/페어링(secrets 8자/1h TTL/rate limit), 방어계층 요약표, cli-jaw 4항목 비교 포함.</li>
 </ul>
 22:["$","$L29","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":30,"tier":"deep","title":"Axis 12: Guardian & approval","description":"012_guardian-approval/12_hermes_guardian.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:T15d3b,<h2>Overview</h2>
+49:T15bca,<h2>Overview</h2>
 <p><strong>Axis 13: Cross-cutting</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
 <blockquote>
-<p>이 문서는 [[00_hermes_overview]]가 다룬 본류 차원(기동·게이트웨이·도구·시스템 프롬프트·메모리·에이전트 루프·턴 생존 실행·보안·ACP·플러그인·관찰성)에 **포함되지 않은 잔여 교차 관심사(cross-cutting concerns)**를 소스 기반으로 정리한다. 분석 대상은 <code>NousResearch/hermes-agent</code> 저장소(`/Users/jun/developer/codex/hermes-agent</p>
+<p>이 문서는 [[00_hermes_overview]]가 다룬 본류 차원(기동·게이트웨이·도구·시스템 프롬프트·메모리·에이전트 루프·턴 생존 실행·보안·ACP·플러그인·관찰성)에 **포함되지 않은 잔여 교차 관심사(cross-cutting concerns)**를 소스 기반으로 정리한다. 분석 대상은 <code>NousResearch/hermes-agent</code> 저장소(`~/developer/codex/hermes-agent</p>
 </blockquote>
 </li>
 <li>
@@ -19857,7 +19857,7 @@ gateway:
 <h2>Main analysis</h2>
 <h1>Hermes Agent Remaining Cross Interest</h1>
 <blockquote>
-<p>This document organizes on a source-by-source basis the remaining cross-cutting concerns** not included in the main dimensions covered by [[00_hermes_overview]] (startup, gateway, tools, system prompts, memory, agent loop, turn-surviving execution, security, ACP, plug-ins, observability). The analysis target is the Python body (~1,984 <code>.py</code>) of the <code>NousResearch/hermes-agent</code> repository (<code>/Users/jun/developer/codex/hermes-agent</code>), and the analysis standard version is <code>0.15.1</code> of <code>pyproject.toml</code>. The target of comparison is [[13_cc_etc]](Claude Code), which analyzes the same dimension as a deobfuscation bundle.</p>
+<p>This document organizes on a source-by-source basis the remaining cross-cutting concerns** not included in the main dimensions covered by [[00_hermes_overview]] (startup, gateway, tools, system prompts, memory, agent loop, turn-surviving execution, security, ACP, plug-ins, observability). The analysis target is the Python body (~1,984 <code>.py</code>) of the <code>NousResearch/hermes-agent</code> repository (<code>~/developer/codex/hermes-agent</code>), and the analysis standard version is <code>0.15.1</code> of <code>pyproject.toml</code>. The target of comparison is [[13_cc_etc]](Claude Code), which analyzes the same dimension as a deobfuscation bundle.</p>
 <p>Unlike Claude Code analysis, which was tied to webpack bundle decompilation and ended up as “unverifiable/absent” in some areas (testing infrastructure, i18n), Hermes is plain text open source, so the actual implementation can be cited directly. Therefore, this document explicitly contrasts whether the space vacated by CC was filled by Hermes in the same dimension.</p>
 </blockquote>
 <hr>
@@ -20324,79 +20324,79 @@ gateway:
 <tbody>
 <tr>
 <td>shadow-git checkpoint</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/tools/checkpoint_manager.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/tools/checkpoint_manager.py</code></td>
 </tr>
 <tr>
 <td>Build SHA</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/build_info.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/build_info.py</code></td>
 </tr>
 <tr>
 <td>error classifier</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/error_classifier.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/error_classifier.py</code></td>
 </tr>
 <tr>
 <td>Nous rate guard</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/nous_rate_guard.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/nous_rate_guard.py</code></td>
 </tr>
 <tr>
 <td>fallback chain</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/fallback_config.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/fallback_config.py</code></td>
 </tr>
 <tr>
 <td>Bedrock adapter</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/bedrock_adapter.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/bedrock_adapter.py</code></td>
 </tr>
 <tr>
 <td>Azure adapter</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/azure_identity_adapter.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/azure_identity_adapter.py</code></td>
 </tr>
 <tr>
 <td>Gemini CloudCode Adapter</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/gemini_cloudcode_adapter.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/gemini_cloudcode_adapter.py</code></td>
 </tr>
 <tr>
 <td>secondary client</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/auxiliary_client.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/auxiliary_client.py</code></td>
 </tr>
 <tr>
 <td>secret env loader</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/env_loader.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/env_loader.py</code></td>
 </tr>
 <tr>
 <td>Provider Certification</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/auth.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/auth.py</code></td>
 </tr>
 <tr>
 <td>vision tools</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/tools/vision_tools.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/tools/vision_tools.py</code></td>
 </tr>
 <tr>
 <td>cron scheduler</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/cron/scheduler.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/cron/scheduler.py</code></td>
 </tr>
 <tr>
 <td>feature gate</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/commands.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/commands.py</code></td>
 </tr>
 <tr>
 <td>Usage Accounting</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/insights.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/insights.py</code></td>
 </tr>
 <tr>
 <td>i18n core</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/i18n.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/i18n.py</code></td>
 </tr>
 <tr>
 <td>Locale Catalog</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/locales/*.yaml</code> (16 types)</td>
+<td><code>~/developer/codex/160_hermes-agent/locales/*.yaml</code> (16 types)</td>
 </tr>
 <tr>
 <td>test invariant</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/tests/conftest.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/tests/conftest.py</code></td>
 </tr>
 <tr>
 <td>Docker</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/Dockerfile</code>, <code>docker/</code></td>
+<td><code>~/developer/codex/160_hermes-agent/Dockerfile</code>, <code>docker/</code></td>
 </tr>
 </tbody>
 </table>
@@ -20411,7 +20411,7 @@ gateway:
 </blockquote>
 <h1>Hermes Agent 잔여 교차 관심사</h1>
 <blockquote>
-<p>이 문서는 [[00_hermes_overview]]가 다룬 본류 차원(기동·게이트웨이·도구·시스템 프롬프트·메모리·에이전트 루프·턴 생존 실행·보안·ACP·플러그인·관찰성)에 **포함되지 않은 잔여 교차 관심사(cross-cutting concerns)**를 소스 기반으로 정리한다. 분석 대상은 <code>NousResearch/hermes-agent</code> 저장소(<code>/Users/jun/developer/codex/hermes-agent</code>)의 Python 본체(~1,984 <code>.py</code>)이며, 분석 기준 버전은 <code>pyproject.toml</code>의 <code>0.15.1</code>이다. 비교 대상은 동일 차원을 난독화 해제 번들로 분석한 [[13_cc_etc]](Claude Code)이다.</p>
+<p>이 문서는 [[00_hermes_overview]]가 다룬 본류 차원(기동·게이트웨이·도구·시스템 프롬프트·메모리·에이전트 루프·턴 생존 실행·보안·ACP·플러그인·관찰성)에 **포함되지 않은 잔여 교차 관심사(cross-cutting concerns)**를 소스 기반으로 정리한다. 분석 대상은 <code>NousResearch/hermes-agent</code> 저장소(<code>~/developer/codex/hermes-agent</code>)의 Python 본체(~1,984 <code>.py</code>)이며, 분석 기준 버전은 <code>pyproject.toml</code>의 <code>0.15.1</code>이다. 비교 대상은 동일 차원을 난독화 해제 번들로 분석한 [[13_cc_etc]](Claude Code)이다.</p>
 <p>Claude Code 분석이 webpack 번들 역컴파일에 묶여 일부 영역(테스트 인프라, i18n)에서 "확인 불가/부재"로 끝난 것과 달리, Hermes는 평문 오픈소스라 실재 구현을 직접 인용할 수 있다. 따라서 이 문서는 같은 차원에서 <strong>CC가 비웠던 칸이 Hermes에서 채워졌는지</strong>를 명시적으로 대조한다.</p>
 </blockquote>
 <hr>
@@ -20878,79 +20878,79 @@ gateway:
 <tbody>
 <tr>
 <td>shadow-git 체크포인트</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/tools/checkpoint_manager.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/tools/checkpoint_manager.py</code></td>
 </tr>
 <tr>
 <td>빌드 SHA</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/build_info.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/build_info.py</code></td>
 </tr>
 <tr>
 <td>에러 분류기</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/error_classifier.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/error_classifier.py</code></td>
 </tr>
 <tr>
 <td>Nous rate guard</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/nous_rate_guard.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/nous_rate_guard.py</code></td>
 </tr>
 <tr>
 <td>폴백 체인</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/fallback_config.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/fallback_config.py</code></td>
 </tr>
 <tr>
 <td>Bedrock 어댑터</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/bedrock_adapter.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/bedrock_adapter.py</code></td>
 </tr>
 <tr>
 <td>Azure 어댑터</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/azure_identity_adapter.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/azure_identity_adapter.py</code></td>
 </tr>
 <tr>
 <td>Gemini CloudCode 어댑터</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/gemini_cloudcode_adapter.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/gemini_cloudcode_adapter.py</code></td>
 </tr>
 <tr>
 <td>보조 클라이언트</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/auxiliary_client.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/auxiliary_client.py</code></td>
 </tr>
 <tr>
 <td>시크릿 env 로더</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/env_loader.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/env_loader.py</code></td>
 </tr>
 <tr>
 <td>프로바이더 인증</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/auth.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/auth.py</code></td>
 </tr>
 <tr>
 <td>vision 도구</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/tools/vision_tools.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/tools/vision_tools.py</code></td>
 </tr>
 <tr>
 <td>cron 스케줄러</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/cron/scheduler.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/cron/scheduler.py</code></td>
 </tr>
 <tr>
 <td>피처 게이트</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/hermes_cli/commands.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/hermes_cli/commands.py</code></td>
 </tr>
 <tr>
 <td>사용량 회계</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/insights.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/insights.py</code></td>
 </tr>
 <tr>
 <td>i18n 코어</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/agent/i18n.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/agent/i18n.py</code></td>
 </tr>
 <tr>
 <td>로케일 카탈로그</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/locales/*.yaml</code> (16종)</td>
+<td><code>~/developer/codex/160_hermes-agent/locales/*.yaml</code> (16종)</td>
 </tr>
 <tr>
 <td>테스트 불변식</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/tests/conftest.py</code></td>
+<td><code>~/developer/codex/160_hermes-agent/tests/conftest.py</code></td>
 </tr>
 <tr>
 <td>Docker</td>
-<td><code>/Users/jun/developer/codex/160_hermes-agent/Dockerfile</code>, <code>docker/</code></td>
+<td><code>~/developer/codex/160_hermes-agent/Dockerfile</code>, <code>docker/</code></td>
 </tr>
 </tbody>
 </table>
@@ -22001,7 +22001,7 @@ provides_web_providers:
 </tbody>
 </table>
 24:["$","$L29","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":32,"tier":"deep","title":"Axis 14: Web search","description":"014_web-search/14_hermes_web-search.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-4b:T41ee,<h2>Overview</h2>
+4b:T40d7,<h2>Overview</h2>
 <p><strong>Reverse engineering (015)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</li>
@@ -22012,7 +22012,7 @@ provides_web_providers:
 <li>| binary-string | native binary <code>strings</code>, <code>file</code>, <code>otool</code>, <code>codesign</code>, <code>nm</code> | crate/package/protocol/tool/evaluator 이름이 embedded되어 있다 |</li>
 <li>| runtime-trace | synthetic project에서 실제 명령을 실행한 결과 | 동작 semantics, precedence, permission enforcement를 확인했다 |</li>
 <li>| private-artifact-name | 비공개 상태 파일의 경로/개수만 관찰 | artifact가 존재한다. 내용/schema 주장은 금지 |</li>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
+<li><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
 <li>auth/token/cookie/credential/login data</li>
 <li>raw transcript, chat history, conversation DB/PB</li>
 <li>logs and terminal captures</li>
@@ -22096,7 +22096,7 @@ hermes              # start chatting!
 </tr>
 </tbody>
 </table>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
+<p><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
 <h2>Hard Boundary</h2>
 <p>The purpose of reverse analysis is to restore product structure, not to extract user state. Next, reading the content is prohibited.</p>
 <ul>
@@ -22112,7 +22112,7 @@ hermes              # start chatting!
 <h2>Installed CLI version pin (2026-06-27)</h2>
 <p>Single source of truth for pinned <code>ay</code>/<code>cr</code>/<code>gr</code>/<code>ki</code> binaries:</p>
 <ul>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
+<li><code>015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
 </ul>
 <p>WP5 trace shards (<code>38</code>–<code>41</code>) extend hubs without changing evidence-level definitions above.</p>
 <h2>Current Upgrade Scope</h2>
@@ -22128,7 +22128,7 @@ hermes              # start chatting!
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> v1.0.12+</td>
+<td><code>~/.local/bin/agy</code> v1.0.12+</td>
 <td>help, changelog, strings; <code>38_ay_project_flags_trace.md</code></td>
 </tr>
 <tr>
@@ -22160,22 +22160,22 @@ hermes              # start chatting!
 <tbody>
 <tr>
 <td><code>gr</code></td>
-<td><code>/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>/Users/jun/.grok/bundled</code>, <code>/Users/jun/.grok/docs/user-guide</code></td>
+<td><code>~/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>~/.grok/bundled</code>, <code>~/.grok/docs/user-guide</code></td>
 <td>Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills</td>
 </tr>
 <tr>
 <td><code>cr</code></td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 <td>Webpack module keys, route extraction, proto module names, native helper inventory</td>
 </tr>
 <tr>
 <td><code>ki</code></td>
-<td><code>/Applications/Kiro CLI.app</code>, <code>/Users/jun/.local/bin/kiro-cli*</code></td>
+<td><code>/Applications/Kiro CLI.app</code>, <code>~/.local/bin/kiro-cli*</code></td>
 <td>signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets</td>
 </tr>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code>, <code>/Users/jun/.gemini/antigravity-cli</code></td>
+<td><code>~/.local/bin/agy</code>, <code>~/.gemini/antigravity-cli</code></td>
 <td>Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries</td>
 </tr>
 </tbody>
@@ -22236,7 +22236,7 @@ hermes              # start chatting!
 </tr>
 </tbody>
 </table>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
+<p><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
 <h2>Hard Boundary</h2>
 <p>역분석의 목적은 제품 구조 복원이지 사용자 상태 추출이 아니다. 다음은 내용 읽기 금지다.</p>
 <ul>
@@ -22252,7 +22252,7 @@ hermes              # start chatting!
 <h2>Installed CLI version pin (2026-06-27)</h2>
 <p>Single source of truth for pinned <code>ay</code>/<code>cr</code>/<code>gr</code>/<code>ki</code> binaries:</p>
 <ul>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
+<li><code>015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
 </ul>
 <p>WP5 trace shards (<code>38</code>–<code>41</code>) extend hubs without changing evidence-level definitions above.</p>
 <h2>Current Upgrade Scope</h2>
@@ -22268,7 +22268,7 @@ hermes              # start chatting!
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> v1.0.12+</td>
+<td><code>~/.local/bin/agy</code> v1.0.12+</td>
 <td>help, changelog, strings; <code>38_ay_project_flags_trace.md</code></td>
 </tr>
 <tr>
@@ -22300,22 +22300,22 @@ hermes              # start chatting!
 <tbody>
 <tr>
 <td><code>gr</code></td>
-<td><code>/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>/Users/jun/.grok/bundled</code>, <code>/Users/jun/.grok/docs/user-guide</code></td>
+<td><code>~/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>~/.grok/bundled</code>, <code>~/.grok/docs/user-guide</code></td>
 <td>Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills</td>
 </tr>
 <tr>
 <td><code>cr</code></td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 <td>Webpack module keys, route extraction, proto module names, native helper inventory</td>
 </tr>
 <tr>
 <td><code>ki</code></td>
-<td><code>/Applications/Kiro CLI.app</code>, <code>/Users/jun/.local/bin/kiro-cli*</code></td>
+<td><code>/Applications/Kiro CLI.app</code>, <code>~/.local/bin/kiro-cli*</code></td>
 <td>signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets</td>
 </tr>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code>, <code>/Users/jun/.gemini/antigravity-cli</code></td>
+<td><code>~/.local/bin/agy</code>, <code>~/.gemini/antigravity-cli</code></td>
 <td>Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries</td>
 </tr>
 </tbody>

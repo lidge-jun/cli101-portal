@@ -3,7 +3,7 @@
 3:I[27756,["/cli101-portal/sites/antigravity/_next/static/chunks/632d5794df09229a.js"],"PageClient"]
 2c:I[15824,["/cli101-portal/sites/antigravity/_next/static/chunks/632d5794df09229a.js"],"SectionBlock"]
 52:I[59374,["/cli101-portal/sites/antigravity/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/antigravity/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
-0:{"buildId":"6jIRcK6QSIdfLVe1X-o_t","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"en","siteName":"AG101","tagline":"AG101 developer-grade corpus guide","taglineEn":"AG101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_ag_overview.md","branding":{"slug":"ag101","name":"AG101","tagline_ko":"Antigravity 입문 + Cascade","tagline_en":"Antigravity intro + Cascade","accentLabel_ko":"000_overview/00_ag_overview.md","accentLabel_en":"000_overview/00_ag_overview.md","heroTitle_ko":"IDE 네이티브 AI 에이전트","heroTitle_en":"IDE-native AI agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 32장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 32 developer docs","terminalLines":["$$ windsurf","# Cascade panel in IDE"],"prompt_ko":"> 이 함수 리팩터링해줘","prompt_en":"> refactor this function","ctaHash":"00-before-you-start","officialUrl":"https://antigravity.google/","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"AG101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-antigravity","order":2,"tier":"core","slug":"02-what-is-antigravity","title_ko":"Antigravity가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/02-what-is-antigravity.md","file_en":"en/02-what-is-antigravity.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동 시퀀스","title_en":"Overview §1","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. Cascade 세션 생명주기","title_en":"Overview §2","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 프롬프트 조립 파이프라인","title_en":"Overview §3","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. LLM 호출과 도구 디스패치","title_en":"Overview §4","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. Trajectory와 Step 관리","title_en":"Overview §5","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 코드 편집과 diff zone","title_en":"Overview §6","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 명령 실행과 보안","title_en":"Overview §7","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Executor 3-tier 시스템","title_en":"Overview §8","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. Implicit Trajectory (암묵적 컨텍스트)","title_en":"Overview §9","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. Knowledge 시스템","title_en":"Overview §10","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. MCP 통합","title_en":"Overview §11","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. 에러 처리와 복구","title_en":"Overview §12","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-13","order":19,"tier":"developer","slug":"07-overview-13","title_ko":"13. 사용자 상호작용","title_en":"Overview §13","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-13.md","file_en":"en/07-overview-13.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-14","order":20,"tier":"developer","slug":"07-overview-14","title_ko":"14. 세션 종료와 후처리","title_en":"Overview §14","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-14.md","file_en":"en/07-overview-14.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-15","order":21,"tier":"developer","slug":"07-overview-15","title_ko":"15. 전체 에이전트 루프 요약","title_en":"Overview §15","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-15.md","file_en":"en/07-overview-15.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":22,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_ag_tui.md","description_en":"001_tui-design/01_ag_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":23,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_ag_prompt.md","description_en":"002_prompt-context/02_ag_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":24,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_ag_tool.md","description_en":"003_tool-runtime/03_ag_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":25,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_ag_skill.md","description_en":"004_skill-system/04_ag_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":26,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_ag_subagent.md","description_en":"005_subagents-collab/05_ag_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":27,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_ag_surface.md","description_en":"006_app-server-client-surfaces/06_ag_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":28,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_ag_sandbox.md","description_en":"007_sandbox-exec-policy/07_ag_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":29,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_ag_config.md","description_en":"008_config-system/08_ag_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":30,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_ag_mcp.md","description_en":"009_mcp-orchestration/09_ag_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":31,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_ag_memory.md","description_en":"010_memory-pipeline/10_ag_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":32,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_ag_plugin.md","description_en":"011_plugin-system/11_ag_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":33,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_ag_guardian.md","description_en":"012_guardian-approval/12_ag_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":34,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_ag_etc.md","description_en":"013_etc/13_ag_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":35,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_ag_web-search.md","description_en":"014_web-search/14_ag_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":36,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":37,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}],["$L2a"],"$L2b"]}],"loading":null,"isPartial":false}
+0:{"buildId":"KvZO9-xBRif8sp-RGfLlL","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"en","siteName":"AG101","tagline":"AG101 developer-grade corpus guide","taglineEn":"AG101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_ag_overview.md","branding":{"slug":"ag101","name":"AG101","tagline_ko":"Antigravity 입문 + Cascade","tagline_en":"Antigravity intro + Cascade","accentLabel_ko":"000_overview/00_ag_overview.md","accentLabel_en":"000_overview/00_ag_overview.md","heroTitle_ko":"IDE 네이티브 AI 에이전트","heroTitle_en":"IDE-native AI agent","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 32장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 32 developer docs","terminalLines":["$$ windsurf","# Cascade panel in IDE"],"prompt_ko":"> 이 함수 리팩터링해줘","prompt_en":"> refactor this function","ctaHash":"00-before-you-start","officialUrl":"https://antigravity.google/","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"AG101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-antigravity","order":2,"tier":"core","slug":"02-what-is-antigravity","title_ko":"Antigravity가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/02-what-is-antigravity.md","file_en":"en/02-what-is-antigravity.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 시스템 기동 시퀀스","title_en":"Overview §1","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. Cascade 세션 생명주기","title_en":"Overview §2","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 프롬프트 조립 파이프라인","title_en":"Overview §3","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. LLM 호출과 도구 디스패치","title_en":"Overview §4","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. Trajectory와 Step 관리","title_en":"Overview §5","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 코드 편집과 diff zone","title_en":"Overview §6","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. 명령 실행과 보안","title_en":"Overview §7","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Executor 3-tier 시스템","title_en":"Overview §8","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. Implicit Trajectory (암묵적 컨텍스트)","title_en":"Overview §9","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. Knowledge 시스템","title_en":"Overview §10","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. MCP 통합","title_en":"Overview §11","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-12","order":18,"tier":"developer","slug":"07-overview-12","title_ko":"12. 에러 처리와 복구","title_en":"Overview §12","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-12.md","file_en":"en/07-overview-12.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-13","order":19,"tier":"developer","slug":"07-overview-13","title_ko":"13. 사용자 상호작용","title_en":"Overview §13","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-13.md","file_en":"en/07-overview-13.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-14","order":20,"tier":"developer","slug":"07-overview-14","title_ko":"14. 세션 종료와 후처리","title_en":"Overview §14","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-14.md","file_en":"en/07-overview-14.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-15","order":21,"tier":"developer","slug":"07-overview-15","title_ko":"15. 전체 에이전트 루프 요약","title_en":"Overview §15","description_ko":"000_overview/00_ag_overview.md","description_en":"000_overview/00_ag_overview.md","file_ko":"ko/07-overview-15.md","file_en":"en/07-overview-15.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":22,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_ag_tui.md","description_en":"001_tui-design/01_ag_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":23,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_ag_prompt.md","description_en":"002_prompt-context/02_ag_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":24,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_ag_tool.md","description_en":"003_tool-runtime/03_ag_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":25,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_ag_skill.md","description_en":"004_skill-system/04_ag_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":26,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_ag_subagent.md","description_en":"005_subagents-collab/05_ag_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":27,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_ag_surface.md","description_en":"006_app-server-client-surfaces/06_ag_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":28,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_ag_sandbox.md","description_en":"007_sandbox-exec-policy/07_ag_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":29,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_ag_config.md","description_en":"008_config-system/08_ag_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":30,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_ag_mcp.md","description_en":"009_mcp-orchestration/09_ag_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":31,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_ag_memory.md","description_en":"010_memory-pipeline/10_ag_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":32,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_ag_plugin.md","description_en":"011_plugin-system/11_ag_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":33,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_ag_guardian.md","description_en":"012_guardian-approval/12_ag_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":34,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_ag_etc.md","description_en":"013_etc/13_ag_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":35,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_ag_web-search.md","description_en":"014_web-search/14_ag_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":36,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":37,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}],["$L2a"],"$L2b"]}],"loading":null,"isPartial":false}
 2d:Tfaa,<h2>Overview</h2>
 <p><strong>Before you start</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
@@ -162,21 +162,21 @@
 </tbody>
 </table>
 4:["$","$L2c","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"Before you start","description":"000 index + axis map","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2d"}}]}]
-2e:Td939,<h2>Overview</h2>
+2e:Tc715,<h2>Overview</h2>
 <p><strong>Corpus spine (000)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</li>
-<li>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</li>
-<li>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</li>
+<li>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</li>
+<li>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</li>
 <li>| Purpose | Path | Classification |</li>
-<li>| Root overview and synthesis | <code>/Users/jun/Developer/codex/000/</code> | <code>overview-index</code> |</li>
-<li>| Deep harness overview docs | <code>/Users/jun/Developer/codex/000_overview/</code> | <code>deep-overview</code> |</li>
-<li>| TUI design axis | <code>/Users/jun/Developer/codex/001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Prompt/context axis | <code>/Users/jun/Developer/codex/002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Tool/runtime axis | <code>/Users/jun/Developer/codex/003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Skill system axis | <code>/Users/jun/Developer/codex/004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Subagents/collaboration axis | <code>/Users/jun/Developer/codex/005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| App/server/client surfaces axis | <code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Root overview and synthesis | <code>000/</code> | <code>overview-index</code> |</li>
+<li>| Deep harness overview docs | <code>000_overview/</code> | <code>deep-overview</code> |</li>
+<li>| TUI design axis | <code>001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Prompt/context axis | <code>002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Tool/runtime axis | <code>003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Skill system axis | <code>004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Subagents/collaboration axis | <code>005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| App/server/client surfaces axis | <code>006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
 </ul>
 <h2>Topics covered</h2>
 <ul>
@@ -270,8 +270,8 @@ docs/
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -284,87 +284,87 @@ docs/
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -380,122 +380,122 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -535,7 +535,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -544,26 +544,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -649,7 +649,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -659,7 +659,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -785,8 +785,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (excerpt)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -800,52 +800,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 <h2>Korean corpus (reference)</h2>
 <blockquote>
@@ -854,8 +854,8 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -868,87 +868,87 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -964,122 +964,122 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -1119,7 +1119,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -1128,26 +1128,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -1233,7 +1233,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -1243,7 +1243,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -1369,8 +1369,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (발췌)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -1384,52 +1384,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 5:["$","$L2c","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"Corpus spine (000)","description":"navigation + canonical map","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2e"}}]}]
 2f:T1a7f,<h2>Overview</h2>
@@ -1681,7 +1681,7 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <p>See <code>000_overview/00_ag_overview.md</code> and official docs.</p>
 </blockquote>
 7:["$","$L2c","03-install",{"id":"03-install","order":3,"tier":"core","title":"Install & auth","description":"Install & auth","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
-31:Tb59,<h2>Overview</h2>
+31:Taed,<h2>Overview</h2>
 <p><strong>First session</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>Minimal path: repo root → launch CLI → first prompt.</li>
@@ -1691,7 +1691,7 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 </blockquote>
 </li>
 <li>Authenticated local <code>agy -p</code> behavior is tracked in:</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/44_ay_authenticated_print_smoke_trace.md</li>
+<li>015_reverse-engineering/44_ay_authenticated_print_smoke_trace.md</li>
 <li>Current cli-jaw evidence shows fresh print mode and exact</li>
 <li><code>--conversation  -p</code> resume both work locally. The wrapper still needs to</li>
 <li>treat AGY as its own supervised runtime contract: probe flags, preserve</li>
@@ -1705,7 +1705,7 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 </ul>
 <h2>Source snippets</h2>
 <h3>README / docs</h3>
-<pre><code class="language-text">/Users/jun/Developer/codex/015_reverse-engineering/44_ay_authenticated_print_smoke_trace.md
+<pre><code class="language-text">015_reverse-engineering/44_ay_authenticated_print_smoke_trace.md
 </code></pre>
 <h2>Main analysis</h2>
 <p>The minimum path to launch the CLI from the repo root and reach the first prompt.</p>
@@ -1714,7 +1714,7 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 </blockquote>
 <h2>CLI Print-Mode Runtime Notes</h2>
 <p>Authenticated local <code>agy -p</code> behavior is tracked in:</p>
-<pre><code class="language-text">/Users/jun/Developer/codex/015_reverse-engineering/44_ay_authenticated_print_smoke_trace.md
+<pre><code class="language-text">015_reverse-engineering/44_ay_authenticated_print_smoke_trace.md
 </code></pre>
 <p>Current cli-jaw evidence shows fresh print mode and exact
 <code>--conversation  -p</code> resume both work locally. The wrapper still needs to
@@ -1729,7 +1729,7 @@ quota responses as <code>Available</code> / <code>Exhausted</code> instead of fa
 </blockquote>
 <h2>CLI Print-Mode Runtime Notes</h2>
 <p>Authenticated local <code>agy -p</code> behavior is tracked in:</p>
-<pre><code class="language-text">/Users/jun/Developer/codex/015_reverse-engineering/44_ay_authenticated_print_smoke_trace.md
+<pre><code class="language-text">015_reverse-engineering/44_ay_authenticated_print_smoke_trace.md
 </code></pre>
 <p>Current cli-jaw evidence shows fresh print mode and exact
 <code>--conversation  -p</code> resume both work locally. The wrapper still needs to
@@ -4617,12 +4617,12 @@ NON_RECOVERABLE (3):
 </code></pre>
 <hr>
 19:["$","$L2c","07-overview-15",{"id":"07-overview-15","order":21,"tier":"developer","title":"Overview §15","description":"000_overview/00_ag_overview.md","lang":"en","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:T1ba20,<h2>Overview</h2>
+42:T1b999,<h2>Overview</h2>
 <p><strong>Axis 01: TUI design</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/152_antigravity/</code> (IDE webview + jetskiAgent deobfuscated trees). Terminal CLI TUI는 <code>01_ay_tui.md</code>.</p>
+<p><strong>분석 스냅샷</strong>: <code>152_antigravity/</code> (IDE webview + jetskiAgent deobfuscated trees). Terminal CLI TUI는 <code>01_ay_tui.md</code>.</p>
 </blockquote>
 </li>
 <li>
@@ -5140,7 +5140,7 @@ function endDemoMode()   { /* 데모 모드 종료 */ }
 <h2>Main analysis</h2>
 <h1>Antigravity TUI design analysis</h1>
 <blockquote>
-<p><strong>Analysis snapshot</strong>: <code>/Users/jun/Developer/codex/152_antigravity/</code> (IDE webview + jetskiAgent deobfuscated trees). Terminal CLI TUI is <code>01_ay_tui.md</code>.</p>
+<p><strong>Analysis snapshot</strong>: <code>152_antigravity/</code> (IDE webview + jetskiAgent deobfuscated trees). Terminal CLI TUI is <code>01_ay_tui.md</code>.</p>
 </blockquote>
 <blockquote>
 <p>⚠️ <strong>Reverse Engineering Analysis</strong>: This document contains the Antigravity (Windsurf/Codeium) VS Code extension bundle (<code>extension_unbundled/deobfuscated.js</code>, 4.7MB), the jetskiAgent bundle (<code>jetskiAgent_unbundled/deobfuscated.js</code>, 16.4MB), and the Go binary symbol extraction (<code>go_symbols/</code>, This is a reverse engineering analysis based on 27MB+). It contains obfuscated identifiers compared to the original source and is based on structure inference.</p>
@@ -6403,7 +6403,7 @@ Next document: [[02_ag_prompt]]</p>
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>Compare to: <code>/Users/jun/Developer/codex/001_tui-design/01_co_tui.md</code> (Codex Ratatui TUI, <code>121_openai-codex/codex-rs/tui/</code>).</p>
+<p>Compare to: <code>001_tui-design/01_co_tui.md</code> (Codex Ratatui TUI, <code>121_openai-codex/codex-rs/tui/</code>).</p>
 <table>
 <thead>
 <tr>
@@ -6510,7 +6510,7 @@ Next document: [[02_ag_prompt]]</p>
 </blockquote>
 <h1>Antigravity TUI 설계 분석</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/152_antigravity/</code> (IDE webview + jetskiAgent deobfuscated trees). Terminal CLI TUI는 <code>01_ay_tui.md</code>.</p>
+<p><strong>분석 스냅샷</strong>: <code>152_antigravity/</code> (IDE webview + jetskiAgent deobfuscated trees). Terminal CLI TUI는 <code>01_ay_tui.md</code>.</p>
 </blockquote>
 <blockquote>
 <p>⚠️ <strong>역공학 분석</strong>: 이 문서는 Antigravity(Windsurf/Codeium) VS Code 확장 번들(<code>extension_unbundled/deobfuscated.js</code>, 4.7MB)과 jetskiAgent 번들(<code>jetskiAgent_unbundled/deobfuscated.js</code>, 16.4MB), 그리고 Go 바이너리 심볼 추출(<code>go_symbols/</code>, 27MB+)에 기반한 역공학 분석이다. 원본 소스 대비 난독화된 식별자를 포함하며, 구조 추론에 기반한다.</p>
@@ -7773,7 +7773,7 @@ function endDemoMode()   { /* 데모 모드 종료 */ }
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>비교 대상: <code>/Users/jun/Developer/codex/001_tui-design/01_co_tui.md</code> (Codex Ratatui TUI, <code>121_openai-codex/codex-rs/tui/</code>).</p>
+<p>비교 대상: <code>001_tui-design/01_co_tui.md</code> (Codex Ratatui TUI, <code>121_openai-codex/codex-rs/tui/</code>).</p>
 <table>
 <thead>
 <tr>
@@ -7875,7 +7875,7 @@ function endDemoMode()   { /* 데모 모드 종료 */ }
 <li>2026-06-27 <strong>WP65</strong>: <code>01_co_tui.md</code> 대비 Parity vs Codex (co) 섹션 추가; <code>152_antigravity/</code> path:line 인용 6건; snapshot_to_current를 jetskiAgent/extension/proto ag-specific drift 5행으로 교체.</li>
 </ul>
 1a:["$","$L2c","20-axis-01-tui",{"id":"20-axis-01-tui","order":22,"tier":"deep","title":"Axis 01: TUI design","description":"001_tui-design/01_ag_tui.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T14885,<h2>Overview</h2>
+43:T1484f,<h2>Overview</h2>
 <p><strong>Axis 02: Prompt &#x26; context</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -9141,7 +9141,7 @@ Next document: [[03_ag_tool]]</p>
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>Compare to: <code>/Users/jun/Developer/codex/002_prompt-context/02_co_prompt.md</code> (Codex 4-channel prompt assembly, <code>121_openai-codex/codex-rs/core/src/instructions/</code>).</p>
+<p>Compare to: <code>002_prompt-context/02_co_prompt.md</code> (Codex 4-channel prompt assembly, <code>121_openai-codex/codex-rs/core/src/instructions/</code>).</p>
 <table>
 <thead>
 <tr>
@@ -10278,7 +10278,7 @@ VERIFICATION (3)  → 테스트, 검증, 결과 확인
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>비교 대상: <code>/Users/jun/Developer/codex/002_prompt-context/02_co_prompt.md</code> (Codex 4-channel prompt assembly, <code>121_openai-codex/codex-rs/core/src/instructions/</code>).</p>
+<p>비교 대상: <code>002_prompt-context/02_co_prompt.md</code> (Codex 4-channel prompt assembly, <code>121_openai-codex/codex-rs/core/src/instructions/</code>).</p>
 <table>
 <thead>
 <tr>
@@ -10380,7 +10380,7 @@ VERIFICATION (3)  → 테스트, 검증, 결과 확인
 <li>2026-06-27 <strong>WP65</strong>: <code>02_co_prompt.md</code> 대비 Parity vs Codex (co); ephemeral protobuf·Go symbol path:line 6건; snapshot_to_current ag-specific drift 5행.</li>
 </ul>
 1b:["$","$L2c","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":23,"tier":"deep","title":"Axis 02: Prompt & context","description":"002_prompt-context/02_ag_prompt.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:T13b3f,<h2>Overview</h2>
+44:T13b09,<h2>Overview</h2>
 <p><strong>Axis 03: Tool runtime</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -11827,7 +11827,7 @@ Next article: [[04_ag_skill]]</p>
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>Compare to: <code>/Users/jun/Developer/codex/003_tool-runtime/03_co_tool.md</code> (Codex <code>ToolHandler</code> trait, orchestrator, unified exec).</p>
+<p>Compare to: <code>003_tool-runtime/03_co_tool.md</code> (Codex <code>ToolHandler</code> trait, orchestrator, unified exec).</p>
 <table>
 <thead>
 <tr>
@@ -13108,7 +13108,7 @@ CortexTrajectoryType:
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>비교 대상: <code>/Users/jun/Developer/codex/003_tool-runtime/03_co_tool.md</code> (Codex <code>ToolHandler</code> trait, orchestrator, unified exec).</p>
+<p>비교 대상: <code>003_tool-runtime/03_co_tool.md</code> (Codex <code>ToolHandler</code> trait, orchestrator, unified exec).</p>
 <table>
 <thead>
 <tr>
@@ -13210,7 +13210,7 @@ CortexTrajectoryType:
 <li>2026-06-27 <strong>WP65</strong>: <code>03_co_tool.md</code> Parity vs Codex (co); StepType·approval path:line 6건; snapshot_to_current ag-specific drift 5행.</li>
 </ul>
 1c:["$","$L2c","20-axis-03-tool",{"id":"20-axis-03-tool","order":24,"tier":"deep","title":"Axis 03: Tool runtime","description":"003_tool-runtime/03_ag_tool.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$44"}}]}]
-45:Tcf56,<h2>Overview</h2>
+45:Tcf20,<h2>Overview</h2>
 <p><strong>Axis 04: Skill system</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -13934,7 +13934,7 @@ Next article: [[05_ag_subagent]]</p>
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>Compare to: <code>/Users/jun/Developer/codex/004_skill-system/04_co_skill.md</code> (Codex <code>SkillsManager</code>, <code>SKILL.md</code>, implicit/explicit trigger).</p>
+<p>Compare to: <code>004_skill-system/04_co_skill.md</code> (Codex <code>SkillsManager</code>, <code>SKILL.md</code>, implicit/explicit trigger).</p>
 <table>
 <thead>
 <tr>
@@ -14540,7 +14540,7 @@ const CustomAgentConfig = {
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>비교 대상: <code>/Users/jun/Developer/codex/004_skill-system/04_co_skill.md</code> (Codex <code>SkillsManager</code>, <code>SKILL.md</code>, implicit/explicit trigger).</p>
+<p>비교 대상: <code>004_skill-system/04_co_skill.md</code> (Codex <code>SkillsManager</code>, <code>SKILL.md</code>, implicit/explicit trigger).</p>
 <table>
 <thead>
 <tr>
@@ -14642,7 +14642,7 @@ const CustomAgentConfig = {
 <li>2026-06-27 <strong>WP65</strong>: <code>04_co_skill.md</code> Parity vs Codex (co); customizations RPC path:line 6건; snapshot_to_current ag-specific drift 5행.</li>
 </ul>
 1d:["$","$L2c","20-axis-04-skill",{"id":"20-axis-04-skill","order":25,"tier":"deep","title":"Axis 04: Skill system","description":"004_skill-system/04_ag_skill.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$45"}}]}]
-46:T16152,<h2>Overview</h2>
+46:T1611c,<h2>Overview</h2>
 <p><strong>Axis 05: Subagents</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -15864,7 +15864,7 @@ Next article: [[06_ag_surface]]</p>
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>Compare to: <code>/Users/jun/Developer/codex/005_subagents-collab/05_co_subagent.md</code> (Codex <code>AgentControl</code>, spawn→delegate→wait, <code>AgentRegistry</code>).</p>
+<p>Compare to: <code>005_subagents-collab/05_co_subagent.md</code> (Codex <code>AgentControl</code>, spawn→delegate→wait, <code>AgentRegistry</code>).</p>
 <table>
 <thead>
 <tr>
@@ -16868,7 +16868,7 @@ if (isWaitingForConfirmation &#x26;&#x26; !wasWaitingForConfirmation) {
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>비교 대상: <code>/Users/jun/Developer/codex/005_subagents-collab/05_co_subagent.md</code> (Codex <code>AgentControl</code>, spawn→delegate→wait, <code>AgentRegistry</code>).</p>
+<p>비교 대상: <code>005_subagents-collab/05_co_subagent.md</code> (Codex <code>AgentControl</code>, spawn→delegate→wait, <code>AgentRegistry</code>).</p>
 <table>
 <thead>
 <tr>
@@ -16971,7 +16971,7 @@ if (isWaitingForConfirmation &#x26;&#x26; !wasWaitingForConfirmation) {
 <li>2026-06-27 <strong>WP65</strong>: <code>05_co_subagent.md</code> Parity vs Codex (co); upstream TS + StepType path:line 6건; snapshot_to_current ag-specific drift 5행.</li>
 </ul>
 1e:["$","$L2c","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":26,"tier":"deep","title":"Axis 05: Subagents","description":"005_subagents-collab/05_ag_subagent.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:Td1d4,<h2>Overview</h2>
+47:Td19e,<h2>Overview</h2>
 <p><strong>Axis 06: App surfaces</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -17803,7 +17803,7 @@ Next article: [[07_ag_sandbox]]</p>
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>Compare to: <code>/Users/jun/Developer/codex/006_app-server-client-surfaces/06_co_surface.md</code> (Codex <code>app-server</code> / <code>app-server-protocol</code> / JSON-RPC v2).</p>
+<p>Compare to: <code>006_app-server-client-surfaces/06_co_surface.md</code> (Codex <code>app-server</code> / <code>app-server-protocol</code> / JSON-RPC v2).</p>
 <table>
 <thead>
 <tr>
@@ -18539,7 +18539,7 @@ function getDiscoveryFilePath() {
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>비교 대상: <code>/Users/jun/Developer/codex/006_app-server-client-surfaces/06_co_surface.md</code> (Codex <code>app-server</code> / <code>app-server-protocol</code> / JSON-RPC v2).</p>
+<p>비교 대상: <code>006_app-server-client-surfaces/06_co_surface.md</code> (Codex <code>app-server</code> / <code>app-server-protocol</code> / JSON-RPC v2).</p>
 <table>
 <thead>
 <tr>
@@ -18641,7 +18641,7 @@ function getDiscoveryFilePath() {
 <li>2026-06-27 <strong>WP65</strong>: <code>06_co_surface.md</code> Parity vs Codex (co); LS init·proto·IPC path:line 6건; snapshot_to_current ag-specific drift 5행.</li>
 </ul>
 1f:["$","$L2c","20-axis-06-surface",{"id":"20-axis-06-surface","order":27,"tier":"deep","title":"Axis 06: App surfaces","description":"006_app-server-client-surfaces/06_ag_surface.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$47"}}]}]
-48:Td891,<h2>Overview</h2>
+48:Td85b,<h2>Overview</h2>
 <p><strong>Axis 07: Sandbox &#x26; policy</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -19458,7 +19458,7 @@ Next article: [[08_ag_config]]</p>
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>Compare to: <code>/Users/jun/Developer/codex/007_sandbox-exec-policy/07_co_sandbox.md</code> (Codex <code>SandboxManager</code>, Seatbelt/Landlock, policy pipeline).</p>
+<p>Compare to: <code>007_sandbox-exec-policy/07_co_sandbox.md</code> (Codex <code>SandboxManager</code>, Seatbelt/Landlock, policy pipeline).</p>
 <table>
 <thead>
 <tr>
@@ -20249,7 +20249,7 @@ async function handleUserInteraction(cascadeId, stepIndex, interaction) {
 </table>
 <hr>
 <h2>Parity vs Codex (co)</h2>
-<p>비교 대상: <code>/Users/jun/Developer/codex/007_sandbox-exec-policy/07_co_sandbox.md</code> (Codex <code>SandboxManager</code>, Seatbelt/Landlock, policy pipeline).</p>
+<p>비교 대상: <code>007_sandbox-exec-policy/07_co_sandbox.md</code> (Codex <code>SandboxManager</code>, Seatbelt/Landlock, policy pipeline).</p>
 <table>
 <thead>
 <tr>
@@ -20352,7 +20352,7 @@ async function handleUserInteraction(cascadeId, stepIndex, interaction) {
 <li>2026-06-27 <strong>WP65</strong>: <code>07_co_sandbox.md</code> Parity vs Codex (co); policy settings path:line 6건; snapshot_to_current ag-specific drift 5행.</li>
 </ul>
 20:["$","$L2c","20-axis-07-sandbox",{"id":"20-axis-07-sandbox","order":28,"tier":"deep","title":"Axis 07: Sandbox & policy","description":"007_sandbox-exec-policy/07_ag_sandbox.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:T1107c,<h2>Overview</h2>
+49:T10f38,<h2>Overview</h2>
 <p><strong>Axis 08: Config system</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -20733,10 +20733,10 @@ function onDidSnoozeChange(callback) {
     Defaults["내장 기본값"] -->|"최저 우선순위"| Final
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-bash">rg -n "cascade_allowed_commands|cascade_web_search|UnleashProvider" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "cascadeAllowedCommands" /Users/jun/Developer/codex/152_antigravity/extracted/main.js
-rg -n "allow_mcp_servers|cascade_web_search_enabled" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/seat_management_pb/seat_management.proto
-wc -c /Users/jun/Developer/codex/008_config-system/08_ag_config.md
+<pre><code class="language-bash">rg -n "cascade_allowed_commands|cascade_web_search|UnleashProvider" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "cascadeAllowedCommands" 152_antigravity/extracted/main.js
+rg -n "allow_mcp_servers|cascade_web_search_enabled" 152_antigravity/deobfuscated/proto/third_party/jetski/seat_management_pb/seat_management.proto
+wc -c 008_config-system/08_ag_config.md
 </code></pre>
 <h2>Main analysis</h2>
 <h1>Antigravity settings system analysis</h1>
@@ -21466,10 +21466,10 @@ Next article: [[09_ag_mcp]]</p>
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "cascade_allowed_commands|cascade_web_search|UnleashProvider" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "cascadeAllowedCommands" /Users/jun/Developer/codex/152_antigravity/extracted/main.js
-rg -n "allow_mcp_servers|cascade_web_search_enabled" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/seat_management_pb/seat_management.proto
-wc -c /Users/jun/Developer/codex/008_config-system/08_ag_config.md
+<pre><code class="language-bash">rg -n "cascade_allowed_commands|cascade_web_search|UnleashProvider" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "cascadeAllowedCommands" 152_antigravity/extracted/main.js
+rg -n "allow_mcp_servers|cascade_web_search_enabled" 152_antigravity/deobfuscated/proto/third_party/jetski/seat_management_pb/seat_management.proto
+wc -c 008_config-system/08_ag_config.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current delta</h2>
@@ -22264,10 +22264,10 @@ function onDidSnoozeChange(callback) {
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "cascade_allowed_commands|cascade_web_search|UnleashProvider" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "cascadeAllowedCommands" /Users/jun/Developer/codex/152_antigravity/extracted/main.js
-rg -n "allow_mcp_servers|cascade_web_search_enabled" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/seat_management_pb/seat_management.proto
-wc -c /Users/jun/Developer/codex/008_config-system/08_ag_config.md
+<pre><code class="language-bash">rg -n "cascade_allowed_commands|cascade_web_search|UnleashProvider" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "cascadeAllowedCommands" 152_antigravity/extracted/main.js
+rg -n "allow_mcp_servers|cascade_web_search_enabled" 152_antigravity/deobfuscated/proto/third_party/jetski/seat_management_pb/seat_management.proto
+wc -c 008_config-system/08_ag_config.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current 델타</h2>
@@ -22332,7 +22332,7 @@ wc -c /Users/jun/Developer/codex/008_config-system/08_ag_config.md
 </tbody>
 </table>
 21:["$","$L2c","20-axis-08-config",{"id":"20-axis-08-config","order":29,"tier":"deep","title":"Axis 08: Config system","description":"008_config-system/08_ag_config.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:Tf827,<h2>Overview</h2>
+4a:Tf6e3,<h2>Overview</h2>
 <p><strong>Axis 09: MCP orchestration</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -22517,10 +22517,10 @@ message CascadeMcpInteraction {
     MCP --> Ext["external MCP server"]
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-bash">rg -n "MCP_TOOL|LIST_RESOURCES|READ_RESOURCE" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "McpHandler|ListResourcesHandler|ReadResourceHandler" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/go_methods.txt
-rg -n "CascadeMcpInteraction|McpServerSpec" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
-wc -c /Users/jun/Developer/codex/009_mcp-orchestration/09_ag_mcp.md
+<pre><code class="language-bash">rg -n "MCP_TOOL|LIST_RESOURCES|READ_RESOURCE" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "McpHandler|ListResourcesHandler|ReadResourceHandler" 152_antigravity/deobfuscated/go_symbols/go_methods.txt
+rg -n "CascadeMcpInteraction|McpServerSpec" 152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
+wc -c 009_mcp-orchestration/09_ag_mcp.md
 </code></pre>
 <h2>Main analysis</h2>
 <h1>Antigravity MCP orchestration analysis</h1>
@@ -23208,10 +23208,10 @@ Next article: [[10_ag_memory]]</p>
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "MCP_TOOL|LIST_RESOURCES|READ_RESOURCE" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "McpHandler|ListResourcesHandler|ReadResourceHandler" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/go_methods.txt
-rg -n "CascadeMcpInteraction|McpServerSpec" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
-wc -c /Users/jun/Developer/codex/009_mcp-orchestration/09_ag_mcp.md
+<pre><code class="language-bash">rg -n "MCP_TOOL|LIST_RESOURCES|READ_RESOURCE" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "McpHandler|ListResourcesHandler|ReadResourceHandler" 152_antigravity/deobfuscated/go_symbols/go_methods.txt
+rg -n "CascadeMcpInteraction|McpServerSpec" 152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
+wc -c 009_mcp-orchestration/09_ag_mcp.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current delta</h2>
@@ -23972,10 +23972,10 @@ message CascadeMcpInteraction {
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "MCP_TOOL|LIST_RESOURCES|READ_RESOURCE" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "McpHandler|ListResourcesHandler|ReadResourceHandler" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/go_methods.txt
-rg -n "CascadeMcpInteraction|McpServerSpec" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
-wc -c /Users/jun/Developer/codex/009_mcp-orchestration/09_ag_mcp.md
+<pre><code class="language-bash">rg -n "MCP_TOOL|LIST_RESOURCES|READ_RESOURCE" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "McpHandler|ListResourcesHandler|ReadResourceHandler" 152_antigravity/deobfuscated/go_symbols/go_methods.txt
+rg -n "CascadeMcpInteraction|McpServerSpec" 152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
+wc -c 009_mcp-orchestration/09_ag_mcp.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current 델타</h2>
@@ -24048,7 +24048,7 @@ wc -c /Users/jun/Developer/codex/009_mcp-orchestration/09_ag_mcp.md
 </tbody>
 </table>
 22:["$","$L2c","20-axis-09-mcp",{"id":"20-axis-09-mcp","order":30,"tier":"deep","title":"Axis 09: MCP orchestration","description":"009_mcp-orchestration/09_ag_mcp.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4a"}}]}]
-4b:Tf776,<h2>Overview</h2>
+4b:Tf683,<h2>Overview</h2>
 <p><strong>Axis 10: Memory pipeline</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -24401,9 +24401,9 @@ BrainEntryDeltaSummary {
 }
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-bash">rg -n "CortexMemorySchema|MemoryConfigSchema|ImplicitTrajectory" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "DeleteCascadeMemory|UpdateCascadeMemory|CORTEX_MEMORY" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-wc -c /Users/jun/Developer/codex/010_memory-pipeline/10_ag_memory.md
+<pre><code class="language-bash">rg -n "CortexMemorySchema|MemoryConfigSchema|ImplicitTrajectory" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "DeleteCascadeMemory|UpdateCascadeMemory|CORTEX_MEMORY" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+wc -c 010_memory-pipeline/10_ag_memory.md
 </code></pre>
 <h2>Main analysis</h2>
 <h1>Antigravity memory pipeline analysis</h1>
@@ -25197,9 +25197,9 @@ Next article: [[11_ag_plugin]]</p>
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "CortexMemorySchema|MemoryConfigSchema|ImplicitTrajectory" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "DeleteCascadeMemory|UpdateCascadeMemory|CORTEX_MEMORY" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-wc -c /Users/jun/Developer/codex/010_memory-pipeline/10_ag_memory.md
+<pre><code class="language-bash">rg -n "CortexMemorySchema|MemoryConfigSchema|ImplicitTrajectory" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "DeleteCascadeMemory|UpdateCascadeMemory|CORTEX_MEMORY" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+wc -c 010_memory-pipeline/10_ag_memory.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current delta</h2>
@@ -26062,9 +26062,9 @@ BrainEntryDeltaSummary {
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "CortexMemorySchema|MemoryConfigSchema|ImplicitTrajectory" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "DeleteCascadeMemory|UpdateCascadeMemory|CORTEX_MEMORY" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-wc -c /Users/jun/Developer/codex/010_memory-pipeline/10_ag_memory.md
+<pre><code class="language-bash">rg -n "CortexMemorySchema|MemoryConfigSchema|ImplicitTrajectory" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "DeleteCascadeMemory|UpdateCascadeMemory|CORTEX_MEMORY" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+wc -c 010_memory-pipeline/10_ag_memory.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current 델타</h2>
@@ -26133,7 +26133,7 @@ wc -c /Users/jun/Developer/codex/010_memory-pipeline/10_ag_memory.md
 </tbody>
 </table>
 23:["$","$L2c","20-axis-10-memory",{"id":"20-axis-10-memory","order":31,"tier":"deep","title":"Axis 10: Memory pipeline","description":"010_memory-pipeline/10_ag_memory.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
-4c:T12423,<h2>Overview</h2>
+4c:T12330,<h2>Overview</h2>
 <p><strong>Axis 11: Plugin system</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -26470,9 +26470,9 @@ exports.AddGithubUsersResponseSchema
 exports.GithubRepoConfigSchema   // msg 47: {owner, name, ref}
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-bash">rg -n "CascadePlugin|InstallCascadePlugin" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cascade_plugins_pb/cascade_plugins.proto
-rg -n "PluginCustomization|REFRESH_CUSTOMIZATION_TYPE_PLUGIN" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-wc -c /Users/jun/Developer/codex/011_plugin-system/11_ag_plugin.md
+<pre><code class="language-bash">rg -n "CascadePlugin|InstallCascadePlugin" 152_antigravity/deobfuscated/proto/third_party/jetski/cascade_plugins_pb/cascade_plugins.proto
+rg -n "PluginCustomization|REFRESH_CUSTOMIZATION_TYPE_PLUGIN" 152_antigravity/deobfuscated/modules/82535_A.js
+wc -c 011_plugin-system/11_ag_plugin.md
 </code></pre>
 <h2>Main analysis</h2>
 <h1>Antigravity plug-in/extension system reverse engineering analysis</h1>
@@ -27232,9 +27232,9 @@ Next article: [[12_ag_guardian]]</p>
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "CascadePlugin|InstallCascadePlugin" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cascade_plugins_pb/cascade_plugins.proto
-rg -n "PluginCustomization|REFRESH_CUSTOMIZATION_TYPE_PLUGIN" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-wc -c /Users/jun/Developer/codex/011_plugin-system/11_ag_plugin.md
+<pre><code class="language-bash">rg -n "CascadePlugin|InstallCascadePlugin" 152_antigravity/deobfuscated/proto/third_party/jetski/cascade_plugins_pb/cascade_plugins.proto
+rg -n "PluginCustomization|REFRESH_CUSTOMIZATION_TYPE_PLUGIN" 152_antigravity/deobfuscated/modules/82535_A.js
+wc -c 011_plugin-system/11_ag_plugin.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current delta</h2>
@@ -28059,9 +28059,9 @@ exports.GithubRepoConfigSchema   // msg 47: {owner, name, ref}
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "CascadePlugin|InstallCascadePlugin" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cascade_plugins_pb/cascade_plugins.proto
-rg -n "PluginCustomization|REFRESH_CUSTOMIZATION_TYPE_PLUGIN" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-wc -c /Users/jun/Developer/codex/011_plugin-system/11_ag_plugin.md
+<pre><code class="language-bash">rg -n "CascadePlugin|InstallCascadePlugin" 152_antigravity/deobfuscated/proto/third_party/jetski/cascade_plugins_pb/cascade_plugins.proto
+rg -n "PluginCustomization|REFRESH_CUSTOMIZATION_TYPE_PLUGIN" 152_antigravity/deobfuscated/modules/82535_A.js
+wc -c 011_plugin-system/11_ag_plugin.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current 델타</h2>
@@ -28126,7 +28126,7 @@ wc -c /Users/jun/Developer/codex/011_plugin-system/11_ag_plugin.md
 </tbody>
 </table>
 24:["$","$L2c","20-axis-11-plugin",{"id":"20-axis-11-plugin","order":32,"tier":"deep","title":"Axis 11: Plugin system","description":"011_plugin-system/11_ag_plugin.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
-4d:Tc3c7,<h2>Overview</h2>
+4d:Tc2d4,<h2>Overview</h2>
 <p><strong>Axis 12: Guardian &#x26; approval</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -28357,9 +28357,9 @@ antigravityWorkbenchServiceProvider.recordConversationInteraction(
   5. 반복 (린트 통과까지)
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-bash">rg -n "HandleCascadeUserInteraction|RevertToCascadeStep|LLM_JUDGE" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-rg -n "CascadeMcpInteraction|FilePermissionInteraction" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
-wc -c /Users/jun/Developer/codex/012_guardian-approval/12_ag_guardian.md
+<pre><code class="language-bash">rg -n "HandleCascadeUserInteraction|RevertToCascadeStep|LLM_JUDGE" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+rg -n "CascadeMcpInteraction|FilePermissionInteraction" 152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
+wc -c 012_guardian-approval/12_ag_guardian.md
 </code></pre>
 <h2>Main analysis</h2>
 <h1>Antigravity guardian/approval system analysis</h1>
@@ -28884,9 +28884,9 @@ antigravityWorkbenchServiceProvider.recordConversationInteraction(
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "HandleCascadeUserInteraction|RevertToCascadeStep|LLM_JUDGE" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-rg -n "CascadeMcpInteraction|FilePermissionInteraction" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
-wc -c /Users/jun/Developer/codex/012_guardian-approval/12_ag_guardian.md
+<pre><code class="language-bash">rg -n "HandleCascadeUserInteraction|RevertToCascadeStep|LLM_JUDGE" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+rg -n "CascadeMcpInteraction|FilePermissionInteraction" 152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
+wc -c 012_guardian-approval/12_ag_guardian.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current delta</h2>
@@ -29476,9 +29476,9 @@ antigravityWorkbenchServiceProvider.recordConversationInteraction(
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "HandleCascadeUserInteraction|RevertToCascadeStep|LLM_JUDGE" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-rg -n "CascadeMcpInteraction|FilePermissionInteraction" /Users/jun/Developer/codex/152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
-wc -c /Users/jun/Developer/codex/012_guardian-approval/12_ag_guardian.md
+<pre><code class="language-bash">rg -n "HandleCascadeUserInteraction|RevertToCascadeStep|LLM_JUDGE" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+rg -n "CascadeMcpInteraction|FilePermissionInteraction" 152_antigravity/deobfuscated/proto/third_party/jetski/cortex_pb/cortex.proto
+wc -c 012_guardian-approval/12_ag_guardian.md
 </code></pre>
 <hr>
 <h2>snapshot_to_current 델타</h2>
@@ -33039,7 +33039,7 @@ function startDevExperimentConfigExporter(context) {
 <li>2026-03-26: 소스 코드 레벨 역공학 보강 (19.7KB → 30.5KB). ProductAnalyticsLogger 소스 분석(50+ 이벤트 매핑, logFrequentEvent Unleash 게이팅), UnleashProvider 전체 소스(LS 프록시, 컨텍스트 갱신 루프, 3단계 우선순위 평가, 17+ 플래그 식별), CSRF 토큰 인터셉터 및 TLS 인증서 피닝 소스, Entropy 기반 시크릿 탐지 발견, Dev Experiment 오버라이드 시스템 문서화.</li>
 </ul>
 26:["$","$L2c","20-axis-13-etc",{"id":"20-axis-13-etc","order":34,"tier":"deep","title":"Axis 13: Cross-cutting","description":"013_etc/13_ag_etc.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4e"}}]}]
-4f:Ta720,<h2>Overview</h2>
+4f:Ta62d,<h2>Overview</h2>
 <p><strong>Axis 14: Web search</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
@@ -33208,9 +33208,9 @@ message DynamicRetrievalConfig {
 }
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-bash">rg -n "CascadeWebSearchTool|ThirdPartyWebSearch" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "cascade_web_search|web_search_converter" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-wc -c /Users/jun/Developer/codex/014_web-search/14_ag_web-search.md
+<pre><code class="language-bash">rg -n "CascadeWebSearchTool|ThirdPartyWebSearch" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "cascade_web_search|web_search_converter" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+wc -c 014_web-search/14_ag_web-search.md
 </code></pre>
 <h2>Main analysis</h2>
 <h1>Antigravity (Windsurf) — Web Search Implementation</h1>
@@ -33621,9 +33621,9 @@ message DynamicRetrievalConfig {
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "CascadeWebSearchTool|ThirdPartyWebSearch" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "cascade_web_search|web_search_converter" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-wc -c /Users/jun/Developer/codex/014_web-search/14_ag_web-search.md
+<pre><code class="language-bash">rg -n "CascadeWebSearchTool|ThirdPartyWebSearch" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "cascade_web_search|web_search_converter" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+wc -c 014_web-search/14_ag_web-search.md
 </code></pre>
 <h2>Change history</h2>
 <table>
@@ -34111,9 +34111,9 @@ message DynamicRetrievalConfig {
 </table>
 <hr>
 <h2>Re-verification (WP65)</h2>
-<pre><code class="language-bash">rg -n "CascadeWebSearchTool|ThirdPartyWebSearch" /Users/jun/Developer/codex/152_antigravity/deobfuscated/modules/82535_A.js
-rg -n "cascade_web_search|web_search_converter" /Users/jun/Developer/codex/152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
-wc -c /Users/jun/Developer/codex/014_web-search/14_ag_web-search.md
+<pre><code class="language-bash">rg -n "CascadeWebSearchTool|ThirdPartyWebSearch" 152_antigravity/deobfuscated/modules/82535_A.js
+rg -n "cascade_web_search|web_search_converter" 152_antigravity/deobfuscated/go_symbols/agent_symbols.txt
+wc -c 014_web-search/14_ag_web-search.md
 </code></pre>
 <h2>변경 기록</h2>
 <table>
@@ -34190,7 +34190,7 @@ wc -c /Users/jun/Developer/codex/014_web-search/14_ag_web-search.md
 <li>Gemini CLI (<code>ge</code>) grounding patterns: <code>014_web-search/14_ge_web-search.md</code></li>
 </ul>
 27:["$","$L2c","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":35,"tier":"deep","title":"Axis 14: Web search","description":"014_web-search/14_ag_web-search.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4f"}}]}]
-50:T1eea9,<h2>Overview</h2>
+50:T1e6db,<h2>Overview</h2>
 <p><strong>Reverse engineering (015)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</li>
@@ -34201,7 +34201,7 @@ wc -c /Users/jun/Developer/codex/014_web-search/14_ag_web-search.md
 <li>| binary-string | native binary <code>strings</code>, <code>file</code>, <code>otool</code>, <code>codesign</code>, <code>nm</code> | crate/package/protocol/tool/evaluator 이름이 embedded되어 있다 |</li>
 <li>| runtime-trace | synthetic project에서 실제 명령을 실행한 결과 | 동작 semantics, precedence, permission enforcement를 확인했다 |</li>
 <li>| private-artifact-name | 비공개 상태 파일의 경로/개수만 관찰 | artifact가 존재한다. 내용/schema 주장은 금지 |</li>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
+<li><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
 <li>auth/token/cookie/credential/login data</li>
 <li>raw transcript, chat history, conversation DB/PB</li>
 <li>logs and terminal captures</li>
@@ -34244,10 +34244,10 @@ wc -c /Users/jun/Developer/codex/014_web-search/14_ag_web-search.md
 }
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/agy-plugin-activation.ESFveG/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/agy-plugin-activation.ESFveG/npm-cache"}}}}
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">HOME=/tmp/agy-plugin-activation.ESFveG/home /Users/jun/.local/bin/agy --log-file /tmp/agy-plugin-activation.ESFveG/agy.log --print-timeout 20s --print "Do not use tools. Say TRACE_OK."
+<pre><code class="language-text">HOME=/tmp/agy-plugin-activation.ESFveG/home ~/.local/bin/agy --log-file /tmp/agy-plugin-activation.ESFveG/agy.log --print-timeout 20s --print "Do not use tools. Say TRACE_OK."
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-json">{
@@ -34296,28 +34296,28 @@ wc -c /Users/jun/Developer/codex/014_web-search/14_ag_web-search.md
 }
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command /Users/jun/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
+<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home ~/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command ~/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-text">✓ Added MCP server 'everything' to workspace config in /private/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">/Users/jun/.gemini/antigravity-cli/bin/agentapi
+<pre><code class="language-text">~/.gemini/antigravity-cli/bin/agentapi
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">/Users/jun/.gemini/antigravity-cli/bin/agentapi: POSIX shell script text executable, ASCII text
-/Users/jun/.local/bin/agy:                           Mach-O 64-bit executable arm64
-/Users/jun/.gemini/antigravity-cli/bin/webm_encoder: Mach-O 64-bit executable arm64
+<pre><code class="language-text">~/.gemini/antigravity-cli/bin/agentapi: POSIX shell script text executable, ASCII text
+~/.local/bin/agy:                           Mach-O 64-bit executable arm64
+~/.gemini/antigravity-cli/bin/webm_encoder: Mach-O 64-bit executable arm64
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-sh">#!/bin/sh
-exec "/Users/jun/.local/bin/agy" agentapi "$@"
+exec "~/.local/bin/agy" agentapi "$@"
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">/Users/jun/.local/bin/agy agentapi --help
+<pre><code class="language-text">~/.local/bin/agy agentapi --help
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-text">changelog
@@ -34328,7 +34328,7 @@ plugins
 update
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">/Users/jun/.local/bin/agy help agentapi
+<pre><code class="language-text">~/.local/bin/agy help agentapi
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-text">Error: unknown subcommand: agentapi
@@ -34370,9 +34370,9 @@ GetMcpServerStates
 CompleteMcpOAuth
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi send-message --help
-HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi new-conversation --help
-HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-metadata --help
+<pre><code class="language-text">HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi send-message --help
+HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi new-conversation --help
+HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi get-conversation-metadata --help
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-text">Resume in the same project: agy --conversation=%s --project=%s
@@ -34423,7 +34423,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </tr>
 </tbody>
 </table>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
+<p><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
 <h2>Hard Boundary</h2>
 <p>The purpose of reverse analysis is to restore product structure, not to extract user state. Next, reading the content is prohibited.</p>
 <ul>
@@ -34439,7 +34439,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <h2>Installed CLI version pin (2026-06-27)</h2>
 <p>Single source of truth for pinned <code>ay</code>/<code>cr</code>/<code>gr</code>/<code>ki</code> binaries:</p>
 <ul>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
+<li><code>015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
 </ul>
 <p>WP5 trace shards (<code>38</code>–<code>41</code>) extend hubs without changing evidence-level definitions above.</p>
 <h2>Current Upgrade Scope</h2>
@@ -34455,7 +34455,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> v1.0.12+</td>
+<td><code>~/.local/bin/agy</code> v1.0.12+</td>
 <td>help, changelog, strings; <code>38_ay_project_flags_trace.md</code></td>
 </tr>
 <tr>
@@ -34487,22 +34487,22 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <tbody>
 <tr>
 <td><code>gr</code></td>
-<td><code>/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>/Users/jun/.grok/bundled</code>, <code>/Users/jun/.grok/docs/user-guide</code></td>
+<td><code>~/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>~/.grok/bundled</code>, <code>~/.grok/docs/user-guide</code></td>
 <td>Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills</td>
 </tr>
 <tr>
 <td><code>cr</code></td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 <td>Webpack module keys, route extraction, proto module names, native helper inventory</td>
 </tr>
 <tr>
 <td><code>ki</code></td>
-<td><code>/Applications/Kiro CLI.app</code>, <code>/Users/jun/.local/bin/kiro-cli*</code></td>
+<td><code>/Applications/Kiro CLI.app</code>, <code>~/.local/bin/kiro-cli*</code></td>
 <td>signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets</td>
 </tr>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code>, <code>/Users/jun/.gemini/antigravity-cli</code></td>
+<td><code>~/.local/bin/agy</code>, <code>~/.gemini/antigravity-cli</code></td>
 <td>Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries</td>
 </tr>
 </tbody>
@@ -34573,7 +34573,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <tbody>
 <tr>
 <td>Binary</td>
-<td><code>/Users/jun/.local/bin/agy</code></td>
+<td><code>~/.local/bin/agy</code></td>
 </tr>
 <tr>
 <td>Version</td>
@@ -34597,8 +34597,8 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </tr>
 </tbody>
 </table>
-<p>The helper <code>/Users/jun/.gemini/antigravity-cli/bin/agentapi</code> is a POSIX shell wrapper that execs <code>/Users/jun/.local/bin/agy agentapi "$@"</code>. <code>/Users/jun/Developer/codex/015_reverse-engineering/32_agy_agentapi_route_trace.md</code> narrows this: the wrapper exists and binary strings expose Agent API handlers, but direct no-context <code>agy agentapi --help</code> falls back to top-level help and <code>agy help agentapi</code> reports <code>unknown subcommand</code>.</p>
-<p>The helper <code>/Users/jun/.gemini/antigravity-cli/bin/webm_encoder</code> is a native arm64 binary with VP9 WebM and Chrome DevTools/page-capture strings, likely used for browser/screencast capture.</p>
+<p>The helper <code>~/.gemini/antigravity-cli/bin/agentapi</code> is a POSIX shell wrapper that execs <code>~/.local/bin/agy agentapi "$@"</code>. <code>015_reverse-engineering/32_agy_agentapi_route_trace.md</code> narrows this: the wrapper exists and binary strings expose Agent API handlers, but direct no-context <code>agy agentapi --help</code> falls back to top-level help and <code>agy help agentapi</code> reports <code>unknown subcommand</code>.</p>
+<p>The helper <code>~/.gemini/antigravity-cli/bin/webm_encoder</code> is a native arm64 binary with VP9 WebM and Chrome DevTools/page-capture strings, likely used for browser/screencast capture.</p>
 <h2>Local State Layout</h2>
 <table>
 <thead>
@@ -34610,42 +34610,42 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/cache</code></td>
+<td><code>~/.gemini/antigravity-cli/cache</code></td>
 <td>safe-local-doc subset</td>
 <td>changelog, onboarding/update metadata</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/mcp</code></td>
+<td><code>~/.gemini/antigravity-cli/mcp</code></td>
 <td>local cache path</td>
 <td>descriptor cache exists; schema claims need public/binary/synthetic evidence</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/settings.json</code></td>
+<td><code>~/.gemini/antigravity-cli/settings.json</code></td>
 <td>conditional/private</td>
 <td>path exists; field values are not cited as product evidence</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/keybindings.json</code></td>
+<td><code>~/.gemini/antigravity-cli/keybindings.json</code></td>
 <td>conditional/private</td>
 <td>path exists; field values are not cited as product evidence</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/conversations</code></td>
+<td><code>~/.gemini/antigravity-cli/conversations</code></td>
 <td>private-content denied</td>
 <td>protobuf conversation store; not decoded</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/log</code></td>
+<td><code>~/.gemini/antigravity-cli/log</code></td>
 <td>private-content denied</td>
 <td>not read</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/history.jsonl</code></td>
+<td><code>~/.gemini/antigravity-cli/history.jsonl</code></td>
 <td>private-content denied</td>
 <td>not read</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/brain/*/.system_generated</code></td>
+<td><code>~/.gemini/antigravity-cli/brain/*/.system_generated</code></td>
 <td>mixed/private pattern</td>
 <td>contents avoided; not used for schema/content claims</td>
 </tr>
@@ -34703,9 +34703,9 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <h2>MCP Evidence</h2>
 <p>Local descriptor cache paths observed:</p>
 <ul>
-<li><code>/Users/jun/.gemini/antigravity-cli/mcp/context7/query-docs.json</code></li>
-<li><code>/Users/jun/.gemini/antigravity-cli/mcp/context7/resolve-library-id.json</code></li>
-<li><code>/Users/jun/.gemini/antigravity-cli/mcp/context7/instructions.md</code></li>
+<li><code>~/.gemini/antigravity-cli/mcp/context7/query-docs.json</code></li>
+<li><code>~/.gemini/antigravity-cli/mcp/context7/resolve-library-id.json</code></li>
+<li><code>~/.gemini/antigravity-cli/mcp/context7/instructions.md</code></li>
 </ul>
 <p>Binary/config migration evidence:</p>
 <ul>
@@ -34728,7 +34728,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <li><strong>1.0.13:</strong> strict vs <code>regex:</code> opt-in for “Always Approve” rules; relaxed redirection checks for safe commands; skill slash-prefix rendering fix; unified UI transition sync for overlays.</li>
 </ul>
 <p>Binary strings add plugin manifests, registry archives, plugin install/delete/open-config flows, and agent plugin templates.</p>
-<p>Synthetic plugin validation in <code>/Users/jun/Developer/codex/015_reverse-engineering/22_agy_plugin_manifest_trace.md</code> confirms more than binary strings:</p>
+<p>Synthetic plugin validation in <code>015_reverse-engineering/22_agy_plugin_manifest_trace.md</code> confirms more than binary strings:</p>
 <ul>
 <li><code>plugin.json</code> requires <code>name</code>; metadata such as <code>version</code>, <code>description</code>, <code>displayName</code>, and <code>author</code> is accepted but not required in this trace.</li>
 <li><code>skills/trace/SKILL.md</code> is processed as a skill.</li>
@@ -34738,14 +34738,14 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <li>top-level <code>mcp_config.json</code> with <code>mcpServers</code> is processed as MCP configuration.</li>
 <li><code>plugin install &#x3C;local-dir></code> writes to temp <code>~/.gemini/config/plugins/&#x3C;name></code> and records <code>source: local-install</code> in <code>import_manifest.json</code> / <code>plugin list</code>.</li>
 </ul>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/31_agy_print_activation_trace.md</code> adds the current no-account activation boundary: after installing a temp plugin with skill, agent, and MCP config, <code>agy --print</code> starts the language server, creates temp project metadata, initializes CLI store/backend with cascade/code-assist, then stops at OAuth timeout before any model response or plugin tool activation can be observed.</p>
+<p><code>015_reverse-engineering/31_agy_print_activation_trace.md</code> adds the current no-account activation boundary: after installing a temp plugin with skill, agent, and MCP config, <code>agy --print</code> starts the language server, creates temp project metadata, initializes CLI store/backend with cascade/code-assist, then stops at OAuth timeout before any model response or plugin tool activation can be observed.</p>
 <h2>Documentation Consequences</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000_overview/00_ay_overview.md</code> should say public help is narrow but binary surface is broad.</li>
-<li><code>/Users/jun/Developer/codex/005_subagents-collab/05_ay_subagent.md</code> should replace “not confirmed” with “not public, but binary contains subagent handlers and keybindings.”</li>
-<li><code>/Users/jun/Developer/codex/009_mcp-orchestration/09_ay_mcp.md</code> should distinguish “no public <code>agy mcp</code> command” from first-class MCP runtime evidence.</li>
-<li><code>/Users/jun/Developer/codex/010_memory-pipeline/10_ay_memory.md</code> should document trajectory/cascade/brain/knowledge as separate surfaces while keeping conversation <code>.pb</code> content off-limits.</li>
-<li><code>/Users/jun/Developer/codex/014_web-search/14_ay_web-search.md</code> should say browser/MCP/search capability is binary-visible, but exact public CLI exposure remains runtime-trace pending.</li>
+<li><code>000_overview/00_ay_overview.md</code> should say public help is narrow but binary surface is broad.</li>
+<li><code>005_subagents-collab/05_ay_subagent.md</code> should replace “not confirmed” with “not public, but binary contains subagent handlers and keybindings.”</li>
+<li><code>009_mcp-orchestration/09_ay_mcp.md</code> should distinguish “no public <code>agy mcp</code> command” from first-class MCP runtime evidence.</li>
+<li><code>010_memory-pipeline/10_ay_memory.md</code> should document trajectory/cascade/brain/knowledge as separate surfaces while keeping conversation <code>.pb</code> content off-limits.</li>
+<li><code>014_web-search/14_ay_web-search.md</code> should say browser/MCP/search capability is binary-visible, but exact public CLI exposure remains runtime-trace pending.</li>
 </ul>
 <h2>Remaining Runtime Trace Gaps</h2>
 <ul>
@@ -34812,11 +34812,11 @@ harness.</p>
 <li><code>/tmp/agy-plugin-activation.ESFveG/home/.gemini/config/projects/0fb8cc35-513f-4b79-8746-7973bc7d3b6b.json</code></li>
 </ul>
 <p>The installed plugin-level MCP file preserved:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/agy-plugin-activation.ESFveG/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/agy-plugin-activation.ESFveG/npm-cache"}}}}
 </code></pre>
 <h2>Print Mode Boundary</h2>
 <p>Command shape:</p>
-<pre><code class="language-text">HOME=/tmp/agy-plugin-activation.ESFveG/home /Users/jun/.local/bin/agy --log-file /tmp/agy-plugin-activation.ESFveG/agy.log --print-timeout 20s --print "Do not use tools. Say TRACE_OK."
+<pre><code class="language-text">HOME=/tmp/agy-plugin-activation.ESFveG/home ~/.local/bin/agy --log-file /tmp/agy-plugin-activation.ESFveG/agy.log --print-timeout 20s --print "Do not use tools. Say TRACE_OK."
 </code></pre>
 <p>Observed stdout showed only a generic authentication-required prompt, a wait-for-authentication message, an authorization-code prompt, and an authentication timeout. The OAuth URL itself is not recorded here because it contains per-run state.</p>
 <h2>Synthetic Temp Log Evidence</h2>
@@ -34940,8 +34940,8 @@ harness.</p>
 <h2>Grok Build</h2>
 <p>Public help trace:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/grok --help</code></li>
-<li><code>/Users/jun/.local/bin/grok inspect --help</code></li>
+<li><code>~/.local/bin/grok --help</code></li>
+<li><code>~/.local/bin/grok inspect --help</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -34974,7 +34974,7 @@ harness.</p>
 <h2>Cursor Agent</h2>
 <p>Public help trace:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/cursor-agent --help</code></li>
+<li><code>~/.local/bin/cursor-agent --help</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -35011,14 +35011,14 @@ harness.</p>
 <h2>Kiro CLI</h2>
 <p>Public help trace:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent create --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent validate --help</code></li>
-<li>safe local example: <code>/Users/jun/.kiro/agents/agent_config.json.example</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent create --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent validate --help</code></li>
+<li>safe local example: <code>~/.kiro/agents/agent_config.json.example</code></li>
 </ul>
 <p>Synthetic validation:</p>
 <ul>
 <li>temp file: <code>&#x3C;tmp>/ws/kiro_agent.json</code></li>
-<li>command: <code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/kiro_agent.json</code></li>
+<li>command: <code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/kiro_agent.json</code></li>
 <li>result: exit code 0 with no output</li>
 </ul>
 <p>Validated synthetic config fields:</p>
@@ -35037,12 +35037,12 @@ harness.</p>
 <li><code>model</code></li>
 </ul>
 <p>Kiro's agent schema is therefore public-doc plus synthetic-validation evidence, not just binary strings.</p>
-<p>Follow-up trace <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirms that a workspace agent JSON at <code>.kiro/agents/trace.json</code> is discovered by <code>agent list</code>, and <code>mcp add --agent trace</code> writes a disabled <code>/bin/echo</code> server into that agent's <code>mcpServers</code> object.</p>
+<p>Follow-up trace <code>015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirms that a workspace agent JSON at <code>.kiro/agents/trace.json</code> is discovered by <code>agent list</code>, and <code>mcp add --agent trace</code> writes a disabled <code>/bin/echo</code> server into that agent's <code>mcpServers</code> object.</p>
 <p>Runtime gap: validation does not prove task execution, subagent scheduling, isolation, or tool-permission inheritance.</p>
 <h2>AGY CLI</h2>
 <p>Public help trace:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/agy --help</code></li>
+<li><code>~/.local/bin/agy --help</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -35086,10 +35086,10 @@ harness.</p>
 <h2>Public Router Behavior</h2>
 <p>Public commands:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/agy plugin --help</code></li>
-<li><code>/Users/jun/.local/bin/agy plugin validate [path]</code></li>
-<li><code>/Users/jun/.local/bin/agy plugin install &#x3C;target></code></li>
-<li><code>/Users/jun/.local/bin/agy plugin list</code></li>
+<li><code>~/.local/bin/agy plugin --help</code></li>
+<li><code>~/.local/bin/agy plugin validate [path]</code></li>
+<li><code>~/.local/bin/agy plugin install &#x3C;target></code></li>
+<li><code>~/.local/bin/agy plugin list</code></li>
 </ul>
 <p>Observed caveat:</p>
 <ul>
@@ -35211,7 +35211,7 @@ harness.</p>
 <h2>Install Trace</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/agy plugin install &#x3C;tmp>/plugin</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/agy plugin install &#x3C;tmp>/plugin</code></li>
 </ul>
 <p>Observed write target under temp HOME:</p>
 <ul>
@@ -35244,7 +35244,7 @@ harness.</p>
 </ul>
 <h2>Remaining Gaps</h2>
 <ul>
-<li>Print-mode startup with an installed temp plugin is traced in <code>/Users/jun/Developer/codex/015_reverse-engineering/31_agy_print_activation_trace.md</code>; actual post-auth plugin activation inside a live model/cascade session remains untested.</li>
+<li>Print-mode startup with an installed temp plugin is traced in <code>015_reverse-engineering/31_agy_print_activation_trace.md</code>; actual post-auth plugin activation inside a live model/cascade session remains untested.</li>
 <li>Agent execution scheduling from installed plugin agents.</li>
 <li>Hook trigger names and lifecycle semantics.</li>
 <li>MCP protocol startup from a plugin-installed <code>mcp_config.json</code>.</li>
@@ -35257,10 +35257,10 @@ harness.</p>
 <h2>Public Help Surface</h2>
 <p>Commands inspected:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent create --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent list --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat mcp add --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat mcp list --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent create --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent list --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat mcp add --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat mcp list --help</code></li>
 </ul>
 <p>Relevant help semantics:</p>
 <ul>
@@ -35294,8 +35294,8 @@ harness.</p>
 </ul>
 <p>Commands:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/.kiro/agents/trace.json</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent list</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/.kiro/agents/trace.json</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent list</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -35323,7 +35323,7 @@ harness.</p>
 <h2>Agent-Specific MCP Routing</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name dummy --agent trace --command /bin/echo --args dummy --disabled --force</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp add --name dummy --agent trace --command /bin/echo --args dummy --disabled --force</code></li>
 </ul>
 <p>Observed output:</p>
 <ul>
@@ -35393,13 +35393,13 @@ harness.</p>
 <li>config file: <code>/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json</code></li>
 </ul>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command /Users/jun/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
+<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home ~/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command ~/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
 </code></pre>
 <p>Result:</p>
 <pre><code class="language-text">✓ Added MCP server 'everything' to workspace config in /private/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json
 </code></pre>
 <p>The written config used:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
 </code></pre>
 <p><code>mcp status --name everything -vv</code> did not report protocol handshake or tool discovery. It reported:</p>
 <ul>
@@ -35426,21 +35426,21 @@ harness.</p>
 <p>This pass inspected the installed AGY binary and public wrapper only. It did not authenticate, read private AGY logs, read private conversations, or send Agent API messages.</p>
 <h2>Wrapper Identity</h2>
 <p>Only one installed Agent API wrapper was found under the Antigravity CLI home:</p>
-<pre><code class="language-text">/Users/jun/.gemini/antigravity-cli/bin/agentapi
+<pre><code class="language-text">~/.gemini/antigravity-cli/bin/agentapi
 </code></pre>
 <p><code>file</code> classified it as:</p>
-<pre><code class="language-text">/Users/jun/.gemini/antigravity-cli/bin/agentapi: POSIX shell script text executable, ASCII text
-/Users/jun/.local/bin/agy:                           Mach-O 64-bit executable arm64
-/Users/jun/.gemini/antigravity-cli/bin/webm_encoder: Mach-O 64-bit executable arm64
+<pre><code class="language-text">~/.gemini/antigravity-cli/bin/agentapi: POSIX shell script text executable, ASCII text
+~/.local/bin/agy:                           Mach-O 64-bit executable arm64
+~/.gemini/antigravity-cli/bin/webm_encoder: Mach-O 64-bit executable arm64
 </code></pre>
 <p>The wrapper contents are:</p>
 <pre><code class="language-sh">#!/bin/sh
-exec "/Users/jun/.local/bin/agy" agentapi "$@"
+exec "~/.local/bin/agy" agentapi "$@"
 </code></pre>
 <p>This proves that AGY installs an <code>agentapi</code> executable shim, but not that the public top-level router currently accepts <code>agentapi</code>.</p>
 <h2>Public Router Behavior</h2>
 <p>Direct public route:</p>
-<pre><code class="language-text">/Users/jun/.local/bin/agy agentapi --help
+<pre><code class="language-text">~/.local/bin/agy agentapi --help
 </code></pre>
 <p>returned exit <code>0</code>, but printed only top-level AGY help. The available subcommands listed were:</p>
 <pre><code class="language-text">changelog
@@ -35452,12 +35452,12 @@ update
 </code></pre>
 <p>No <code>agentapi</code> subcommand help, handler list, or Agent API command schema was exposed.</p>
 <p>Explicit help lookup:</p>
-<pre><code class="language-text">/Users/jun/.local/bin/agy help agentapi
+<pre><code class="language-text">~/.local/bin/agy help agentapi
 </code></pre>
 <p>returned exit <code>1</code> with:</p>
 <pre><code class="language-text">Error: unknown subcommand: agentapi
 </code></pre>
-<p>The wrapper path behaves the same because it execs <code>/Users/jun/.local/bin/agy agentapi "$@"</code>. Therefore the current installed public CLI surface has a wrapper/script for <code>agentapi</code>, but the direct public subcommand route is not active in normal no-context invocation.</p>
+<p>The wrapper path behaves the same because it execs <code>~/.local/bin/agy agentapi "$@"</code>. Therefore the current installed public CLI surface has a wrapper/script for <code>agentapi</code>, but the direct public subcommand route is not active in normal no-context invocation.</p>
 <h2>Binary String Evidence</h2>
 <p>The AGY Mach-O binary still contains first-class Agent API implementation strings and prompt templates. Relevant hits include:</p>
 <pre><code class="language-text">usage: agentapi %s %s
@@ -35510,7 +35510,7 @@ CompleteMcpOAuth
 <tbody>
 <tr>
 <td>Installed wrapper</td>
-<td>confirmed at <code>/Users/jun/.gemini/antigravity-cli/bin/agentapi</code></td>
+<td>confirmed at <code>~/.gemini/antigravity-cli/bin/agentapi</code></td>
 </tr>
 <tr>
 <td>Direct public CLI route</td>
@@ -35533,9 +35533,9 @@ CompleteMcpOAuth
 <p>The most likely model is that AGY writes or enables the <code>agentapi</code> shim for background sidecars or agent runtime contexts, while normal top-level <code>agy agentapi</code> is not a documented public command in the current installed build.</p>
 <h2>Named Subcommand Help Probe</h2>
 <p>A disposable HOME probe through the installed wrapper confirmed that known binary subcommand names still do not expose public help:</p>
-<pre><code class="language-text">HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi send-message --help
-HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi new-conversation --help
-HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-metadata --help
+<pre><code class="language-text">HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi send-message --help
+HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi new-conversation --help
+HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi get-conversation-metadata --help
 </code></pre>
 <p>All three exited <code>0</code> but printed only top-level AGY help with the public subcommand list <code>changelog</code>, <code>help</code>, <code>install</code>, <code>plugin</code>, <code>plugins</code>, and <code>update</code>. This tightens the boundary: <code>send-message</code>, <code>new-conversation</code>, and <code>get-conversation-metadata</code> are binary handler names, not no-context public CLI routes in this install.</p>
 <h2>Sidecar Contract Strings</h2>
@@ -35563,9 +35563,9 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <h3><code>015_reverse-engineering/38_ay_project_flags_trace.md</code></h3>
 <h1>AGY Project Flags And Permission Rules Trace</h1>
 <p>Disposable evidence pass for <strong>agy 1.0.12+</strong> launch and permission changelog items. No OAuth session, no conversation store reads, no private settings values.</p>
-<p><strong>Version pin:</strong> <code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code> — <code>agy</code> <strong>1.0.12</strong> (<code>agy --version</code>), changelog through <strong>1.0.13</strong>.</p>
+<p><strong>Version pin:</strong> <code>015_reverse-engineering/36_installed_cli_version_manifest.md</code> — <code>agy</code> <strong>1.0.12</strong> (<code>agy --version</code>), changelog through <strong>1.0.13</strong>.</p>
 <h2>Installed-help — launch flags</h2>
-<p>Command: <code>/Users/jun/.local/bin/agy --help</code> (2026-06-27)</p>
+<p>Command: <code>~/.local/bin/agy --help</code> (2026-06-27)</p>
 <table>
 <thead>
 <tr>
@@ -35602,7 +35602,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </table>
 <p>Public subcommands remain: <code>changelog</code>, <code>help</code>, <code>install</code>, <code>models</code>, <code>plugin</code>/<code>plugins</code>, <code>update</code>.</p>
 <h2>Safe-local-doc — changelog 1.0.12–1.0.13</h2>
-<p>Source: <code>agy changelog</code> + <code>/Users/jun/.gemini/antigravity-cli/cache/CHANGELOG.md</code></p>
+<p>Source: <code>agy changelog</code> + <code>~/.gemini/antigravity-cli/cache/CHANGELOG.md</code></p>
 <table>
 <thead>
 <tr>
@@ -35635,7 +35635,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </tbody>
 </table>
 <h2>Binary-string — resume hint</h2>
-<p><code>strings /Users/jun/.local/bin/agy</code> (2026-06-27) includes:</p>
+<p><code>strings ~/.local/bin/agy</code> (2026-06-27) includes:</p>
 <pre><code class="language-text">Resume in the same project: agy --conversation=%s --project=%s
 </code></pre>
 <p>Confirms <code>--project</code> pairs with <code>--conversation</code> in exit/resume UX strings (not a separate public subcommand).</p>
@@ -35703,7 +35703,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </tr>
 </tbody>
 </table>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
+<p><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
 <h2>Hard Boundary</h2>
 <p>역분석의 목적은 제품 구조 복원이지 사용자 상태 추출이 아니다. 다음은 내용 읽기 금지다.</p>
 <ul>
@@ -35719,7 +35719,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <h2>Installed CLI version pin (2026-06-27)</h2>
 <p>Single source of truth for pinned <code>ay</code>/<code>cr</code>/<code>gr</code>/<code>ki</code> binaries:</p>
 <ul>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
+<li><code>015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
 </ul>
 <p>WP5 trace shards (<code>38</code>–<code>41</code>) extend hubs without changing evidence-level definitions above.</p>
 <h2>Current Upgrade Scope</h2>
@@ -35735,7 +35735,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> v1.0.12+</td>
+<td><code>~/.local/bin/agy</code> v1.0.12+</td>
 <td>help, changelog, strings; <code>38_ay_project_flags_trace.md</code></td>
 </tr>
 <tr>
@@ -35767,22 +35767,22 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <tbody>
 <tr>
 <td><code>gr</code></td>
-<td><code>/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>/Users/jun/.grok/bundled</code>, <code>/Users/jun/.grok/docs/user-guide</code></td>
+<td><code>~/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>~/.grok/bundled</code>, <code>~/.grok/docs/user-guide</code></td>
 <td>Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills</td>
 </tr>
 <tr>
 <td><code>cr</code></td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 <td>Webpack module keys, route extraction, proto module names, native helper inventory</td>
 </tr>
 <tr>
 <td><code>ki</code></td>
-<td><code>/Applications/Kiro CLI.app</code>, <code>/Users/jun/.local/bin/kiro-cli*</code></td>
+<td><code>/Applications/Kiro CLI.app</code>, <code>~/.local/bin/kiro-cli*</code></td>
 <td>signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets</td>
 </tr>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code>, <code>/Users/jun/.gemini/antigravity-cli</code></td>
+<td><code>~/.local/bin/agy</code>, <code>~/.gemini/antigravity-cli</code></td>
 <td>Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries</td>
 </tr>
 </tbody>
@@ -35853,7 +35853,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <tbody>
 <tr>
 <td>Binary</td>
-<td><code>/Users/jun/.local/bin/agy</code></td>
+<td><code>~/.local/bin/agy</code></td>
 </tr>
 <tr>
 <td>Version</td>
@@ -35877,8 +35877,8 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </tr>
 </tbody>
 </table>
-<p>The helper <code>/Users/jun/.gemini/antigravity-cli/bin/agentapi</code> is a POSIX shell wrapper that execs <code>/Users/jun/.local/bin/agy agentapi "$@"</code>. <code>/Users/jun/Developer/codex/015_reverse-engineering/32_agy_agentapi_route_trace.md</code> narrows this: the wrapper exists and binary strings expose Agent API handlers, but direct no-context <code>agy agentapi --help</code> falls back to top-level help and <code>agy help agentapi</code> reports <code>unknown subcommand</code>.</p>
-<p>The helper <code>/Users/jun/.gemini/antigravity-cli/bin/webm_encoder</code> is a native arm64 binary with VP9 WebM and Chrome DevTools/page-capture strings, likely used for browser/screencast capture.</p>
+<p>The helper <code>~/.gemini/antigravity-cli/bin/agentapi</code> is a POSIX shell wrapper that execs <code>~/.local/bin/agy agentapi "$@"</code>. <code>015_reverse-engineering/32_agy_agentapi_route_trace.md</code> narrows this: the wrapper exists and binary strings expose Agent API handlers, but direct no-context <code>agy agentapi --help</code> falls back to top-level help and <code>agy help agentapi</code> reports <code>unknown subcommand</code>.</p>
+<p>The helper <code>~/.gemini/antigravity-cli/bin/webm_encoder</code> is a native arm64 binary with VP9 WebM and Chrome DevTools/page-capture strings, likely used for browser/screencast capture.</p>
 <h2>Local State Layout</h2>
 <table>
 <thead>
@@ -35890,42 +35890,42 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/cache</code></td>
+<td><code>~/.gemini/antigravity-cli/cache</code></td>
 <td>safe-local-doc subset</td>
 <td>changelog, onboarding/update metadata</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/mcp</code></td>
+<td><code>~/.gemini/antigravity-cli/mcp</code></td>
 <td>local cache path</td>
 <td>descriptor cache exists; schema claims need public/binary/synthetic evidence</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/settings.json</code></td>
+<td><code>~/.gemini/antigravity-cli/settings.json</code></td>
 <td>conditional/private</td>
 <td>path exists; field values are not cited as product evidence</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/keybindings.json</code></td>
+<td><code>~/.gemini/antigravity-cli/keybindings.json</code></td>
 <td>conditional/private</td>
 <td>path exists; field values are not cited as product evidence</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/conversations</code></td>
+<td><code>~/.gemini/antigravity-cli/conversations</code></td>
 <td>private-content denied</td>
 <td>protobuf conversation store; not decoded</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/log</code></td>
+<td><code>~/.gemini/antigravity-cli/log</code></td>
 <td>private-content denied</td>
 <td>not read</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/history.jsonl</code></td>
+<td><code>~/.gemini/antigravity-cli/history.jsonl</code></td>
 <td>private-content denied</td>
 <td>not read</td>
 </tr>
 <tr>
-<td><code>/Users/jun/.gemini/antigravity-cli/brain/*/.system_generated</code></td>
+<td><code>~/.gemini/antigravity-cli/brain/*/.system_generated</code></td>
 <td>mixed/private pattern</td>
 <td>contents avoided; not used for schema/content claims</td>
 </tr>
@@ -35983,9 +35983,9 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <h2>MCP Evidence</h2>
 <p>Local descriptor cache paths observed:</p>
 <ul>
-<li><code>/Users/jun/.gemini/antigravity-cli/mcp/context7/query-docs.json</code></li>
-<li><code>/Users/jun/.gemini/antigravity-cli/mcp/context7/resolve-library-id.json</code></li>
-<li><code>/Users/jun/.gemini/antigravity-cli/mcp/context7/instructions.md</code></li>
+<li><code>~/.gemini/antigravity-cli/mcp/context7/query-docs.json</code></li>
+<li><code>~/.gemini/antigravity-cli/mcp/context7/resolve-library-id.json</code></li>
+<li><code>~/.gemini/antigravity-cli/mcp/context7/instructions.md</code></li>
 </ul>
 <p>Binary/config migration evidence:</p>
 <ul>
@@ -36008,7 +36008,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <li><strong>1.0.13:</strong> strict vs <code>regex:</code> opt-in for “Always Approve” rules; relaxed redirection checks for safe commands; skill slash-prefix rendering fix; unified UI transition sync for overlays.</li>
 </ul>
 <p>Binary strings add plugin manifests, registry archives, plugin install/delete/open-config flows, and agent plugin templates.</p>
-<p>Synthetic plugin validation in <code>/Users/jun/Developer/codex/015_reverse-engineering/22_agy_plugin_manifest_trace.md</code> confirms more than binary strings:</p>
+<p>Synthetic plugin validation in <code>015_reverse-engineering/22_agy_plugin_manifest_trace.md</code> confirms more than binary strings:</p>
 <ul>
 <li><code>plugin.json</code> requires <code>name</code>; metadata such as <code>version</code>, <code>description</code>, <code>displayName</code>, and <code>author</code> is accepted but not required in this trace.</li>
 <li><code>skills/trace/SKILL.md</code> is processed as a skill.</li>
@@ -36018,14 +36018,14 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <li>top-level <code>mcp_config.json</code> with <code>mcpServers</code> is processed as MCP configuration.</li>
 <li><code>plugin install &#x3C;local-dir></code> writes to temp <code>~/.gemini/config/plugins/&#x3C;name></code> and records <code>source: local-install</code> in <code>import_manifest.json</code> / <code>plugin list</code>.</li>
 </ul>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/31_agy_print_activation_trace.md</code> adds the current no-account activation boundary: after installing a temp plugin with skill, agent, and MCP config, <code>agy --print</code> starts the language server, creates temp project metadata, initializes CLI store/backend with cascade/code-assist, then stops at OAuth timeout before any model response or plugin tool activation can be observed.</p>
+<p><code>015_reverse-engineering/31_agy_print_activation_trace.md</code> adds the current no-account activation boundary: after installing a temp plugin with skill, agent, and MCP config, <code>agy --print</code> starts the language server, creates temp project metadata, initializes CLI store/backend with cascade/code-assist, then stops at OAuth timeout before any model response or plugin tool activation can be observed.</p>
 <h2>Documentation Consequences</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000_overview/00_ay_overview.md</code> should say public help is narrow but binary surface is broad.</li>
-<li><code>/Users/jun/Developer/codex/005_subagents-collab/05_ay_subagent.md</code> should replace “not confirmed” with “not public, but binary contains subagent handlers and keybindings.”</li>
-<li><code>/Users/jun/Developer/codex/009_mcp-orchestration/09_ay_mcp.md</code> should distinguish “no public <code>agy mcp</code> command” from first-class MCP runtime evidence.</li>
-<li><code>/Users/jun/Developer/codex/010_memory-pipeline/10_ay_memory.md</code> should document trajectory/cascade/brain/knowledge as separate surfaces while keeping conversation <code>.pb</code> content off-limits.</li>
-<li><code>/Users/jun/Developer/codex/014_web-search/14_ay_web-search.md</code> should say browser/MCP/search capability is binary-visible, but exact public CLI exposure remains runtime-trace pending.</li>
+<li><code>000_overview/00_ay_overview.md</code> should say public help is narrow but binary surface is broad.</li>
+<li><code>005_subagents-collab/05_ay_subagent.md</code> should replace “not confirmed” with “not public, but binary contains subagent handlers and keybindings.”</li>
+<li><code>009_mcp-orchestration/09_ay_mcp.md</code> should distinguish “no public <code>agy mcp</code> command” from first-class MCP runtime evidence.</li>
+<li><code>010_memory-pipeline/10_ay_memory.md</code> should document trajectory/cascade/brain/knowledge as separate surfaces while keeping conversation <code>.pb</code> content off-limits.</li>
+<li><code>014_web-search/14_ay_web-search.md</code> should say browser/MCP/search capability is binary-visible, but exact public CLI exposure remains runtime-trace pending.</li>
 </ul>
 <h2>Remaining Runtime Trace Gaps</h2>
 <ul>
@@ -36092,11 +36092,11 @@ harness.</p>
 <li><code>/tmp/agy-plugin-activation.ESFveG/home/.gemini/config/projects/0fb8cc35-513f-4b79-8746-7973bc7d3b6b.json</code></li>
 </ul>
 <p>The installed plugin-level MCP file preserved:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/agy-plugin-activation.ESFveG/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/agy-plugin-activation.ESFveG/npm-cache"}}}}
 </code></pre>
 <h2>Print Mode Boundary</h2>
 <p>Command shape:</p>
-<pre><code class="language-text">HOME=/tmp/agy-plugin-activation.ESFveG/home /Users/jun/.local/bin/agy --log-file /tmp/agy-plugin-activation.ESFveG/agy.log --print-timeout 20s --print "Do not use tools. Say TRACE_OK."
+<pre><code class="language-text">HOME=/tmp/agy-plugin-activation.ESFveG/home ~/.local/bin/agy --log-file /tmp/agy-plugin-activation.ESFveG/agy.log --print-timeout 20s --print "Do not use tools. Say TRACE_OK."
 </code></pre>
 <p>Observed stdout showed only a generic authentication-required prompt, a wait-for-authentication message, an authorization-code prompt, and an authentication timeout. The OAuth URL itself is not recorded here because it contains per-run state.</p>
 <h2>Synthetic Temp Log Evidence</h2>
@@ -36220,8 +36220,8 @@ harness.</p>
 <h2>Grok Build</h2>
 <p>Public help trace:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/grok --help</code></li>
-<li><code>/Users/jun/.local/bin/grok inspect --help</code></li>
+<li><code>~/.local/bin/grok --help</code></li>
+<li><code>~/.local/bin/grok inspect --help</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -36254,7 +36254,7 @@ harness.</p>
 <h2>Cursor Agent</h2>
 <p>Public help trace:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/cursor-agent --help</code></li>
+<li><code>~/.local/bin/cursor-agent --help</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -36291,14 +36291,14 @@ harness.</p>
 <h2>Kiro CLI</h2>
 <p>Public help trace:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent create --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent validate --help</code></li>
-<li>safe local example: <code>/Users/jun/.kiro/agents/agent_config.json.example</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent create --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent validate --help</code></li>
+<li>safe local example: <code>~/.kiro/agents/agent_config.json.example</code></li>
 </ul>
 <p>Synthetic validation:</p>
 <ul>
 <li>temp file: <code>&#x3C;tmp>/ws/kiro_agent.json</code></li>
-<li>command: <code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/kiro_agent.json</code></li>
+<li>command: <code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/kiro_agent.json</code></li>
 <li>result: exit code 0 with no output</li>
 </ul>
 <p>Validated synthetic config fields:</p>
@@ -36317,12 +36317,12 @@ harness.</p>
 <li><code>model</code></li>
 </ul>
 <p>Kiro's agent schema is therefore public-doc plus synthetic-validation evidence, not just binary strings.</p>
-<p>Follow-up trace <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirms that a workspace agent JSON at <code>.kiro/agents/trace.json</code> is discovered by <code>agent list</code>, and <code>mcp add --agent trace</code> writes a disabled <code>/bin/echo</code> server into that agent's <code>mcpServers</code> object.</p>
+<p>Follow-up trace <code>015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirms that a workspace agent JSON at <code>.kiro/agents/trace.json</code> is discovered by <code>agent list</code>, and <code>mcp add --agent trace</code> writes a disabled <code>/bin/echo</code> server into that agent's <code>mcpServers</code> object.</p>
 <p>Runtime gap: validation does not prove task execution, subagent scheduling, isolation, or tool-permission inheritance.</p>
 <h2>AGY CLI</h2>
 <p>Public help trace:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/agy --help</code></li>
+<li><code>~/.local/bin/agy --help</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -36366,10 +36366,10 @@ harness.</p>
 <h2>Public Router Behavior</h2>
 <p>Public commands:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/agy plugin --help</code></li>
-<li><code>/Users/jun/.local/bin/agy plugin validate [path]</code></li>
-<li><code>/Users/jun/.local/bin/agy plugin install &#x3C;target></code></li>
-<li><code>/Users/jun/.local/bin/agy plugin list</code></li>
+<li><code>~/.local/bin/agy plugin --help</code></li>
+<li><code>~/.local/bin/agy plugin validate [path]</code></li>
+<li><code>~/.local/bin/agy plugin install &#x3C;target></code></li>
+<li><code>~/.local/bin/agy plugin list</code></li>
 </ul>
 <p>Observed caveat:</p>
 <ul>
@@ -36491,7 +36491,7 @@ harness.</p>
 <h2>Install Trace</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/agy plugin install &#x3C;tmp>/plugin</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/agy plugin install &#x3C;tmp>/plugin</code></li>
 </ul>
 <p>Observed write target under temp HOME:</p>
 <ul>
@@ -36524,7 +36524,7 @@ harness.</p>
 </ul>
 <h2>Remaining Gaps</h2>
 <ul>
-<li>Print-mode startup with an installed temp plugin is traced in <code>/Users/jun/Developer/codex/015_reverse-engineering/31_agy_print_activation_trace.md</code>; actual post-auth plugin activation inside a live model/cascade session remains untested.</li>
+<li>Print-mode startup with an installed temp plugin is traced in <code>015_reverse-engineering/31_agy_print_activation_trace.md</code>; actual post-auth plugin activation inside a live model/cascade session remains untested.</li>
 <li>Agent execution scheduling from installed plugin agents.</li>
 <li>Hook trigger names and lifecycle semantics.</li>
 <li>MCP protocol startup from a plugin-installed <code>mcp_config.json</code>.</li>
@@ -36537,10 +36537,10 @@ harness.</p>
 <h2>Public Help Surface</h2>
 <p>Commands inspected:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent create --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent list --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat mcp add --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat mcp list --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent create --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent list --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat mcp add --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat mcp list --help</code></li>
 </ul>
 <p>Relevant help semantics:</p>
 <ul>
@@ -36574,8 +36574,8 @@ harness.</p>
 </ul>
 <p>Commands:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/.kiro/agents/trace.json</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent list</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/.kiro/agents/trace.json</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent list</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -36603,7 +36603,7 @@ harness.</p>
 <h2>Agent-Specific MCP Routing</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name dummy --agent trace --command /bin/echo --args dummy --disabled --force</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp add --name dummy --agent trace --command /bin/echo --args dummy --disabled --force</code></li>
 </ul>
 <p>Observed output:</p>
 <ul>
@@ -36673,13 +36673,13 @@ harness.</p>
 <li>config file: <code>/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json</code></li>
 </ul>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command /Users/jun/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
+<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home ~/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command ~/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
 </code></pre>
 <p>Result:</p>
 <pre><code class="language-text">✓ Added MCP server 'everything' to workspace config in /private/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json
 </code></pre>
 <p>The written config used:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
 </code></pre>
 <p><code>mcp status --name everything -vv</code> did not report protocol handshake or tool discovery. It reported:</p>
 <ul>
@@ -36706,21 +36706,21 @@ harness.</p>
 <p>This pass inspected the installed AGY binary and public wrapper only. It did not authenticate, read private AGY logs, read private conversations, or send Agent API messages.</p>
 <h2>Wrapper Identity</h2>
 <p>Only one installed Agent API wrapper was found under the Antigravity CLI home:</p>
-<pre><code class="language-text">/Users/jun/.gemini/antigravity-cli/bin/agentapi
+<pre><code class="language-text">~/.gemini/antigravity-cli/bin/agentapi
 </code></pre>
 <p><code>file</code> classified it as:</p>
-<pre><code class="language-text">/Users/jun/.gemini/antigravity-cli/bin/agentapi: POSIX shell script text executable, ASCII text
-/Users/jun/.local/bin/agy:                           Mach-O 64-bit executable arm64
-/Users/jun/.gemini/antigravity-cli/bin/webm_encoder: Mach-O 64-bit executable arm64
+<pre><code class="language-text">~/.gemini/antigravity-cli/bin/agentapi: POSIX shell script text executable, ASCII text
+~/.local/bin/agy:                           Mach-O 64-bit executable arm64
+~/.gemini/antigravity-cli/bin/webm_encoder: Mach-O 64-bit executable arm64
 </code></pre>
 <p>The wrapper contents are:</p>
 <pre><code class="language-sh">#!/bin/sh
-exec "/Users/jun/.local/bin/agy" agentapi "$@"
+exec "~/.local/bin/agy" agentapi "$@"
 </code></pre>
 <p>This proves that AGY installs an <code>agentapi</code> executable shim, but not that the public top-level router currently accepts <code>agentapi</code>.</p>
 <h2>Public Router Behavior</h2>
 <p>Direct public route:</p>
-<pre><code class="language-text">/Users/jun/.local/bin/agy agentapi --help
+<pre><code class="language-text">~/.local/bin/agy agentapi --help
 </code></pre>
 <p>returned exit <code>0</code>, but printed only top-level AGY help. The available subcommands listed were:</p>
 <pre><code class="language-text">changelog
@@ -36732,12 +36732,12 @@ update
 </code></pre>
 <p>No <code>agentapi</code> subcommand help, handler list, or Agent API command schema was exposed.</p>
 <p>Explicit help lookup:</p>
-<pre><code class="language-text">/Users/jun/.local/bin/agy help agentapi
+<pre><code class="language-text">~/.local/bin/agy help agentapi
 </code></pre>
 <p>returned exit <code>1</code> with:</p>
 <pre><code class="language-text">Error: unknown subcommand: agentapi
 </code></pre>
-<p>The wrapper path behaves the same because it execs <code>/Users/jun/.local/bin/agy agentapi "$@"</code>. Therefore the current installed public CLI surface has a wrapper/script for <code>agentapi</code>, but the direct public subcommand route is not active in normal no-context invocation.</p>
+<p>The wrapper path behaves the same because it execs <code>~/.local/bin/agy agentapi "$@"</code>. Therefore the current installed public CLI surface has a wrapper/script for <code>agentapi</code>, but the direct public subcommand route is not active in normal no-context invocation.</p>
 <h2>Binary String Evidence</h2>
 <p>The AGY Mach-O binary still contains first-class Agent API implementation strings and prompt templates. Relevant hits include:</p>
 <pre><code class="language-text">usage: agentapi %s %s
@@ -36790,7 +36790,7 @@ CompleteMcpOAuth
 <tbody>
 <tr>
 <td>Installed wrapper</td>
-<td>confirmed at <code>/Users/jun/.gemini/antigravity-cli/bin/agentapi</code></td>
+<td>confirmed at <code>~/.gemini/antigravity-cli/bin/agentapi</code></td>
 </tr>
 <tr>
 <td>Direct public CLI route</td>
@@ -36813,9 +36813,9 @@ CompleteMcpOAuth
 <p>The most likely model is that AGY writes or enables the <code>agentapi</code> shim for background sidecars or agent runtime contexts, while normal top-level <code>agy agentapi</code> is not a documented public command in the current installed build.</p>
 <h2>Named Subcommand Help Probe</h2>
 <p>A disposable HOME probe through the installed wrapper confirmed that known binary subcommand names still do not expose public help:</p>
-<pre><code class="language-text">HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi send-message --help
-HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi new-conversation --help
-HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-metadata --help
+<pre><code class="language-text">HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi send-message --help
+HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi new-conversation --help
+HOME=/tmp/... ~/.gemini/antigravity-cli/bin/agentapi get-conversation-metadata --help
 </code></pre>
 <p>All three exited <code>0</code> but printed only top-level AGY help with the public subcommand list <code>changelog</code>, <code>help</code>, <code>install</code>, <code>plugin</code>, <code>plugins</code>, and <code>update</code>. This tightens the boundary: <code>send-message</code>, <code>new-conversation</code>, and <code>get-conversation-metadata</code> are binary handler names, not no-context public CLI routes in this install.</p>
 <h2>Sidecar Contract Strings</h2>
@@ -36843,9 +36843,9 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 <h3><code>015_reverse-engineering/38_ay_project_flags_trace.md</code></h3>
 <h1>AGY Project Flags And Permission Rules Trace</h1>
 <p>Disposable evidence pass for <strong>agy 1.0.12+</strong> launch and permission changelog items. No OAuth session, no conversation store reads, no private settings values.</p>
-<p><strong>Version pin:</strong> <code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code> — <code>agy</code> <strong>1.0.12</strong> (<code>agy --version</code>), changelog through <strong>1.0.13</strong>.</p>
+<p><strong>Version pin:</strong> <code>015_reverse-engineering/36_installed_cli_version_manifest.md</code> — <code>agy</code> <strong>1.0.12</strong> (<code>agy --version</code>), changelog through <strong>1.0.13</strong>.</p>
 <h2>Installed-help — launch flags</h2>
-<p>Command: <code>/Users/jun/.local/bin/agy --help</code> (2026-06-27)</p>
+<p>Command: <code>~/.local/bin/agy --help</code> (2026-06-27)</p>
 <table>
 <thead>
 <tr>
@@ -36882,7 +36882,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </table>
 <p>Public subcommands remain: <code>changelog</code>, <code>help</code>, <code>install</code>, <code>models</code>, <code>plugin</code>/<code>plugins</code>, <code>update</code>.</p>
 <h2>Safe-local-doc — changelog 1.0.12–1.0.13</h2>
-<p>Source: <code>agy changelog</code> + <code>/Users/jun/.gemini/antigravity-cli/cache/CHANGELOG.md</code></p>
+<p>Source: <code>agy changelog</code> + <code>~/.gemini/antigravity-cli/cache/CHANGELOG.md</code></p>
 <table>
 <thead>
 <tr>
@@ -36915,7 +36915,7 @@ HOME=/tmp/... /Users/jun/.gemini/antigravity-cli/bin/agentapi get-conversation-m
 </tbody>
 </table>
 <h2>Binary-string — resume hint</h2>
-<p><code>strings /Users/jun/.local/bin/agy</code> (2026-06-27) includes:</p>
+<p><code>strings ~/.local/bin/agy</code> (2026-06-27) includes:</p>
 <pre><code class="language-text">Resume in the same project: agy --conversation=%s --project=%s
 </code></pre>
 <p>Confirms <code>--project</code> pairs with <code>--conversation</code> in exit/resume UX strings (not a separate public subcommand).</p>

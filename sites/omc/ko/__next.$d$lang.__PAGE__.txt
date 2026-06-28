@@ -3,9 +3,9 @@
 3:I[73570,["/cli101-portal/sites/omc/_next/static/chunks/6d299d2b16f93b46.js"],"PageClient"]
 28:I[8038,["/cli101-portal/sites/omc/_next/static/chunks/6d299d2b16f93b46.js"],"SectionBlock"]
 45:I[72949,["/cli101-portal/sites/omc/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/omc/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
-0:{"buildId":"pC05iYETpAXyXztNZaLBl","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"OMC101","tagline":"OMC101 developer-grade corpus guide","taglineEn":"OMC101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_omc_overview.md","branding":{"slug":"omc101","name":"OMC101","tagline_ko":"Sisyphus gold","tagline_en":"Sisyphus gold","accentLabel_ko":"000_overview/00_omc_overview.md","accentLabel_en":"000_overview/00_omc_overview.md","heroTitle_ko":"Claude Code 멀티에이전트","heroTitle_en":"Claude Code 멀티에이전트","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ omc setup","$$ claude"],"prompt_ko":"> 계획 세워줘","prompt_en":"> plan this","ctaHash":"00-before-you-start","officialUrl":"https://github.com/Yeachan-Heo/oh-my-claudecode","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"OMC101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-omc","order":2,"tier":"core","slug":"02-what-is-omc","title_ko":"OMC가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/02-what-is-omc.md","file_en":"en/02-what-is-omc.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + 준비 단계 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 플러그인 구조와 기동","title_en":"Overview §1","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 시스템 프롬프트 주입 (CLAUDE.md / AGENTS.md)","title_en":"Overview §2","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 에이전트 카탈로그 (agents/)","title_en":"Overview §3","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 스킬과 명령 (skills/, commands/)","title_en":"Overview §4","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 외부 AI 연동 (ask / ccg / team CLI 워커)","title_en":"Overview §5","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 팀 오케스트레이션 (team mode)","title_en":"Overview §6","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Hook 라이프사이클 (turn-surviving 실행의 핵심)","title_en":"Overview §7","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 상태·메모리 영속 (`t` MCP 서버 + `.omc/`)","title_en":"Overview §8","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 모드 레지스트리와 상호 배제","title_en":"Overview §9","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 바닐라 Claude Code 대비 OMC가 더하는 것 (요약)","title_en":"Overview §10","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. cli-jaw 비교 시사점","title_en":"Overview §11","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_omc_tui.md","description_en":"001_tui-design/01_omc_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_omc_prompt.md","description_en":"002_prompt-context/02_omc_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_omc_tool.md","description_en":"003_tool-runtime/03_omc_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_omc_skill.md","description_en":"004_skill-system/04_omc_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_omc_subagent.md","description_en":"005_subagents-collab/05_omc_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_omc_surface.md","description_en":"006_app-server-client-surfaces/06_omc_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_omc_sandbox.md","description_en":"007_sandbox-exec-policy/07_omc_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_omc_config.md","description_en":"008_config-system/08_omc_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_omc_mcp.md","description_en":"009_mcp-orchestration/09_omc_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_omc_memory.md","description_en":"010_memory-pipeline/10_omc_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_omc_plugin.md","description_en":"011_plugin-system/11_omc_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_omc_guardian.md","description_en":"012_guardian-approval/12_omc_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_omc_etc.md","description_en":"013_etc/13_omc_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_omc_web-search.md","description_en":"014_web-search/14_omc_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],["$L26"],"$L27"]}],"loading":null,"isPartial":false}
+0:{"buildId":"E_y6IlXnRRHMdonAAX5jy","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"ko","siteName":"OMC101","tagline":"OMC101 developer-grade corpus guide","taglineEn":"OMC101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_omc_overview.md","branding":{"slug":"omc101","name":"OMC101","tagline_ko":"Sisyphus gold","tagline_en":"Sisyphus gold","accentLabel_ko":"000_overview/00_omc_overview.md","accentLabel_en":"000_overview/00_omc_overview.md","heroTitle_ko":"Claude Code 멀티에이전트","heroTitle_en":"Claude Code 멀티에이전트","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ omc setup","$$ claude"],"prompt_ko":"> 계획 세워줘","prompt_en":"> plan this","ctaHash":"00-before-you-start","officialUrl":"https://github.com/Yeachan-Heo/oh-my-claudecode","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"OMC101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-omc","order":2,"tier":"core","slug":"02-what-is-omc","title_ko":"OMC가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/02-what-is-omc.md","file_en":"en/02-what-is-omc.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + 준비 단계 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 플러그인 구조와 기동","title_en":"Overview §1","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 시스템 프롬프트 주입 (CLAUDE.md / AGENTS.md)","title_en":"Overview §2","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 에이전트 카탈로그 (agents/)","title_en":"Overview §3","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. 스킬과 명령 (skills/, commands/)","title_en":"Overview §4","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 외부 AI 연동 (ask / ccg / team CLI 워커)","title_en":"Overview §5","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 팀 오케스트레이션 (team mode)","title_en":"Overview §6","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Hook 라이프사이클 (turn-surviving 실행의 핵심)","title_en":"Overview §7","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. 상태·메모리 영속 (`t` MCP 서버 + `.omc/`)","title_en":"Overview §8","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 모드 레지스트리와 상호 배제","title_en":"Overview §9","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 바닐라 Claude Code 대비 OMC가 더하는 것 (요약)","title_en":"Overview §10","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. cli-jaw 비교 시사점","title_en":"Overview §11","description_ko":"000_overview/00_omc_overview.md","description_en":"000_overview/00_omc_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_omc_tui.md","description_en":"001_tui-design/01_omc_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_omc_prompt.md","description_en":"002_prompt-context/02_omc_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_omc_tool.md","description_en":"003_tool-runtime/03_omc_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_omc_skill.md","description_en":"004_skill-system/04_omc_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_omc_subagent.md","description_en":"005_subagents-collab/05_omc_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_omc_surface.md","description_en":"006_app-server-client-surfaces/06_omc_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_omc_sandbox.md","description_en":"007_sandbox-exec-policy/07_omc_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_omc_config.md","description_en":"008_config-system/08_omc_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_omc_mcp.md","description_en":"009_mcp-orchestration/09_omc_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_omc_memory.md","description_en":"010_memory-pipeline/10_omc_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_omc_plugin.md","description_en":"011_plugin-system/11_omc_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_omc_guardian.md","description_en":"012_guardian-approval/12_omc_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_omc_etc.md","description_en":"013_etc/13_omc_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_omc_web-search.md","description_en":"014_web-search/14_omc_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],["$L26"],"$L27"]}],"loading":null,"isPartial":false}
 4:["$","$L28","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>코딩을 할 줄 알지만 \"AI랑 터미널에서 협업한다\"는 느낌을 더 제대로 경험하고 싶으신 분, Claude Code를 쓰고 있는데 더 똑똑하고 편리하게 다루고 싶으신 분이라면 잘 오셨어요. OMC(oh-my-claudecode)가 어떻게 여러분의 개발을 도와주는지 어려운 용어 없이 차근차근 설명해 드릴게요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>OMC가 대체 무엇을 해주는 도구인지</li>\n<li>5분 만에 첫 작업을 AI 비서에게 시켜보는 방법</li>\n<li>매일 개발할 때 자연스럽게 쓰는 핵심 흐름</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>딱 두 가지만 알고 계시면 돼요.</p>\n<ol>\n<li>터미널(명령어를 치는 검은 창)을 열고 간단한 명령어를 입력할 수 있어요.</li>\n<li>작업하려는 폴더가 git으로 관리되고 있어요. 만약 아직이라면 그 폴더 안에서 <code>git init</code> 명령어를 한 번 실행해 주세요.</li>\n</ol>\n<p>준비가 다 되었으면 다음 장에서 OMC가 어떤 도구인지 자세히 알아볼게요.</p>\n"}}]}]
-29:T44ae,<h2>기초 설명</h2>
+29:T3c3e,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -67,8 +67,8 @@ docs/
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -81,87 +81,87 @@ docs/
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -177,122 +177,122 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -332,7 +332,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -341,26 +341,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -446,7 +446,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -456,7 +456,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -472,8 +472,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (발췌)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -487,52 +487,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 5:["$","$L28","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$29"}}]}]
 6:["$","$L28","02-what-is-omc",{"id":"02-what-is-omc","order":2,"tier":"core","title":"OMC가 뭐예요?","description":"한 문장 정의와 비유로 이해하기","lang":"ko","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>한 문장으로 말하면</h2>\n<p>OMC는 Claude Code라는 AI 코딩 도구 위에 한 겹 더 얹어서, 여러 AI 비서들을 거느리고 함께 코딩할 수 있게 돕는 도구예요.</p>\n<h2>비유로 이해하기</h2>\n<p>Claude Code가 혼자 일하는 똑똑한 조수라면, OMC는 그 조수 옆에서 전체 작업을 기획하고 검증하는 든든한 팀장님을 붙여주는 것과 비슷해요. \"로그인 기능 만들어줘\"라고 한마디만 하면, 계획을 짜는 비서, 코드를 짜는 비서, 테스트하는 비서들이 한 팀이 되어 일사분란하게 움직여요.</p>\n<h2>이런 걸 할 수 있어요</h2>\n<ul>\n<li>\"TypeScript 에러 모두 고쳐줘\" 같은 복잡한 요청을 알아서 계획을 짜서 단계별로 해결해요.</li>\n<li>여러 AI 비서가 역할을 나눠서 병렬로 빠르게 일해요.</li>\n<li>작업이 끝나면 코드가 제대로 작동하는지 검사까지 해줘요.</li>\n</ul>\n<h2>왜 좋냐면요</h2>\n<p>혼자서 일하는 AI보다 훨씬 꼼꼼해요. 계획을 먼저 세우고 코드 작성이 끝나면 빌드나 오류 검사까지 알아서 마친 뒤에 알려주니까 실수가 눈에 띄게 줄어들어요. 게다가 여러 AI가 나누어 작업하므로 복잡한 프로젝트도 훨씬 빠르게 끝낼 수 있어요.</p>\n<blockquote>\n<p>더 세밀한 동작 원리나 설계 방식이 궁금하신 분은 상단 메뉴에 있는 <strong>개발자 문서</strong>를 확인해 보세요. 지금은 이 도구가 대략 어떤 역할을 하는지 감만 잡으셔도 충분해요.</p>\n</blockquote>\n"}}]}]
@@ -1653,7 +1653,7 @@ and does not by itself mean the OMC CLI install failed.</p>
 ---
 </code></pre>
 15:["$","$L28","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"11. cli-jaw 비교 시사점","description":"000_overview/00_omc_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$34"}}]}]
-35:Tcfa6,<h2>기초 설명</h2>
+35:Tcf8b,<h2>기초 설명</h2>
 <hr>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1743,7 +1743,7 @@ and does not by itself mean the OMC CLI install failed.</p>
 <h2>코퍼스 — 001_tui-design/01_omc_tui.md (심화)</h2>
 <h1>oh-my-claudecode (omc) TUI / 입력 표면</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code> (plugin + statusline/HUD sources).</p>
+<p><strong>분석 스냅샷</strong>: <code>170_oh-my-claudecode/</code> (plugin + statusline/HUD sources).</p>
 </blockquote>
 <blockquote>
 <p>이 문서는 <code>Yeachan-Heo/oh-my-claudecode</code>(OMC, npm명 <code>oh-my-claude-sisyphus</code> v4.14.4)가 <strong>터미널 UI / 입력 표면</strong> 차원에서 무엇을 가지고 무엇을 갖지 않는지 소스 기반으로 분석한다. 결론을 먼저 말하면: <strong>OMC는 자체 TUI 렌더러·입력 루프·대화 스트리밍 표시를 갖지 않는다.</strong> REPL·키 입력·붙여넣기·도구 결과 렌더링·alt screen·더블 버퍼링은 전부 호스트인 Claude Code의 커스텀 Ink/Yoga 스택([[01_cc_tui]])이 담당한다. OMC가 입력/출력 표면에 추가하는 것은 정확히 세 갈래다 — (1) Claude Code <code>statusLine</code> 훅 위에 얹는 <strong>OMC HUD</strong>(<code>src/hud/</code>, ~30개 모듈, 순수 ANSI 문자열 렌더러), (2) <code>UserPromptSubmit</code> 훅의 <strong>매직 키워드 입력 가로채기 + 슬래시 명령 디스패처</strong>, (3) Stop/SessionEnd 훅에서 발화하는 <strong>알림(Telegram/Discord/Slack) + OpenClaw 게이트웨이 신호</strong> 같은 대역외(out-of-band) 출력 표면. 즉 OMC의 TUI 차원은 "호스트 위임 + 단일 statusline HUD 증강" 모델이다.</p>
@@ -10531,7 +10531,7 @@ if (hardMax > 0 &#x26;&#x26; state.iteration >= hardMax) { /* disable + [RALPH -
 <li>2026-05-29: OMC v4.14.4 승인·가디언 계층을 소스 기반으로 작성. PermissionRequest Hook의 Bash 자동승인 화이트리스트(SAFE_PATTERNS / DANGEROUS_SHELL_CHARS·heredoc 가드 / repo 경로 검증 / 타깃 테스트, <code>permission-handler/index.ts</code>), PreToolUse Hook의 deny 게이트 3종(ultragoal /goal 정합성·forceInherit 모델 라우팅·team 라우팅/SLOP 경고, <code>pre-tool-enforcer.mjs</code>), <code>OMC_SECURITY=strict</code> 7-feature 정책표와 단방향 조이기(<code>security-config.ts</code>)와 강제 지점(ast-tools/python-repl/model-contract/persistent-mode), 호스트 위임 vs OMC 자체 책임 경계, SSRF guard, cli-jaw 비교 시사점 4항목 정리.</li>
 </ul>
 21:["$","$L28","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"축 12: 가디언·승인","description":"012_guardian-approval/12_omc_guardian.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:Tcab2,<h2>기초 설명</h2>
+41:Tcaa0,<h2>기초 설명</h2>
 <p>본 문서는 <code>oh-my-claudecode</code>(OMC) 플러그인 코드베이스에서 <code>00_omc_overview</code>의 핵심 차원(에이전트·스킬·Hook·team·상태영속)에 포함되지 않은 **잔여 교차 관심사(cross-cutting concerns)**를 소스 기반으로 분석한다. 분석 대상은 <code>src/</code>(TypeScript 원본), <code>scripts/*.mjs</code>(Hook 런처), <code>.github/workflows/</code>, <code>.claude-plugin/</code>, 12개 <code>README.*.md</code>이다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10744,7 +10744,7 @@ src/planning/__tests__, src/openclaw/__tests__, src/interop/__tests__, src/goal-
 <blockquote>
 <p><strong>핵심 전제</strong>: OMC는 <strong>Claude Code 플러그인</strong>이지 독립 CLI 런타임이 아니다([[00_omc_overview]] §1). 따라서 잔여 관심사의 상당 부분 — Messages API 인증, OAuth 플로우, 멀티모달 이미지 디코딩, Bedrock/Vertex 프로바이더 추상화, OTLP 텔레메트리 — 은 <strong>호스트(Claude Code)에 위임</strong>된다([[13_cc_etc]] §2·§4·§8·§9 참조). OMC가 실재로 구현하는 것은 (1) <strong>git 호스팅 프로바이더 추상화</strong>, (2) <strong>자체 모델 티어 라우팅</strong>, (3) <strong>알림(notification) 채널 디스패치</strong>, (4) <strong>team 이벤트 로그</strong>, (5) <strong>시크릿 레다크션·SSRF 가드</strong>, (6) <strong>보안 피처 스위치</strong>, (7) <strong>방대한 vitest 테스트 인프라</strong>, (8) <strong>12개 언어 README i18n</strong>이다. 본 문서는 "OMC 실재" vs "호스트 위임"을 항목마다 명시한다.</p>
 </blockquote>
-<p>근거 경로(모두 절대경로): <code>/Users/jun/developer/codex/170_oh-my-claudecode/</code> 하위. 이하 상대경로로 표기.</p>
+<p>근거 경로(모두 절대경로): <code>~/developer/codex/170_oh-my-claudecode/</code> 하위. 이하 상대경로로 표기.</p>
 <hr>
 <h2>1. Git / VCS 통합</h2>
 <p>OMC의 git 관심사는 <strong>두 층</strong>으로 나뉜다: (A) git <strong>호스팅 프로바이더 추상화</strong>(GitHub/GitLab/...), (B) team 워커 격리를 위한 <strong>git worktree 관리</strong>. 커밋 작성 안전 규약은 에이전트 프롬프트(<code>git-master</code>)에 텍스트로 산다.</p>
@@ -11142,7 +11142,7 @@ src/planning/__tests__, src/openclaw/__tests__, src/interop/__tests__, src/goal-
 <p>CLI/플러그인 특성상 GUI 접근성은 해당 없다. 알림 채널(§4.2)이 시각 외 채널(텍스트 메시지)로 진행 상황을 전달하는 점이 간접적 접근성 요소다.</p>
 <hr>
 <h2>기술 참조</h2>
-<h3>주요 파일 경로 (모두 <code>/Users/jun/developer/codex/170_oh-my-claudecode/</code> 기준)</h3>
+<h3>주요 파일 경로 (모두 <code>~/developer/codex/170_oh-my-claudecode/</code> 기준)</h3>
 <table>
 <thead>
 <tr>
@@ -11372,7 +11372,7 @@ src/planning/__tests__, src/openclaw/__tests__, src/interop/__tests__, src/goal-
 <li><strong>업그레이드 회귀 테스트</strong>: OMC의 <code>upgrade-test.yml</code>은 <code>omc update</code> + session-start hook을 실제 실행해 플러그인 업데이트가 사용자 환경을 깨뜨리는지 검증한다. cli-jaw가 스킬/설정 스키마를 진화시킬 때, "기존 사용자 상태에서 업그레이드가 무사히 도는가"를 CI 게이트로 두는 발상은 그대로 이식 가능하다.</li>
 </ul>
 22:["$","$L28","20-axis-13-etc",{"id":"20-axis-13-etc","order":30,"tier":"deep","title":"축 13: 기타","description":"013_etc/13_omc_etc.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:T561a,<h2>기초 설명</h2>
+42:T55ae,<h2>기초 설명</h2>
 <p>OMC is a Claude Code bootstrap layer. It does not crawl the web or host a search index. Internet access flows through (1) Claude Code native tools, (2) optional subprocess MCP servers, and (3) prompt enhancements that tell agents to run parallel explore/document specialists.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -11534,8 +11534,8 @@ export function toSdkMcpFormat(servers: McpServersConfig): Record&#x3C;string, M
 }
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-bash">rg -n WebSearch /Users/jun/Developer/codex/170_oh-my-claudecode/src/
-wc -c /Users/jun/Developer/codex/014_web-search/14_omc_web-search.md  # T2 floor 12288
+<pre><code class="language-bash">rg -n WebSearch 170_oh-my-claudecode/src/
+wc -c 014_web-search/14_omc_web-search.md  # T2 floor 12288
 </code></pre>
 <h2>코퍼스 — 014_web-search/14_omc_web-search.md (심화)</h2>
 <h1>Oh My ClaudeCode — Web Search 구현</h1>
@@ -11960,11 +11960,11 @@ export function toSdkMcpFormat(servers: McpServersConfig): Record&#x3C;string, M
 </tbody>
 </table>
 <h2>Re-verification (WP58)</h2>
-<pre><code class="language-bash">rg -n WebSearch /Users/jun/Developer/codex/170_oh-my-claudecode/src/
-wc -c /Users/jun/Developer/codex/014_web-search/14_omc_web-search.md  # T2 floor 12288
+<pre><code class="language-bash">rg -n WebSearch 170_oh-my-claudecode/src/
+wc -c 014_web-search/14_omc_web-search.md  # T2 floor 12288
 </code></pre>
 23:["$","$L28","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_omc_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T1a10,<h2>기초 설명</h2>
+43:T1992,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -12019,7 +12019,7 @@ and does not by itself mean the OMC CLI install failed.</p>
 | runtime-trace | synthetic project에서 실제 명령을 실행한 결과 | 동작 semantics, precedence, permission enforcement를 확인했다 |
 | private-artifact-name | 비공개 상태 파일의 경로/개수만 관찰 | artifact가 존재한다. 내용/schema 주장은 금지 |
 
-`/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
+`015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
 
 ## Hard Boundary
 
@@ -12039,7 +12039,7 @@ and does not by itself mean the OMC CLI install failed.</p>
 
 Single source of truth for pinned `ay`/`cr`/`gr`/`ki` binaries:
 
-- `/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md`
+- `015_reverse-engineering/36_installed_cli_version_manifest.md`
 
 WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level definitions above.
 
@@ -12049,7 +12049,7 @@ WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level defin
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `ay` | `/Users/jun/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
+| `ay` | `~/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
 | `cr` | `cursor-agent` `2026.06.26-7079533` | bundle string literals, help; `37`, `39_cr_automations_help_trace.md` |
 | `gr` | `grok-0.2.67-macos-aarch64` | inspect JSON, strings; `40_gr_0267_inspect_refresh.md` |
 | `ki` | `Kiro CLI.app` 2.5.0 | help surfaces; `41_ki_help_surface_trace.md` |
@@ -12058,10 +12058,10 @@ WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level defin
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `gr` | `/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64`, `/Users/jun/.grok/bundled`, `/Users/jun/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
-| `cr` | `/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
-| `ki` | `/Applications/Kiro CLI.app`, `/Users/jun/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
-| `ay` | `/Users/jun/.local/bin/agy`, `/Users/jun/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
+| `gr` | `~/.grok/downloads/grok-0.2.14-macos-aarch64`, `~/.grok/bundled`, `~/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
+| `cr` | `~/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
+| `ki` | `/Applications/Kiro CLI.app`, `~/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
+| `ay` | `~/.local/bin/agy`, `~/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
 
 ## Reading Rule For Existing Docs
 

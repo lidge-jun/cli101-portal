@@ -7,7 +7,7 @@
 a:I[59374,["/cli101-portal/sites/copilot-cli/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/copilot-cli/_next/static/chunks/f19e4129d752cb5c.js"],"MetadataBoundary"]
 c:I[22319,["/cli101-portal/sites/copilot-cli/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/copilot-cli/_next/static/chunks/f19e4129d752cb5c.js"],"default"]
 :HL["/cli101-portal/sites/copilot-cli/_next/static/chunks/dd532f457a7d531f.css","style"]
-0:{"P":null,"b":"peHdhSTaec1CesD2OSjhF","c":["","en",""],"q":"","i":false,"f":[[["",{"children":[["lang","en","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/copilot-cli/_next/static/chunks/dd532f457a7d531f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/copilot-cli/_next/static/chunks/632d5794df09229a.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+0:{"P":null,"b":"sIyjMsHJZRFInd1qg0vB0","c":["","en",""],"q":"","i":false,"f":[[["",{"children":[["lang","en","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/copilot-cli/_next/static/chunks/dd532f457a7d531f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/copilot-cli/_next/static/chunks/632d5794df09229a.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
 b:[["$","title","0",{"children":"CP101 — GitHub Copilot CLI 입문"}],["$","meta","1",{"name":"description","content":"Copilot CLI 코퍼스 기반 입문 가이드"}],["$","meta","2",{"property":"og:title","content":"CP101 — GitHub Copilot CLI"}],["$","meta","3",{"property":"og:description","content":"decoded/ 번들 분석 — cc101-class surface"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"CP101 — GitHub Copilot CLI"}],["$","meta","6",{"name":"twitter:description","content":"decoded/ 번들 분석 — cc101-class surface"}]]
@@ -172,21 +172,21 @@ d:I[27756,["/cli101-portal/sites/copilot-cli/_next/static/chunks/632d5794df09229
 </tbody>
 </table>
 e:["$","$L35","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"Before you start","description":"000 index + axis map","lang":"en","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$36"}}]}]
-37:Tbe3a,<h2>Overview</h2>
+37:Tb04e,<h2>Overview</h2>
 <p><strong>Corpus spine (000)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</li>
-<li>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</li>
-<li>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</li>
+<li>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</li>
+<li>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</li>
 <li>| Purpose | Path | Classification |</li>
-<li>| Root overview and synthesis | <code>/Users/jun/Developer/codex/000/</code> | <code>overview-index</code> |</li>
-<li>| Deep harness overview docs | <code>/Users/jun/Developer/codex/000_overview/</code> | <code>deep-overview</code> |</li>
-<li>| TUI design axis | <code>/Users/jun/Developer/codex/001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Prompt/context axis | <code>/Users/jun/Developer/codex/002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Tool/runtime axis | <code>/Users/jun/Developer/codex/003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Skill system axis | <code>/Users/jun/Developer/codex/004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Subagents/collaboration axis | <code>/Users/jun/Developer/codex/005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| App/server/client surfaces axis | <code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Root overview and synthesis | <code>000/</code> | <code>overview-index</code> |</li>
+<li>| Deep harness overview docs | <code>000_overview/</code> | <code>deep-overview</code> |</li>
+<li>| TUI design axis | <code>001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Prompt/context axis | <code>002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Tool/runtime axis | <code>003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Skill system axis | <code>004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Subagents/collaboration axis | <code>005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| App/server/client surfaces axis | <code>006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
 </ul>
 <h2>Topics covered</h2>
 <ul>
@@ -254,8 +254,8 @@ docs/
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -268,87 +268,87 @@ docs/
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -364,122 +364,122 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -519,7 +519,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -528,26 +528,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -633,7 +633,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -643,7 +643,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -854,8 +854,8 @@ docs/
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -868,87 +868,87 @@ docs/
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -964,122 +964,122 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -1119,7 +1119,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -1128,26 +1128,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -1233,7 +1233,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -1243,7 +1243,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -4574,12 +4574,12 @@ AI Safety:
 </table>
 <hr>
 24:["$","$L35","07-overview-16",{"id":"07-overview-16","order":22,"tier":"developer","title":"Overview §16","description":"000_overview/00_cp_overview.md","lang":"en","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$49"}}]}]
-4a:T187f7,<h2>Overview</h2>
+4a:T187a6,<h2>Overview</h2>
 <p><strong>Axis 01: TUI design</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/151_copilot_cli/</code> + decompiled bundle evidence cited in-body.</p>
+<p><strong>분석 스냅샷</strong>: <code>151_copilot_cli/</code> + decompiled bundle evidence cited in-body.</p>
 </blockquote>
 </li>
 <li>
@@ -5271,7 +5271,7 @@ function ErrorDisplay({ error }) {
 <h2>Main analysis</h2>
 <h1>Copilot CLI TUI design analysis</h1>
 <blockquote>
-<p><strong>Analysis Snapshot</strong>: <code>/Users/jun/Developer/codex/151_copilot_cli/</code> + decompiled bundle evidence cited in-body.</p>
+<p><strong>Analysis Snapshot</strong>: <code>151_copilot_cli/</code> + decompiled bundle evidence cited in-body.</p>
 </blockquote>
 <blockquote>
 <p>⚠️ <strong>Decompilation Bundle Analysis</strong>: This document is a reverse engineering analysis of <code>151_copilot_cli/deobfuscated/src/app/tui/</code> (29 files, 16,455 lines) and related modules. It contains obfuscated identifiers compared to the original source and is based on structure inference.</p>
@@ -6167,7 +6167,7 @@ Next article: [[02_cp_prompt]]</p>
 </blockquote>
 <h1>Copilot CLI TUI 설계 분석</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/151_copilot_cli/</code> + decompiled bundle evidence cited in-body.</p>
+<p><strong>분석 스냅샷</strong>: <code>151_copilot_cli/</code> + decompiled bundle evidence cited in-body.</p>
 </blockquote>
 <blockquote>
 <p>⚠️ <strong>디컴파일 번들 분석</strong>: 이 문서는 <code>151_copilot_cli/deobfuscated/src/app/tui/</code> (29개 파일, 16,455줄)와 관련 모듈의 역공학 분석이다. 원본 소스 대비 난독화된 식별자를 포함하며, 구조 추론에 기반한다.</p>
@@ -27842,11 +27842,11 @@ function hasDangerousExpansion(containerNode) {
 <p>이전 문서: [[11_cp_plugin]]
 다음 문서: [[13_cp_etc]]</p>
 30:["$","$L35","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":34,"tier":"deep","title":"Axis 12: Guardian & approval","description":"012_guardian-approval/12_cp_guardian.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$55"}}]}]
-56:T1b1d2,<h2>Overview</h2>
+56:T1ae57,<h2>Overview</h2>
 <p><strong>Axis 13: Cross-cutting</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>Copilot CLI(GitHub Copilot Coding Agent CLI)는 dimensions 01-12에 포함되지 않는 교차 관심사들을 다수 보유하고 있다. 특히 <strong>7단계 인증 체계</strong>와 <strong>tree-sitter WASM 기반 코드 분석</strong> 엔진은 Copilot CLI의 핵심 차별점이다.</li>
-<li><strong>분석 대상 소스:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/</code></li>
+<li><strong>분석 대상 소스:</strong> <code>151_copilot_cli/decoded/</code></li>
 <li>├── 00_bootstrap/</li>
 <li>│   └── 0000__get.js                    # 보안 제약 require, 진입점</li>
 <li>├── 01_core/</li>
@@ -28512,7 +28512,7 @@ getGitHubAskpassToken() {
 <h1>Copilot CLI residual cross-interest analysis</h1>
 <h2>Overview</h2>
 <p>Copilot CLI (GitHub Copilot Coding Agent CLI) has many cross-cutting concerns that are not included in dimensions 01-12. In particular, the <strong>7-step authentication system</strong> and the <strong>tree-sitter WASM-based code analysis</strong> engine are the key differentiators of Copilot CLI.</p>
-<p><strong>Source for analysis:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/</code></p>
+<p><strong>Source for analysis:</strong> <code>151_copilot_cli/decoded/</code></p>
 <pre><code>핵심 파일 맵:
 ├── 00_bootstrap/
 │   └── 0000__get.js                    # 보안 제약 require, 진입점
@@ -28542,7 +28542,7 @@ getGitHubAskpassToken() {
 <hr>
 <h2>1. Bootstrap chain</h2>
 <h3>1.1 Security constraints <code>require</code> system</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/00_bootstrap/0000__get.js</code></p>
+<p><strong>File path:</strong> <code>151_copilot_cli/decoded/00_bootstrap/0000__get.js</code></p>
 <p>The Copilot CLI entry point defines a custom <code>require</code> function that <strong>prevents import path escapes</strong>. This forces all <code>require</code> calls to be made only within the scope of the application directory.</p>
 <pre><code class="language-javascript">// 0000__get.js — 보안 제약 require
 const require = (module) => {
@@ -28617,7 +28617,7 @@ var k = (t, e) => () => (e || t((e = { exports: {} }).exports, e), e.exports);  
 <h2>2. Authentication/API key management (core strengths)</h2>
 <h3>2.1 Architecture Overview</h3>
 <p>Copilot CLI supports <strong>7 authentication types</strong> and implements a chain pattern that searches sequentially based on priority. This is one of the most comprehensive certification schemes in the industry.</p>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/06_auth/1008__slash-keytar-build-api-copilot-api-github.js</code></p>
+<p><strong>File path:</strong> <code>151_copilot_cli/decoded/06_auth/1008__slash-keytar-build-api-copilot-api-github.js</code></p>
 <pre><code class="language-mermaid">graph TD
     A[loadAuthInfo] --> B{SDK Token?}
     B -->|COPILOT_AUTH_TOKEN| C[SDK 토큰 검증]
@@ -28819,7 +28819,7 @@ async storeToken(token, host, login, configPath) {
 <hr>
 <h2>3. Git/VCS integration</h2>
 <h3>3.1 Remote repository detection engine</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/git/remote_hosts.js</code></p>
+<p><strong>File path:</strong> <code>151_copilot_cli/decoded/01_core/git/remote_hosts.js</code></p>
 <p>Copilot CLI automatically detects <strong>Azure DevOps (ADO)</strong> and <strong>GitHub</strong> remotes to determine authentication and API endpoints.</p>
 <pre><code class="language-javascript">async function FDr(cwd, featureFlags) {
   if (!featureFlags.ADO_DETECTION) return { hasAzureDevOps: false, hasGitHub: false };
@@ -28858,7 +28858,7 @@ function xmi(url) {
 }
 </code></pre>
 <h3>3.2 Diff Engine</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/11_search/1657__...highlights.js</code></p>
+<p><strong>File path:</strong> <code>151_copilot_cli/decoded/11_search/1657__...highlights.js</code></p>
 <p>The Copilot CLI combines <code>git diff</code> and <code>git status</code> to build a <strong>global change map</strong>.</p>
 <pre><code class="language-mermaid">flowchart TD
     A[kLe - 변경사항 수집] --> B{git HEAD 있음?}
@@ -29060,7 +29060,7 @@ function ZYi(querySource) {
 <hr>
 <h2>5. Telemetry / Observability</h2>
 <h3>5.1 Skill Metrics</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/telemetry/skills_metrics.js</code></p>
+<p><strong>File path:</strong> <code>151_copilot_cli/decoded/01_core/telemetry/skills_metrics.js</code></p>
 <p>It is a granular telemetry system that tracks skill calls and load.</p>
 <pre><code class="language-javascript">// 스킬 호출 이벤트
 function kXr(skillInvocation) {
@@ -29126,7 +29126,7 @@ function LXr(loadResult) {
 }
 </code></pre>
 <h3>5.3 Workspace events</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/telemetry/workspace_events.js</code></p>
+<p><strong>File path:</strong> <code>151_copilot_cli/decoded/01_core/telemetry/workspace_events.js</code></p>
 <p>Track five workspace activity events:</p>
 <table>
 <thead>
@@ -29191,7 +29191,7 @@ function LXr(loadResult) {
 <hr>
 <h2>6. Agent prompt system</h2>
 <h3>6.1 Prompt structure</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/11_search/0647__slash-code-solution-user-example-reduce-tool-file-terminal-editing-resources.js</code></p>
+<p><strong>File path:</strong> <code>151_copilot_cli/decoded/11_search/0647__slash-code-solution-user-example-reduce-tool-file-terminal-editing-resources.js</code></p>
 <p>Copilot CLI uses a structured prompting system based on XML tags:</p>
 <pre><code>프롬프트 조립 순서:
 1. &#x3C;tool_use_guidelines>       — 도구 사용 규칙 (rg 우선, 병렬 호출)
@@ -29544,35 +29544,35 @@ getGitHubAskpassToken() {
 <tbody>
 <tr>
 <td>security require</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/00_bootstrap/0000__get.js</code></td>
+<td><code>151_copilot_cli/decoded/00_bootstrap/0000__get.js</code></td>
 </tr>
 <tr>
 <td>Certification system</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/06_auth/1008__slash-keytar-build-api-copilot-api-github.js</code></td>
+<td><code>151_copilot_cli/decoded/06_auth/1008__slash-keytar-build-api-copilot-api-github.js</code></td>
 </tr>
 <tr>
 <td>Token Broker</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/06_auth/0728__slash-login-identity-cache-persistence-identity-identity-vscode-identity-broker.js</code></td>
+<td><code>151_copilot_cli/decoded/06_auth/0728__slash-login-identity-cache-persistence-identity-identity-vscode-identity-broker.js</code></td>
 </tr>
 <tr>
 <td>Git remote sensing</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/git/remote_hosts.js</code></td>
+<td><code>151_copilot_cli/decoded/01_core/git/remote_hosts.js</code></td>
 </tr>
 <tr>
 <td>Skill Telemetry</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/telemetry/skills_metrics.js</code></td>
+<td><code>151_copilot_cli/decoded/01_core/telemetry/skills_metrics.js</code></td>
 </tr>
 <tr>
 <td>Workspace Events</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/telemetry/workspace_events.js</code></td>
+<td><code>151_copilot_cli/decoded/01_core/telemetry/workspace_events.js</code></td>
 </tr>
 <tr>
 <td>tree-sitter engine</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/11_search/1657__slash-promises-dev-null-javascript-highlights-typescript-highlights-python-highlights-go-highlights-rust-highlights-ruby-highlights-java-highlights.js</code></td>
+<td><code>151_copilot_cli/decoded/11_search/1657__slash-promises-dev-null-javascript-highlights-typescript-highlights-python-highlights-go-highlights-rust-highlights-ruby-highlights-java-highlights.js</code></td>
 </tr>
 <tr>
 <td>prompt system</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/11_search/0647__slash-code-solution-user-example-reduce-tool-file-terminal-editing-resources.js</code></td>
+<td><code>151_copilot_cli/decoded/11_search/0647__slash-code-solution-user-example-reduce-tool-file-terminal-editing-resources.js</code></td>
 </tr>
 </tbody>
 </table>
@@ -29646,7 +29646,7 @@ getGitHubAskpassToken() {
 <h1>Copilot CLI 잔여 교차 관심사 분석</h1>
 <h2>개요</h2>
 <p>Copilot CLI(GitHub Copilot Coding Agent CLI)는 dimensions 01-12에 포함되지 않는 교차 관심사들을 다수 보유하고 있다. 특히 <strong>7단계 인증 체계</strong>와 <strong>tree-sitter WASM 기반 코드 분석</strong> 엔진은 Copilot CLI의 핵심 차별점이다.</p>
-<p><strong>분석 대상 소스:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/</code></p>
+<p><strong>분석 대상 소스:</strong> <code>151_copilot_cli/decoded/</code></p>
 <pre><code>핵심 파일 맵:
 ├── 00_bootstrap/
 │   └── 0000__get.js                    # 보안 제약 require, 진입점
@@ -29676,7 +29676,7 @@ getGitHubAskpassToken() {
 <hr>
 <h2>1. 부트스트랩 체인</h2>
 <h3>1.1 보안 제약 <code>require</code> 시스템</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/00_bootstrap/0000__get.js</code></p>
+<p><strong>파일 경로:</strong> <code>151_copilot_cli/decoded/00_bootstrap/0000__get.js</code></p>
 <p>Copilot CLI 진입점은 <strong>import 경로 탈출을 방지</strong>하는 커스텀 <code>require</code> 함수를 정의한다. 이는 모든 <code>require</code> 호출이 애플리케이션 디렉토리 범위 내에서만 이루어지도록 강제한다.</p>
 <pre><code class="language-javascript">// 0000__get.js — 보안 제약 require
 const require = (module) => {
@@ -29751,7 +29751,7 @@ var k = (t, e) => () => (e || t((e = { exports: {} }).exports, e), e.exports);  
 <h2>2. 인증 / API 키 관리 (핵심 강점)</h2>
 <h3>2.1 아키텍처 개요</h3>
 <p>Copilot CLI는 <strong>7가지 인증 타입</strong>을 지원하며, 우선순위 기반으로 순차 탐색하는 체인 패턴을 구현한다. 이는 업계에서 가장 광범위한 인증 체계 중 하나이다.</p>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/06_auth/1008__slash-keytar-build-api-copilot-api-github.js</code></p>
+<p><strong>파일 경로:</strong> <code>151_copilot_cli/decoded/06_auth/1008__slash-keytar-build-api-copilot-api-github.js</code></p>
 <pre><code class="language-mermaid">graph TD
     A[loadAuthInfo] --> B{SDK Token?}
     B -->|COPILOT_AUTH_TOKEN| C[SDK 토큰 검증]
@@ -29953,7 +29953,7 @@ async storeToken(token, host, login, configPath) {
 <hr>
 <h2>3. Git/VCS 통합</h2>
 <h3>3.1 원격 저장소 감지 엔진</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/git/remote_hosts.js</code></p>
+<p><strong>파일 경로:</strong> <code>151_copilot_cli/decoded/01_core/git/remote_hosts.js</code></p>
 <p>Copilot CLI는 **Azure DevOps(ADO)**와 <strong>GitHub</strong> 원격을 자동 감지하여 인증 및 API 엔드포인트를 결정한다.</p>
 <pre><code class="language-javascript">async function FDr(cwd, featureFlags) {
   if (!featureFlags.ADO_DETECTION) return { hasAzureDevOps: false, hasGitHub: false };
@@ -29992,7 +29992,7 @@ function xmi(url) {
 }
 </code></pre>
 <h3>3.2 Diff 엔진</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/11_search/1657__...highlights.js</code></p>
+<p><strong>파일 경로:</strong> <code>151_copilot_cli/decoded/11_search/1657__...highlights.js</code></p>
 <p>Copilot CLI는 <code>git diff</code>와 <code>git status</code>를 조합하여 <strong>전체 변경사항 맵</strong>을 구축한다.</p>
 <pre><code class="language-mermaid">flowchart TD
     A[kLe - 변경사항 수집] --> B{git HEAD 있음?}
@@ -30194,7 +30194,7 @@ function ZYi(querySource) {
 <hr>
 <h2>5. 텔레메트리 / 관측성</h2>
 <h3>5.1 스킬 메트릭</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/telemetry/skills_metrics.js</code></p>
+<p><strong>파일 경로:</strong> <code>151_copilot_cli/decoded/01_core/telemetry/skills_metrics.js</code></p>
 <p>스킬 호출과 로드를 추적하는 세분화된 텔레메트리 시스템이다.</p>
 <pre><code class="language-javascript">// 스킬 호출 이벤트
 function kXr(skillInvocation) {
@@ -30260,7 +30260,7 @@ function LXr(loadResult) {
 }
 </code></pre>
 <h3>5.3 워크스페이스 이벤트</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/telemetry/workspace_events.js</code></p>
+<p><strong>파일 경로:</strong> <code>151_copilot_cli/decoded/01_core/telemetry/workspace_events.js</code></p>
 <p>5개의 워크스페이스 작업 이벤트를 추적한다:</p>
 <table>
 <thead>
@@ -30325,7 +30325,7 @@ function LXr(loadResult) {
 <hr>
 <h2>6. 에이전트 프롬프트 시스템</h2>
 <h3>6.1 프롬프트 구조</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/151_copilot_cli/decoded/11_search/0647__slash-code-solution-user-example-reduce-tool-file-terminal-editing-resources.js</code></p>
+<p><strong>파일 경로:</strong> <code>151_copilot_cli/decoded/11_search/0647__slash-code-solution-user-example-reduce-tool-file-terminal-editing-resources.js</code></p>
 <p>Copilot CLI는 XML 태그 기반의 구조화된 프롬프트 시스템을 사용한다:</p>
 <pre><code>프롬프트 조립 순서:
 1. &#x3C;tool_use_guidelines>       — 도구 사용 규칙 (rg 우선, 병렬 호출)
@@ -30678,35 +30678,35 @@ getGitHubAskpassToken() {
 <tbody>
 <tr>
 <td>보안 require</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/00_bootstrap/0000__get.js</code></td>
+<td><code>151_copilot_cli/decoded/00_bootstrap/0000__get.js</code></td>
 </tr>
 <tr>
 <td>인증 체계</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/06_auth/1008__slash-keytar-build-api-copilot-api-github.js</code></td>
+<td><code>151_copilot_cli/decoded/06_auth/1008__slash-keytar-build-api-copilot-api-github.js</code></td>
 </tr>
 <tr>
 <td>토큰 브로커</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/06_auth/0728__slash-login-identity-cache-persistence-identity-identity-vscode-identity-broker.js</code></td>
+<td><code>151_copilot_cli/decoded/06_auth/0728__slash-login-identity-cache-persistence-identity-identity-vscode-identity-broker.js</code></td>
 </tr>
 <tr>
 <td>Git 원격 감지</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/git/remote_hosts.js</code></td>
+<td><code>151_copilot_cli/decoded/01_core/git/remote_hosts.js</code></td>
 </tr>
 <tr>
 <td>스킬 텔레메트리</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/telemetry/skills_metrics.js</code></td>
+<td><code>151_copilot_cli/decoded/01_core/telemetry/skills_metrics.js</code></td>
 </tr>
 <tr>
 <td>워크스페이스 이벤트</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/01_core/telemetry/workspace_events.js</code></td>
+<td><code>151_copilot_cli/decoded/01_core/telemetry/workspace_events.js</code></td>
 </tr>
 <tr>
 <td>tree-sitter 엔진</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/11_search/1657__slash-promises-dev-null-javascript-highlights-typescript-highlights-python-highlights-go-highlights-rust-highlights-ruby-highlights-java-highlights.js</code></td>
+<td><code>151_copilot_cli/decoded/11_search/1657__slash-promises-dev-null-javascript-highlights-typescript-highlights-python-highlights-go-highlights-rust-highlights-ruby-highlights-java-highlights.js</code></td>
 </tr>
 <tr>
 <td>프롬프트 시스템</td>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/decoded/11_search/0647__slash-code-solution-user-example-reduce-tool-file-terminal-editing-resources.js</code></td>
+<td><code>151_copilot_cli/decoded/11_search/0647__slash-code-solution-user-example-reduce-tool-file-terminal-editing-resources.js</code></td>
 </tr>
 </tbody>
 </table>
@@ -31819,7 +31819,7 @@ return s ? `Searching for '${s}'` : "Web search";
 </tbody>
 </table>
 32:["$","$L35","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":36,"tier":"deep","title":"Axis 14: Web search","description":"014_web-search/14_cp_web-search.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$57"}}]}]
-58:T19109,<h2>Overview</h2>
+58:T18c14,<h2>Overview</h2>
 <p><strong>Reverse engineering (015)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</li>
@@ -31830,7 +31830,7 @@ return s ? `Searching for '${s}'` : "Web search";
 <li>| binary-string | native binary <code>strings</code>, <code>file</code>, <code>otool</code>, <code>codesign</code>, <code>nm</code> | crate/package/protocol/tool/evaluator 이름이 embedded되어 있다 |</li>
 <li>| runtime-trace | synthetic project에서 실제 명령을 실행한 결과 | 동작 semantics, precedence, permission enforcement를 확인했다 |</li>
 <li>| private-artifact-name | 비공개 상태 파일의 경로/개수만 관찰 | artifact가 존재한다. 내용/schema 주장은 금지 |</li>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
+<li><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
 <li>auth/token/cookie/credential/login data</li>
 <li>raw transcript, chat history, conversation DB/PB</li>
 <li>logs and terminal captures</li>
@@ -31947,19 +31947,19 @@ return s ? `Searching for '${s}'` : "Web search";
 }
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command /Users/jun/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
+<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home ~/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command ~/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-text">✓ Added MCP server 'everything' to workspace config in /private/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-json">{"mcpServers":{"trace":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/node","args":["/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]}}}
+<pre><code class="language-json">{"mcpServers":{"trace":{"command":"~/.nvm/versions/node/v24.14.1/bin/node","args":["/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]}}}
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home /Users/jun/.local/bin/cursor-agent mcp enable trace
+<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home ~/.local/bin/cursor-agent mcp enable trace
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-text">✓ Enabled and approved MCP server: trace
@@ -31970,20 +31970,20 @@ return s ? `Searching for '${s}'` : "Web search";
 ]
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home /Users/jun/.local/bin/cursor-agent mcp list-tools trace
+<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home ~/.local/bin/cursor-agent mcp list-tools trace
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-text">Failed to list tools: Failed to load MCP 'trace': MCP error -32001: Request timed out
 Error: command failed unexpectedly.
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">START argv=["/Users/jun/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
+<pre><code class="language-text">START argv=["~/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
 STDIN_END
-START argv=["/Users/jun/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
+START argv=["~/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
 STDIN_END
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-official.onq9Rl/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-official.onq9Rl/npm-cache"}}}}
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-text">✓ Enabled and approved MCP server: everything
@@ -32012,13 +32012,13 @@ STDIN_END
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-toml">[mcp_servers.everything]
-command = "/Users/jun/.nvm/versions/node/v24.14.1/bin/npx"
+command = "~/.nvm/versions/node/v24.14.1/bin/npx"
 args = ["-y", "@modelcontextprotocol/server-everything"]
 env = { npm_config_cache = "/tmp/grok-mcp-doctor3.jsPmH7/npm-cache" }
 enabled = true
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-text">HOME=/tmp/grok-mcp-doctor3.jsPmH7/home /Users/jun/.local/bin/grok mcp doctor everything --json
+<pre><code class="language-text">HOME=/tmp/grok-mcp-doctor3.jsPmH7/home ~/.local/bin/grok mcp doctor everything --json
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-json">{
@@ -32039,7 +32039,7 @@ enabled = true
 tip: to pass '-y' as a value, use '-- -y'
 </code></pre>
 <h3>README / docs</h3>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-jun2026.6zD201/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-jun2026.6zD201/npm-cache"}}}}
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-bash">HOME=/tmp/cursor-mcp-jun2026.6zD201/home cursor-agent mcp enable everything
@@ -32118,7 +32118,7 @@ tip: to pass '-y' as a value, use '-- -y'
 </tr>
 </tbody>
 </table>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
+<p><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
 <h2>Hard Boundary</h2>
 <p>The purpose of reverse analysis is to restore product structure, not to extract user state. Next, reading the content is prohibited.</p>
 <ul>
@@ -32134,7 +32134,7 @@ tip: to pass '-y' as a value, use '-- -y'
 <h2>Installed CLI version pin (2026-06-27)</h2>
 <p>Single source of truth for pinned <code>ay</code>/<code>cr</code>/<code>gr</code>/<code>ki</code> binaries:</p>
 <ul>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
+<li><code>015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
 </ul>
 <p>WP5 trace shards (<code>38</code>–<code>41</code>) extend hubs without changing evidence-level definitions above.</p>
 <h2>Current Upgrade Scope</h2>
@@ -32150,7 +32150,7 @@ tip: to pass '-y' as a value, use '-- -y'
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> v1.0.12+</td>
+<td><code>~/.local/bin/agy</code> v1.0.12+</td>
 <td>help, changelog, strings; <code>38_ay_project_flags_trace.md</code></td>
 </tr>
 <tr>
@@ -32182,22 +32182,22 @@ tip: to pass '-y' as a value, use '-- -y'
 <tbody>
 <tr>
 <td><code>gr</code></td>
-<td><code>/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>/Users/jun/.grok/bundled</code>, <code>/Users/jun/.grok/docs/user-guide</code></td>
+<td><code>~/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>~/.grok/bundled</code>, <code>~/.grok/docs/user-guide</code></td>
 <td>Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills</td>
 </tr>
 <tr>
 <td><code>cr</code></td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 <td>Webpack module keys, route extraction, proto module names, native helper inventory</td>
 </tr>
 <tr>
 <td><code>ki</code></td>
-<td><code>/Applications/Kiro CLI.app</code>, <code>/Users/jun/.local/bin/kiro-cli*</code></td>
+<td><code>/Applications/Kiro CLI.app</code>, <code>~/.local/bin/kiro-cli*</code></td>
 <td>signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets</td>
 </tr>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code>, <code>/Users/jun/.gemini/antigravity-cli</code></td>
+<td><code>~/.local/bin/agy</code>, <code>~/.gemini/antigravity-cli</code></td>
 <td>Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries</td>
 </tr>
 </tbody>
@@ -32215,7 +32215,7 @@ tip: to pass '-y' as a value, use '-- -y'
 <blockquote>
 <p><strong>Current install:</strong> <code>37_cr_bundle_refresh_20260626.md</code> + <code>36_installed_cli_version_manifest.md</code> (<strong>2026.06.26-7079533</strong>). This page is the <strong>May 2026 baseline</strong> for webpack <code>exports.modules</code> recovery.</p>
 </blockquote>
-<p>This pass inspected installed Cursor Agent JavaScript bundles under <code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code>. It did not execute model sessions, authenticate, read private Cursor data, or mutate Cursor config.</p>
+<p>This pass inspected installed Cursor Agent JavaScript bundles under <code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code>. It did not execute model sessions, authenticate, read private Cursor data, or mutate Cursor config.</p>
 <h2>Bundle Identity</h2>
 <table>
 <thead>
@@ -32227,7 +32227,7 @@ tip: to pass '-y' as a value, use '-- -y'
 <tbody>
 <tr>
 <td>Package root</td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 </tr>
 <tr>
 <td>Package name</td>
@@ -32395,7 +32395,7 @@ tip: to pass '-y' as a value, use '-- -y'
 <li>OAuth callback helper listens on localhost port <code>8787</code> and verifies callback <code>state</code></li>
 <li>Error mapping distinguishes disabled servers, team policy blocks, and team network allowlist blocks</li>
 </ul>
-<p>Sanitized runtime trace in <code>/Users/jun/Developer/codex/015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> confirms the approval path at runtime: project <code>mcp enable</code> writes <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code> under HOME, <code>mcp list-tools</code> rejects unapproved project servers before loading them, and an official stdio MCP server can be loaded enough to enumerate 14 tools.</p>
+<p>Sanitized runtime trace in <code>015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> confirms the approval path at runtime: project <code>mcp enable</code> writes <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code> under HOME, <code>mcp list-tools</code> rejects unapproved project servers before loading them, and an official stdio MCP server can be loaded enough to enumerate 14 tools.</p>
 <h2>Worker / Bridge / Service Modules</h2>
 <p>Recovered modules:</p>
 <ul>
@@ -32509,14 +32509,14 @@ tip: to pass '-y' as a value, use '-- -y'
 <li>Servers are not auto-loaded; they require approval.</li>
 </ul>
 <p>Follow-up runtime trace:</p>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> used a project-scoped <code>.cursor/mcp.json</code> plus a synthetic stdio MCP server. <code>cursor-agent mcp enable trace</code> wrote an approval entry under temp HOME at <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code>; the observed entry was <code>trace-0bab3cead8c72734</code>.</p>
+<p><code>015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> used a project-scoped <code>.cursor/mcp.json</code> plus a synthetic stdio MCP server. <code>cursor-agent mcp enable trace</code> wrote an approval entry under temp HOME at <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code>; the observed entry was <code>trace-0bab3cead8c72734</code>.</p>
 <p><code>mcp list-tools trace</code> then crossed the pre-approval gate and launched the minimal hand-written server, but it timed out without sending any JSON-RPC <code>initialize</code> frame to that fixture.</p>
 <p>A second fixture using <code>@modelcontextprotocol/server-everything</code> succeeded: <code>cursor-agent mcp list-tools everything</code> listed 14 tools. This confirms approval enforcement, project-state write behavior, and standalone no-account stdio MCP tool enumeration.</p>
 <h2>Grok Build</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/grok mcp add dummy --command /bin/echo --args dummy</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/grok mcp list --json</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/grok mcp add dummy --command /bin/echo --args dummy</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/grok mcp list --json</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -32543,13 +32543,13 @@ tip: to pass '-y' as a value, use '-- -y'
 </table>
 <p>This confirms that <code>grok mcp add</code> writes user config under temp HOME and that <code>mcp list --json</code> is machine-readable.</p>
 <p>Follow-up doctor trace:</p>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/30_grok_mcp_doctor_trace.md</code> configured <code>@modelcontextprotocol/server-everything</code> directly in temp <code>~/.grok/config.toml</code>. <code>grok mcp doctor everything --json</code> reported <code>command found</code>, <code>server started</code>, <code>handshake OK</code> with protocol <code>2025-06-18</code>, and <code>13 tools discovered</code>.</p>
+<p><code>015_reverse-engineering/30_grok_mcp_doctor_trace.md</code> configured <code>@modelcontextprotocol/server-everything</code> directly in temp <code>~/.grok/config.toml</code>. <code>grok mcp doctor everything --json</code> reported <code>command found</code>, <code>server started</code>, <code>handshake OK</code> with protocol <code>2025-06-18</code>, and <code>13 tools discovered</code>.</p>
 <h2>Kiro CLI</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name dummy --scope workspace --command /bin/echo --args dummy --disabled --force</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp list</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp status --name dummy</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp add --name dummy --scope workspace --command /bin/echo --args dummy --disabled --force</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp list</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp status --name dummy</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -32587,16 +32587,16 @@ tip: to pass '-y' as a value, use '-- -y'
 <li>Kiro's CLI writes a workspace config file for the trace.</li>
 <li>In this run, workspace-scoped server display/status resolved under the default agent bucket.</li>
 <li>Disabled servers are listed and status-inspectable without launching the command.</li>
-<li>A later enabled official-server status trace in <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirmed JSON-array args for <code>@modelcontextprotocol/server-everything</code>, displayed <code>Disabled: false</code>, but still did not report protocol handshake or tool discovery.</li>
+<li>A later enabled official-server status trace in <code>015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirmed JSON-array args for <code>@modelcontextprotocol/server-everything</code>, displayed <code>Disabled: false</code>, but still did not report protocol handshake or tool discovery.</li>
 </ul>
 <h2>AGY CLI</h2>
 <p>AGY has no public <code>mcp</code> command group in the installed CLI help. No synthetic MCP config trace was run for AGY in this pass. Its MCP evidence remains binary/cache evidence plus public plugin import surface.</p>
 <h2>Remaining Gaps</h2>
 <ul>
-<li>Cursor MCP project approval behavior and standalone no-account <code>tools/list</code> with an official stdio server are tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/29_cr_mcp_handshake_trace.md</code>.</li>
-<li>Grok native TOML MCP startup, handshake, and tool discovery are tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/30_grok_mcp_doctor_trace.md</code>.</li>
+<li>Cursor MCP project approval behavior and standalone no-account <code>tools/list</code> with an official stdio server are tested in <code>015_reverse-engineering/29_cr_mcp_handshake_trace.md</code>.</li>
+<li>Grok native TOML MCP startup, handshake, and tool discovery are tested in <code>015_reverse-engineering/30_grok_mcp_doctor_trace.md</code>.</li>
 <li>OAuth flows were not tested.</li>
-<li>Kiro agent-specific MCP routing with a custom synthetic agent is tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code>; actual server startup and protocol handshake remain separate gaps.</li>
+<li>Kiro agent-specific MCP routing with a custom synthetic agent is tested in <code>015_reverse-engineering/24_ki_agent_mcp_trace.md</code>; actual server startup and protocol handshake remain separate gaps.</li>
 <li>AGY MCP activation requires either hidden <code>agentapi</code> knowledge, plugin import, or model/session trace.</li>
 </ul>
 <hr>
@@ -32606,10 +32606,10 @@ tip: to pass '-y' as a value, use '-- -y'
 <h2>Public Help Surface</h2>
 <p>Commands inspected:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent create --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent list --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat mcp add --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat mcp list --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent create --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent list --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat mcp add --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat mcp list --help</code></li>
 </ul>
 <p>Relevant help semantics:</p>
 <ul>
@@ -32643,8 +32643,8 @@ tip: to pass '-y' as a value, use '-- -y'
 </ul>
 <p>Commands:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/.kiro/agents/trace.json</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent list</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/.kiro/agents/trace.json</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent list</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -32672,7 +32672,7 @@ tip: to pass '-y' as a value, use '-- -y'
 <h2>Agent-Specific MCP Routing</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name dummy --agent trace --command /bin/echo --args dummy --disabled --force</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp add --name dummy --agent trace --command /bin/echo --args dummy --disabled --force</code></li>
 </ul>
 <p>Observed output:</p>
 <ul>
@@ -32742,13 +32742,13 @@ tip: to pass '-y' as a value, use '-- -y'
 <li>config file: <code>/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json</code></li>
 </ul>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command /Users/jun/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
+<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home ~/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command ~/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
 </code></pre>
 <p>Result:</p>
 <pre><code class="language-text">✓ Added MCP server 'everything' to workspace config in /private/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json
 </code></pre>
 <p>The written config used:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
 </code></pre>
 <p><code>mcp status --name everything -vv</code> did not report protocol handshake or tool discovery. It reported:</p>
 <ul>
@@ -32785,12 +32785,12 @@ tip: to pass '-y' as a value, use '-- -y'
 <li>approval file written by Cursor Agent: <code>/tmp/cursor-mcp-final.DLswue/home/.cursor/projects/private-tmp-cursor-mcp-final-DLswue-ws/mcp-approvals.json</code></li>
 </ul>
 <p>The config shape was:</p>
-<pre><code class="language-json">{"mcpServers":{"trace":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/node","args":["/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]}}}
+<pre><code class="language-json">{"mcpServers":{"trace":{"command":"~/.nvm/versions/node/v24.14.1/bin/node","args":["/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]}}}
 </code></pre>
 <p>The synthetic server was a no-network stdio process that logged startup, parsed <code>Content-Length</code> JSON-RPC frames, answered <code>initialize</code>, and returned one tool from <code>tools/list</code>.</p>
 <h2>Approval Flow</h2>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home /Users/jun/.local/bin/cursor-agent mcp enable trace
+<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home ~/.local/bin/cursor-agent mcp enable trace
 </code></pre>
 <p>from the temp workspace returned:</p>
 <pre><code class="language-text">✓ Enabled and approved MCP server: trace
@@ -32808,16 +32808,16 @@ tip: to pass '-y' as a value, use '-- -y'
 </ul>
 <h2>Minimal List Tools Attempt</h2>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home /Users/jun/.local/bin/cursor-agent mcp list-tools trace
+<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home ~/.local/bin/cursor-agent mcp list-tools trace
 </code></pre>
 <p>from the temp workspace returned after a longer timeout:</p>
 <pre><code class="language-text">Failed to list tools: Failed to load MCP 'trace': MCP error -32001: Request timed out
 Error: command failed unexpectedly.
 </code></pre>
 <p>The synthetic server log for the same run contained only:</p>
-<pre><code class="language-text">START argv=["/Users/jun/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
+<pre><code class="language-text">START argv=["~/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
 STDIN_END
-START argv=["/Users/jun/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
+START argv=["~/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
 STDIN_END
 </code></pre>
 <p>No <code>initialize</code>, <code>notifications/initialized</code>, or <code>tools/list</code> frame reached the server before Cursor Agent closed stdin.</p>
@@ -32830,7 +32830,7 @@ STDIN_END
 <li>config file: <code>/tmp/cursor-mcp-official.onq9Rl/ws/.cursor/mcp.json</code></li>
 </ul>
 <p>Config shape:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-official.onq9Rl/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-official.onq9Rl/npm-cache"}}}}
 </code></pre>
 <p>Approval command from the temp workspace returned:</p>
 <pre><code class="language-text">✓ Enabled and approved MCP server: everything
@@ -32916,14 +32916,14 @@ STDIN_END
 </ul>
 <p>Config:</p>
 <pre><code class="language-toml">[mcp_servers.everything]
-command = "/Users/jun/.nvm/versions/node/v24.14.1/bin/npx"
+command = "~/.nvm/versions/node/v24.14.1/bin/npx"
 args = ["-y", "@modelcontextprotocol/server-everything"]
 env = { npm_config_cache = "/tmp/grok-mcp-doctor3.jsPmH7/npm-cache" }
 enabled = true
 </code></pre>
 <h2>Doctor Result</h2>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/grok-mcp-doctor3.jsPmH7/home /Users/jun/.local/bin/grok mcp doctor everything --json
+<pre><code class="language-text">HOME=/tmp/grok-mcp-doctor3.jsPmH7/home ~/.local/bin/grok mcp doctor everything --json
 </code></pre>
 <p>Result summary:</p>
 <pre><code class="language-json">{
@@ -32950,7 +32950,7 @@ enabled = true
 <tbody>
 <tr>
 <td>command found</td>
-<td>passed, <code>/Users/jun/.nvm/versions/node/v24.14.1/bin/npx</code></td>
+<td>passed, <code>~/.nvm/versions/node/v24.14.1/bin/npx</code></td>
 </tr>
 <tr>
 <td>server started</td>
@@ -33024,7 +33024,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <tbody>
 <tr>
 <td>Launcher</td>
-<td><code>/Users/jun/.local/bin/cursor-agent</code> → <code>2026.06.26-7079533/cursor-agent</code></td>
+<td><code>~/.local/bin/cursor-agent</code> → <code>2026.06.26-7079533/cursor-agent</code></td>
 </tr>
 <tr>
 <td><code>cursor-agent --version</code></td>
@@ -33064,7 +33064,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 </tbody>
 </table>
 <p>Config shape:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-jun2026.6zD201/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-jun2026.6zD201/npm-cache"}}}}
 </code></pre>
 <h2>Approval flow</h2>
 <p>From workspace directory:</p>
@@ -33193,7 +33193,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 </tr>
 </tbody>
 </table>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
+<p><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
 <h2>Hard Boundary</h2>
 <p>역분석의 목적은 제품 구조 복원이지 사용자 상태 추출이 아니다. 다음은 내용 읽기 금지다.</p>
 <ul>
@@ -33209,7 +33209,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <h2>Installed CLI version pin (2026-06-27)</h2>
 <p>Single source of truth for pinned <code>ay</code>/<code>cr</code>/<code>gr</code>/<code>ki</code> binaries:</p>
 <ul>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
+<li><code>015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
 </ul>
 <p>WP5 trace shards (<code>38</code>–<code>41</code>) extend hubs without changing evidence-level definitions above.</p>
 <h2>Current Upgrade Scope</h2>
@@ -33225,7 +33225,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> v1.0.12+</td>
+<td><code>~/.local/bin/agy</code> v1.0.12+</td>
 <td>help, changelog, strings; <code>38_ay_project_flags_trace.md</code></td>
 </tr>
 <tr>
@@ -33257,22 +33257,22 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <tbody>
 <tr>
 <td><code>gr</code></td>
-<td><code>/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>/Users/jun/.grok/bundled</code>, <code>/Users/jun/.grok/docs/user-guide</code></td>
+<td><code>~/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>~/.grok/bundled</code>, <code>~/.grok/docs/user-guide</code></td>
 <td>Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills</td>
 </tr>
 <tr>
 <td><code>cr</code></td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 <td>Webpack module keys, route extraction, proto module names, native helper inventory</td>
 </tr>
 <tr>
 <td><code>ki</code></td>
-<td><code>/Applications/Kiro CLI.app</code>, <code>/Users/jun/.local/bin/kiro-cli*</code></td>
+<td><code>/Applications/Kiro CLI.app</code>, <code>~/.local/bin/kiro-cli*</code></td>
 <td>signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets</td>
 </tr>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code>, <code>/Users/jun/.gemini/antigravity-cli</code></td>
+<td><code>~/.local/bin/agy</code>, <code>~/.gemini/antigravity-cli</code></td>
 <td>Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries</td>
 </tr>
 </tbody>
@@ -33290,7 +33290,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <blockquote>
 <p><strong>Current install:</strong> <code>37_cr_bundle_refresh_20260626.md</code> + <code>36_installed_cli_version_manifest.md</code> (<strong>2026.06.26-7079533</strong>). This page is the <strong>May 2026 baseline</strong> for webpack <code>exports.modules</code> recovery.</p>
 </blockquote>
-<p>This pass inspected installed Cursor Agent JavaScript bundles under <code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code>. It did not execute model sessions, authenticate, read private Cursor data, or mutate Cursor config.</p>
+<p>This pass inspected installed Cursor Agent JavaScript bundles under <code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code>. It did not execute model sessions, authenticate, read private Cursor data, or mutate Cursor config.</p>
 <h2>Bundle Identity</h2>
 <table>
 <thead>
@@ -33302,7 +33302,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <tbody>
 <tr>
 <td>Package root</td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 </tr>
 <tr>
 <td>Package name</td>
@@ -33470,7 +33470,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <li>OAuth callback helper listens on localhost port <code>8787</code> and verifies callback <code>state</code></li>
 <li>Error mapping distinguishes disabled servers, team policy blocks, and team network allowlist blocks</li>
 </ul>
-<p>Sanitized runtime trace in <code>/Users/jun/Developer/codex/015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> confirms the approval path at runtime: project <code>mcp enable</code> writes <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code> under HOME, <code>mcp list-tools</code> rejects unapproved project servers before loading them, and an official stdio MCP server can be loaded enough to enumerate 14 tools.</p>
+<p>Sanitized runtime trace in <code>015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> confirms the approval path at runtime: project <code>mcp enable</code> writes <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code> under HOME, <code>mcp list-tools</code> rejects unapproved project servers before loading them, and an official stdio MCP server can be loaded enough to enumerate 14 tools.</p>
 <h2>Worker / Bridge / Service Modules</h2>
 <p>Recovered modules:</p>
 <ul>
@@ -33584,14 +33584,14 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <li>Servers are not auto-loaded; they require approval.</li>
 </ul>
 <p>Follow-up runtime trace:</p>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> used a project-scoped <code>.cursor/mcp.json</code> plus a synthetic stdio MCP server. <code>cursor-agent mcp enable trace</code> wrote an approval entry under temp HOME at <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code>; the observed entry was <code>trace-0bab3cead8c72734</code>.</p>
+<p><code>015_reverse-engineering/29_cr_mcp_handshake_trace.md</code> used a project-scoped <code>.cursor/mcp.json</code> plus a synthetic stdio MCP server. <code>cursor-agent mcp enable trace</code> wrote an approval entry under temp HOME at <code>.cursor/projects/&#x3C;project-slug>/mcp-approvals.json</code>; the observed entry was <code>trace-0bab3cead8c72734</code>.</p>
 <p><code>mcp list-tools trace</code> then crossed the pre-approval gate and launched the minimal hand-written server, but it timed out without sending any JSON-RPC <code>initialize</code> frame to that fixture.</p>
 <p>A second fixture using <code>@modelcontextprotocol/server-everything</code> succeeded: <code>cursor-agent mcp list-tools everything</code> listed 14 tools. This confirms approval enforcement, project-state write behavior, and standalone no-account stdio MCP tool enumeration.</p>
 <h2>Grok Build</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/grok mcp add dummy --command /bin/echo --args dummy</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/grok mcp list --json</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/grok mcp add dummy --command /bin/echo --args dummy</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/grok mcp list --json</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -33618,13 +33618,13 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 </table>
 <p>This confirms that <code>grok mcp add</code> writes user config under temp HOME and that <code>mcp list --json</code> is machine-readable.</p>
 <p>Follow-up doctor trace:</p>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/30_grok_mcp_doctor_trace.md</code> configured <code>@modelcontextprotocol/server-everything</code> directly in temp <code>~/.grok/config.toml</code>. <code>grok mcp doctor everything --json</code> reported <code>command found</code>, <code>server started</code>, <code>handshake OK</code> with protocol <code>2025-06-18</code>, and <code>13 tools discovered</code>.</p>
+<p><code>015_reverse-engineering/30_grok_mcp_doctor_trace.md</code> configured <code>@modelcontextprotocol/server-everything</code> directly in temp <code>~/.grok/config.toml</code>. <code>grok mcp doctor everything --json</code> reported <code>command found</code>, <code>server started</code>, <code>handshake OK</code> with protocol <code>2025-06-18</code>, and <code>13 tools discovered</code>.</p>
 <h2>Kiro CLI</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name dummy --scope workspace --command /bin/echo --args dummy --disabled --force</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp list</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp status --name dummy</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp add --name dummy --scope workspace --command /bin/echo --args dummy --disabled --force</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp list</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp status --name dummy</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -33662,16 +33662,16 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <li>Kiro's CLI writes a workspace config file for the trace.</li>
 <li>In this run, workspace-scoped server display/status resolved under the default agent bucket.</li>
 <li>Disabled servers are listed and status-inspectable without launching the command.</li>
-<li>A later enabled official-server status trace in <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirmed JSON-array args for <code>@modelcontextprotocol/server-everything</code>, displayed <code>Disabled: false</code>, but still did not report protocol handshake or tool discovery.</li>
+<li>A later enabled official-server status trace in <code>015_reverse-engineering/24_ki_agent_mcp_trace.md</code> confirmed JSON-array args for <code>@modelcontextprotocol/server-everything</code>, displayed <code>Disabled: false</code>, but still did not report protocol handshake or tool discovery.</li>
 </ul>
 <h2>AGY CLI</h2>
 <p>AGY has no public <code>mcp</code> command group in the installed CLI help. No synthetic MCP config trace was run for AGY in this pass. Its MCP evidence remains binary/cache evidence plus public plugin import surface.</p>
 <h2>Remaining Gaps</h2>
 <ul>
-<li>Cursor MCP project approval behavior and standalone no-account <code>tools/list</code> with an official stdio server are tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/29_cr_mcp_handshake_trace.md</code>.</li>
-<li>Grok native TOML MCP startup, handshake, and tool discovery are tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/30_grok_mcp_doctor_trace.md</code>.</li>
+<li>Cursor MCP project approval behavior and standalone no-account <code>tools/list</code> with an official stdio server are tested in <code>015_reverse-engineering/29_cr_mcp_handshake_trace.md</code>.</li>
+<li>Grok native TOML MCP startup, handshake, and tool discovery are tested in <code>015_reverse-engineering/30_grok_mcp_doctor_trace.md</code>.</li>
 <li>OAuth flows were not tested.</li>
-<li>Kiro agent-specific MCP routing with a custom synthetic agent is tested in <code>/Users/jun/Developer/codex/015_reverse-engineering/24_ki_agent_mcp_trace.md</code>; actual server startup and protocol handshake remain separate gaps.</li>
+<li>Kiro agent-specific MCP routing with a custom synthetic agent is tested in <code>015_reverse-engineering/24_ki_agent_mcp_trace.md</code>; actual server startup and protocol handshake remain separate gaps.</li>
 <li>AGY MCP activation requires either hidden <code>agentapi</code> knowledge, plugin import, or model/session trace.</li>
 </ul>
 <hr>
@@ -33681,10 +33681,10 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <h2>Public Help Surface</h2>
 <p>Commands inspected:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent create --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat agent list --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat mcp add --help</code></li>
-<li><code>/Users/jun/.local/bin/kiro-cli-chat mcp list --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent create --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat agent list --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat mcp add --help</code></li>
+<li><code>~/.local/bin/kiro-cli-chat mcp list --help</code></li>
 </ul>
 <p>Relevant help semantics:</p>
 <ul>
@@ -33718,8 +33718,8 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 </ul>
 <p>Commands:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/.kiro/agents/trace.json</code></li>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat agent list</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent validate --path &#x3C;tmp>/ws/.kiro/agents/trace.json</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat agent list</code></li>
 </ul>
 <p>Findings:</p>
 <table>
@@ -33747,7 +33747,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <h2>Agent-Specific MCP Routing</h2>
 <p>Command:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name dummy --agent trace --command /bin/echo --args dummy --disabled --force</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/kiro-cli-chat mcp add --name dummy --agent trace --command /bin/echo --args dummy --disabled --force</code></li>
 </ul>
 <p>Observed output:</p>
 <ul>
@@ -33817,13 +33817,13 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <li>config file: <code>/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json</code></li>
 </ul>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home /Users/jun/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command /Users/jun/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
+<pre><code class="language-text">HOME=/tmp/kiro-mcp-official.anATMg/home ~/.local/bin/kiro-cli-chat mcp add --name everything --scope workspace --command ~/.nvm/versions/node/v24.14.1/bin/npx --args '["-y","@modelcontextprotocol/server-everything"]' --env npm_config_cache=/tmp/kiro-mcp-official.anATMg/npm-cache --force
 </code></pre>
 <p>Result:</p>
 <pre><code class="language-text">✓ Added MCP server 'everything' to workspace config in /private/tmp/kiro-mcp-official.anATMg/ws/.kiro/settings/mcp.json
 </code></pre>
 <p>The written config used:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/kiro-mcp-official.anATMg/npm-cache"}}}}
 </code></pre>
 <p><code>mcp status --name everything -vv</code> did not report protocol handshake or tool discovery. It reported:</p>
 <ul>
@@ -33860,12 +33860,12 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <li>approval file written by Cursor Agent: <code>/tmp/cursor-mcp-final.DLswue/home/.cursor/projects/private-tmp-cursor-mcp-final-DLswue-ws/mcp-approvals.json</code></li>
 </ul>
 <p>The config shape was:</p>
-<pre><code class="language-json">{"mcpServers":{"trace":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/node","args":["/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]}}}
+<pre><code class="language-json">{"mcpServers":{"trace":{"command":"~/.nvm/versions/node/v24.14.1/bin/node","args":["/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]}}}
 </code></pre>
 <p>The synthetic server was a no-network stdio process that logged startup, parsed <code>Content-Length</code> JSON-RPC frames, answered <code>initialize</code>, and returned one tool from <code>tools/list</code>.</p>
 <h2>Approval Flow</h2>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home /Users/jun/.local/bin/cursor-agent mcp enable trace
+<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home ~/.local/bin/cursor-agent mcp enable trace
 </code></pre>
 <p>from the temp workspace returned:</p>
 <pre><code class="language-text">✓ Enabled and approved MCP server: trace
@@ -33883,16 +33883,16 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 </ul>
 <h2>Minimal List Tools Attempt</h2>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home /Users/jun/.local/bin/cursor-agent mcp list-tools trace
+<pre><code class="language-text">HOME=/tmp/cursor-mcp-final.DLswue/home ~/.local/bin/cursor-agent mcp list-tools trace
 </code></pre>
 <p>from the temp workspace returned after a longer timeout:</p>
 <pre><code class="language-text">Failed to list tools: Failed to load MCP 'trace': MCP error -32001: Request timed out
 Error: command failed unexpectedly.
 </code></pre>
 <p>The synthetic server log for the same run contained only:</p>
-<pre><code class="language-text">START argv=["/Users/jun/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
+<pre><code class="language-text">START argv=["~/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
 STDIN_END
-START argv=["/Users/jun/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
+START argv=["~/.nvm/versions/node/v24.14.1/bin/node","/tmp/cursor-mcp-final.DLswue/trace-mcp.js"]
 STDIN_END
 </code></pre>
 <p>No <code>initialize</code>, <code>notifications/initialized</code>, or <code>tools/list</code> frame reached the server before Cursor Agent closed stdin.</p>
@@ -33905,7 +33905,7 @@ STDIN_END
 <li>config file: <code>/tmp/cursor-mcp-official.onq9Rl/ws/.cursor/mcp.json</code></li>
 </ul>
 <p>Config shape:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-official.onq9Rl/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-official.onq9Rl/npm-cache"}}}}
 </code></pre>
 <p>Approval command from the temp workspace returned:</p>
 <pre><code class="language-text">✓ Enabled and approved MCP server: everything
@@ -33991,14 +33991,14 @@ STDIN_END
 </ul>
 <p>Config:</p>
 <pre><code class="language-toml">[mcp_servers.everything]
-command = "/Users/jun/.nvm/versions/node/v24.14.1/bin/npx"
+command = "~/.nvm/versions/node/v24.14.1/bin/npx"
 args = ["-y", "@modelcontextprotocol/server-everything"]
 env = { npm_config_cache = "/tmp/grok-mcp-doctor3.jsPmH7/npm-cache" }
 enabled = true
 </code></pre>
 <h2>Doctor Result</h2>
 <p>Command:</p>
-<pre><code class="language-text">HOME=/tmp/grok-mcp-doctor3.jsPmH7/home /Users/jun/.local/bin/grok mcp doctor everything --json
+<pre><code class="language-text">HOME=/tmp/grok-mcp-doctor3.jsPmH7/home ~/.local/bin/grok mcp doctor everything --json
 </code></pre>
 <p>Result summary:</p>
 <pre><code class="language-json">{
@@ -34025,7 +34025,7 @@ enabled = true
 <tbody>
 <tr>
 <td>command found</td>
-<td>passed, <code>/Users/jun/.nvm/versions/node/v24.14.1/bin/npx</code></td>
+<td>passed, <code>~/.nvm/versions/node/v24.14.1/bin/npx</code></td>
 </tr>
 <tr>
 <td>server started</td>
@@ -34099,7 +34099,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 <tbody>
 <tr>
 <td>Launcher</td>
-<td><code>/Users/jun/.local/bin/cursor-agent</code> → <code>2026.06.26-7079533/cursor-agent</code></td>
+<td><code>~/.local/bin/cursor-agent</code> → <code>2026.06.26-7079533/cursor-agent</code></td>
 </tr>
 <tr>
 <td><code>cursor-agent --version</code></td>
@@ -34139,7 +34139,7 @@ Disposable temp HOME and workspace only — no real Cursor credentials, no model
 </tbody>
 </table>
 <p>Config shape:</p>
-<pre><code class="language-json">{"mcpServers":{"everything":{"command":"/Users/jun/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-jun2026.6zD201/npm-cache"}}}}
+<pre><code class="language-json">{"mcpServers":{"everything":{"command":"~/.nvm/versions/node/v24.14.1/bin/npx","args":["-y","@modelcontextprotocol/server-everything"],"env":{"npm_config_cache":"/tmp/cursor-mcp-jun2026.6zD201/npm-cache"}}}}
 </code></pre>
 <h2>Approval flow</h2>
 <p>From workspace directory:</p>

@@ -7,7 +7,7 @@
 a:I[59374,["/cli101-portal/sites/superpowers/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/superpowers/_next/static/chunks/f19e4129d752cb5c.js"],"MetadataBoundary"]
 c:I[22319,["/cli101-portal/sites/superpowers/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/superpowers/_next/static/chunks/f19e4129d752cb5c.js"],"default"]
 :HL["/cli101-portal/sites/superpowers/_next/static/chunks/4700ceb5a8434580.css","style"]
-0:{"P":null,"b":"5_Jbg1xpUrTeMa2mw42wB","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/superpowers/_next/static/chunks/4700ceb5a8434580.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/superpowers/_next/static/chunks/632d5794df09229a.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+0:{"P":null,"b":"mIr81sNOZkYybBM6Cd1C-","c":["","ko",""],"q":"","i":false,"f":[[["",{"children":[["lang","ko","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/cli101-portal/sites/superpowers/_next/static/chunks/4700ceb5a8434580.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","className":"dark","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/cli101-portal/sites/superpowers/_next/static/chunks/632d5794df09229a.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 7:null
 b:[["$","title","0",{"children":"SP101 — Superpowers 입문"}],["$","meta","1",{"name":"description","content":"Superpowers 스킬 방법론 코퍼스 입문"}],["$","meta","2",{"property":"og:title","content":"SP101 — Superpowers"}],["$","meta","3",{"property":"og:description","content":"Cross-harness SKILL.md methodology"}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"SP101 — Superpowers"}],["$","meta","6",{"name":"twitter:description","content":"Cross-harness SKILL.md methodology"}]]
@@ -15,7 +15,7 @@ d:I[27756,["/cli101-portal/sites/superpowers/_next/static/chunks/632d5794df09229
 4:["$","$6",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$Ld",null,{"lang":"ko","siteName":"SP101","tagline":"SP101 developer-grade corpus guide","taglineEn":"SP101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_sp_overview.md","branding":{"slug":"sp101","name":"SP101","tagline_ko":"크로스-하네스 방법론","tagline_en":"Cross-harness methodology","accentLabel_ko":"000_overview/00_sp_overview.md","accentLabel_en":"000_overview/00_sp_overview.md","heroTitle_ko":"스킬 기반 소프트웨어 개발 방법론","heroTitle_en":"Skill-based software methodology","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 27장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 27 developer docs","terminalLines":["# Codex + superpowers plugin","$$ codex  # skills load via SessionStart"],"prompt_ko":"> TDD로 이 기능 구현해줘","prompt_en":"> implement this feature with TDD","ctaHash":"00-before-you-start","officialUrl":"https://github.com/obra/superpowers","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"SP101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-superpowers","order":2,"tier":"core","slug":"02-what-is-superpowers","title_ko":"Superpowers가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/02-what-is-superpowers.md","file_en":"en/02-what-is-superpowers.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"에이전트에 슈퍼파워 추가하기","title_en":"Install & auth","description_ko":"에이전트별 플러그인 설치 방법","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"슈퍼파워가 켜진 첫 대화","title_en":"First session","description_ko":"플러그인이 켜졌을 때 에이전트의 변화 확인하기","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"평소 작업 흐름","title_en":"Agent workflow","description_ko":"슈퍼파워와 함께하는 일상 개발 패턴","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. Identity","title_en":"Overview §1","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. Skill system","title_en":"Overview §2","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. Prompt / context surface (002)","title_en":"Overview §3","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. Tool runtime","title_en":"Overview §4","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. Subagents & collaboration (005)","title_en":"Overview §5","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. Multi-harness plugin system (011)","title_en":"Overview §6","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. TUI & surfaces (001, 006)","title_en":"Overview §7","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Sandbox, config, MCP, memory (007–010, 009)","title_en":"Overview §8","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. Guardian / approval (012)","title_en":"Overview §9","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. Web search (014)","title_en":"Overview §10","description_ko":"000_overview/00_sp_overview.md","description_en":"000_overview/00_sp_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":17,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_sp_tui.md","description_en":"001_tui-design/01_sp_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":18,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_sp_prompt.md","description_en":"002_prompt-context/02_sp_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":19,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_sp_tool.md","description_en":"003_tool-runtime/03_sp_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":20,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_sp_skill.md","description_en":"004_skill-system/04_sp_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":21,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_sp_subagent.md","description_en":"005_subagents-collab/05_sp_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":22,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_sp_surface.md","description_en":"006_app-server-client-surfaces/06_sp_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":23,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_sp_sandbox.md","description_en":"007_sandbox-exec-policy/07_sp_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":24,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_sp_config.md","description_en":"008_config-system/08_sp_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":25,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_sp_mcp.md","description_en":"009_mcp-orchestration/09_sp_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":26,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_sp_memory.md","description_en":"010_memory-pipeline/10_sp_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":27,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_sp_plugin.md","description_en":"011_plugin-system/11_sp_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":28,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_sp_guardian.md","description_en":"012_guardian-approval/12_sp_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":29,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_sp_etc.md","description_en":"013_etc/13_sp_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":30,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_sp_web-search.md","description_en":"014_web-search/14_sp_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":31,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":32,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e"]}]}]
 2f:I[15824,["/cli101-portal/sites/superpowers/_next/static/chunks/632d5794df09229a.js"],"SectionBlock"]
 e:["$","$L2f","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"시작하기 전에","description":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<h2>이 가이드는 이런 분을 위해 준비했어요</h2>\n<p>평소 Claude Code나 Codex 같은 코딩 에이전트를 자주 쓰는데 AI가 자꾸 엉뚱하게 혼자 앞서가서 코드를 망치거나, 기획안도 없이 마구잡이로 코드를 작성해서 난감하셨던 분들을 위해 준비했어요. 에이전트의 충동적인 작업 방식을 꽉 붙잡아 주고, 빈틈없는 테스트 주도 개발을 하도록 통제하고 싶다면 잘 오셨어요.</p>\n<h2>이 글에서 배우는 것</h2>\n<ul>\n<li>Superpowers가 독립된 프로그램이 아닌데 어떻게 에이전트를 똑똑하게 만드는지</li>\n<li>평소 사용하는 인공지능 에디터 도구에 플러그인(기능 추가용 연결 조각) 형태로 얹는 법</li>\n<li>기획, 분할 작업, 테스트 주도 개발까지 이어지는 정교한 개발 리듬</li>\n</ul>\n<h2>미리 알아두면 좋은 것</h2>\n<p>실습 전 아래 두 가지를 확인해 주세요.</p>\n<ol>\n<li>평소에 개발 업무에 활용 중인 코딩 에이전트가 최소 하나 이상 있어요.</li>\n<li>에이전트가 실행되는 터미널 환경이나 에디터 앱이 준비되어 있어요.</li>\n</ol>\n<p>따로 복잡하게 명령어를 배울 필요 없이 기존 에이전트에 플러그인처럼 결합만 해주면 돼요. 다음 장에서 Superpowers의 실체와 정체성을 더 재미있게 설명해 드릴게요.</p>\n"}}]}]
-30:T44ae,<h2>기초 설명</h2>
+30:T3c3e,<h2>기초 설명</h2>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -77,8 +77,8 @@ docs/
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -91,87 +91,87 @@ docs/
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -187,122 +187,122 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -342,7 +342,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -351,26 +351,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -456,7 +456,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -466,7 +466,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -482,8 +482,8 @@ docs/
 <h3><code>000/00_harness-index.md</code> (발췌)</h3>
 <h1>Harness Source Index</h1>
 <p>This file is the non-conflicting <code>000/</code> index for source-repository harnesses.</p>
-<p>The canonical deep overview files stay under /Users/jun/Developer/codex/000_overview/.
-Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
+<p>The canonical deep overview files stay under 000_overview/.
+Files in 000 named <code>00_harness-index_*</code> are short routing/index notes only. They intentionally avoid the canonical <code>00_&#x3C;prefix>_overview.md</code> basename so wiki/backlink indexers do not see two files with the same <code>00_*_overview</code> identity.</p>
 <h2>Routing</h2>
 <table>
 <thead>
@@ -497,52 +497,52 @@ Files in /Users/jun/Developer/codex/000 named <code>00_harness-index_*</code> ar
 <tbody>
 <tr>
 <td><code>hermes</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_hermes.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_hermes_overview.md</td>
+<td>000/00_harness-index_hermes.md</td>
+<td>000_overview/00_hermes_overview.md</td>
 <td>standalone source-based agent runtime</td>
 </tr>
 <tr>
 <td><code>omc</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omc.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omc_overview.md</td>
+<td>000/00_harness-index_omc.md</td>
+<td>000_overview/00_omc_overview.md</td>
 <td>Claude Code host-dependent orchestration harness</td>
 </tr>
 <tr>
 <td><code>omx</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omx.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omx_overview.md</td>
+<td>000/00_harness-index_omx.md</td>
+<td>000_overview/00_omx_overview.md</td>
 <td>Codex host-dependent control plane</td>
 </tr>
 <tr>
 <td><code>omo</code></td>
-<td>/Users/jun/Developer/codex/000/00_harness-index_omo.md</td>
-<td>/Users/jun/Developer/codex/000_overview/00_omo_overview.md</td>
+<td>000/00_harness-index_omo.md</td>
+<td>000_overview/00_omo_overview.md</td>
 <td>OpenCode host-dependent harness plus Codex Light adapter</td>
 </tr>
 <tr>
 <td><code>lc</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_lc_overview.md</td>
+<td>000_overview/00_lc_overview.md</td>
 <td>LazyCodex / Codex Light distribution wrapper for OmO</td>
 </tr>
 <tr>
 <td><code>sp</code></td>
 <td>n/a</td>
-<td>/Users/jun/Developer/codex/000_overview/00_sp_overview.md</td>
+<td>000_overview/00_sp_overview.md</td>
 <td>Superpowers multi-harness skills/bootstrap methodology layer</td>
 </tr>
 </tbody>
 </table>
 <h2>Related</h2>
 <ul>
-<li>/Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md</li>
-<li>/Users/jun/Developer/codex/015_reverse-engineering/35_harness_source_matrix.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_hermes_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omx_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_omo_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_lc_web-search.md</li>
-<li>/Users/jun/Developer/codex/014_web-search/14_sp_web-search.md</li>
+<li>000/00_harness_synthesis_addendum.md</li>
+<li>015_reverse-engineering/35_harness_source_matrix.md</li>
+<li>014_web-search/14_hermes_web-search.md</li>
+<li>014_web-search/14_omc_web-search.md</li>
+<li>014_web-search/14_omx_web-search.md</li>
+<li>014_web-search/14_omo_web-search.md</li>
+<li>014_web-search/14_lc_web-search.md</li>
+<li>014_web-search/14_sp_web-search.md</li>
 </ul>
 f:["$","$L2f","01-corpus-spine",{"id":"01-corpus-spine","order":1,"tier":"developer","title":"코퍼스 읽기 지도 (000)","description":"navigation + canonical map","lang":"ko","badge":"$undefined","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$30"}}]}]
 31:T8b2,<h2>한 문장으로 말하면</h2>
@@ -1374,7 +1374,7 @@ description: Use when starting any conversation - establishes how to find and us
 <p><strong>Verdict:</strong> classify <code>sp</code> as <strong>host-delegated web/search</strong> — methodology may require lookup; runtime is 100% host.</p>
 <hr>
 1e:["$","$L2f","07-overview-10",{"id":"07-overview-10","order":16,"tier":"developer","title":"10. Web search (014)","description":"000_overview/00_sp_overview.md","lang":"ko","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3d"}}]}]
-3e:T5cc9,<h2>기초 설명</h2>
+3e:T5cae,<h2>기초 설명</h2>
 <p>Superpowers는 방법론을 <strong>Markdown 스킬 + SessionStart 훅</strong>으로 패키징한다. <code>package.json</code>에 <code>bin</code> 필드가 없고, Ratatui/curses/blessed 등 터미널 위젯 스택이 전혀 없다. 사용자가 보는 "TUI"는 100% 호스트 소유이며, Superpowers는 그 세션의 <strong>첫 컨텍스트 슬라이스</strong>와 <strong>스킬 카탈로그</strong>만 제공한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -1516,7 +1516,7 @@ If you were dispatched as a subagent to execute a specific task, skip this skill
 <h2>코퍼스 — 001_tui-design/01_sp_tui.md (심화)</h2>
 <h1>Superpowers (<code>sp</code>) — TUI / Terminal UI Design</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/162_superpowers/</code> (v5.1.0 checkout). <strong>독립 CLI/TUI 없음</strong> — 모든 터미널 렌더링은 호스트 에이전트(Codex, Claude Code, Cursor, OpenCode, Copilot CLI, Gemini CLI)에 위임. Superpowers는 SessionStart 훅과 <code>SKILL.md</code> 부트스트랩으로 호스트 TUI <strong>위에</strong> 방법론 텍스트만 주입한다.</p>
+<p><strong>분석 스냅샷</strong>: <code>162_superpowers/</code> (v5.1.0 checkout). <strong>독립 CLI/TUI 없음</strong> — 모든 터미널 렌더링은 호스트 에이전트(Codex, Claude Code, Cursor, OpenCode, Copilot CLI, Gemini CLI)에 위임. Superpowers는 SessionStart 훅과 <code>SKILL.md</code> 부트스트랩으로 호스트 TUI <strong>위에</strong> 방법론 텍스트만 주입한다.</p>
 </blockquote>
 <p>Superpowers는 방법론을 <strong>Markdown 스킬 + SessionStart 훅</strong>으로 패키징한다. <code>package.json</code>에 <code>bin</code> 필드가 없고, Ratatui/curses/blessed 등 터미널 위젯 스택이 전혀 없다. 사용자가 보는 "TUI"는 100% 호스트 소유이며, Superpowers는 그 세션의 <strong>첫 컨텍스트 슬라이스</strong>와 <strong>스킬 카탈로그</strong>만 제공한다.</p>
 <p>유일한 "화면"에 가까운 컴포넌트는 <strong>brainstorming visual companion</strong> — 로컬 HTTP/WebSocket으로 HTML mockup을 브라우저에 띄우는 adjunct UI이며, 호스트 TUI를 대체하지 않는다.</p>
@@ -2059,7 +2059,7 @@ If you were dispatched as a subagent to execute a specific task, skip this skill
 </tbody>
 </table>
 1f:["$","$L2f","20-axis-01-tui",{"id":"20-axis-01-tui","order":17,"tier":"deep","title":"축 01: TUI 설계","description":"001_tui-design/01_sp_tui.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3e"}}]}]
-3f:T533f,<h2>기초 설명</h2>
+3f:T5324,<h2>기초 설명</h2>
 <p>The core prompt-engineering product is <strong><code>using-superpowers</code></strong> — a meta-skill that mandates skill invocation before action — plus workflow skills that embed <strong>subagent prompt templates</strong> and <strong>context curation rules</strong>. Hosts differ in <em>where</em> bootstrap lands (system hook vs first user message vs <code>@import</code> file).</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -2171,7 +2171,7 @@ Do NOT invoke any implementation skill, write any code... until design approved.
 <h2>코퍼스 — 002_prompt-context/02_sp_prompt.md (심화)</h2>
 <h1>Superpowers — Prompt / Context Surface</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/162_superpowers/</code> (v5.1.0). Superpowers is a <strong>prompt/context overlay</strong>, not a prompt runtime. It does not construct provider API payloads, compaction transcripts, token budgets, or repository context maps. It injects or registers bootstrap skill text, then relies on the host to load <code>skills/*/SKILL.md</code> bodies on demand.</p>
+<p><strong>분석 스냅샷</strong>: <code>162_superpowers/</code> (v5.1.0). Superpowers is a <strong>prompt/context overlay</strong>, not a prompt runtime. It does not construct provider API payloads, compaction transcripts, token budgets, or repository context maps. It injects or registers bootstrap skill text, then relies on the host to load <code>skills/*/SKILL.md</code> bodies on demand.</p>
 </blockquote>
 <p>The core prompt-engineering product is <strong><code>using-superpowers</code></strong> — a meta-skill that mandates skill invocation before action — plus workflow skills that embed <strong>subagent prompt templates</strong> and <strong>context curation rules</strong>. Hosts differ in <em>where</em> bootstrap lands (system hook vs first user message vs <code>@import</code> file).</p>
 <h2>Architecture</h2>
@@ -2657,7 +2657,7 @@ Do NOT invoke any implementation skill, write any code... until design approved.
 </tbody>
 </table>
 20:["$","$L2f","20-axis-02-prompt",{"id":"20-axis-02-prompt","order":18,"tier":"deep","title":"축 02: 프롬프트·컨텍스트","description":"002_prompt-context/02_sp_prompt.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3f"}}]}]
-40:T5635,<h2>기초 설명</h2>
+40:T561a,<h2>기초 설명</h2>
 <p>subgraph Host["Host owns"]
 Loop["LLM tool loop"]
 Catalog["Tool registry"]
@@ -2754,7 +2754,7 @@ Task("Fix batch-completion-behavior.test.ts failures")
 <h2>코퍼스 — 003_tool-runtime/03_sp_tool.md (심화)</h2>
 <h1>Superpowers — Tool Runtime</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/162_superpowers/</code> (v5.1.0). Superpowers is <strong>not</strong> an independent tool runtime. It does not own shell/file/search/MCP dispatch, approval gates, or structured function-call loops. Its runtime surface is <strong>bootstrap policy + skill catalog + cross-host tool-name adaptation</strong> that teaches the active harness how to interpret Claude Code-oriented skill text.</p>
+<p><strong>분석 스냅샷</strong>: <code>162_superpowers/</code> (v5.1.0). Superpowers is <strong>not</strong> an independent tool runtime. It does not own shell/file/search/MCP dispatch, approval gates, or structured function-call loops. Its runtime surface is <strong>bootstrap policy + skill catalog + cross-host tool-name adaptation</strong> that teaches the active harness how to interpret Claude Code-oriented skill text.</p>
 </blockquote>
 <h2>Architecture</h2>
 <pre><code class="language-mermaid">flowchart LR
@@ -3393,7 +3393,7 @@ Task("Fix batch-completion-behavior.test.ts failures")
 </tbody>
 </table>
 21:["$","$L2f","20-axis-03-tool",{"id":"20-axis-03-tool","order":19,"tier":"deep","title":"축 03: 도구 런타임","description":"003_tool-runtime/03_sp_tool.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$40"}}]}]
-41:T505e,<h2>기초 설명</h2>
+41:T5043,<h2>기초 설명</h2>
 <p>subgraph Activation["Host activation"]
 CodexP[".codex-plugin plugin.json"]
 Hook["hooks/session-start"]
@@ -3484,7 +3484,7 @@ description: Use when starting any conversation - establishes how to find and us
 <h2>코퍼스 — 004_skill-system/04_sp_skill.md (심화)</h2>
 <h1>Superpowers — Skill System</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/162_superpowers/</code> (v5.1.0). Superpowers <strong>is primarily a skill system</strong>: a portable methodology library of <code>skills/*/SKILL.md</code> files plus harness-specific activation glue (SessionStart hooks, Codex plugin manifest, OpenCode JS plugin, Gemini <code>@import</code>s). There is no universal skill VM — loading, permissions, and UI are host-dependent.</p>
+<p><strong>분석 스냅샷</strong>: <code>162_superpowers/</code> (v5.1.0). Superpowers <strong>is primarily a skill system</strong>: a portable methodology library of <code>skills/*/SKILL.md</code> files plus harness-specific activation glue (SessionStart hooks, Codex plugin manifest, OpenCode JS plugin, Gemini <code>@import</code>s). There is no universal skill VM — loading, permissions, and UI are host-dependent.</p>
 </blockquote>
 <h2>Architecture</h2>
 <pre><code class="language-mermaid">flowchart TD
@@ -4087,7 +4087,7 @@ description: Use when starting any conversation - establishes how to find and us
 </tbody>
 </table>
 22:["$","$L2f","20-axis-04-skill",{"id":"20-axis-04-skill","order":20,"tier":"deep","title":"축 04: 스킬 시스템","description":"004_skill-system/04_sp_skill.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$41"}}]}]
-42:T5077,<h2>기초 설명</h2>
+42:T505c,<h2>기초 설명</h2>
 <p>subgraph SDD["subagent-driven-development (sequential)"]
 Imp["Implementer subagent"]
 SpecR["Spec reviewer"]
@@ -4176,7 +4176,7 @@ multi_agent = true
 <h2>코퍼스 — 005_subagents-collab/05_sp_subagent.md (심화)</h2>
 <h1>Superpowers — Subagents / Collaboration</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/162_superpowers/</code> (v5.1.0). Superpowers defines <strong>subagent collaboration workflows in SKILL.md</strong>, not a native subagent runtime. Spawn, lifecycle, context isolation, async completion, parallelism limits, and model routing are <strong>delegated to the active host harness</strong>. SP's contribution is precise prompt templates, controller discipline, and host tool-name mapping.</p>
+<p><strong>분석 스냅샷</strong>: <code>162_superpowers/</code> (v5.1.0). Superpowers defines <strong>subagent collaboration workflows in SKILL.md</strong>, not a native subagent runtime. Spawn, lifecycle, context isolation, async completion, parallelism limits, and model routing are <strong>delegated to the active host harness</strong>. SP's contribution is precise prompt templates, controller discipline, and host tool-name mapping.</p>
 </blockquote>
 <h2>Architecture</h2>
 <pre><code class="language-mermaid">flowchart TB
@@ -4773,7 +4773,7 @@ multi_agent = true
 </tbody>
 </table>
 23:["$","$L2f","20-axis-05-subagent",{"id":"20-axis-05-subagent","order":21,"tier":"deep","title":"축 05: 서브에이전트","description":"005_subagents-collab/05_sp_subagent.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$42"}}]}]
-43:T542a,<h2>기초 설명</h2>
+43:T540f,<h2>기초 설명</h2>
 <p>subgraph SP["Superpowers artifacts"]
 Skills["skills/"]
 Hooks["hooks/"]
@@ -4912,7 +4912,7 @@ droid plugin install superpowers@superpowers
 <h2>코퍼스 — 006_app-server-client-surfaces/06_sp_surface.md (심화)</h2>
 <h1>Superpowers — App Server / Client Surfaces</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/162_superpowers/</code> (v5.1.0). Superpowers is a <strong>multi-harness skills/plugin distribution</strong>, not a general app-server agent runtime. The host agent owns model calls, session storage, primary UI, tool execution, subagent dispatch, and permissions. SP exposes <strong>plugin manifests</strong>, <strong>SessionStart hooks</strong>, <strong>OpenCode JS plugin</strong>, and one optional <strong>local HTTP/WebSocket visual companion</strong> for brainstorming.</p>
+<p><strong>분석 스냅샷</strong>: <code>162_superpowers/</code> (v5.1.0). Superpowers is a <strong>multi-harness skills/plugin distribution</strong>, not a general app-server agent runtime. The host agent owns model calls, session storage, primary UI, tool execution, subagent dispatch, and permissions. SP exposes <strong>plugin manifests</strong>, <strong>SessionStart hooks</strong>, <strong>OpenCode JS plugin</strong>, and one optional <strong>local HTTP/WebSocket visual companion</strong> for brainstorming.</p>
 </blockquote>
 <h2>Architecture</h2>
 <pre><code class="language-mermaid">flowchart TB
@@ -5522,7 +5522,7 @@ droid plugin install superpowers@superpowers
 </tbody>
 </table>
 24:["$","$L2f","20-axis-06-surface",{"id":"20-axis-06-surface","order":22,"tier":"deep","title":"축 06: 앱·서버 표면","description":"006_app-server-client-surfaces/06_sp_surface.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$43"}}]}]
-44:T4d4f,<h2>기초 설명</h2>
+44:T4d34,<h2>기초 설명</h2>
 <p>subgraph Host["Host (enforcement)"]
 Sandbox["OS sandbox / seatbelt"]
 Approval["Exec approval prompts"]
@@ -5613,7 +5613,7 @@ const HOST = process.env.BRAINSTORM_HOST || '127.0.0.1';
 <h2>코퍼스 — 007_sandbox-exec-policy/07_sp_sandbox.md (심화)</h2>
 <h1>Superpowers — Sandbox / Exec Policy</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/162_superpowers/</code> (v5.1.0). Superpowers is a <strong>skills/bootstrap package</strong>, not an execution harness. It does <strong>not</strong> enforce OS process isolation, command approval UI, filesystem ACLs, network filtering, PTY sandboxing, or shell policy evaluation. Actual execution, sandbox seatbelts, and approval prompts are <strong>host-owned</strong>. SP improves <strong>process safety through behavioral skills</strong> (TDD, debugging, worktrees, verification) — not kernel-level confinement.</p>
+<p><strong>분석 스냅샷</strong>: <code>162_superpowers/</code> (v5.1.0). Superpowers is a <strong>skills/bootstrap package</strong>, not an execution harness. It does <strong>not</strong> enforce OS process isolation, command approval UI, filesystem ACLs, network filtering, PTY sandboxing, or shell policy evaluation. Actual execution, sandbox seatbelts, and approval prompts are <strong>host-owned</strong>. SP improves <strong>process safety through behavioral skills</strong> (TDD, debugging, worktrees, verification) — not kernel-level confinement.</p>
 </blockquote>
 <h2>Architecture</h2>
 <pre><code class="language-mermaid">flowchart LR
@@ -10852,7 +10852,7 @@ Read, Write, Edit, Bash → native tools
 </tbody>
 </table>
 2c:["$","$L2f","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":30,"tier":"deep","title":"축 14: 웹 검색","description":"014_web-search/14_sp_web-search.md","lang":"ko","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4b"}}]}]
-4c:T4be3,<h2>기초 설명</h2>
+4c:T7410,<h2>기초 설명</h2>
 <p>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</p>
 <h2>이 문서에서 다루는 것</h2>
 <ul>
@@ -10871,13 +10871,53 @@ Read, Write, Edit, Bash → native tools
 </ul>
 <h2>소스 코드 스니펫</h2>
 <h3>README / docs</h3>
-<pre><code class="language-bash">/Users/jun/.grok/bin/grok inspect --json
+<pre><code class="language-bash">~/.grok/bin/grok inspect --json
 </code></pre>
 <h3>README / docs</h3>
 <pre><code class="language-bash">TMP_HOME=$(mktemp -d)
 TMP_WS=$(mktemp -d)
 cd "$TMP_WS"
-HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
+HOME="$TMP_HOME" ~/.grok/bin/grok inspect --json
+</code></pre>
+<h3>README / docs</h3>
+<pre><code class="language-text">POST https://runtime.{region}.kiro.dev/            (기본 region us-east-1)
+authorization: Bearer {accessToken}
+content-type:  application/x-amz-json-1.0
+accept:        application/vnd.amazon.eventstream
+x-amz-target:  AmazonCodeWhispererStreamingService.GenerateAssistantResponse
+user-agent:    aws-sdk-js/1.0.27 ua/2.1 os/{os} lang/js md/nodejs#22.x
+               api/codewhispererstreaming#1.0.27 m/E KiroIDE-{ver}-{fingerprint}
+x-amz-user-agent:            aws-sdk-js/1.0.27 KiroIDE-{ver}-{fingerprint}
+x-amzn-codewhisperer-optout: true
+x-amzn-kiro-agent-mode:      vibe
+x-amzn-kiro-profile-arn:     {profileArn}        (바이너리 분석에서 발견된 전용 헤더)
+amz-sdk-invocation-id:       {uuid}              (매 요청 새로)
+</code></pre>
+<h3>README / docs</h3>
+<pre><code class="language-json">{
+  "conversationState": {
+    "chatTriggerType": "MANUAL",
+    "conversationId": "&#x3C;stable 16-hex>",
+    "currentMessage": { "userInputMessage": {
+      "content": "&#x3C;non-empty>", "modelId": "&#x3C;id>", "origin": "AI_EDITOR",
+      "userInputMessageContext": { "tools": [...], "toolResults": [...] }
+    }},
+    "history": [ {"userInputMessage": {...}}, {"assistantResponseMessage": {...}}, ... ]
+  },
+  "profileArn": "&#x3C;arn>"
+}
+</code></pre>
+<h3>README / docs</h3>
+<pre><code class="language-jsonc">// 올바름                              // 틀림 → 400
+{ "toolUseId": "...", "name": "bash",  { ..., "input": "{\"command\":\"echo\"}" }  // 문자열 금지
+  "input": { "command": "echo" } }
+</code></pre>
+<h3>README / docs</h3>
+<pre><code class="language-text">{"name":"bash","toolUseId":"tooluse_X"}                    # start (input 없음)
+{"input":"","name":"bash","toolUseId":"tooluse_X"}         # input 조각 (name 포함!)
+{"input":"{\"command\": \"ec","name":"bash","toolUseId":"tooluse_X"}
+{"input":"ho hi\"}","name":"bash","toolUseId":"tooluse_X"} # 조각들 이어붙이면 완전한 JSON
+{"name":"bash","stop":true,"toolUseId":"tooluse_X"}        # stop (name 포함)
 </code></pre>
 <h2>코퍼스 — 015_reverse-engineering/ (심화)</h2>
 <h3><code>015_reverse-engineering/00_reverse_evidence_policy.md</code></h3>
@@ -10925,7 +10965,7 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 </tr>
 </tbody>
 </table>
-<p><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
+<p><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.</p>
 <h2>Hard Boundary</h2>
 <p>역분석의 목적은 제품 구조 복원이지 사용자 상태 추출이 아니다. 다음은 내용 읽기 금지다.</p>
 <ul>
@@ -10941,7 +10981,7 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 <h2>Installed CLI version pin (2026-06-27)</h2>
 <p>Single source of truth for pinned <code>ay</code>/<code>cr</code>/<code>gr</code>/<code>ki</code> binaries:</p>
 <ul>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
+<li><code>015_reverse-engineering/36_installed_cli_version_manifest.md</code></li>
 </ul>
 <p>WP5 trace shards (<code>38</code>–<code>41</code>) extend hubs without changing evidence-level definitions above.</p>
 <h2>Current Upgrade Scope</h2>
@@ -10957,7 +10997,7 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 <tbody>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code> v1.0.12+</td>
+<td><code>~/.local/bin/agy</code> v1.0.12+</td>
 <td>help, changelog, strings; <code>38_ay_project_flags_trace.md</code></td>
 </tr>
 <tr>
@@ -10989,22 +11029,22 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 <tbody>
 <tr>
 <td><code>gr</code></td>
-<td><code>/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>/Users/jun/.grok/bundled</code>, <code>/Users/jun/.grok/docs/user-guide</code></td>
+<td><code>~/.grok/downloads/grok-0.2.14-macos-aarch64</code>, <code>~/.grok/bundled</code>, <code>~/.grok/docs/user-guide</code></td>
 <td>Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills</td>
 </tr>
 <tr>
 <td><code>cr</code></td>
-<td><code>/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
+<td><code>~/.local/share/cursor-agent/versions/2026.05.28-418efe5</code></td>
 <td>Webpack module keys, route extraction, proto module names, native helper inventory</td>
 </tr>
 <tr>
 <td><code>ki</code></td>
-<td><code>/Applications/Kiro CLI.app</code>, <code>/Users/jun/.local/bin/kiro-cli*</code></td>
+<td><code>/Applications/Kiro CLI.app</code>, <code>~/.local/bin/kiro-cli*</code></td>
 <td>signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets</td>
 </tr>
 <tr>
 <td><code>ay</code></td>
-<td><code>/Users/jun/.local/bin/agy</code>, <code>/Users/jun/.gemini/antigravity-cli</code></td>
+<td><code>~/.local/bin/agy</code>, <code>~/.gemini/antigravity-cli</code></td>
 <td>Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries</td>
 </tr>
 </tbody>
@@ -11023,7 +11063,7 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 <h2>Public Command</h2>
 <p>Command:</p>
 <ul>
-<li><code>/Users/jun/.local/bin/grok inspect --json</code></li>
+<li><code>~/.local/bin/grok inspect --json</code></li>
 </ul>
 <p>Help says this command shows the configuration Grok discovers for the current directory and can emit machine-readable JSON.</p>
 <h2>Clean Temp State</h2>
@@ -11164,7 +11204,7 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 <h2>Remaining Gaps</h2>
 <ul>
 <li>Inline <code>--agents &#x3C;JSON></code> schema and execution semantics.</li>
-<li>Plugin-provided agent/skill discovery through <code>inspect --json</code> is traced in <code>/Users/jun/Developer/codex/015_reverse-engineering/28_grok_plugin_inspect_trace.md</code>.</li>
+<li>Plugin-provided agent/skill discovery through <code>inspect --json</code> is traced in <code>015_reverse-engineering/28_grok_plugin_inspect_trace.md</code>.</li>
 <li>MCP/LSP discovery from synthetic config through <code>inspect --json</code>.</li>
 <li>Permission source precedence.</li>
 <li>Actual child-session scheduling and isolation behavior during model execution.</li>
@@ -11182,11 +11222,11 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 </ul>
 <p>The plugin was installed with:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/grok plugin install &#x3C;tmp>/plugin --trust</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/grok plugin install &#x3C;tmp>/plugin --trust</code></li>
 </ul>
 <p>Then discovery state was read with:</p>
 <ul>
-<li><code>HOME=&#x3C;tmp>/home /Users/jun/.local/bin/grok --cwd &#x3C;tmp>/ws inspect --json</code></li>
+<li><code>HOME=&#x3C;tmp>/home ~/.local/bin/grok --cwd &#x3C;tmp>/ws inspect --json</code></li>
 </ul>
 <h2>Inspect Plugin Entry</h2>
 <p><code>inspect --json</code> returned a <code>plugins[]</code> entry:</p>
@@ -11319,16 +11359,16 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 <h3><code>015_reverse-engineering/40_gr_0267_inspect_refresh.md</code></h3>
 <h1>Grok 0.2.67 Inspect Refresh</h1>
 <p>Re-runs the <strong>clean-state</strong> portion of <code>23_grok_inspect_trace.md</code> against installed <strong>grok 0.2.67</strong>. Disposable temp <code>HOME</code> and workspace; no model prompts, no auth, no real <code>~/.grok</code> reads.</p>
-<p><strong>Version pin:</strong> <code>36_installed_cli_version_manifest.md</code> — <code>/Users/jun/.grok/bin/grok</code> → <code>grok-0.2.67-macos-aarch64</code>.</p>
+<p><strong>Version pin:</strong> <code>36_installed_cli_version_manifest.md</code> — <code>~/.grok/bin/grok</code> → <code>grok-0.2.67-macos-aarch64</code>.</p>
 <h2>Public command</h2>
-<pre><code class="language-bash">/Users/jun/.grok/bin/grok inspect --json
+<pre><code class="language-bash">~/.grok/bin/grok inspect --json
 </code></pre>
 <h2>Clean temp state (2026-06-27)</h2>
 <p>Setup:</p>
 <pre><code class="language-bash">TMP_HOME=$(mktemp -d)
 TMP_WS=$(mktemp -d)
 cd "$TMP_WS"
-HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
+HOME="$TMP_HOME" ~/.grok/bin/grok inspect --json
 </code></pre>
 <p>Observed top-level JSON keys (subset): <code>agents</code>, <code>bridgeTrusted</code>, <code>channel</code>, <code>configSources</code>, <code>cwd</code>, <code>externalCompat</code>, <code>grokVersion</code>, <code>hooks</code>, …</p>
 <table>
@@ -11401,6 +11441,144 @@ HOME="$TMP_HOME" /Users/jun/.grok/bin/grok inspect --json
 <li>Prior trace: <code>23_grok_inspect_trace.md</code></li>
 <li>RE hub: <code>15_gr_reverse.md</code></li>
 <li>Plugin traces: <code>26_grok_plugin_manifest_trace.md</code>, <code>27_grok_plugin_install_trace.md</code>, <code>28_grok_plugin_inspect_trace.md</code></li>
+</ul>
+<hr>
+<h3><code>015_reverse-engineering/45_ki_codewhisperer_wire_stream_oauth.md</code></h3>
+<h1>45 — ki: CodeWhisperer wire + stream + OAuth contract (LIVE-confirmed)</h1>
+<blockquote>
+<p>상태: ✅ 라이브 확정 (2026-06-28). jawcode <code>packages/ai/src/providers/kiro.ts</code>
+실측 + <code>JWC_KIRO_DEBUG</code> 라이브 캡처(<code>jwc -p --model kiro/claude-sonnet-4.5</code>) + kiro2api
+<code>types/codewhisperer.go@859a47c9</code> 교차검증.
+보완 대상: <code>15_ki_reverse.md</code>(Rust 내부), <code>43_ki_auth_session_boundary_trace.md</code>(auth).
+이 문서는 Kiro CLI <strong>내부</strong>가 아니라, 서드파티 하니스가 Kiro 백엔드를 직접 호출할 때의
+<strong>CodeWhisperer 와이어 프로토콜</strong>을 다룬다 (opencodex/jawcode kiro provider 기준).</p>
+</blockquote>
+<h2>0. 엔드포인트 / 헤더</h2>
+<pre><code>POST https://runtime.{region}.kiro.dev/            (기본 region us-east-1)
+authorization: Bearer {accessToken}
+content-type:  application/x-amz-json-1.0
+accept:        application/vnd.amazon.eventstream
+x-amz-target:  AmazonCodeWhispererStreamingService.GenerateAssistantResponse
+user-agent:    aws-sdk-js/1.0.27 ua/2.1 os/{os} lang/js md/nodejs#22.x
+               api/codewhispererstreaming#1.0.27 m/E KiroIDE-{ver}-{fingerprint}
+x-amz-user-agent:            aws-sdk-js/1.0.27 KiroIDE-{ver}-{fingerprint}
+x-amzn-codewhisperer-optout: true
+x-amzn-kiro-agent-mode:      vibe
+x-amzn-kiro-profile-arn:     {profileArn}        (바이너리 분석에서 발견된 전용 헤더)
+amz-sdk-invocation-id:       {uuid}              (매 요청 새로)
+</code></pre>
+<p>SigV4 불필요 — Bearer 전용. 응답은 <code>application/vnd.amazon.eventstream</code> 바이너리 프레이밍.</p>
+<h2>1. 요청 바디 — conversationState (와이어 계약 3대 규칙, 실측 확정)</h2>
+<pre><code class="language-json">{
+  "conversationState": {
+    "chatTriggerType": "MANUAL",
+    "conversationId": "&#x3C;stable 16-hex>",
+    "currentMessage": { "userInputMessage": {
+      "content": "&#x3C;non-empty>", "modelId": "&#x3C;id>", "origin": "AI_EDITOR",
+      "userInputMessageContext": { "tools": [...], "toolResults": [...] }
+    }},
+    "history": [ {"userInputMessage": {...}}, {"assistantResponseMessage": {...}}, ... ]
+  },
+  "profileArn": "&#x3C;arn>"
+}
+</code></pre>
+<p><strong>규칙 1 — history 엄격 교대.</strong> <code>history</code>는 user/assistant 턴이 반드시 교대해야 한다.
+연속 user/assistant는 거부.</p>
+<p><strong>규칙 2 — toolResult 인접.</strong> 각 <code>toolResult</code>는, 그 결과를 낸 <code>assistantResponseMessage</code>
+(=<code>toolUses</code> 보유) <strong>바로 다음</strong> <code>userInputMessage</code>의 <code>userInputMessageContext.toolResults</code>에
+실려야 한다. 모든 toolResult를 마지막 메시지에 몰아넣으면(평탄 누적) →
+<code>REQUEST_BODY_INVALID / "Improperly formed request"</code> (400).</p>
+<p><strong>규칙 3 — toolUses[].input 은 JSON 객체.</strong> (kiro2api <code>ToolUseEntry.Input map[string]any</code>)</p>
+<pre><code class="language-jsonc">// 올바름                              // 틀림 → 400
+{ "toolUseId": "...", "name": "bash",  { ..., "input": "{\"command\":\"echo\"}" }  // 문자열 금지
+  "input": { "command": "echo" } }
+</code></pre>
+<p><code>JSON.stringify(args)</code>로 보내면 tool 호출이 포함된 <strong>모든</strong> 요청이 400. (과거 no-tool 채팅만
+통과해서 이 결함이 오래 숨어 있었음.)</p>
+<p>추가 계약:</p>
+<ul>
+<li><code>toolResults[].content</code> = <code>[{ "text": "..." }]</code> 배열, <code>status</code> = <code>"success"|"error"</code>,
+<code>toolUseId</code> (양쪽 정규화 <code>^[a-zA-Z0-9_-]{1,64}$</code>로 일치시킬 것).</li>
+<li><code>userInputMessage.content</code>는 비어 있으면 안 됨 → tool 결과만 보낼 땐 placeholder(<code>"(tool results)"</code>).</li>
+<li><code>origin: "AI_EDITOR"</code>, <code>chatTriggerType: "MANUAL"</code>.</li>
+<li>(kiro2api에는 <code>agentTaskType:"vibe"</code>, <code>agentContinuationId</code>, <code>images[]</code> 필드도 있으나
+no-tool/tool 경로 모두 생략해도 통과 — optional.)</li>
+</ul>
+<h2>2. 스트리밍 응답 — tool 이벤트 프로토콜 (라이브 캡처로 확정)</h2>
+<p>AWS eventstream 프레임의 각 event payload는 JSON. <strong>CodeWhisperer는 tool 이벤트마다
+<code>name</code>+<code>toolUseId</code>를 반복 포함한다</strong> (이게 파싱의 함정):</p>
+<pre><code>{"name":"bash","toolUseId":"tooluse_X"}                    # start (input 없음)
+{"input":"","name":"bash","toolUseId":"tooluse_X"}         # input 조각 (name 포함!)
+{"input":"{\"command\": \"ec","name":"bash","toolUseId":"tooluse_X"}
+{"input":"ho hi\"}","name":"bash","toolUseId":"tooluse_X"} # 조각들 이어붙이면 완전한 JSON
+{"name":"bash","stop":true,"toolUseId":"tooluse_X"}        # stop (name 포함)
+</code></pre>
+<ul>
+<li>일반 텍스트: <code>{"content":"..."}</code></li>
+<li>토큰 사용량: <code>{"usage":N}</code></li>
+</ul>
+<p><strong>파싱 규칙: <code>name</code> 유무로 판별하지 말 것.</strong> 반드시 <code>stop===true</code> → <code>"input" in payload</code>
+→ <code>name</code> 순으로 판별. (<code>name</code>만 보면 모든 input 조각이 새 tool_start로 오인돼 인자가 빈
+<code>{}</code>가 됨 → tool이 "expected string, received undefined"로 실패.) <code>input</code> 조각을 toolUseId별로
+이어붙여 stop에서 <code>JSON.parse</code>.</p>
+<p>병렬 다중 tool: 관측상 <strong>순차</strong> 스트리밍(toolUse A start→조각→stop, 그다음 B). 단일
+<code>currentToolCall</code> 누적으로 충분하나, 견고성을 위해 toolUseId 매칭/lazy-start 권장.</p>
+<h2>3. OAuth / 토큰</h2>
+<table>
+<thead>
+<tr>
+<th>경로</th>
+<th>위치 / 방법</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>kiro-cli SQLite</td>
+<td><code>~/Library/Application Support/kiro-cli/data.sqlite3</code>, <code>~/.kiro/sso/cache.db</code> — <code>auth_kv</code> 테이블, key <code>kirocli:social:token</code>/<code>kirocli:odic:token</code>/<code>codewhisperer:odic:token</code>, value JSON <code>{access_token, refresh_token, profile_arn, expires_at, region}</code></td>
+</tr>
+<tr>
+<td>Kiro Desktop refresh</td>
+<td><code>POST https://prod.{region}.auth.desktop.kiro.dev/refreshToken</code> body <code>{refreshToken}</code> → <code>{accessToken, refreshToken, expiresIn}</code></td>
+</tr>
+<tr>
+<td>AWS SSO OIDC refresh</td>
+<td><code>POST https://oidc.{region}.amazonaws.com/token</code> (grantType refresh_token)</td>
+</tr>
+<tr>
+<td>prokiro 프록시</td>
+<td><code>~/.prokiro/auth.json</code> <code>{accessToken, refreshToken, profileArn, region, expiresAt}</code></td>
+</tr>
+<tr>
+<td>토큰 형식</td>
+<td>accessToken 접두사 <code>aoa</code> (가비지 credential 방어용 검증)</td>
+</tr>
+<tr>
+<td>401 처리</td>
+<td>refresh 후 1회 재시도, 실패 시 캐시 무효화</td>
+</tr>
+<tr>
+<td>만료</td>
+<td>60초 전 사전 refresh</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>참고 버그: kiro-cli가 갱신 토큰을 SQLite에 다시 안 쓰는 케이스 보고 → 외부 임포트 시 갱신 충돌 주의
+(kirodotdev/Kiro#4847).</p>
+</blockquote>
+<h2>4. 모델 id (kiro provider, jawcode)</h2>
+<p><code>claude-opus-4.8/4.7/4.6/4.5</code>, <code>claude-sonnet-4.6/4.5/4</code>, <code>claude-haiku-4.5</code>,
+<code>deepseek-3.2</code>, <code>minimax-m2.5/m2.1</code>, <code>glm-5</code>, <code>qwen3-coder-next</code> → provider <code>kiro</code>,
+api <code>kiro-streaming</code>. (provider/model 형식: <code>kiro/claude-sonnet-4.5</code>.)</p>
+<h2>5. ToS 주의</h2>
+<p>Kiro 공식 FAQ가 서드파티 하니스 사용을 명시 금지. 403 <code>TEMPORARILY_SUSPENDED</code>,
+<code>AccountSuspendedException</code>, 423 Locked 등 계정 정지 보고 다수. 개인 실험 한정.</p>
+<h2>6. 참조</h2>
+<ul>
+<li>jawcode: <code>packages/ai/src/providers/kiro.ts</code>, <code>packages/ai/src/utils/oauth/kiro.ts</code></li>
+<li>jawcode devlog: <code>devlog/_plan/260628_kiro_parity_hardening/{00,10,20}_*.md</code></li>
+<li>kiro2api <code>types/codewhisperer.go@859a47c9</code> (와이어 타입 교차검증)</li>
+<li>라이브 캡처 방법: <code>JWC_KIRO_DEBUG=/tmp/x.jsonl jwc -p --model kiro/&#x3C;model> "..."</code></li>
 </ul>
 2d:["$","$L2f","25-reverse-engineering",{"id":"25-reverse-engineering","order":31,"tier":"deep","title":"역공학 (015)","description":"015_reverse-engineering","lang":"ko","badge":"RE","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4c"}}]}]
 4d:T228e,<h2>기초 설명</h2>

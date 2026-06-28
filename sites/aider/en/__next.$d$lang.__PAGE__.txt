@@ -3,7 +3,7 @@
 3:I[27756,["/cli101-portal/sites/aider/_next/static/chunks/632d5794df09229a.js"],"PageClient"]
 28:I[15824,["/cli101-portal/sites/aider/_next/static/chunks/632d5794df09229a.js"],"SectionBlock"]
 4b:I[59374,["/cli101-portal/sites/aider/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/aider/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
-0:{"buildId":"r27cenlsB-NP4DNx1m7hK","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"en","siteName":"AI101","tagline":"AI101 developer-grade corpus guide","taglineEn":"AI101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_ai_overview.md","branding":{"slug":"ai101","name":"AI101","tagline_ko":"ai 입문 + 코퍼스 전량","tagline_en":"ai intro + full corpus","accentLabel_ko":"000_overview/00_ai_overview.md","accentLabel_en":"000_overview/00_ai_overview.md","heroTitle_ko":"터미널 LLM 페어 프로그래밍","heroTitle_en":"Terminal LLM pair programming","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ pip install aider-chat","$$ aider ./src"],"prompt_ko":"> RepoMap으로 호출 경로 추적","prompt_en":"> Trace callers via RepoMap","ctaHash":"00-before-you-start","officialUrl":"https://aider.chat/","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"AI101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-aider","order":2,"tier":"core","slug":"02-what-is-aider","title_ko":"Aider가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/02-what-is-aider.md","file_en":"en/02-what-is-aider.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 아키텍처","title_en":"Overview §1","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 코더 시스템","title_en":"Overview §2","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 프롬프트 시스템","title_en":"Overview §3","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. TUI","title_en":"Overview §4","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 커맨드 시스템","title_en":"Overview §5","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 모델 관리","title_en":"Overview §6","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Git 통합","title_en":"Overview §7","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Watch 모드","title_en":"Overview §8","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 음성 입력","title_en":"Overview §9","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 설정 시스템","title_en":"Overview §10","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 린트/테스트 통합","title_en":"Overview §11","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_ai_tui.md","description_en":"001_tui-design/01_ai_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_ai_prompt.md","description_en":"002_prompt-context/02_ai_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_ai_tool.md","description_en":"003_tool-runtime/03_ai_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_ai_skill.md","description_en":"004_skill-system/04_ai_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_ai_subagent.md","description_en":"005_subagents-collab/05_ai_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_ai_surface.md","description_en":"006_app-server-client-surfaces/06_ai_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_ai_sandbox.md","description_en":"007_sandbox-exec-policy/07_ai_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_ai_config.md","description_en":"008_config-system/08_ai_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_ai_mcp.md","description_en":"009_mcp-orchestration/09_ai_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_ai_memory.md","description_en":"010_memory-pipeline/10_ai_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_ai_plugin.md","description_en":"011_plugin-system/11_ai_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_ai_guardian.md","description_en":"012_guardian-approval/12_ai_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_ai_etc.md","description_en":"013_etc/13_ai_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_ai_web-search.md","description_en":"014_web-search/14_ai_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],["$L26"],"$L27"]}],"loading":null,"isPartial":false}
+0:{"buildId":"YMhSyG5NUJJQBltMKqw9L","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"min-h-screen"}],"children":["$","$L3",null,{"lang":"en","siteName":"AI101","tagline":"AI101 developer-grade corpus guide","taglineEn":"AI101 developer-grade corpus guide","lastUpdated":"2026-06-28","corpusPath":"000_overview/00_ai_overview.md","branding":{"slug":"ai101","name":"AI101","tagline_ko":"ai 입문 + 코퍼스 전량","tagline_en":"ai intro + full corpus","accentLabel_ko":"000_overview/00_ai_overview.md","accentLabel_en":"000_overview/00_ai_overview.md","heroTitle_ko":"터미널 LLM 페어 프로그래밍","heroTitle_en":"Terminal LLM pair programming","heroSubtitle_ko":"처음 쓰는 분을 위한 친절한 입문 가이드 — 101 6장 + 개발자 문서 28장","heroSubtitle_en":"A friendly beginner guide — 6 intro lessons + 28 developer docs","terminalLines":["$$ pip install aider-chat","$$ aider ./src"],"prompt_ko":"> RepoMap으로 호출 경로 추적","prompt_en":"> Trace callers via RepoMap","ctaHash":"00-before-you-start","officialUrl":"https://aider.chat/","officialLabel_ko":"공식","officialLabel_en":"Official","watermark":"AI101 codex"},"sections":[{"id":"00-before-you-start","order":0,"tier":"core","slug":"00-before-you-start","title_ko":"시작하기 전에","title_en":"Before you start","description_ko":"이 가이드는 누구를 위한 건지, 무엇을 배우는지","description_en":"000 index + axis map","file_ko":"ko/00-before-you-start.md","file_en":"en/00-before-you-start.md"},{"id":"01-corpus-spine","order":1,"tier":"developer","slug":"01-corpus-spine","title_ko":"코퍼스 읽기 지도 (000)","title_en":"Corpus spine (000)","description_ko":"navigation + canonical map","description_en":"navigation + canonical map","file_ko":"ko/01-corpus-spine.md","file_en":"en/01-corpus-spine.md"},{"id":"02-what-is-aider","order":2,"tier":"core","slug":"02-what-is-aider","title_ko":"Aider가 뭐예요?","title_en":"Harness at a glance","description_ko":"한 문장 정의와 비유로 이해하기","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/02-what-is-aider.md","file_en":"en/02-what-is-aider.md"},{"id":"03-install","order":3,"tier":"core","slug":"03-install","title_ko":"설치하고 준비하기","title_en":"Install & auth","description_ko":"설치 + API 키 준비 + 막힐 때 팁","description_en":"Install & auth","file_ko":"ko/03-install.md","file_en":"en/03-install.md"},{"id":"04-first-session","order":4,"tier":"core","slug":"04-first-session","title_ko":"첫 사용 5분","title_en":"First session","description_ko":"따라 하면 되는 첫 실습","description_en":"First session","file_ko":"ko/04-first-session.md","file_en":"en/04-first-session.md"},{"id":"05-workflow","order":5,"tier":"core","slug":"05-workflow","title_ko":"매일 이렇게 써요","title_en":"Agent workflow","description_ko":"실제 일상 사용 흐름과 비결","description_en":"Agent workflow","file_ko":"ko/05-workflow.md","file_en":"en/05-workflow.md"},{"id":"06-config","order":6,"tier":"core","slug":"06-config","title_ko":"설정하고, 더 배우기","title_en":"Config & models","description_ko":"내 입맛대로 설정 + 다음 단계 안내","description_en":"Config & models","file_ko":"ko/06-config.md","file_en":"en/06-config.md"},{"id":"07-overview-01","order":7,"tier":"developer","slug":"07-overview-01","title_ko":"1. 아키텍처","title_en":"Overview §1","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-01.md","file_en":"en/07-overview-01.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-02","order":8,"tier":"developer","slug":"07-overview-02","title_ko":"2. 코더 시스템","title_en":"Overview §2","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-02.md","file_en":"en/07-overview-02.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-03","order":9,"tier":"developer","slug":"07-overview-03","title_ko":"3. 프롬프트 시스템","title_en":"Overview §3","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-03.md","file_en":"en/07-overview-03.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-04","order":10,"tier":"developer","slug":"07-overview-04","title_ko":"4. TUI","title_en":"Overview §4","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-04.md","file_en":"en/07-overview-04.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-05","order":11,"tier":"developer","slug":"07-overview-05","title_ko":"5. 커맨드 시스템","title_en":"Overview §5","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-05.md","file_en":"en/07-overview-05.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-06","order":12,"tier":"developer","slug":"07-overview-06","title_ko":"6. 모델 관리","title_en":"Overview §6","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-06.md","file_en":"en/07-overview-06.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-07","order":13,"tier":"developer","slug":"07-overview-07","title_ko":"7. Git 통합","title_en":"Overview §7","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-07.md","file_en":"en/07-overview-07.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-08","order":14,"tier":"developer","slug":"07-overview-08","title_ko":"8. Watch 모드","title_en":"Overview §8","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-08.md","file_en":"en/07-overview-08.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-09","order":15,"tier":"developer","slug":"07-overview-09","title_ko":"9. 음성 입력","title_en":"Overview §9","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-09.md","file_en":"en/07-overview-09.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-10","order":16,"tier":"developer","slug":"07-overview-10","title_ko":"10. 설정 시스템","title_en":"Overview §10","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-10.md","file_en":"en/07-overview-10.md","badge":"DEV","badge_en":"DEV"},{"id":"07-overview-11","order":17,"tier":"developer","slug":"07-overview-11","title_ko":"11. 린트/테스트 통합","title_en":"Overview §11","description_ko":"000_overview/00_ai_overview.md","description_en":"000_overview/00_ai_overview.md","file_ko":"ko/07-overview-11.md","file_en":"en/07-overview-11.md","badge":"DEV","badge_en":"DEV"},{"id":"20-axis-01-tui","order":18,"tier":"deep","slug":"20-axis-01-tui","title_ko":"축 01: TUI 설계","title_en":"Axis 01: TUI design","description_ko":"001_tui-design/01_ai_tui.md","description_en":"001_tui-design/01_ai_tui.md","file_ko":"ko/20-axis-01-tui.md","file_en":"en/20-axis-01-tui.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-02-prompt","order":19,"tier":"deep","slug":"20-axis-02-prompt","title_ko":"축 02: 프롬프트·컨텍스트","title_en":"Axis 02: Prompt & context","description_ko":"002_prompt-context/02_ai_prompt.md","description_en":"002_prompt-context/02_ai_prompt.md","file_ko":"ko/20-axis-02-prompt.md","file_en":"en/20-axis-02-prompt.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-03-tool","order":20,"tier":"deep","slug":"20-axis-03-tool","title_ko":"축 03: 도구 런타임","title_en":"Axis 03: Tool runtime","description_ko":"003_tool-runtime/03_ai_tool.md","description_en":"003_tool-runtime/03_ai_tool.md","file_ko":"ko/20-axis-03-tool.md","file_en":"en/20-axis-03-tool.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-04-skill","order":21,"tier":"deep","slug":"20-axis-04-skill","title_ko":"축 04: 스킬 시스템","title_en":"Axis 04: Skill system","description_ko":"004_skill-system/04_ai_skill.md","description_en":"004_skill-system/04_ai_skill.md","file_ko":"ko/20-axis-04-skill.md","file_en":"en/20-axis-04-skill.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-05-subagent","order":22,"tier":"deep","slug":"20-axis-05-subagent","title_ko":"축 05: 서브에이전트","title_en":"Axis 05: Subagents","description_ko":"005_subagents-collab/05_ai_subagent.md","description_en":"005_subagents-collab/05_ai_subagent.md","file_ko":"ko/20-axis-05-subagent.md","file_en":"en/20-axis-05-subagent.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-06-surface","order":23,"tier":"deep","slug":"20-axis-06-surface","title_ko":"축 06: 앱·서버 표면","title_en":"Axis 06: App surfaces","description_ko":"006_app-server-client-surfaces/06_ai_surface.md","description_en":"006_app-server-client-surfaces/06_ai_surface.md","file_ko":"ko/20-axis-06-surface.md","file_en":"en/20-axis-06-surface.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-07-sandbox","order":24,"tier":"deep","slug":"20-axis-07-sandbox","title_ko":"축 07: 샌드박스·정책","title_en":"Axis 07: Sandbox & policy","description_ko":"007_sandbox-exec-policy/07_ai_sandbox.md","description_en":"007_sandbox-exec-policy/07_ai_sandbox.md","file_ko":"ko/20-axis-07-sandbox.md","file_en":"en/20-axis-07-sandbox.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-08-config","order":25,"tier":"deep","slug":"20-axis-08-config","title_ko":"축 08: 설정 시스템","title_en":"Axis 08: Config system","description_ko":"008_config-system/08_ai_config.md","description_en":"008_config-system/08_ai_config.md","file_ko":"ko/20-axis-08-config.md","file_en":"en/20-axis-08-config.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-09-mcp","order":26,"tier":"deep","slug":"20-axis-09-mcp","title_ko":"축 09: MCP 오케스트레이션","title_en":"Axis 09: MCP orchestration","description_ko":"009_mcp-orchestration/09_ai_mcp.md","description_en":"009_mcp-orchestration/09_ai_mcp.md","file_ko":"ko/20-axis-09-mcp.md","file_en":"en/20-axis-09-mcp.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-10-memory","order":27,"tier":"deep","slug":"20-axis-10-memory","title_ko":"축 10: 메모리 파이프라인","title_en":"Axis 10: Memory pipeline","description_ko":"010_memory-pipeline/10_ai_memory.md","description_en":"010_memory-pipeline/10_ai_memory.md","file_ko":"ko/20-axis-10-memory.md","file_en":"en/20-axis-10-memory.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-11-plugin","order":28,"tier":"deep","slug":"20-axis-11-plugin","title_ko":"축 11: 플러그인 시스템","title_en":"Axis 11: Plugin system","description_ko":"011_plugin-system/11_ai_plugin.md","description_en":"011_plugin-system/11_ai_plugin.md","file_ko":"ko/20-axis-11-plugin.md","file_en":"en/20-axis-11-plugin.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-12-guardian","order":29,"tier":"deep","slug":"20-axis-12-guardian","title_ko":"축 12: 가디언·승인","title_en":"Axis 12: Guardian & approval","description_ko":"012_guardian-approval/12_ai_guardian.md","description_en":"012_guardian-approval/12_ai_guardian.md","file_ko":"ko/20-axis-12-guardian.md","file_en":"en/20-axis-12-guardian.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-13-etc","order":30,"tier":"deep","slug":"20-axis-13-etc","title_ko":"축 13: 기타","title_en":"Axis 13: Cross-cutting","description_ko":"013_etc/13_ai_etc.md","description_en":"013_etc/13_ai_etc.md","file_ko":"ko/20-axis-13-etc.md","file_en":"en/20-axis-13-etc.md","badge":"AXIS","badge_en":"AXIS"},{"id":"20-axis-14-web-search","order":31,"tier":"deep","slug":"20-axis-14-web-search","title_ko":"축 14: 웹 검색","title_en":"Axis 14: Web search","description_ko":"014_web-search/14_ai_web-search.md","description_en":"014_web-search/14_ai_web-search.md","file_ko":"ko/20-axis-14-web-search.md","file_en":"en/20-axis-14-web-search.md","badge":"AXIS","badge_en":"AXIS"},{"id":"25-reverse-engineering","order":32,"tier":"deep","slug":"25-reverse-engineering","title_ko":"역공학 (015)","title_en":"Reverse engineering (015)","description_ko":"015_reverse-engineering","description_en":"015_reverse-engineering","file_ko":"ko/25-reverse-engineering.md","file_en":"en/25-reverse-engineering.md","badge":"RE","badge_en":"RE"},{"id":"99-next-steps","order":33,"tier":"deep","slug":"99-next-steps","title_ko":"기술 참조 & 합성","title_en":"Technical reference","description_ko":"20-80 + grand synthesis","description_en":"scouting + synthesis","file_ko":"ko/99-next-steps.md","file_en":"en/99-next-steps.md"}],"children":["$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],["$L26"],"$L27"]}],"loading":null,"isPartial":false}
 29:Tef6,<h2>Overview</h2>
 <p><strong>Before you start</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
@@ -115,21 +115,21 @@ aider-install
 ---
 </code></pre>
 4:["$","$L28","00-before-you-start",{"id":"00-before-you-start","order":0,"tier":"core","title":"Before you start","description":"000 index + axis map","lang":"en","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$29"}}]}]
-2a:Tc408,<h2>Overview</h2>
+2a:Tb61c,<h2>Overview</h2>
 <p><strong>Corpus spine (000)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</li>
-<li>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</li>
-<li>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</li>
+<li>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</li>
+<li>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</li>
 <li>| Purpose | Path | Classification |</li>
-<li>| Root overview and synthesis | <code>/Users/jun/Developer/codex/000/</code> | <code>overview-index</code> |</li>
-<li>| Deep harness overview docs | <code>/Users/jun/Developer/codex/000_overview/</code> | <code>deep-overview</code> |</li>
-<li>| TUI design axis | <code>/Users/jun/Developer/codex/001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Prompt/context axis | <code>/Users/jun/Developer/codex/002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Tool/runtime axis | <code>/Users/jun/Developer/codex/003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Skill system axis | <code>/Users/jun/Developer/codex/004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| Subagents/collaboration axis | <code>/Users/jun/Developer/codex/005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
-<li>| App/server/client surfaces axis | <code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Root overview and synthesis | <code>000/</code> | <code>overview-index</code> |</li>
+<li>| Deep harness overview docs | <code>000_overview/</code> | <code>deep-overview</code> |</li>
+<li>| TUI design axis | <code>001_tui-design/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Prompt/context axis | <code>002_prompt-context/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Tool/runtime axis | <code>003_tool-runtime/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Skill system axis | <code>004_skill-system/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| Subagents/collaboration axis | <code>005_subagents-collab/</code> | <code>canonical-doc-axis</code> |</li>
+<li>| App/server/client surfaces axis | <code>006_app-server-client-surfaces/</code> | <code>canonical-doc-axis</code> |</li>
 </ul>
 <h2>Topics covered</h2>
 <ul>
@@ -322,8 +322,8 @@ def reply_completed(self):
 <h3><code>000/01_corpus_navigation_map.md</code></h3>
 <h1>Corpus Navigation Map</h1>
 <p>This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.</p>
-<p>For reversible old-to-new bucket proposals, see <code>/Users/jun/Developer/codex/000/02_corpus_move_candidates.md</code>.</p>
-<p>For the canonical relationship between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code>, see <code>/Users/jun/Developer/codex/000/03_overview_canonical_map.md</code>.</p>
+<p>For reversible old-to-new bucket proposals, see <code>000/02_corpus_move_candidates.md</code>.</p>
+<p>For the canonical relationship between <code>000/</code> and <code>000_overview/</code>, see <code>000/03_overview_canonical_map.md</code>.</p>
 <h2>Canonical Reading Spine</h2>
 <table>
 <thead>
@@ -336,87 +336,87 @@ def reply_completed(self):
 <tbody>
 <tr>
 <td>Root overview and synthesis</td>
-<td><code>/Users/jun/Developer/codex/000/</code></td>
+<td><code>000/</code></td>
 <td><code>overview-index</code></td>
 </tr>
 <tr>
 <td>Deep harness overview docs</td>
-<td><code>/Users/jun/Developer/codex/000_overview/</code></td>
+<td><code>000_overview/</code></td>
 <td><code>deep-overview</code></td>
 </tr>
 <tr>
 <td>TUI design axis</td>
-<td><code>/Users/jun/Developer/codex/001_tui-design/</code></td>
+<td><code>001_tui-design/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Prompt/context axis</td>
-<td><code>/Users/jun/Developer/codex/002_prompt-context/</code></td>
+<td><code>002_prompt-context/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Tool/runtime axis</td>
-<td><code>/Users/jun/Developer/codex/003_tool-runtime/</code></td>
+<td><code>003_tool-runtime/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Skill system axis</td>
-<td><code>/Users/jun/Developer/codex/004_skill-system/</code></td>
+<td><code>004_skill-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Subagents/collaboration axis</td>
-<td><code>/Users/jun/Developer/codex/005_subagents-collab/</code></td>
+<td><code>005_subagents-collab/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>App/server/client surfaces axis</td>
-<td><code>/Users/jun/Developer/codex/006_app-server-client-surfaces/</code></td>
+<td><code>006_app-server-client-surfaces/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Sandbox/exec/policy axis</td>
-<td><code>/Users/jun/Developer/codex/007_sandbox-exec-policy/</code></td>
+<td><code>007_sandbox-exec-policy/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Config system axis</td>
-<td><code>/Users/jun/Developer/codex/008_config-system/</code></td>
+<td><code>008_config-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>MCP orchestration axis</td>
-<td><code>/Users/jun/Developer/codex/009_mcp-orchestration/</code></td>
+<td><code>009_mcp-orchestration/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Memory pipeline axis</td>
-<td><code>/Users/jun/Developer/codex/010_memory-pipeline/</code></td>
+<td><code>010_memory-pipeline/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Plugin system axis</td>
-<td><code>/Users/jun/Developer/codex/011_plugin-system/</code></td>
+<td><code>011_plugin-system/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Guardian/approval axis</td>
-<td><code>/Users/jun/Developer/codex/012_guardian-approval/</code></td>
+<td><code>012_guardian-approval/</code></td>
 <td><code>canonical-doc-axis</code></td>
 </tr>
 <tr>
 <td>Cross-cutting notes</td>
-<td><code>/Users/jun/Developer/codex/013_etc/</code></td>
+<td><code>013_etc/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Web search notes</td>
-<td><code>/Users/jun/Developer/codex/014_web-search/</code></td>
+<td><code>014_web-search/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 <tr>
 <td>Reverse engineering notes</td>
-<td><code>/Users/jun/Developer/codex/015_reverse-engineering/</code></td>
+<td><code>015_reverse-engineering/</code></td>
 <td><code>supporting-docs</code></td>
 </tr>
 </tbody>
@@ -432,122 +432,122 @@ def reply_completed(self):
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/120_codex-cli/</code></td>
+<td><code>120_codex-cli/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/121_openai-codex/</code></td>
+<td><code>121_openai-codex/</code></td>
 <td><code>reference-repo</code>, <code>codex-rs-source</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/</code></td>
+<td><code>110_aider/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/130_gemini-cli/</code></td>
+<td><code>130_gemini-cli/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/140_opencode/</code></td>
+<td><code>140_opencode/</code></td>
 <td><code>reference-repo</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/141_opencode-current/</code></td>
+<td><code>141_opencode-current/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/161_lazycodex/</code></td>
+<td><code>161_lazycodex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/160_hermes-agent/</code></td>
+<td><code>160_hermes-agent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/162_superpowers/</code></td>
+<td><code>162_superpowers/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/901_autoresearch/</code></td>
+<td><code>901_autoresearch/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/902_claude-usage-plugin/</code></td>
+<td><code>902_claude-usage-plugin/</code></td>
 <td><code>reference-repo</code>, <code>plugin-artifact</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/170_oh-my-claudecode/</code></td>
+<td><code>170_oh-my-claudecode/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/171_oh-my-codex/</code></td>
+<td><code>171_oh-my-codex/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/172_oh-my-openagent/</code></td>
+<td><code>172_oh-my-openagent/</code></td>
 <td><code>reference-repo</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/030_browser/</code></td>
+<td><code>030_browser/</code></td>
 <td><code>runtime-tooling</code>, <code>unmapped-gitlink</code></td>
 <td><code>blocked-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/023_computer_use/</code></td>
+<td><code>023_computer_use/</code></td>
 <td><code>runtime-tooling</code>, <code>contains-nested-gitlink</code></td>
 <td><code>blocked-nested-gitlink</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/150_claude_code/</code></td>
+<td><code>150_claude_code/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/151_copilot_cli/</code></td>
+<td><code>151_copilot_cli/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/152_antigravity/</code></td>
+<td><code>152_antigravity/</code></td>
 <td><code>reverse-engineering-artifact</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
+<td><code>analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-evidence</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
+<td><code>analysis-artifacts/reverse-engineering/w3_small_deob.mjs</code></td>
 <td><code>binary-or-package-artifact</code>, <code>reverse-engineering-tooling</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_025.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
+<td><code>analysis-artifacts/migration-tooling/_rename_bootstrap.sed</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py</code></td>
+<td><code>analysis-artifacts/migration-tooling/rename_012.py</code></td>
 <td><code>migration-tooling</code>, <code>legacy-rename-script</code></td>
 <td><code>index-only</code></td>
 </tr>
@@ -587,7 +587,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -596,26 +596,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -701,7 +701,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -711,7 +711,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -924,60 +924,60 @@ def format_chat_chunks(self):
 
 This repository is a comparative research corpus for coding agents and harnesses. Use this map to decide where to read first without physically moving existing data.
 
-For reversible old-to-new bucket proposals, see `/Users/jun/Developer/codex/000/02_corpus_move_candidates.md`.
+For reversible old-to-new bucket proposals, see `000/02_corpus_move_candidates.md`.
 
-For the canonical relationship between `/Users/jun/Developer/codex/000/` and `/Users/jun/Developer/codex/000_overview/`, see `/Users/jun/Developer/codex/000/03_overview_canonical_map.md`.
+For the canonical relationship between `000/` and `000_overview/`, see `000/03_overview_canonical_map.md`.
 
 ## Canonical Reading Spine
 
 | Purpose | Path | Classification |
 | --- | --- | --- |
-| Root overview and synthesis | `/Users/jun/Developer/codex/000/` | `overview-index` |
-| Deep harness overview docs | `/Users/jun/Developer/codex/000_overview/` | `deep-overview` |
-| TUI design axis | `/Users/jun/Developer/codex/001_tui-design/` | `canonical-doc-axis` |
-| Prompt/context axis | `/Users/jun/Developer/codex/002_prompt-context/` | `canonical-doc-axis` |
-| Tool/runtime axis | `/Users/jun/Developer/codex/003_tool-runtime/` | `canonical-doc-axis` |
-| Skill system axis | `/Users/jun/Developer/codex/004_skill-system/` | `canonical-doc-axis` |
-| Subagents/collaboration axis | `/Users/jun/Developer/codex/005_subagents-collab/` | `canonical-doc-axis` |
-| App/server/client surfaces axis | `/Users/jun/Developer/codex/006_app-server-client-surfaces/` | `canonical-doc-axis` |
-| Sandbox/exec/policy axis | `/Users/jun/Developer/codex/007_sandbox-exec-policy/` | `canonical-doc-axis` |
-| Config system axis | `/Users/jun/Developer/codex/008_config-system/` | `canonical-doc-axis` |
-| MCP orchestration axis | `/Users/jun/Developer/codex/009_mcp-orchestration/` | `canonical-doc-axis` |
-| Memory pipeline axis | `/Users/jun/Developer/codex/010_memory-pipeline/` | `canonical-doc-axis` |
-| Plugin system axis | `/Users/jun/Developer/codex/011_plugin-system/` | `canonical-doc-axis` |
-| Guardian/approval axis | `/Users/jun/Developer/codex/012_guardian-approval/` | `canonical-doc-axis` |
-| Cross-cutting notes | `/Users/jun/Developer/codex/013_etc/` | `supporting-docs` |
-| Web search notes | `/Users/jun/Developer/codex/014_web-search/` | `supporting-docs` |
-| Reverse engineering notes | `/Users/jun/Developer/codex/015_reverse-engineering/` | `supporting-docs` |
+| Root overview and synthesis | `000/` | `overview-index` |
+| Deep harness overview docs | `000_overview/` | `deep-overview` |
+| TUI design axis | `001_tui-design/` | `canonical-doc-axis` |
+| Prompt/context axis | `002_prompt-context/` | `canonical-doc-axis` |
+| Tool/runtime axis | `003_tool-runtime/` | `canonical-doc-axis` |
+| Skill system axis | `004_skill-system/` | `canonical-doc-axis` |
+| Subagents/collaboration axis | `005_subagents-collab/` | `canonical-doc-axis` |
+| App/server/client surfaces axis | `006_app-server-client-surfaces/` | `canonical-doc-axis` |
+| Sandbox/exec/policy axis | `007_sandbox-exec-policy/` | `canonical-doc-axis` |
+| Config system axis | `008_config-system/` | `canonical-doc-axis` |
+| MCP orchestration axis | `009_mcp-orchestration/` | `canonical-doc-axis` |
+| Memory pipeline axis | `010_memory-pipeline/` | `canonical-doc-axis` |
+| Plugin system axis | `011_plugin-system/` | `canonical-doc-axis` |
+| Guardian/approval axis | `012_guardian-approval/` | `canonical-doc-axis` |
+| Cross-cutting notes | `013_etc/` | `supporting-docs` |
+| Web search notes | `014_web-search/` | `supporting-docs` |
+| Reverse engineering notes | `015_reverse-engineering/` | `supporting-docs` |
 
 ## Reference Repositories and Artifact Sets
 
 | Current Path | Classification | First-Cycle Status |
 | --- | --- | --- |
-| `/Users/jun/Developer/codex/120_codex-cli/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/121_openai-codex/` | `reference-repo`, `codex-rs-source` | `index-only` |
-| `/Users/jun/Developer/codex/110_aider/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/130_gemini-cli/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/140_opencode/` | `reference-repo` | `index-only` |
-| `/Users/jun/Developer/codex/141_opencode-current/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/161_lazycodex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/160_hermes-agent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/162_superpowers/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/901_autoresearch/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/902_claude-usage-plugin/` | `reference-repo`, `plugin-artifact`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/170_oh-my-claudecode/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/171_oh-my-codex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/172_oh-my-openagent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/030_browser/` | `runtime-tooling`, `unmapped-gitlink` | `blocked-gitlink` |
-| `/Users/jun/Developer/codex/023_computer_use/` | `runtime-tooling`, `contains-nested-gitlink` | `blocked-nested-gitlink` |
-| `/Users/jun/Developer/codex/150_claude_code/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/151_copilot_cli/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/152_antigravity/` | `reverse-engineering-artifact` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt` | `binary-or-package-artifact`, `reverse-engineering-evidence` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/reverse-engineering/w3_small_deob.mjs` | `binary-or-package-artifact`, `reverse-engineering-tooling` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_025.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/_rename_bootstrap.sed` | `migration-tooling`, `legacy-rename-script` | `index-only` |
-| `/Users/jun/Developer/codex/analysis-artifacts/migration-tooling/rename_012.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
+| `120_codex-cli/` | `reference-repo`, `codex-rs-source` | `index-only` |
+| `121_openai-codex/` | `reference-repo`, `codex-rs-source` | `index-only` |
+| `110_aider/` | `reference-repo` | `index-only` |
+| `130_gemini-cli/` | `reference-repo` | `index-only` |
+| `140_opencode/` | `reference-repo` | `index-only` |
+| `141_opencode-current/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
+| `161_lazycodex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
+| `160_hermes-agent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
+| `162_superpowers/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
+| `901_autoresearch/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
+| `902_claude-usage-plugin/` | `reference-repo`, `plugin-artifact`, `unmapped-gitlink` | `blocked-gitlink` |
+| `170_oh-my-claudecode/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
+| `171_oh-my-codex/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
+| `172_oh-my-openagent/` | `reference-repo`, `unmapped-gitlink` | `blocked-gitlink` |
+| `030_browser/` | `runtime-tooling`, `unmapped-gitlink` | `blocked-gitlink` |
+| `023_computer_use/` | `runtime-tooling`, `contains-nested-gitlink` | `blocked-nested-gitlink` |
+| `150_claude_code/` | `reverse-engineering-artifact` | `index-only` |
+| `151_copilot_cli/` | `reverse-engineering-artifact` | `index-only` |
+| `152_antigravity/` | `reverse-engineering-artifact` | `index-only` |
+| `analysis-artifacts/reverse-engineering/deob_batch_10_paths.txt` | `binary-or-package-artifact`, `reverse-engineering-evidence` | `index-only` |
+| `analysis-artifacts/reverse-engineering/w3_small_deob.mjs` | `binary-or-package-artifact`, `reverse-engineering-tooling` | `index-only` |
+| `analysis-artifacts/migration-tooling/_rename_025.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
+| `analysis-artifacts/migration-tooling/_rename_bootstrap.sed` | `migration-tooling`, `legacy-rename-script` | `index-only` |
+| `analysis-artifacts/migration-tooling/rename_012.py` | `migration-tooling`, `legacy-rename-script` | `index-only` |
 
 ## Proposed Future Buckets
 
@@ -1016,7 +1016,7 @@ docs/
 </thead>
 <tbody>
 <tr>
-<td>`/Users/jun/Developer/codex/.agen</td>
+<td>`.agen</td>
 <td></td>
 <td></td>
 </tr>
@@ -1025,26 +1025,26 @@ docs/
 <hr>
 <h3><code>000/03_overview_canonical_map.md</code></h3>
 <h1>Overview Canonical Map</h1>
-<p>This map resolves the apparent duplication between <code>/Users/jun/Developer/codex/000/</code> and <code>/Users/jun/Developer/codex/000_overview/</code> without deleting or moving files.</p>
+<p>This map resolves the apparent duplication between <code>000/</code> and <code>000_overview/</code> without deleting or moving files.</p>
 <h2>Canonical Rule</h2>
 <ul>
-<li><code>/Users/jun/Developer/codex/000/</code> is the root overview index and short-entry reading spine.</li>
-<li><code>/Users/jun/Developer/codex/000_overview/</code> is the deep overview source set.</li>
+<li><code>000/</code> is the root overview index and short-entry reading spine.</li>
+<li><code>000_overview/</code> is the deep overview source set.</li>
 <li>If the same filename exists in both folders and content differs, keep both:
 <ul>
-<li>read <code>/Users/jun/Developer/codex/000/&#x3C;name></code> first for orientation,</li>
-<li>read <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> for detailed analysis.</li>
+<li>read <code>000/&#x3C;name></code> first for orientation,</li>
+<li>read <code>000_overview/&#x3C;name></code> for detailed analysis.</li>
 </ul>
 </li>
-<li>If content is identical, treat <code>/Users/jun/Developer/codex/000/&#x3C;name></code> as the navigation copy and <code>/Users/jun/Developer/codex/000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
+<li>If content is identical, treat <code>000/&#x3C;name></code> as the navigation copy and <code>000_overview/&#x3C;name></code> as the deep-overview location until a later link audit decides whether deduplication is safe.</li>
 </ul>
 <h2>Paired Overview Files</h2>
 <table>
 <thead>
 <tr>
 <th>Filename</th>
-<th align="right"><code>/Users/jun/Developer/codex/000_overview/</code> bytes</th>
-<th align="right"><code>/Users/jun/Developer/codex/000/</code> bytes</th>
+<th align="right"><code>000_overview/</code> bytes</th>
+<th align="right"><code>000/</code> bytes</th>
 <th>Equal</th>
 <th>Rule</th>
 </tr>
@@ -1130,7 +1130,7 @@ docs/
 </tbody>
 </table>
 <h2>Deep-Overview Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000_overview/</code> without same-name files under <code>/Users/jun/Developer/codex/000/</code>:</p>
+<p>These exist under <code>000_overview/</code> without same-name files under <code>000/</code>:</p>
 <pre><code class="language-text">00_hermes_overview.md
 00_lc_overview.md
 00_newharness_vs_cli-jaw_synthesis.md
@@ -1140,7 +1140,7 @@ docs/
 00_sp_overview.md
 </code></pre>
 <h2>Index-Only Files</h2>
-<p>These exist under <code>/Users/jun/Developer/codex/000/</code> without same-name files under <code>/Users/jun/Developer/codex/000_overview/</code>:</p>
+<p>These exist under <code>000/</code> without same-name files under <code>000_overview/</code>:</p>
 <pre><code class="language-text">00_grand_synthesis.md
 00_harness-index.md
 00_harness-index_hermes.md
@@ -3737,12 +3737,12 @@ aider-install
 ---
 </code></pre>
 15:["$","$L28","07-overview-11",{"id":"07-overview-11","order":17,"tier":"developer","title":"Overview §11","description":"000_overview/00_ai_overview.md","lang":"en","badge":"DEV","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3a"}}]}]
-3b:T17c8d,<h2>Overview</h2>
+3b:T17c3c,<h2>Overview</h2>
 <p><strong>Axis 01: TUI design</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/110_aider/</code> (Python source).</p>
+<p><strong>분석 스냅샷</strong>: <code>110_aider/</code> (Python source).</p>
 </blockquote>
 </li>
 <li>Aider의 터미널 인터페이스는 풀스크린 TUI가 아니라 전통적인 REPL-스타일 CLI다. 핵심은 <code>io.py</code>의 <code>InputOutput</code> 클래스 하나에 입력·출력·히스토리·색상·알림이 전부 응축되어 있다는 점이다. <code>prompt_toolkit</code>이 입력 편집과 자동완성을, <code>rich</code>가 마크다운 렌더링과 스타일 출력을, <code>pygments</code>가 문법 하이라이팅을 담당하며, 세 라이브러리의 접합면이 <code>InputOutput</code> 안에서</li>
@@ -4091,7 +4091,7 @@ if self.clipboard_watcher:
 <h2>Main analysis</h2>
 <h1>Aider TUI/CLI design analysis</h1>
 <blockquote>
-<p><strong>Analysis Snapshot</strong>: <code>/Users/jun/Developer/codex/110_aider/</code> (Python source).</p>
+<p><strong>Analysis Snapshot</strong>: <code>110_aider/</code> (Python source).</p>
 </blockquote>
 <p>Aider's terminal interface is not a full-screen TUI, but a traditional REPL-style CLI. The key is that input, output, history, color, and notification are all condensed into one <code>InputOutput</code> class in <code>io.py</code>. <code>prompt_toolkit</code> is responsible for input editing and autocompletion, <code>rich</code> is responsible for markdown rendering and style output, and <code>pygments</code> is responsible for syntax highlighting. The interfaces of the three libraries are mixed together in <code>InputOutput</code>.</p>
 <p>Aider does not use alt-screen or raw-mode. It is a line-mode CLI that utilizes the terminal scrollback buffer as is, and uses a hybrid strategy of briefly popping up the <code>rich.live.Live</code> window only during LLM response streaming and then flushing stable lines to the general console. This approach is simple, but at the cost of the <code>InputOutput</code> class becoming nearly 1,200 lines long.</p>
@@ -5077,7 +5077,7 @@ Next document: [[02_ai_prompt]]</p>
 </blockquote>
 <h1>Aider TUI/CLI 설계 분석</h1>
 <blockquote>
-<p><strong>분석 스냅샷</strong>: <code>/Users/jun/Developer/codex/110_aider/</code> (Python source).</p>
+<p><strong>분석 스냅샷</strong>: <code>110_aider/</code> (Python source).</p>
 </blockquote>
 <p>Aider의 터미널 인터페이스는 풀스크린 TUI가 아니라 전통적인 REPL-스타일 CLI다. 핵심은 <code>io.py</code>의 <code>InputOutput</code> 클래스 하나에 입력·출력·히스토리·색상·알림이 전부 응축되어 있다는 점이다. <code>prompt_toolkit</code>이 입력 편집과 자동완성을, <code>rich</code>가 마크다운 렌더링과 스타일 출력을, <code>pygments</code>가 문법 하이라이팅을 담당하며, 세 라이브러리의 접합면이 <code>InputOutput</code> 안에서 한데 섞인다.</p>
 <p>Aider는 alt-screen이나 raw-mode를 쓰지 않는다. 터미널 스크롤백 버퍼를 그대로 활용하는 line-mode CLI이고, LLM 응답 스트리밍 중에만 <code>rich.live.Live</code> 윈도우를 잠시 띄웠다가 안정된 라인은 일반 콘솔로 flush하는 하이브리드 전략을 쓴다. 이 접근은 단순하지만, <code>InputOutput</code> 클래스가 1,200줄 가까이 비대해진 대가를 치르고 있다.</p>
@@ -23103,11 +23103,11 @@ def confirm_ask(
 </tbody>
 </table>
 21:["$","$L28","20-axis-12-guardian",{"id":"20-axis-12-guardian","order":29,"tier":"deep","title":"Axis 12: Guardian & approval","description":"012_guardian-approval/12_ai_guardian.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$46"}}]}]
-47:T2026b,<h2>Overview</h2>
+47:T1fa16,<h2>Overview</h2>
 <p><strong>Axis 13: Cross-cutting</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>Aider는 dimensions 01-12 (TUI, Prompt, Tool, Skill, Subagent, Surface, Sandbox, Config, MCP, Memory, Plugin, Guardian)에 포함되지 않는 고유한 교차 관심사들을 다수 보유하고 있다. 특히 <strong>Git/VCS 통합</strong>과 <strong>Coder 전략 다양성</strong>은 Aider를 다른 AI 코딩 에이전트와 차별화하는 핵심 강점이다.</li>
-<li><strong>분석 대상 소스:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/</code></li>
+<li><strong>분석 대상 소스:</strong> <code>110_aider/110_aider/</code></li>
 <li>├── repo.py          # Git 통합 핵심</li>
 <li>├── repomap.py       # Tree-sitter + PageRank 코드 맵</li>
 <li>├── models.py        # 모델 라우팅/프로바이더 추상화</li>
@@ -23930,7 +23930,7 @@ self.commit_language = commit_language # 커밋 메시지 언어
 <h1>Aider residual cross-interest analysis</h1>
 <h2>outline</h2>
 <p>Aider has many unique cross-cutting interests that are not included in dimensions 01-12 (TUI, Prompt, Tool, Skill, Subagent, Surface, Sandbox, Config, MCP, Memory, Plugin, Guardian). In particular, <strong>Git/VCS integration</strong> and <strong>Coder strategy diversity</strong> are key strengths that differentiate Aider from other AI coding agents.</p>
-<p><strong>Source for analysis:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/</code></p>
+<p><strong>Source for analysis:</strong> <code>110_aider/110_aider/</code></p>
 <pre><code>핵심 파일 맵:
 ├── repo.py          # Git 통합 핵심
 ├── repomap.py       # Tree-sitter + PageRank 코드 맵
@@ -23979,7 +23979,7 @@ self.commit_language = commit_language # 커밋 메시지 언어
     I --> P[토큰 예산 내 코드 맵]
 </code></pre>
 <h3>1.2 GitRepo class (<code>repo.py</code>)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/repo.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/repo.py</code></p>
 <p>Core features:</p>
 <ul>
 <li><strong>Multiple Git error handling</strong>: Comprehensively handles more than 10 errors including <code>OSError</code>, <code>IndexError</code>, <code>BufferError</code>, and <code>TypeError</code> in addition to <code>git.exc.*</code> with <code>ANY_GIT_ERROR</code> tuple.</li>
@@ -24071,7 +24071,7 @@ def get_commit_message(self, diffs, context, user_language=None):
             break
 </code></pre>
 <h3>1.3 RepoMap - Tree-sitter + PageRank (<code>repomap.py</code>)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/repomap.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/repomap.py</code></p>
 <p>This is Aider's most innovative technology. Select <strong>only code snippets relevant to the current conversation</strong> from the entire code base and include them in the LLM context.</p>
 <pre><code class="language-mermaid">graph LR
     A[소스 파일들] -->|Tree-sitter 파싱| B[Tag 추출]
@@ -24246,7 +24246,7 @@ def refresh_aider_ignore(self):
     J --> O
 </code></pre>
 <h3>2.2 LazyLiteLLM - Lazy Loading</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/llm.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/llm.py</code></p>
 <pre><code class="language-python"># llm.py - litellm import가 1.5초 걸리므로 지연 로딩
 class LazyLiteLLM:
     _lazy_module = None
@@ -24266,7 +24266,7 @@ class LazyLiteLLM:
         self._lazy_module.drop_params = True
 </code></pre>
 <h3>2.3 Model alias system</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/models.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/models.py</code></p>
 <pre><code class="language-python">MODEL_ALIASES = {
     "sonnet": "claude-sonnet-4-5",
     "haiku": "claude-haiku-4-5",
@@ -24300,7 +24300,7 @@ class ModelSettings:
     system_prompt_prefix: Optional[str] = None
     accepts_settings: Optional[list] = None  # thinking_tokens, reasoning_effort
 </code></pre>
-<p><strong>YAML Settings:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/resources/model-settings.yml</code> (2,955 lines) - Individual settings for hundreds of models.</p>
+<p><strong>YAML Settings:</strong> <code>110_aider/110_aider/resources/model-settings.yml</code> (2,955 lines) - Individual settings for hundreds of models.</p>
 <h3>2.5 3-Model Architecture</h3>
 <table>
 <thead>
@@ -24359,7 +24359,7 @@ class ModelSettings:
 <hr>
 <h2>3. Error handling/recovery pattern</h2>
 <h3>3.1 LiteLLM exception classification system</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/exceptions.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/exceptions.py</code></p>
 <pre><code class="language-python">EXCEPTIONS = [
     ExInfo("APIConnectionError", retry=True, description=None),
     ExInfo("AuthenticationError", retry=False,
@@ -24450,7 +24450,7 @@ def write_text(self, filename, content):
 <hr>
 <h2>4. Telemetry / Observability</h2>
 <h3>4.1 Analytics system</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/analytics.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/analytics.py</code></p>
 <pre><code class="language-mermaid">graph TD
     A[Analytics] --> B[PostHog]
     A --> C[Mixpanel - 비활성]
@@ -24497,7 +24497,7 @@ def write_text(self, filename, content):
 <hr>
 <h2>5. IDE integration</h2>
 <h3>5.1 File Watcher (<code>watch.py</code>)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/watch.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/watch.py</code></p>
 <p>It uses the <code>watchfiles</code> library to detect file changes in real time and automatically processes changes containing AI comments (<code># AI:</code>, etc.).</p>
 <pre><code class="language-python"># watch.py - .gitignore 호환 패턴 무시
 patterns = [
@@ -24508,18 +24508,18 @@ patterns = [
 ]
 </code></pre>
 <h3>5.2 GUI (Streamlit)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/gui.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/gui.py</code></p>
 <p>Streamlit-based web GUI provided. Capture CLI output with <code>CaptureIO</code> and display it on the web.</p>
 <h3>5.3 Editor integration</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/editor.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/editor.py</code></p>
 <p>External editor integration through the <code>$EDITOR</code> environment variable. Can be edited in vim, emacs, VS Code, etc. and then delivered to AI.</p>
 <h3>5.4 Clipboard integration</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/copypaste.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/copypaste.py</code></p>
 <p>Support for automatic context passing via clipboard in <code>--copy-paste</code> mode.</p>
 <hr>
 <h2>6. Packaging/Distribution</h2>
 <h3>6.1 pyproject.toml-based packaging</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/pyproject.toml</code></p>
+<p><strong>File path:</strong> <code>110_aider/pyproject.toml</code></p>
 <pre><code class="language-toml">[project]
 name = "aider-chat"
 requires-python = ">=3.10,&#x3C;3.15"
@@ -24551,7 +24551,7 @@ playwright = { file = "requirements/requirements-playwright.txt" }
 <hr>
 <h2>7. Test infrastructure</h2>
 <h3>7.1 Test structure</h3>
-<p><strong>Test Directory:</strong> <code>/Users/jun/Developer/codex/110_aider/tests/basic/</code></p>
+<p><strong>Test Directory:</strong> <code>110_aider/tests/basic/</code></p>
 <pre><code>tests/basic/
 ├── test_analytics.py         # 텔레메트리 테스트
 ├── test_coder.py             # 핵심 Coder 로직
@@ -24571,7 +24571,7 @@ playwright = { file = "requirements/requirements-playwright.txt" }
 └── test_scripting.py         # 스크립팅 API
 </code></pre>
 <h3>7.2 Benchmark Suite</h3>
-<p><strong>Benchmark directory:</strong> <code>/Users/jun/Developer/codex/110_aider/benchmark/</code></p>
+<p><strong>Benchmark directory:</strong> <code>110_aider/benchmark/</code></p>
 <pre><code class="language-python"># benchmark/benchmark.py - Exercism 기반 polyglot 벤치마크
 BENCHMARK_DNAME = Path(os.environ.get("AIDER_BENCHMARK_DIR", "tmp.benchmarks"))
 EXERCISES_DIR_DEFAULT = "polyglot-benchmark"
@@ -24585,7 +24585,7 @@ EXERCISES_DIR_DEFAULT = "polyglot-benchmark"
 <hr>
 <h2>8. Authentication/API key management</h2>
 <h3>8.1 Automatic model selection (based on API key)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/onboarding.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/onboarding.py</code></p>
 <pre><code class="language-python">def try_to_select_default_model():
     # 우선순위 기반 자동 선택
     model_key_pairs = [
@@ -24633,7 +24633,7 @@ def exchange_code_for_key(code, code_verifier, io):
 <hr>
 <h2>9. Voice / Multimodal</h2>
 <h3>9.1 Voice input (<code>voice.py</code>)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/voice.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/voice.py</code></p>
 <pre><code class="language-mermaid">graph LR
     A[마이크 입력] -->|sounddevice| B[WAV 녹음]
     B --> C{파일 크기 > 24.9MB?}
@@ -24668,7 +24668,7 @@ def exchange_code_for_key(code, code_verifier, io):
 <li><strong>Multilingual support</strong>: hint transcription language with <code>language</code> parameter</li>
 </ul>
 <h3>9.2 Image/PDF Support</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/base_coder.py</code> (lines 817-857)</p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/coders/base_coder.py</code> (lines 817-857)</p>
 <pre><code class="language-python">def get_images_message(self, fnames):
     supports_images = self.main_model.info.get("supports_vision")
     supports_pdfs = self.main_model.info.get("supports_pdf_input")
@@ -24692,7 +24692,7 @@ def exchange_code_for_key(code, code_verifier, io):
 <hr>
 <h2>10. Coder Strategy Diversity (Core Strength)</h2>
 <h3>10.1 Full Coder Hierarchy</h3>
-<p><strong>Directory:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/</code></p>
+<p><strong>Directory:</strong> <code>110_aider/110_aider/coders/</code></p>
 <pre><code class="language-mermaid">graph TD
     A[Coder - base_coder.py] --> B[AskCoder]
     A --> C[EditBlockCoder]
@@ -24808,7 +24808,7 @@ def exchange_code_for_key(code, code_verifier, io):
 </tbody>
 </table>
 <h3>10.3 EditBlock strategy (most widely used)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/editblock_coder.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/coders/editblock_coder.py</code></p>
 <pre><code class="language-python">class EditBlockCoder(Coder):
     edit_format = "diff"
 
@@ -24828,7 +24828,7 @@ def exchange_code_for_key(code, code_verifier, io):
                         break
 </code></pre>
 <h3>10.4 SearchReplace - Fuzzy matching engine</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/search_replace.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/coders/search_replace.py</code></p>
 <p>The <code>RelativeIndenter</code> class is key: it normalizes indentation differences, making it possible to match code blocks with different indentations.</p>
 <pre><code># 원본:
         Foo
@@ -24841,7 +24841,7 @@ def exchange_code_for_key(code, code_verifier, io):
 Baz           # 이전 줄과 동일
 </code></pre>
 <h3>10.5 Patch Strategy (Structural Patch)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/patch_coder.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/coders/patch_coder.py</code></p>
 <pre><code class="language-python">class ActionType(str, Enum):
     ADD = "Add"
     DELETE = "Delete"
@@ -24862,7 +24862,7 @@ def find_context_core(lines, context, start):
     # 3. strip 매칭 (fuzz=100) - 모든 공백 무시
 </code></pre>
 <h3>10.6 Architect Strategy (2-stage pipeline)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/architect_coder.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/coders/architect_coder.py</code></p>
 <pre><code class="language-python">class ArchitectCoder(AskCoder):
     edit_format = "architect"
 
@@ -24891,7 +24891,7 @@ def find_context_core(lines, context, start):
 [Editor 모델: 실제 코드 편집] → 자동 커밋
 </code></pre>
 <h3>10.7 Context Coder (file selection only)</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/context_coder.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/coders/context_coder.py</code></p>
 <pre><code class="language-python">class ContextCoder(Coder):
     """파일 편집 없이, 어떤 파일이 편집 대상인지만 식별"""
     edit_format = "context"
@@ -24922,7 +24922,7 @@ max_reflections = 3
 <hr>
 <h2>11. Linting / Auto-fix</h2>
 <h3>11.1 Linter class</h3>
-<p><strong>File path:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/linter.py</code></p>
+<p><strong>File path:</strong> <code>110_aider/110_aider/linter.py</code></p>
 <pre><code class="language-mermaid">graph TD
     A[편집 완료] --> B{auto_lint 활성?}
     B -->|Yes| C[변경된 파일 lint]
@@ -25015,72 +25015,72 @@ self.commit_language = commit_language # 커밋 메시지 언어
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/repo.py</code></td>
+<td><code>110_aider/110_aider/repo.py</code></td>
 <td>Git integration core</td>
 <td>623</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/repomap.py</code></td>
+<td><code>110_aider/110_aider/repomap.py</code></td>
 <td>Tree-sitter+PageRank code map</td>
 <td>868</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/models.py</code></td>
+<td><code>110_aider/110_aider/models.py</code></td>
 <td>model routing</td>
 <td>1100+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/coders/base_coder.py</code></td>
+<td><code>110_aider/110_aider/coders/base_coder.py</code></td>
 <td>Coder based class</td>
 <td>1660+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/coders/editblock_coder.py</code></td>
+<td><code>110_aider/110_aider/coders/editblock_coder.py</code></td>
 <td>EditBlock Strategy</td>
 <td>600+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/coders/architect_coder.py</code></td>
+<td><code>110_aider/110_aider/coders/architect_coder.py</code></td>
 <td>Architect Strategy</td>
 <td>49</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/coders/patch_coder.py</code></td>
+<td><code>110_aider/110_aider/coders/patch_coder.py</code></td>
 <td>Patch Strategy</td>
 <td>400+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/exceptions.py</code></td>
+<td><code>110_aider/110_aider/exceptions.py</code></td>
 <td>Error classification</td>
 <td>114</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/analytics.py</code></td>
+<td><code>110_aider/110_aider/analytics.py</code></td>
 <td>telemetry</td>
 <td>259</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/voice.py</code></td>
+<td><code>110_aider/110_aider/voice.py</code></td>
 <td>voice input</td>
 <td>188</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/linter.py</code></td>
+<td><code>110_aider/110_aider/linter.py</code></td>
 <td>Lint integration</td>
 <td>199</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/llm.py</code></td>
+<td><code>110_aider/110_aider/llm.py</code></td>
 <td>LiteLLM lazy loading</td>
 <td>48</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/onboarding.py</code></td>
+<td><code>110_aider/110_aider/onboarding.py</code></td>
 <td>OAuth/Key Management</td>
 <td>250+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/resources/model-settings.yml</code></td>
+<td><code>110_aider/110_aider/resources/model-settings.yml</code></td>
 <td>Settings by model</td>
 <td>2,955</td>
 </tr>
@@ -25212,7 +25212,7 @@ self.commit_language = commit_language # 커밋 메시지 언어
 <h1>Aider 잔여 교차 관심사 분석</h1>
 <h2>개요</h2>
 <p>Aider는 dimensions 01-12 (TUI, Prompt, Tool, Skill, Subagent, Surface, Sandbox, Config, MCP, Memory, Plugin, Guardian)에 포함되지 않는 고유한 교차 관심사들을 다수 보유하고 있다. 특히 <strong>Git/VCS 통합</strong>과 <strong>Coder 전략 다양성</strong>은 Aider를 다른 AI 코딩 에이전트와 차별화하는 핵심 강점이다.</p>
-<p><strong>분석 대상 소스:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/</code></p>
+<p><strong>분석 대상 소스:</strong> <code>110_aider/110_aider/</code></p>
 <pre><code>핵심 파일 맵:
 ├── repo.py          # Git 통합 핵심
 ├── repomap.py       # Tree-sitter + PageRank 코드 맵
@@ -25261,7 +25261,7 @@ self.commit_language = commit_language # 커밋 메시지 언어
     I --> P[토큰 예산 내 코드 맵]
 </code></pre>
 <h3>1.2 GitRepo 클래스 (<code>repo.py</code>)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/repo.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/repo.py</code></p>
 <p>핵심 기능:</p>
 <ul>
 <li><strong>다중 Git 에러 처리</strong>: <code>ANY_GIT_ERROR</code> 튜플로 <code>git.exc.*</code> 외에 <code>OSError</code>, <code>IndexError</code>, <code>BufferError</code>, <code>TypeError</code> 등 10가지 이상의 에러를 포괄적으로 처리</li>
@@ -25353,7 +25353,7 @@ def get_commit_message(self, diffs, context, user_language=None):
             break
 </code></pre>
 <h3>1.3 RepoMap - Tree-sitter + PageRank (<code>repomap.py</code>)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/repomap.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/repomap.py</code></p>
 <p>이것이 Aider의 가장 혁신적인 기술이다. 전체 코드베이스에서 <strong>현재 대화와 관련된 코드 조각만 선별</strong>하여 LLM 컨텍스트에 포함시킨다.</p>
 <pre><code class="language-mermaid">graph LR
     A[소스 파일들] -->|Tree-sitter 파싱| B[Tag 추출]
@@ -25528,7 +25528,7 @@ def refresh_aider_ignore(self):
     J --> O
 </code></pre>
 <h3>2.2 LazyLiteLLM - 지연 로딩</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/llm.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/llm.py</code></p>
 <pre><code class="language-python"># llm.py - litellm import가 1.5초 걸리므로 지연 로딩
 class LazyLiteLLM:
     _lazy_module = None
@@ -25548,7 +25548,7 @@ class LazyLiteLLM:
         self._lazy_module.drop_params = True
 </code></pre>
 <h3>2.3 모델 별칭 시스템</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/models.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/models.py</code></p>
 <pre><code class="language-python">MODEL_ALIASES = {
     "sonnet": "claude-sonnet-4-5",
     "haiku": "claude-haiku-4-5",
@@ -25582,7 +25582,7 @@ class ModelSettings:
     system_prompt_prefix: Optional[str] = None
     accepts_settings: Optional[list] = None  # thinking_tokens, reasoning_effort
 </code></pre>
-<p><strong>YAML 설정:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/resources/model-settings.yml</code> (2,955줄) - 수백 개 모델의 개별 설정</p>
+<p><strong>YAML 설정:</strong> <code>110_aider/110_aider/resources/model-settings.yml</code> (2,955줄) - 수백 개 모델의 개별 설정</p>
 <h3>2.5 3-모델 아키텍처</h3>
 <table>
 <thead>
@@ -25641,7 +25641,7 @@ class ModelSettings:
 <hr>
 <h2>3. 에러 처리 / 복구 패턴</h2>
 <h3>3.1 LiteLLM 예외 분류 체계</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/exceptions.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/exceptions.py</code></p>
 <pre><code class="language-python">EXCEPTIONS = [
     ExInfo("APIConnectionError", retry=True, description=None),
     ExInfo("AuthenticationError", retry=False,
@@ -25732,7 +25732,7 @@ def write_text(self, filename, content):
 <hr>
 <h2>4. 텔레메트리 / 관측성</h2>
 <h3>4.1 Analytics 시스템</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/analytics.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/analytics.py</code></p>
 <pre><code class="language-mermaid">graph TD
     A[Analytics] --> B[PostHog]
     A --> C[Mixpanel - 비활성]
@@ -25779,7 +25779,7 @@ def write_text(self, filename, content):
 <hr>
 <h2>5. IDE 통합</h2>
 <h3>5.1 파일 워처 (<code>watch.py</code>)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/watch.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/watch.py</code></p>
 <p><code>watchfiles</code> 라이브러리를 사용하여 파일 변경을 실시간 감지하고, AI 코멘트(<code># AI:</code> 등)가 포함된 변경을 자동으로 처리한다.</p>
 <pre><code class="language-python"># watch.py - .gitignore 호환 패턴 무시
 patterns = [
@@ -25790,18 +25790,18 @@ patterns = [
 ]
 </code></pre>
 <h3>5.2 GUI (Streamlit)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/gui.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/gui.py</code></p>
 <p>Streamlit 기반 웹 GUI 제공. <code>CaptureIO</code>로 CLI 출력을 캡처하여 웹에 표시.</p>
 <h3>5.3 에디터 통합</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/editor.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/editor.py</code></p>
 <p><code>$EDITOR</code> 환경변수를 통한 외부 에디터 통합. vim, emacs, VS Code 등에서 편집 후 AI에게 전달 가능.</p>
 <h3>5.4 클립보드 통합</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/copypaste.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/copypaste.py</code></p>
 <p><code>--copy-paste</code> 모드로 클립보드를 통한 자동 컨텍스트 전달 지원.</p>
 <hr>
 <h2>6. 패키징 / 배포</h2>
 <h3>6.1 pyproject.toml 기반 패키징</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/pyproject.toml</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/pyproject.toml</code></p>
 <pre><code class="language-toml">[project]
 name = "aider-chat"
 requires-python = ">=3.10,&#x3C;3.15"
@@ -25833,7 +25833,7 @@ playwright = { file = "requirements/requirements-playwright.txt" }
 <hr>
 <h2>7. 테스트 인프라</h2>
 <h3>7.1 테스트 구조</h3>
-<p><strong>테스트 디렉토리:</strong> <code>/Users/jun/Developer/codex/110_aider/tests/basic/</code></p>
+<p><strong>테스트 디렉토리:</strong> <code>110_aider/tests/basic/</code></p>
 <pre><code>tests/basic/
 ├── test_analytics.py         # 텔레메트리 테스트
 ├── test_coder.py             # 핵심 Coder 로직
@@ -25853,7 +25853,7 @@ playwright = { file = "requirements/requirements-playwright.txt" }
 └── test_scripting.py         # 스크립팅 API
 </code></pre>
 <h3>7.2 벤치마크 스위트</h3>
-<p><strong>벤치마크 디렉토리:</strong> <code>/Users/jun/Developer/codex/110_aider/benchmark/</code></p>
+<p><strong>벤치마크 디렉토리:</strong> <code>110_aider/benchmark/</code></p>
 <pre><code class="language-python"># benchmark/benchmark.py - Exercism 기반 polyglot 벤치마크
 BENCHMARK_DNAME = Path(os.environ.get("AIDER_BENCHMARK_DIR", "tmp.benchmarks"))
 EXERCISES_DIR_DEFAULT = "polyglot-benchmark"
@@ -25867,7 +25867,7 @@ EXERCISES_DIR_DEFAULT = "polyglot-benchmark"
 <hr>
 <h2>8. 인증 / API 키 관리</h2>
 <h3>8.1 자동 모델 선택 (API 키 기반)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/onboarding.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/onboarding.py</code></p>
 <pre><code class="language-python">def try_to_select_default_model():
     # 우선순위 기반 자동 선택
     model_key_pairs = [
@@ -25915,7 +25915,7 @@ def exchange_code_for_key(code, code_verifier, io):
 <hr>
 <h2>9. 음성 / 멀티모달</h2>
 <h3>9.1 음성 입력 (<code>voice.py</code>)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/voice.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/voice.py</code></p>
 <pre><code class="language-mermaid">graph LR
     A[마이크 입력] -->|sounddevice| B[WAV 녹음]
     B --> C{파일 크기 > 24.9MB?}
@@ -25950,7 +25950,7 @@ def exchange_code_for_key(code, code_verifier, io):
 <li><strong>다국어 지원</strong>: <code>language</code> 파라미터로 전사 언어 힌트</li>
 </ul>
 <h3>9.2 이미지/PDF 지원</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/base_coder.py</code> (라인 817-857)</p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/coders/base_coder.py</code> (라인 817-857)</p>
 <pre><code class="language-python">def get_images_message(self, fnames):
     supports_images = self.main_model.info.get("supports_vision")
     supports_pdfs = self.main_model.info.get("supports_pdf_input")
@@ -25974,7 +25974,7 @@ def exchange_code_for_key(code, code_verifier, io):
 <hr>
 <h2>10. Coder 전략 다양성 (핵심 강점)</h2>
 <h3>10.1 전체 Coder 계층 구조</h3>
-<p><strong>디렉토리:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/</code></p>
+<p><strong>디렉토리:</strong> <code>110_aider/110_aider/coders/</code></p>
 <pre><code class="language-mermaid">graph TD
     A[Coder - base_coder.py] --> B[AskCoder]
     A --> C[EditBlockCoder]
@@ -26090,7 +26090,7 @@ def exchange_code_for_key(code, code_verifier, io):
 </tbody>
 </table>
 <h3>10.3 EditBlock 전략 (가장 널리 사용)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/editblock_coder.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/coders/editblock_coder.py</code></p>
 <pre><code class="language-python">class EditBlockCoder(Coder):
     edit_format = "diff"
 
@@ -26110,7 +26110,7 @@ def exchange_code_for_key(code, code_verifier, io):
                         break
 </code></pre>
 <h3>10.4 SearchReplace - 퍼지 매칭 엔진</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/search_replace.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/coders/search_replace.py</code></p>
 <p><code>RelativeIndenter</code> 클래스가 핵심: 들여쓰기 차이를 정규화하여 들여쓰기가 다른 코드 블록도 매칭 가능하게 만든다.</p>
 <pre><code># 원본:
         Foo
@@ -26123,7 +26123,7 @@ def exchange_code_for_key(code, code_verifier, io):
 Baz           # 이전 줄과 동일
 </code></pre>
 <h3>10.5 Patch 전략 (구조적 패치)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/patch_coder.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/coders/patch_coder.py</code></p>
 <pre><code class="language-python">class ActionType(str, Enum):
     ADD = "Add"
     DELETE = "Delete"
@@ -26144,7 +26144,7 @@ def find_context_core(lines, context, start):
     # 3. strip 매칭 (fuzz=100) - 모든 공백 무시
 </code></pre>
 <h3>10.6 Architect 전략 (2단계 파이프라인)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/architect_coder.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/coders/architect_coder.py</code></p>
 <pre><code class="language-python">class ArchitectCoder(AskCoder):
     edit_format = "architect"
 
@@ -26173,7 +26173,7 @@ def find_context_core(lines, context, start):
 [Editor 모델: 실제 코드 편집] → 자동 커밋
 </code></pre>
 <h3>10.7 Context Coder (파일 선택 전용)</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/coders/context_coder.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/coders/context_coder.py</code></p>
 <pre><code class="language-python">class ContextCoder(Coder):
     """파일 편집 없이, 어떤 파일이 편집 대상인지만 식별"""
     edit_format = "context"
@@ -26204,7 +26204,7 @@ max_reflections = 3
 <hr>
 <h2>11. Linting / Auto-fix</h2>
 <h3>11.1 Linter 클래스</h3>
-<p><strong>파일 경로:</strong> <code>/Users/jun/Developer/codex/110_aider/110_aider/linter.py</code></p>
+<p><strong>파일 경로:</strong> <code>110_aider/110_aider/linter.py</code></p>
 <pre><code class="language-mermaid">graph TD
     A[편집 완료] --> B{auto_lint 활성?}
     B -->|Yes| C[변경된 파일 lint]
@@ -26297,72 +26297,72 @@ self.commit_language = commit_language # 커밋 메시지 언어
 </thead>
 <tbody>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/repo.py</code></td>
+<td><code>110_aider/110_aider/repo.py</code></td>
 <td>Git 통합 핵심</td>
 <td>623</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/repomap.py</code></td>
+<td><code>110_aider/110_aider/repomap.py</code></td>
 <td>Tree-sitter+PageRank 코드맵</td>
 <td>868</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/models.py</code></td>
+<td><code>110_aider/110_aider/models.py</code></td>
 <td>모델 라우팅</td>
 <td>1100+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/coders/base_coder.py</code></td>
+<td><code>110_aider/110_aider/coders/base_coder.py</code></td>
 <td>Coder 기반 클래스</td>
 <td>1660+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/coders/editblock_coder.py</code></td>
+<td><code>110_aider/110_aider/coders/editblock_coder.py</code></td>
 <td>EditBlock 전략</td>
 <td>600+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/coders/architect_coder.py</code></td>
+<td><code>110_aider/110_aider/coders/architect_coder.py</code></td>
 <td>Architect 전략</td>
 <td>49</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/coders/patch_coder.py</code></td>
+<td><code>110_aider/110_aider/coders/patch_coder.py</code></td>
 <td>Patch 전략</td>
 <td>400+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/exceptions.py</code></td>
+<td><code>110_aider/110_aider/exceptions.py</code></td>
 <td>에러 분류</td>
 <td>114</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/analytics.py</code></td>
+<td><code>110_aider/110_aider/analytics.py</code></td>
 <td>텔레메트리</td>
 <td>259</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/voice.py</code></td>
+<td><code>110_aider/110_aider/voice.py</code></td>
 <td>음성 입력</td>
 <td>188</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/linter.py</code></td>
+<td><code>110_aider/110_aider/linter.py</code></td>
 <td>Lint 통합</td>
 <td>199</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/llm.py</code></td>
+<td><code>110_aider/110_aider/llm.py</code></td>
 <td>LiteLLM 지연로딩</td>
 <td>48</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/onboarding.py</code></td>
+<td><code>110_aider/110_aider/onboarding.py</code></td>
 <td>OAuth/키 관리</td>
 <td>250+</td>
 </tr>
 <tr>
-<td><code>/Users/jun/Developer/codex/110_aider/110_aider/resources/model-settings.yml</code></td>
+<td><code>110_aider/110_aider/resources/model-settings.yml</code></td>
 <td>모델별 설정</td>
 <td>2,955</td>
 </tr>
@@ -27616,7 +27616,7 @@ playwright==1.58.0
 </tbody>
 </table>
 23:["$","$L28","20-axis-14-web-search",{"id":"20-axis-14-web-search","order":31,"tier":"deep","title":"Axis 14: Web search","description":"014_web-search/14_ai_web-search.md","lang":"en","badge":"AXIS","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$48"}}]}]
-49:T615d,<h2>Overview</h2>
+49:T5ef0,<h2>Overview</h2>
 <p><strong>Reverse engineering (015)</strong> — developer-depth section from the codex corpus. Structural highlights extracted from the analysis:</p>
 <ul>
 <li>이 축은 설치 help parity 문서의 다음 단계다. 기존 <code>00</code>~<code>14</code> 축은 주로 help/config/local-doc 표면을 비교했고, 이 축은 설치된 바이너리와 번들에서 복원 가능한 구조를 따로 기록한다.</li>
@@ -27627,7 +27627,7 @@ playwright==1.58.0
 <li>| binary-string | native binary <code>strings</code>, <code>file</code>, <code>otool</code>, <code>codesign</code>, <code>nm</code> | crate/package/protocol/tool/evaluator 이름이 embedded되어 있다 |</li>
 <li>| runtime-trace | synthetic project에서 실제 명령을 실행한 결과 | 동작 semantics, precedence, permission enforcement를 확인했다 |</li>
 <li>| private-artifact-name | 비공개 상태 파일의 경로/개수만 관찰 | artifact가 존재한다. 내용/schema 주장은 금지 |</li>
-<li><code>/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
+<li><code>015_reverse-engineering/33_source_deobfuscation_inventory.md</code> further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native</li>
 <li>auth/token/cookie/credential/login data</li>
 <li>raw transcript, chat history, conversation DB/PB</li>
 <li>logs and terminal captures</li>
@@ -27673,7 +27673,7 @@ This axis is the next step in the installation help parity document. The existin
 | runtime-trace | Results of executing actual commands in synthetic project | Checked operational semantics, precedence, and permission enforcement |
 | private-artifact-name | Observe only the path/count of private state files | An artifact exists. Content/schema claims are prohibited |
 
-`/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
+`015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
 
 ## Hard Boundary
 
@@ -27693,7 +27693,7 @@ For private artifacts, only “exists” is used. Field/schema/content assertion
 
 Single source of truth for pinned `ay`/`cr`/`gr`/`ki` binaries:
 
-- `/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md`
+- `015_reverse-engineering/36_installed_cli_version_manifest.md`
 
 WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level definitions above.
 
@@ -27703,7 +27703,7 @@ WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level defin
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `ay` | `/Users/jun/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
+| `ay` | `~/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
 | `cr` | `cursor-agent` `2026.06.26-7079533` | bundle string literals, help; `37`, `39_cr_automations_help_trace.md` |
 | `gr` | `grok-0.2.67-macos-aarch64` | inspect JSON, strings; `40_gr_0267_inspect_refresh.md` |
 | `ki` | `Kiro CLI.app` 2.5.0 | help surfaces; `41_ki_help_surface_trace.md` |
@@ -27712,10 +27712,10 @@ Newly reversed on 2026-05-31 pass (historical baseline):
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `gr` | `/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64`, `/Users/jun/.grok/bundled`, `/Users/jun/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
-| `cr` | `/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
-| `ki` | `/Applications/Kiro CLI.app`, `/Users/jun/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
-| `ay` | `/Users/jun/.local/bin/agy`, `/Users/jun/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
+| `gr` | `~/.grok/downloads/grok-0.2.14-macos-aarch64`, `~/.grok/bundled`, `~/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
+| `cr` | `~/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
+| `ki` | `/Applications/Kiro CLI.app`, `~/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
+| `ay` | `~/.local/bin/agy`, `~/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
 
 ## Reading Rule For Existing Docs
 
@@ -27733,17 +27733,17 @@ When a page states runtime semantics from config/cache observation, this axis up
 
 # Harness Source Matrix
 
-This matrix covers source repositories, not installed binary reverse targets. It should be read beside /Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md.
+This matrix covers source repositories, not installed binary reverse targets. It should be read beside 000/00_harness_synthesis_addendum.md.
 
 ## Evidence Class
 
 | Target | Evidence class | Current boundary |
 | --- | --- | --- |
-| /Users/jun/Developer/codex/hermes-agent | Source code, README, package metadata, existing dimensional shards | Full source architecture observed; installed/runtime credentialed trace not performed in this pass |
-| /Users/jun/Developer/codex/oh-my-claudecode | Source code, Claude plugin manifest, npm metadata, hooks/MCP/team runtime files | Host-dependent on Claude Code and Claude Agent SDK |
-| /Users/jun/Developer/codex/oh-my-codex | Source code, npm metadata, Rust workspace, Codex plugin manifest, first-party MCP specs | Host-dependent on Codex CLI |
-| /Users/jun/Developer/codex/oh-my-openagent | Source code, npm metadata, OpenCode plugin entry, Codex Light plugin manifest, docs | Host-dependent on OpenCode for Ultimate; Codex Light intentionally reduced |
-| /Users/jun/Developer/codex/121_openai-codex/codex-rs | Full Rust workspace (113 crates), `Cargo.toml` members, `core/` session loop | Peer-level source runtime; see `000_overview/00_co_crate_graph.md` |
+| hermes-agent | Source code, README, package metadata, existing dimensional shards | Full source architecture observed; installed/runtime credentialed trace not performed in this pass |
+| oh-my-claudecode | Source code, Claude plugin manifest, npm metadata, hooks/MCP/team runtime files | Host-dependent on Claude Code and Claude Agent SDK |
+| oh-my-codex | Source code, npm metadata, Rust workspace, Codex plugin manifest, first-party MCP specs | Host-dependent on Codex CLI |
+| oh-my-openagent | Source code, npm metadata, OpenCode plugin entry, Codex Light plugin manifest, docs | Host-dependent on OpenCode for Ultimate; Codex Light intentionally reduced |
+| 121_openai-codex/codex-rs | Full Rust workspace (113 crates), `Cargo.toml` members, `core/` session loop | Peer-level source runtime; see `000_overview/00_co_crate_graph.md` |
 
 ## Codex (`co`) — codex-rs quick matrix
 
@@ -27780,7 +27780,7 @@ Read beside `015_reverse-engineering/36_installed_cli_version_manifest.md` and `
 
 | Prefix | Pinned install | RE hub | Trace index (2026-06-27) |
 | --- | --- | --- | --- |
-| `ay` | `/Users/jun/.local/bin/agy` 1.0.12 | `15_ay_reverse.md` | `31`, `32`, `22`, **`38`** |
+| `ay` | `~/.local/bin/agy` 1.0.12 | `15_ay_reverse.md` | `31`, `32`, `22`, **`38`** |
 | `cr` | `cursor-agent` `2026.06.26-7079533` | `15_cr_reverse.md` | `37`, `39`, **`42`**, `29`, `25` (May baseline) |
 | `gr` | `grok` 0.2.67 | `15_gr_reverse.md` | `23`, **`40`**, `26`–`28`, `30` |
 | `ki` | `Kiro CLI.app` 2.5.0 | `15_ki_reverse.md` | `24`, **`41`** |
@@ -27808,7 +27808,7 @@ Paths under `015_reverse-engineering/` unless noted.
 | runtime-trace | synthetic project에서 실제 명령을 실행한 결과 | 동작 semantics, precedence, permission enforcement를 확인했다 |
 | private-artifact-name | 비공개 상태 파일의 경로/개수만 관찰 | artifact가 존재한다. 내용/schema 주장은 금지 |
 
-`/Users/jun/Developer/codex/015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
+`015_reverse-engineering/33_source_deobfuscation_inventory.md` further separates source-like recovery levels. In this corpus, Cursor reaches preserved module-key recovery, while Grok/Kiro/AGY mostly expose native source-path, handler, protobuf, and runtime-trace evidence. Do not call this "full source recovered" unless a real source map or readable source archive is present.
 
 ## Hard Boundary
 
@@ -27828,7 +27828,7 @@ Paths under `015_reverse-engineering/` unless noted.
 
 Single source of truth for pinned `ay`/`cr`/`gr`/`ki` binaries:
 
-- `/Users/jun/Developer/codex/015_reverse-engineering/36_installed_cli_version_manifest.md`
+- `015_reverse-engineering/36_installed_cli_version_manifest.md`
 
 WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level definitions above.
 
@@ -27838,7 +27838,7 @@ WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level defin
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `ay` | `/Users/jun/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
+| `ay` | `~/.local/bin/agy` v1.0.12+ | help, changelog, strings; `38_ay_project_flags_trace.md` |
 | `cr` | `cursor-agent` `2026.06.26-7079533` | bundle string literals, help; `37`, `39_cr_automations_help_trace.md` |
 | `gr` | `grok-0.2.67-macos-aarch64` | inspect JSON, strings; `40_gr_0267_inspect_refresh.md` |
 | `ki` | `Kiro CLI.app` 2.5.0 | help surfaces; `41_ki_help_surface_trace.md` |
@@ -27847,10 +27847,10 @@ WP5 trace shards (`38`–`41`) extend hubs without changing evidence-level defin
 
 | Prefix | Target | Evidence kind |
 | --- | --- | --- |
-| `gr` | `/Users/jun/.grok/downloads/grok-0.2.14-macos-aarch64`, `/Users/jun/.grok/bundled`, `/Users/jun/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
-| `cr` | `/Users/jun/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
-| `ki` | `/Applications/Kiro CLI.app`, `/Users/jun/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
-| `ay` | `/Users/jun/.local/bin/agy`, `/Users/jun/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
+| `gr` | `~/.grok/downloads/grok-0.2.14-macos-aarch64`, `~/.grok/bundled`, `~/.grok/docs/user-guide` | Rust Mach-O strings, crate paths, ACP methods, bundled agents/roles/personas/skills |
+| `cr` | `~/.local/share/cursor-agent/versions/2026.05.28-418efe5` | Webpack module keys, route extraction, proto module names, native helper inventory |
+| `ki` | `/Applications/Kiro CLI.app`, `~/.local/bin/kiro-cli*` | signed universal Mach-O binaries, Rust source-path strings, WebKit resources, dashboard/autocomplete assets |
+| `ay` | `~/.local/bin/agy`, `~/.gemini/antigravity-cli` | Go/native strings, protobuf trajectory/cascade names, local cache/config metadata, helper binaries |
 
 ## Reading Rule For Existing Docs
 
@@ -27868,17 +27868,17 @@ When a page states runtime semantics from config/cache observation, this axis up
 
 # Harness Source Matrix
 
-This matrix covers source repositories, not installed binary reverse targets. It should be read beside /Users/jun/Developer/codex/000/00_harness_synthesis_addendum.md.
+This matrix covers source repositories, not installed binary reverse targets. It should be read beside 000/00_harness_synthesis_addendum.md.
 
 ## Evidence Class
 
 | Target | Evidence class | Current boundary |
 | --- | --- | --- |
-| /Users/jun/Developer/codex/hermes-agent | Source code, README, package metadata, existing dimensional shards | Full source architecture observed; installed/runtime credentialed trace not performed in this pass |
-| /Users/jun/Developer/codex/oh-my-claudecode | Source code, Claude plugin manifest, npm metadata, hooks/MCP/team runtime files | Host-dependent on Claude Code and Claude Agent SDK |
-| /Users/jun/Developer/codex/oh-my-codex | Source code, npm metadata, Rust workspace, Codex plugin manifest, first-party MCP specs | Host-dependent on Codex CLI |
-| /Users/jun/Developer/codex/oh-my-openagent | Source code, npm metadata, OpenCode plugin entry, Codex Light plugin manifest, docs | Host-dependent on OpenCode for Ultimate; Codex Light intentionally reduced |
-| /Users/jun/Developer/codex/121_openai-codex/codex-rs | Full Rust workspace (113 crates), `Cargo.toml` members, `core/` session loop | Peer-level source runtime; see `000_overview/00_co_crate_graph.md` |
+| hermes-agent | Source code, README, package metadata, existing dimensional shards | Full source architecture observed; installed/runtime credentialed trace not performed in this pass |
+| oh-my-claudecode | Source code, Claude plugin manifest, npm metadata, hooks/MCP/team runtime files | Host-dependent on Claude Code and Claude Agent SDK |
+| oh-my-codex | Source code, npm metadata, Rust workspace, Codex plugin manifest, first-party MCP specs | Host-dependent on Codex CLI |
+| oh-my-openagent | Source code, npm metadata, OpenCode plugin entry, Codex Light plugin manifest, docs | Host-dependent on OpenCode for Ultimate; Codex Light intentionally reduced |
+| 121_openai-codex/codex-rs | Full Rust workspace (113 crates), `Cargo.toml` members, `core/` session loop | Peer-level source runtime; see `000_overview/00_co_crate_graph.md` |
 
 ## Codex (`co`) — codex-rs quick matrix
 
@@ -27915,7 +27915,7 @@ Read beside `015_reverse-engineering/36_installed_cli_version_manifest.md` and `
 
 | Prefix | Pinned install | RE hub | Trace index (2026-06-27) |
 | --- | --- | --- | --- |
-| `ay` | `/Users/jun/.local/bin/agy` 1.0.12 | `15_ay_reverse.md` | `31`, `32`, `22`, **`38`** |
+| `ay` | `~/.local/bin/agy` 1.0.12 | `15_ay_reverse.md` | `31`, `32`, `22`, **`38`** |
 | `cr` | `cursor-agent` `2026.06.26-7079533` | `15_cr_reverse.md` | `37`, `39`, **`42`**, `29`, `25` (May baseline) |
 | `gr` | `grok` 0.2.67 | `15_gr_reverse.md` | `23`, **`40`**, `26`–`28`, `30` |
 | `ki` | `Kiro CLI.app` 2.5.0 | `15_ki_reverse.md` | `24`, **`41`** |
