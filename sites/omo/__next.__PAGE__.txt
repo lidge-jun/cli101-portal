@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[72949,["/sites/omo/_next/static/chunks/32d46ea903eacb12.js","/sites/omo/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
+3:I[72949,["/cli101-portal/sites/omo/_next/static/chunks/32d46ea903eacb12.js","/cli101-portal/sites/omo/_next/static/chunks/e4a0bdf2f715f2cc.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"oiz5y3EDRTM4EhWQ15Oir","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"QqQk_1aRYlygIeZ5nzye2","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/ko;307;"}

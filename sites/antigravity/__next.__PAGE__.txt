@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[59374,["/sites/antigravity/_next/static/chunks/c835ef42487ce2c8.js","/sites/antigravity/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
+3:I[59374,["/cli101-portal/sites/antigravity/_next/static/chunks/c835ef42487ce2c8.js","/cli101-portal/sites/antigravity/_next/static/chunks/f19e4129d752cb5c.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"dgIQPC4vlCcc3Li1XETzE","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"p5KVGiA4UNJ9BGN7g6SrZ","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/ko;307;"}

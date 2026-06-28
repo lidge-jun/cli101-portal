@@ -40,7 +40,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   output: "export",
-  basePath: "/sites/$slug",
+  basePath: "/cli101-portal/sites/$slug",
+  trailingSlash: true,
   images: { unoptimized: true },
 };
 

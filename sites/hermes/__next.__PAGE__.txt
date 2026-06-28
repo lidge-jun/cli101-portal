@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[73920,["/sites/hermes/_next/static/chunks/8defe090bc41a910.js","/sites/hermes/_next/static/chunks/9cbfb6d67b626dff.js"],"OutletBoundary"]
+3:I[73920,["/cli101-portal/sites/hermes/_next/static/chunks/8defe090bc41a910.js","/cli101-portal/sites/hermes/_next/static/chunks/9cbfb6d67b626dff.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"cNbfyKheWzjFcqZmbpx4q","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"IZnWcM-xBfbahCSitPxFl","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/ko;307;"}
